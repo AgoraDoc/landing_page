@@ -337,7 +337,7 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "https://rtcdeveloper.com/",
+          link: "https://dev.agora.io/",
           title: "开发者社区",
         },
         {
@@ -953,7 +953,7 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "https://rtcdeveloper.com/",
+          link: "/en/Agora%20Platform/community",
           title: "Developer Community",
         },
         {
@@ -2266,15 +2266,15 @@ const landingPageData = {
       overview: {
         RESTful: [
           {
-            link: "https://docs.agora.io/cn/cloud-recording/product_cloud_recording?platform=RESTful",
+            link: "/cn/cloud-recording/product_cloud_recording?platform=RESTful",
             title: "产品简介",
           },
           {
-            link: "https://docs.agora.io/cn/cloud-recording/release_cloud_recording?platform=RESTful",
+            link: "/cn/cloud-recording/release_cloud_recording?platform=RESTful",
             title: "更新历史",
           },
           {
-            link: "https://docs.agora.io/cn/cloud-recording/billing_cloud_recording?platform=RESTful",
+            link: "/cn/cloud-recording/billing_cloud_recording?platform=RESTful",
             title: "计费说明",
           },
         ],
@@ -2289,7 +2289,7 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "https://rtcdeveloper.com/",
+          link: "https://dev.agora.io/",
           title: "开发者社区",
         },
         {
@@ -2299,14 +2299,14 @@ const landingPageData = {
       ],
       quickStart: {
         RESTful: {
-          link: "https://docs.agora.io/cn/cloud-recording/cloud_recording_rest?platform=RESTful",
+          link: "/cn/cloud-recording/cloud_recording_rest?platform=RESTful",
           title: "快速开始",
           desc: "本文介绍如何使用云端录制 RESTful API 录制频道内的音视频流。",
         },
       },
       api: {
         RESTful: {
-          link: "https://docs.agora.io/cn/cloud-recording/api-ref",
+          link: "/cn/cloud-recording/api-ref?platform=RESTful",
           title: "API 文档",
           desc: "本文提供云端录制 RESTful API 的详细信息。",
         },
@@ -2314,17 +2314,17 @@ const landingPageData = {
       articles: {
         RESTful: [
           {
-            link: "https://docs.agora.io/cn/Interactive%20Broadcast/token_server",
+            link: "/cn/Interactive%20Broadcast/token_server",
             title: "生成 Token",
             desc: "本文展示如何使用 Agora 提供的代码在服务端生成 Token。",
           },
           {
-            link: "https://docs.agora.io/cn/cloud-recording/cloud_recording_individual_mode?platform=RESTful",
+            link: "/cn/cloud-recording/cloud_recording_individual_mode?platform=RESTful",
             title: "单流录制",
             desc: "本文介绍如何通过设置 RESTful API 参数在单流模式下进行录制。",
           },
           {
-            link: "https://docs.agora.io/cn/cloud-recording/cloud_recording_composite_mode?platform=RESTful",
+            link: "/cn/cloud-recording/cloud_recording_composite_mode?platform=RESTful",
             title: "合流录制",
             desc: "本文介绍如何通过设置 RESTful API 参数在合流模式下进行录制。",
           },
@@ -2336,15 +2336,15 @@ const landingPageData = {
       overview: {
         RESTful: [
           {
-            link: "https://docs.agora.io/en/cloud-recording/product_cloud_recording?platform=RESTful",
+            link: "/en/cloud-recording/product_cloud_recording?platform=RESTful",
             title: "Introduction",
           },
           {
-            link: "https://docs.agora.io/en/cloud-recording/release_cloud_recording?platform=RESTful",
+            link: "/en/cloud-recording/release_cloud_recording?platform=RESTful",
             title: "Changelog",
           },
           {
-            link: "https://docs.agora.io/en/cloud-recording/billing_cloud_recording?platform=RESTful",
+            link: "/en/cloud-recording/billing_cloud_recording?platform=RESTful",
             title: "Billing",
           },
         ],
@@ -2369,14 +2369,14 @@ const landingPageData = {
       ],
       quickStart: {
         RESTful: {
-          link: "https://docs.agora.io/en/cloud-recording/cloud_recording_rest?platform=RESTful",
+          link: "/en/cloud-recording/cloud_recording_rest?platform=RESTful",
           title: "Quickstart",
           desc: "Use this guide to quickly get started with recording audio and video through RESTful APIs.",
         },
       },
       api: {
         RESTful: {
-          link: "https://docs.agora.io/en/cloud-recording/api-ref",
+          link: "/en/cloud-recording/api-ref",
           title: "API Reference",
           desc: "Detailed help for the Cloud Recording RESTful APIs.",
         },
@@ -2384,17 +2384,17 @@ const landingPageData = {
       articles: {
         RESTful: [
           {
-            link: "https://docs.agora.io/en/Interactive%20Broadcast/token_server",
+            link: "/en/Interactive%20Broadcast/token_server",
             title: "Generate a Token",
             desc: "This article introduces how to generate a token on your server using the code provided by Agora.",
           },
           {
-            link: "https://docs.agora.io/en/cloud-recording/cloud_recording_individual_mode?platform=RESTful",
+            link: "/en/cloud-recording/cloud_recording_individual_mode?platform=RESTful",
             title: "Individual Recording",
             desc: "This article explains how to record a call in individual recording mode by using the RESTful API.",
           },
           {
-            link: "https://docs.agora.io/en/cloud-recording/cloud_recording_composite_mode?platform=RESTful",
+            link: "/en/cloud-recording/cloud_recording_composite_mode?platform=RESTful",
             title: "Composite Recording",
             desc: "This article explains how to record a call in composite recording mode by using the RESTful API.",
           },
@@ -2800,22 +2800,22 @@ const landingPageData = {
       overview: {
         RESTful: [
           {
-            link: "https://docs.agora.io/cn/Aliyun%20Audio%20Moderation/product_ali_audio?platform=RESTful",
+            link: "/cn/Aliyun%20Audio%20Moderation/product_ali_audio?platform=RESTful",
             title: "产品简介",
           },
           {
-            link: "https://docs.agora.io/cn/Aliyun%20Audio%20Moderation/release_ali_audio?platform=RESTful",
+            link: "/cn/Aliyun%20Audio%20Moderation/release_ali_audio?platform=RESTful",
             title: "更新历史",
           },
           {
-            link: "https://docs.agora.io/cn/Aliyun%20Audio%20Moderation/billing_ali_audio?platform=RESTful",
+            link: "/cn/Aliyun%20Audio%20Moderation/billing_ali_audio?platform=RESTful",
             title: "计费说明",
           },
         ],
       },
       contact: [
         {
-          link: "https://rtcdeveloper.com/",
+          link: "https://dev.agora.io/",
           title: "开发者社区",
         },
         {
@@ -2825,14 +2825,14 @@ const landingPageData = {
       ],
       quickStart: {
         RESTful: {
-          link: "https://docs.agora.io/cn/Aliyun%20Audio%20Moderation/quickstart_ali_audio?platform=RESTful",
+          link: "/cn/Aliyun%20Audio%20Moderation/quickstart_ali_audio?platform=RESTful",
           title: "快速开始",
           desc: "本文介绍如何使用阿里智能语音审核 RESTful API 对频道内的音频进行实时审核。",
         },
       },
       api: {
         RESTful: {
-          link: "https://docs.agora.io/cn/Aliyun%20Audio%20Moderation/api-ref",
+          link: "/cn/Aliyun%20Audio%20Moderation/api-ref",
           title: "API 文档",
           desc: "本文提供阿里智能语音审核 RESTful API 的详细信息。",
         },
@@ -2840,7 +2840,7 @@ const landingPageData = {
       articles: {
         RESTful: [
           {
-            link: "https://docs.agora.io/cn/Aliyun%20Audio%20Moderation/best_practice_ali_audio?platform=RESTful",
+            link: "/cn/Aliyun%20Audio%20Moderation/best_practice_ali_audio?platform=RESTful",
             title: "集成最佳实践",
             desc: "本文提供集成过程中的注意事项，以保障审核服务的可靠性。",
           },
@@ -2854,22 +2854,22 @@ const landingPageData = {
       overview: {
         RESTful: [
           {
-            link: "https://docs.agora.io/cn/Kingsoft%20Audio%20Moderation/product_kingsoft_audio?platform=RESTful",
+            link: "/cn/Kingsoft%20Audio%20Moderation/product_kingsoft_audio?platform=RESTful",
             title: "产品简介",
           },
           {
-            link: "https://docs.agora.io/cn/Kingsoft%20Audio%20Moderation/release_kingsoft_audio?platform=RESTful",
+            link: "/cn/Kingsoft%20Audio%20Moderation/release_kingsoft_audio?platform=RESTful",
             title: "更新历史",
           },
           {
-            link: "https://docs.agora.io/cn/Kingsoft%20Audio%20Moderation/billing_kingsoft_audio?platform=RESTful",
+            link: "/cn/Kingsoft%20Audio%20Moderation/billing_kingsoft_audio?platform=RESTful",
             title: "计费说明",
           },
         ],
       },
       contact: [
         {
-          link: "https://rtcdeveloper.com/",
+          link: "https://dev.agora.io/",
           title: "开发者社区",
         },
         {
@@ -2879,14 +2879,14 @@ const landingPageData = {
       ],
       quickStart: {
         RESTful: {
-          link: "https://docs.agora.io/cn/Kingsoft%20Audio%20Moderation/quickstart_kingsoft_audio/?platform=RESTful",
+          link: "/cn/Kingsoft%20Audio%20Moderation/quickstart_kingsoft_audio/?platform=RESTful",
           title: "快速开始",
           desc: "本文介绍如何使用金山智能语音审核 RESTful API 对频道内的音频进行实时审核。",
         },
       },
       api: {
         RESTful: {
-          link: "https://docs.agora.io/cn/Kingsoft%20Audio%20Moderation/api-ref",
+          link: "/cn/Kingsoft%20Audio%20Moderation/api-ref",
           title: "API 文档",
           desc: "本文提供金山智能语音审核 RESTful API 的详细信息。",
         },
@@ -2894,7 +2894,7 @@ const landingPageData = {
       articles: {
         RESTful: [
           {
-            link: "https://docs.agora.io/cn/Kingsoft%20Audio%20Moderation/best_practice_kingsoft_audio?platform=RESTful",
+            link: "/cn/Kingsoft%20Audio%20Moderation/best_practice_kingsoft_audio?platform=RESTful",
             title: "集成最佳实践",
             desc: "本文提供集成过程中的注意事项，以保障审核服务的可靠性。",
           },
@@ -2908,20 +2908,20 @@ const landingPageData = {
       overview: {
         Android: [
           {
-            link: "https://docs.agora.io/cn/Volcengine%20AI%20Vision/product_libeffect?platform=Android",
+            link: "/cn/Volcengine%20AI%20Vision/product_libeffect?platform=Android",
             title: "产品简介",
           },
         ],
         iOS: [
           {
-            link: "https://docs.agora.io/cn/Volcengine%20AI%20Vision/product_libeffect?platform=iOS",
+            link: "/cn/Volcengine%20AI%20Vision/product_libeffect?platform=iOS",
             title: "产品简介",
           },
         ],
       },
       contact: [
         {
-          link: "https://rtcdeveloper.com/",
+          link: "https://dev.agora.io/",
           title: "开发者社区",
         },
         {
