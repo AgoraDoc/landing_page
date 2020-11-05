@@ -527,7 +527,7 @@ const landingPageData = {
     },
     en: {
       desc:
-        "Agora Voice Call enables easy and convenient one-to-one or one-to-many voice-only calls, and all users can talk to each other freely.",
+        "Agora Voice Call enables easy and convenient one-to-one or one-to-many voice-only calls, and all users can talk to each other freely. With the Agora RTC SDK, you can implement a voice call. With the server RESTful API, you can manage projects and channels.",
       overview: {
         Android: [
           {
