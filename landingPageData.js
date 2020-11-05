@@ -337,7 +337,7 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "https://rtcdeveloper.com/",
+          link: "https://dev.agora.io/",
           title: "开发者社区",
         },
         {
@@ -953,7 +953,7 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "https://rtcdeveloper.com/",
+          link: "https://dev.agora.io/",
           title: "Developer Community",
         },
         {
@@ -2401,7 +2401,7 @@ const landingPageData = {
       ],
       quickStart: {
         Linux: {
-          link: "/cn/Recording/recording_integrate_cpp?platform=Linux%20CPP",
+          link: "/cn/Recording/recording_integrate_cpp?platform=Linux",
           title: "快速开始",
           desc: "本文介绍如何集成录制 SDK 并进行录制。",
         },
@@ -2475,7 +2475,7 @@ const landingPageData = {
       ],
       quickStart: {
         Linux: {
-          link: "/en/Recording/recording_integrate_cpp?platform=Linux%20CPP",
+          link: "/en/Recording/recording_integrate_cpp?platform=Linux",
           title: "Quickstart",
           desc: "Use this guide to integrate the Recording SDK and start recording audio and video.",
         },
@@ -3635,7 +3635,7 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "https://rtcdeveloper.com/",
+          link: "https://dev.agora.io/",
           title: "开发者社区",
         },
         {
@@ -3831,7 +3831,7 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "https://rtcdeveloper.com/",
+          link: "https://dev.agora.io/",
           title: "开发者社区",
         },
         {
@@ -4027,7 +4027,7 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "https://rtcdeveloper.com/",
+          link: "https://dev.agora.io/",
           title: "开发者社区",
         },
         {
@@ -4223,7 +4223,7 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "https://rtcdeveloper.com/",
+          link: "https://dev.agora.io/",
           title: "开发者社区",
         },
         {
@@ -4419,7 +4419,7 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "https://rtcdeveloper.com/",
+          link: "https://dev.agora.io/",
           title: "开发者社区",
         },
         {
