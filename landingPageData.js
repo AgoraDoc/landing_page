@@ -2687,7 +2687,7 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "https://rtcdeveloper.com/",
+          link: "https://dev.agora.io/",
           title: "开发者社区",
         },
         {
