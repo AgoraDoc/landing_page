@@ -251,7 +251,7 @@ const landingPageData = {
         ],
         ReactNative: [
           {
-            link: "/cn/Voice/downloads?platform=ReactNative",
+            link: "/cn/Voice/downloads?platform=React%20Native",
             title: "SDK",
           },
           {
@@ -261,7 +261,7 @@ const landingPageData = {
         ],
         "Cocos Creator": [
           {
-            link: "/cn/Voice/downloads?platform=Cocos Creator",
+            link: "/cn/Voice/downloads?platform=Cocos%20Creator",
             title: "SDK",
           },
           {
@@ -406,7 +406,7 @@ const landingPageData = {
       articles: {
         Android: [
           {
-            link: "/cn/Voice/token_server?platform=All%20Platforms",
+            link: "/cn/Voice/token_server?platform=Android",
             title: "生成 Token",
             desc: "本文介绍如何使用 Agora 提供的代码在服务端生成 Token。",
           },
@@ -423,7 +423,7 @@ const landingPageData = {
         ],
         iOS: [
           {
-            link: "/cn/Voice/token_server?platform=All%20Platforms",
+            link: "/cn/Voice/token_server?platform=iOS",
             title: "生成 Token",
             desc: "本文介绍如何使用 Agora 提供的代码在服务端生成 Token。",
           },
@@ -440,7 +440,7 @@ const landingPageData = {
         ],
         macOS: [
           {
-            link: "/cn/Voice/token_server?platform=All%20Platforms",
+            link: "/cn/Voice/token_server?platform=macOS",
             title: "生成 Token",
             desc: "本文介绍如何使用 Agora 提供的代码在服务端生成 Token。",
           },
@@ -457,7 +457,7 @@ const landingPageData = {
         ],
         Web: [
           {
-            link: "/cn/Voice/token_server?platform=All%20Platforms",
+            link: "/cn/Voice/token_server?platform=Web",
             title: "生成 Token",
             desc: "本文介绍如何使用 Agora 提供的代码在服务端生成 Token。",
           },
@@ -474,7 +474,7 @@ const landingPageData = {
         ],
         微信小程序: [
           {
-            link: "/cn/Voice/token_server?platform=All%20Platforms",
+            link: "/cn/Voice/token_server?platform=微信小程序",
             title: "生成 Token",
             desc: "本文介绍如何使用 Agora 提供的代码在服务端生成 Token。",
           },
@@ -484,14 +484,14 @@ const landingPageData = {
             desc: "本文介绍在使用小程序 SDK 过程中的常见问题及解决方案。",
           },
           {
-            link: "/cn/Voice/error_rtc?platform=All%20Platforms",
+            link: "/cn/Voice/error_rtc?platform=微信小程序",
             title: "错误码和警告码",
             desc: "本文介绍在调用 Agora API 过程中，SDK 可能会返回的错误码和警告码。",
           },
         ],
         Windows: [
           {
-            link: "/cn/Voice/token_server?platform=All%20Platforms",
+            link: "/cn/Voice/token_server?platform=Windows",
             title: "生成 Token",
             desc: "本文介绍如何使用 Agora 提供的代码在服务端生成 Token。",
           },
@@ -508,7 +508,7 @@ const landingPageData = {
         ],
         Unity: [
           {
-            link: "/cn/Voice/token_server?platform=All%20Platforms",
+            link: "/cn/Voice/token_server?platform=Unity",
             title: "生成 Token",
             desc: "本文介绍如何使用 Agora 提供的代码在服务端生成 Token。",
           },
@@ -712,16 +712,6 @@ const landingPageData = {
             title: "Code Samples",
           },
         ],
-        微信小程序: [
-          {
-            link: "/en/Voice/downloads?platform=微信小程序",
-            title: "SDK",
-          },
-          {
-            link: "https://github.com/AgoraIO/Agora-Miniapp-Tutorial",
-            title: "Code Samples",
-          },
-        ],
         Windows: [
           {
             link: "/en/Voice/downloads?platform=Windows",
@@ -764,7 +754,7 @@ const landingPageData = {
         ],
         ReactNative: [
           {
-            link: "/en/Voice/downloads?platform=ReactNative",
+            link: "/en/Voice/downloads?platform=React%20Native",
             title: "SDK",
           },
           {
@@ -906,7 +896,7 @@ const landingPageData = {
       articles: {
         Android: [
           {
-            link: "/en/Voice/token_server?platform=All%20Platforms",
+            link: "/en/Voice/token_server?platform=Android",
             title: "Generate a Token from Your Server",
             desc: "This article introduces how to generate a token on your server using the code provided by Agora.",
           },
@@ -925,7 +915,7 @@ const landingPageData = {
         ],
         iOS: [
           {
-            link: "/en/Voice/token_server?platform=All%20Platforms",
+            link: "/en/Voice/token_server?platform=iOS",
             title: "Generate a Token from Your Server",
             desc:
               "This article introduces how to generate a token on your server using the code provided by Agora.",
@@ -945,7 +935,7 @@ const landingPageData = {
         ],
         macOS: [
           {
-            link: "/en/Voice/token_server?platform=All%20Platforms",
+            link: "/en/Voice/token_server?platform=macOS",
             title: "Generate a Token from Your Server",
             desc:
               "This article introduces how to generate a token on your server using the code provided by Agora.",
@@ -965,7 +955,7 @@ const landingPageData = {
         ],
         Web: [
           {
-            link: "/en/Voice/token_server?platform=All%20Platforms",
+            link: "/en/Voice/token_server?platform=Web",
             title: "Generate a Token from Your Server",
             desc:
               "This article introduces how to generate a token on your server using the code provided by Agora.",
@@ -985,7 +975,7 @@ const landingPageData = {
         ],
         Windows: [
           {
-            link: "/en/Voice/token_server?platform=All%20Platforms",
+            link: "/en/Voice/token_server?platform=Windows",
             title: "Generate a Token from Your Server",
             desc:
               "This article introduces how to generate a token on your server using the code provided by Agora.",
@@ -1005,14 +995,14 @@ const landingPageData = {
         ],
         Unity: [
           {
-            link: "/en/Voice/token_server?platform=All%20Platforms",
+            link: "/en/Voice/token_server?platform=Unity",
             title: "Generate a Token from Your Server",
             desc:
               "This article introduces how to generate a token on your server using the code provided by Agora.",
           },
           {
             link: "/en/Voice/raw_data_audio_unity?platform=Unity",
-            title: "Raw audio data",
+            title: "Raw Audio Data",
             desc:
               "This article introduces how to get the raw audio data.",
           },
@@ -2298,49 +2288,324 @@ const landingPageData = {
   },
   "Agora Analytics": {
     cn: {
-      desc: "",
+      desc: "Agora 水晶球是 Agora 为开发者提供的全周期通话质量监测、回溯和分析的解决方案，致力于帮助开发者及时发现问题、定位原因，并解决问题。",
       overview: {
         Android: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Agora%20Analytics/product_agora_analytics",
+            title: "产品概述",
           },
         ],
-      },
-      downloads: {
-        Android: [
+        iOS: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Agora%20Analytics/product_agora_analytics",
+            title: "产品概述",
+          },
+        ],
+        macOS: [
+          {
+            link: "/cn/Agora%20Analytics/product_agora_analytics",
+            title: "产品概述",
+          },
+        ],
+        Web: [
+          {
+            link: "/cn/Agora%20Analytics/product_agora_analytics",
+            title: "产品概述",
+          },
+        ],
+        微信小程序: [
+          {
+            link: "/cn/Agora%20Analytics/product_agora_analytics",
+            title: "产品概述",
+          },
+        ],
+        Windows: [
+          {
+            link: "/cn/Agora%20Analytics/product_agora_analytics",
+            title: "产品概述",
+          },
+        ],
+        Linux: [
+          {
+            link: "/cn/Agora%20Analytics/product_agora_analytics",
+            title: "产品概述",
+          },
+        ],
+        RESTful: [
+          {
+            link: "/cn/Agora%20Analytics/product_agora_analytics",
+            title: "产品概述",
+          },
+        ],
+        Electron: [
+          {
+            link: "/cn/Agora%20Analytics/product_agora_analytics",
+            title: "产品概述",
+          },
+        ],
+        Unity: [
+          {
+            link: "/cn/Agora%20Analytics/product_agora_analytics",
+            title: "产品概述",
+          },
+        ],
+        Flutter: [
+          {
+            link: "/cn/Agora%20Analytics/product_agora_analytics",
+            title: "产品概述",
+          },
+        ],
+        ReactNative: [
+          {
+            link: "/cn/Agora%20Analytics/product_agora_analytics",
+            title: "产品概述",
+          },
+        ],
+        "Cocos Creator": [
+          {
+            link: "/cn/Agora%20Analytics/product_agora_analytics",
+            title: "产品概述",
           },
         ],
       },
       contact: [
         {
-          link: "",
-          title: "",
+          link: "https://dev.agora.io/",
+          title: "开发者社区",
+        },
+        {
+          link: "https://agora-ticket.agora.io/",
+          title: "提交工单",
         },
       ],
-      quickStart: {
-        Android: {
-          link: "",
-          title: "",
-          desc: "",
-        },
-      },
       api: {
-        Android: {
-          link: "",
-          title: "",
-          desc: "",
+        RESTful: {
+          link: "/cn/Agora%20Analytics/aa_api?platform=RESTful",
+          title: "RESTful API",
+          desc: "本文提供水晶球 RESTful API 的详细信息。",
         },
       },
       articles: {
         Android: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/cn/Agora%20Analytics/aa_live_data?platform=Android",
+            title: "实时数据",
+            desc: "本文介绍如何实时查看当前项目的在线规模、质量水平和异常情况等。",
+          },
+          {
+            link: "/cn/Agora%20Analytics/aa_big_channel?platform=Android",
+            title: "大频道",
+            desc: "本文介绍如何实时监控和分析大频道的通话质量。",
+          },
+          {
+            link: "/cn/Agora%20Analytics/aa_realtime_alarm?platform=Android",
+            title: "实时预警",
+            desc: "本文介绍如何实时监控通话体验质量并获取体验异常信息。",
+          },
+        ],
+        iOS: [
+          {
+            link: "/cn/Agora%20Analytics/aa_live_data?platform=iOS",
+            title: "实时数据",
+            desc: "本文介绍如何实时查看当前项目的在线规模、质量水平和异常情况等。",
+          },
+          {
+            link: "/cn/Agora%20Analytics/aa_big_channel?platform=iOS",
+            title: "大频道",
+            desc: "本文介绍如何实时监控和分析大频道的通话质量。",
+          },
+          {
+            link: "/cn/Agora%20Analytics/aa_realtime_alarm?platform=iOS",
+            title: "实时预警",
+            desc: "本文介绍如何实时监控通话体验质量并获取体验异常信息。",
+          },
+        ],
+        macOS: [
+          {
+            link: "/cn/Agora%20Analytics/aa_live_data?platform=macOS",
+            title: "实时数据",
+            desc: "本文介绍如何实时查看当前项目的在线规模、质量水平和异常情况等。",
+          },
+          {
+            link: "/cn/Agora%20Analytics/aa_big_channel?platform=macOS",
+            title: "大频道",
+            desc: "本文介绍如何实时监控和分析大频道的通话质量。",
+          },
+          {
+            link: "/cn/Agora%20Analytics/aa_realtime_alarm?platform=macOS",
+            title: "实时预警",
+            desc: "本文介绍如何实时监控通话体验质量并获取体验异常信息。",
+          },
+        ],
+        Web: [
+          {
+            link: "/cn/Agora%20Analytics/aa_live_data?platform=Web",
+            title: "实时数据",
+            desc: "本文介绍如何实时查看当前项目的在线规模、质量水平和异常情况等。",
+          },
+          {
+            link: "/cn/Agora%20Analytics/aa_big_channel?platform=Web",
+            title: "大频道",
+            desc: "本文介绍如何实时监控和分析大频道的通话质量。",
+          },
+          {
+            link: "/cn/Agora%20Analytics/aa_realtime_alarm?platform=Web",
+            title: "实时预警",
+            desc: "本文介绍如何实时监控通话体验质量并获取体验异常信息。",
+          },
+        ],
+        微信小程序: [
+          {
+            link: "/cn/Agora%20Analytics/aa_live_data?platform=微信小程序",
+            title: "实时数据",
+            desc: "本文介绍如何实时查看当前项目的在线规模、质量水平和异常情况等。",
+          },
+          {
+            link: "/cn/Agora%20Analytics/aa_big_channel?platform=微信小程序",
+            title: "大频道",
+            desc: "本文介绍如何实时监控和分析大频道的通话质量。",
+          },
+          {
+            link: "/cn/Agora%20Analytics/aa_realtime_alarm?platform=微信小程序",
+            title: "实时预警",
+            desc: "本文介绍如何实时监控通话体验质量并获取体验异常信息。",
+          },
+        ],
+        Windows: [
+          {
+            link: "/cn/Agora%20Analytics/aa_live_data?platform=Windows",
+            title: "实时数据",
+            desc: "本文介绍如何实时查看当前项目的在线规模、质量水平和异常情况等。",
+          },
+          {
+            link: "/cn/Agora%20Analytics/aa_big_channel?platform=Windows",
+            title: "大频道",
+            desc: "本文介绍如何实时监控和分析大频道的通话质量。",
+          },
+          {
+            link: "/cn/Agora%20Analytics/aa_realtime_alarm?platform=Windows",
+            title: "实时预警",
+            desc: "本文介绍如何实时监控通话体验质量并获取体验异常信息。",
+          },
+        ],
+        Linux: [
+          {
+            link: "/cn/Agora%20Analytics/aa_live_data?platform=Linux",
+            title: "实时数据",
+            desc: "本文介绍如何实时查看当前项目的在线规模、质量水平和异常情况等。",
+          },
+          {
+            link: "/cn/Agora%20Analytics/aa_big_channel?platform=Linux",
+            title: "大频道",
+            desc: "本文介绍如何实时监控和分析大频道的通话质量。",
+          },
+          {
+            link: "/cn/Agora%20Analytics/aa_realtime_alarm?platform=Linux",
+            title: "实时预警",
+            desc: "本文介绍如何实时监控通话体验质量并获取体验异常信息。",
+          },
+        ],
+        RESTful: [
+          {
+            link: "/cn/Agora%20Analytics/aa_live_data?platform=RESTful",
+            title: "实时数据",
+            desc: "本文介绍如何实时查看当前项目的在线规模、质量水平和异常情况等。",
+          },
+          {
+            link: "/cn/Agora%20Analytics/aa_big_channel?platform=RESTful",
+            title: "大频道",
+            desc: "本文介绍如何实时监控和分析大频道的通话质量。",
+          },
+          {
+            link: "/cn/Agora%20Analytics/aa_realtime_alarm?platform=RESTful",
+            title: "实时预警",
+            desc: "本文介绍如何实时监控通话体验质量并获取体验异常信息。",
+          },
+        ],
+        Electron: [
+          {
+            link: "/cn/Agora%20Analytics/aa_live_data?platform=Electron",
+            title: "实时数据",
+            desc: "本文介绍如何实时查看当前项目的在线规模、质量水平和异常情况等。",
+          },
+          {
+            link: "/cn/Agora%20Analytics/aa_big_channel?platform=Electron",
+            title: "大频道",
+            desc: "本文介绍如何实时监控和分析大频道的通话质量。",
+          },
+          {
+            link: "/cn/Agora%20Analytics/aa_realtime_alarm?platform=Electron",
+            title: "实时预警",
+            desc: "本文介绍如何实时监控通话体验质量并获取体验异常信息。",
+          },
+        ],
+        Unity: [
+          {
+            link: "/cn/Agora%20Analytics/aa_live_data?platform=Unity",
+            title: "实时数据",
+            desc: "本文介绍如何实时查看当前项目的在线规模、质量水平和异常情况等。",
+          },
+          {
+            link: "/cn/Agora%20Analytics/aa_big_channel?platform=Unity",
+            title: "大频道",
+            desc: "本文介绍如何实时监控和分析大频道的通话质量。",
+          },
+          {
+            link: "/cn/Agora%20Analytics/aa_realtime_alarm?platform=Unity",
+            title: "实时预警",
+            desc: "本文介绍如何实时监控通话体验质量并获取体验异常信息。",
+          },
+        ],
+        Flutter: [
+          {
+            link: "/cn/Agora%20Analytics/aa_live_data?platform=Flutter",
+            title: "实时数据",
+            desc: "本文介绍如何实时查看当前项目的在线规模、质量水平和异常情况等。",
+          },
+          {
+            link: "/cn/Agora%20Analytics/aa_big_channel?platform=Flutter",
+            title: "大频道",
+            desc: "本文介绍如何实时监控和分析大频道的通话质量。",
+          },
+          {
+            link: "/cn/Agora%20Analytics/aa_realtime_alarm?platform=Flutter",
+            title: "实时预警",
+            desc: "本文介绍如何实时监控通话体验质量并获取体验异常信息。",
+          },
+        ],
+        ReactNative: [
+          {
+            link: "/cn/Agora%20Analytics/aa_live_data?platform=React%20Native",
+            title: "实时数据",
+            desc: "本文介绍如何实时查看当前项目的在线规模、质量水平和异常情况等。",
+          },
+          {
+            link: "/cn/Agora%20Analytics/aa_big_channel?platform=React%20Native",
+            title: "大频道",
+            desc: "本文介绍如何实时监控和分析大频道的通话质量。",
+          },
+          {
+            link: "/cn/Agora%20Analytics/aa_realtime_alarm?platform=React%20Native",
+            title: "实时预警",
+            desc: "本文介绍如何实时监控通话体验质量并获取体验异常信息。",
+          },
+        ],
+        "Cocos Creator": [
+          {
+            link: "/cn/Agora%20Analytics/aa_live_data?platform=Cocos%20Creator",
+            title: "实时数据",
+            desc: "本文介绍如何实时查看当前项目的在线规模、质量水平和异常情况等。",
+          },
+          {
+            link: "/cn/Agora%20Analytics/aa_big_channel?platform=Cocos%20Creator",
+            title: "大频道",
+            desc: "本文介绍如何实时监控和分析大频道的通话质量。",
+          },
+          {
+            link: "/cn/Agora%20Analytics/aa_realtime_alarm?platform=Cocos%20Creator",
+            title: "实时预警",
+            desc: "本文介绍如何实时监控通话体验质量并获取体验异常信息。",
           },
         ],
       },
