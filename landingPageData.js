@@ -3075,16 +3075,6 @@ const landingPageData = {
             title: "Code samples",
           },
         ],
-        微信小程序: [
-          {
-            link: "/en/Real-time-Messaging/downloads",
-            title: "SDK",
-          },
-          {
-            link: "https://github.com/AgoraIO/RTM",
-            title: "Code samples",
-          },
-        ],
         Windows: [
           {
             link: "/en/Real-time-Messaging/downloads",
