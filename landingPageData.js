@@ -2560,49 +2560,49 @@ const landingPageData = {
       overview: {
         Android: [
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/product_rtm?platform=Android",
+            link: "/cn/Real-time-Messaging/product_rtm?platform=Android",
             title: "产品概述",
           },
         ],
         iOS: [
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/product_rtm?platform=iOS",
+            link: "/cn/Real-time-Messaging/product_rtm?platform=iOS",
             title: "产品概述",
           },
         ],
         macOS: [
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/product_rtm?platform=macOS",
+            link: "/cn/Real-time-Messaging/product_rtm?platform=macOS",
             title: "产品概述",
           },
         ],
         Web: [
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/product_rtm?platform=Web",
+            link: "/cn/Real-time-Messaging/product_rtm?platform=Web",
             title: "产品概述",
           },
         ],
         微信小程序: [
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/product_rtm?platform=微信小程序",
+            link: "/cn/Real-time-Messaging/product_rtm?platform=微信小程序",
             title: "产品概述",
           },
         ],
         Windows: [
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/product_rtm?platform=Windows",
+            link: "/cn/Real-time-Messaging/product_rtm?platform=Windows",
             title: "产品概述",
           },
         ],
         Linux: [
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/product_rtm?platform=Linux",
+            link: "/cn/Real-time-Messaging/product_rtm?platform=Linux",
             title: "产品概述",
           },
         ],
         RESTful: [
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/product_rtm?platform=RESTful",
+            link: "/cn/Real-time-Messaging/product_rtm?platform=RESTful",
             title: "产品概述",
           },
         ],
@@ -2610,7 +2610,7 @@ const landingPageData = {
       downloads: {
         Android: [
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/downloads",
+            link: "/cn/Real-time-Messaging/downloads",
             title: "SDK 下载",
           },
           {
@@ -2620,7 +2620,7 @@ const landingPageData = {
         ],
         iOS: [
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/downloads",
+            link: "/cn/Real-time-Messaging/downloads",
             title: "SDK 下载",
           },
           {
@@ -2630,7 +2630,7 @@ const landingPageData = {
         ],
         macOS: [
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/downloads",
+            link: "/cn/Real-time-Messaging/downloads",
             title: "SDK 下载",
           },
           {
@@ -2640,7 +2640,7 @@ const landingPageData = {
         ],
         Web: [
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/downloads",
+            link: "/cn/Real-time-Messaging/downloads",
             title: "SDK 下载",
           },
           {
@@ -2650,7 +2650,7 @@ const landingPageData = {
         ],
         微信小程序: [
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/downloads",
+            link: "/cn/Real-time-Messaging/downloads",
             title: "SDK 下载",
           },
           {
@@ -2660,7 +2660,7 @@ const landingPageData = {
         ],
         Windows: [
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/downloads",
+            link: "/cn/Real-time-Messaging/downloads",
             title: "SDK 下载",
           },
           {
@@ -2670,7 +2670,7 @@ const landingPageData = {
         ],
         Linux: [
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/downloads",
+            link: "/cn/Real-time-Messaging/downloads",
             title: "SDK 下载",
           },
           {
@@ -2680,7 +2680,7 @@ const landingPageData = {
         ],
         RESTful: [
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/downloads",
+            link: "/cn/Real-time-Messaging/downloads",
             title: "SDK 下载",
           },
         ],
@@ -2697,92 +2697,92 @@ const landingPageData = {
       ],
       quickStart: {
         Android: {
-          link: "https://docs.agora.io/cn/Real-time-Messaging/messaging_android?platform=Android",
+          link: "/cn/Real-time-Messaging/messaging_android?platform=Android",
           title: "快速开始",
           desc: "该文提供 RTM API 的快速开始信息。",
         },
         iOS: {
-          link: "https://docs.agora.io/cn/Real-time-Messaging/messaging_ios?platform=iOS",
+          link: "/cn/Real-time-Messaging/messaging_ios?platform=iOS",
           title: "快速开始",
           desc: "该文提供 RTM API 的快速开始信息。",
         },
         macOS: {
-          link: "https://docs.agora.io/cn/Real-time-Messaging/messaging_mac?platform=macOS",
+          link: "/cn/Real-time-Messaging/messaging_mac?platform=macOS",
           title: "快速开始",
           desc: "该文提供 RTM API 的快速开始信息。",
         },
         Web: {
-          link: "https://docs.agora.io/cn/Real-time-Messaging/messaging_web?platform=Web",
+          link: "/cn/Real-time-Messaging/messaging_web?platform=Web",
           title: "快速开始",
           desc: "该文提供 RTM API 的快速开始信息。",
         },
         Windows: {
-          link: "https://docs.agora.io/cn/Real-time-Messaging/messaging_cpp_windows?platform=Windows",
+          link: "/cn/Real-time-Messaging/messaging_cpp_windows?platform=Windows",
           title: "快速开始",
           desc: "该文提供 RTM API 的快速开始信息。",
         },
         Linux: {
-          link: "https://docs.agora.io/cn/Real-time-Messaging/messaging_java?platform=Linux",
+          link: "/cn/Real-time-Messaging/messaging_java?platform=Linux",
           title: "快速开始",
           desc: "该文提供 RTM API 的快速开始信息。",
         },
         微信小程序: {
-          link: "https://docs.agora.io/cn/Real-time-Messaging/messaging_wechat?platform=微信小程序",
+          link: "/cn/Real-time-Messaging/messaging_wechat?platform=微信小程序",
           title: "快速开始",
           desc: "该文提供 RTM API 的快速开始信息。",
         },
       },
       api: {
         Android: {
-          link: "https://docs.agora.io/cn/Real-time-Messaging/API%20Reference/RTM_java/index.html",
+          link: "/cn/Real-time-Messaging/API%20Reference/RTM_java/index.html",
           title: "Agora RTM Java API Reference for Android",
           desc: "该文提供 RTM SDK 的 API 参考信息。",
         },
         iOS: {
-          link: "https://docs.agora.io/cn/Real-time-Messaging/API%20Reference/RTM_oc/docs/API-Overview.html",
+          link: "/cn/Real-time-Messaging/API%20Reference/RTM_oc/docs/API-Overview.html",
           title: "Agora RTM Objective-C API Reference for iOS",
           desc: "该文提供 RTM SDK 的 API 参考信息。",
         },
         macOS: {
-          link: "https://docs.agora.io/cn/Real-time-Messaging/API%20Reference/RTM_oc/docs/API-Overview.html",
+          link: "/cn/Real-time-Messaging/API%20Reference/RTM_oc/docs/API-Overview.html",
           title: "Agora RTM Objective-C API Reference for macOS",
           desc: "该文提供 RTM SDK 的 API 参考信息。",
         },
         Web: {
-          link: "https://docs.agora.io/cn/Real-time-Messaging/API%20Reference/RTM_web/index.html",
+          link: "/cn/Real-time-Messaging/API%20Reference/RTM_web/index.html",
           title: "Agora RTM Web API Reference",
           desc: "该文提供 RTM SDK 的 API 参考信息。",
         },
         Windows: {
-          link: "https://docs.agora.io/cn/Real-time-Messaging/API%20Reference/RTM_cpp/index.html",
+          link: "/cn/Real-time-Messaging/API%20Reference/RTM_cpp/index.html",
           title: "Agora RTM C++ API Reference for Windows",
           desc: "该文提供 RTM SDK 的 API 参考信息。",
         },
         Linux:
         [
-          {link: "https://docs.agora.io/cn/Real-time-Messaging/API%20Reference/RTM_java_linux/index.html",
+          {link: "/cn/Real-time-Messaging/API%20Reference/RTM_java_linux/index.html",
           title: "Agora RTM Java API Reference for Linux",
           desc: "该文提供 RTM SDK 的 API 参考信息。",},
 
-          {link: "https://docs.agora.io/cn/Real-time-Messaging/API%20Reference/RTM_cpp/index.html",
+          {link: "/cn/Real-time-Messaging/API%20Reference/RTM_cpp/index.html",
           title: "Agora RTM C++ API Reference for Linux",
           desc: "该文提供 RTM SDK 的 API 参考信息。",},
         ],
 
         },
         微信小程序: {
-          link: "https://docs.agora.io/cn/Real-time-Messaging/API%20Reference/RTM_wechat/index.html",
+          link: "/cn/Real-time-Messaging/API%20Reference/RTM_wechat/index.html",
           title: "Agora RTM 微信小程序 SDK API 参考",
           desc: "该文提供 RTM SDK 的 API 参考信息。",
         },
         RESTful: [
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/rtm_get_event?platform=RESTful",
+            link: "/cn/Real-time-Messaging/rtm_get_event?platform=RESTful",
             title: "事件与历史消息查询 RESTful API",
             desc: "该文提供 RTM RESTful API 的参考信息。",
           },
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/messaging_restful?platform=RESTful",
+            link: "/cn/Real-time-Messaging/messaging_restful?platform=RESTful",
             title: "消息发送 RESTful API",
             desc: "该文提供 RTM RESTful API 的参考信息。",
           },
@@ -2791,142 +2791,142 @@ const landingPageData = {
       articles: {
         Android: [
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/rtm_token?platform=All%20Platforms",
+            link: "/cn/Real-time-Messaging/rtm_token?platform=All%20Platforms",
             title: "校验用户权限",
             desc: "本文展示如何使用 Agora 提供的代码在服务端生成 RTM Token。",
           },
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/reconnecting_android?platform=Android",
+            link: "/cn/Real-time-Messaging/reconnecting_android?platform=Android",
             title: "连接状态管理",
             desc: "本文展示如何使用 RTM SDK 进行连接状态管理。",
           },
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
+            link: "/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
             title: "计费说明",
             desc: "本文展示 RTM SDK 的计费规则。",
           },
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/limitations_android?platform=Android",
+            link: "/cn/Real-time-Messaging/limitations_android?platform=Android",
             title: "限制条件",
             desc: "本文展示 RTM SDK 的使用限制条件。",
           },
         ],
         iOS: [
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/rtm_token?platform=All%20Platforms",
+            link: "/cn/Real-time-Messaging/rtm_token?platform=All%20Platforms",
             title: "校验用户权限",
             desc: "本文展示如何使用 Agora 提供的代码在服务端生成 RTM Token。",
           },
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/reconnecting_oc?platform=iOS",
+            link: "/cn/Real-time-Messaging/reconnecting_oc?platform=iOS",
             title: "连接状态管理",
             desc: "本文展示如何使用 RTM SDK 进行连接状态管理。",
           },
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
+            link: "/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
             title: "计费说明",
             desc: "本文展示 RTM SDK 的计费规则。",
           },
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/limitations_oc?platform=iOS",
+            link: "/cn/Real-time-Messaging/limitations_oc?platform=iOS",
             title: "限制条件",
             desc: "本文展示 RTM SDK 的使用限制条件。",
           },
         ],
         macOS: [
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/rtm_token?platform=All%20Platforms",
+            link: "/cn/Real-time-Messaging/rtm_token?platform=All%20Platforms",
             title: "校验用户权限",
             desc: "本文展示如何使用 Agora 提供的代码在服务端生成 RTM Token。",
           },
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/reconnecting_oc?platform=macOS",
+            link: "/cn/Real-time-Messaging/reconnecting_oc?platform=macOS",
             title: "连接状态管理",
             desc: "本文展示如何使用 RTM SDK 进行连接状态管理。",
           },
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
+            link: "/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
             title: "计费说明",
             desc: "本文展示 RTM SDK 的计费规则。",
           },
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/limitations_oc?platform=macOS",
+            link: "/cn/Real-time-Messaging/limitations_oc?platform=macOS",
             title: "限制条件",
             desc: "本文展示 RTM SDK 的使用限制条件。",
           },
         ],
         Windows: [
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/rtm_token?platform=All%20Platforms",
+            link: "/cn/Real-time-Messaging/rtm_token?platform=All%20Platforms",
             title: "校验用户权限",
             desc: "本文展示如何使用 Agora 提供的代码在服务端生成 RTM Token。",
           },
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/reconnecting_cpp?platform=Windows",
+            link: "/cn/Real-time-Messaging/reconnecting_cpp?platform=Windows",
             title: "连接状态管理",
             desc: "本文展示如何使用 RTM SDK 进行连接状态管理。",
           },
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
+            link: "/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
             title: "计费说明",
             desc: "本文展示 RTM SDK 的计费规则。",
           },
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/limitations_cpp?platform=Windows",
+            link: "/cn/Real-time-Messaging/limitations_cpp?platform=Windows",
             title: "限制条件",
             desc: "本文展示 RTM SDK 的使用限制条件。",
           },
         ],
         Web: [
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/rtm_token?platform=All%20Platforms",
+            link: "/cn/Real-time-Messaging/rtm_token?platform=All%20Platforms",
             title: "校验用户权限",
             desc: "本文展示如何使用 Agora 提供的代码在服务端生成 RTM Token。",
           },
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/reconnecting_web?platform=Web",
+            link: "/cn/Real-time-Messaging/reconnecting_web?platform=Web",
             title: "连接状态管理",
             desc: "本文展示如何使用 RTM SDK 进行连接状态管理。",
           },
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
+            link: "/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
             title: "计费说明",
             desc: "本文展示 RTM SDK 的计费规则。",
           },
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/limitations_web?platform=Web",
+            link: "/cn/Real-time-Messaging/limitations_web?platform=Web",
             title: "限制条件",
             desc: "本文展示 RTM SDK 的使用限制条件。",
           },
         ],
         Linux: [
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/rtm_token?platform=All%20Platforms",
+            link: "/cn/Real-time-Messaging/rtm_token?platform=All%20Platforms",
             title: "校验用户权限",
             desc: "本文展示如何使用 Agora 提供的代码在服务端生成 RTM Token。",
           },
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/reconnecting_java?platform=Linux",
+            link: "/cn/Real-time-Messaging/reconnecting_java?platform=Linux",
             title: "连接状态管理",
             desc: "本文展示如何使用 RTM SDK 进行连接状态管理。",
           },
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/reconnecting_cpp?platform=Linux",
+            link: "/cn/Real-time-Messaging/reconnecting_cpp?platform=Linux",
             title: "连接状态管理",
             desc: "本文展示如何使用 RTM SDK 进行连接状态管理。",
           },
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
+            link: "/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
             title: "计费说明",
             desc: "本文展示 RTM SDK 的计费规则。",
           },
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/limitations_cpp_linux?platform=Linux",
+            link: "/cn/Real-time-Messaging/limitations_cpp_linux?platform=Linux",
             title: "限制条件",
             desc: "本文展示 RTM SDK 的使用限制条件。",
           },
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/limitations_java?platform=Linux",
+            link: "/cn/Real-time-Messaging/limitations_java?platform=Linux",
             title: "限制条件",
             desc: "本文展示 RTM SDK 的使用限制条件。",
           },
@@ -2939,43 +2939,43 @@ const landingPageData = {
       overview: {
         Android: [
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/product_rtm?platform=Android",
+            link: "/en/Real-time-Messaging/product_rtm?platform=Android",
             title: "Product Overview",
           },
         ],
         iOS: [
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/product_rtm?platform=iOS",
+            link: "/en/Real-time-Messaging/product_rtm?platform=iOS",
             title: "Product Overview",
           },
         ],
         macOS: [
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/product_rtm?platform=macOS",
+            link: "/en/Real-time-Messaging/product_rtm?platform=macOS",
             title: "Product Overview",
           },
         ],
         Web: [
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/product_rtm?platform=Web",
+            link: "/en/Real-time-Messaging/product_rtm?platform=Web",
             title: "Product Overview",
           },
         ],
         Windows: [
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/product_rtm?platform=Windows",
+            link: "/en/Real-time-Messaging/product_rtm?platform=Windows",
             title: "Product Overview",
           },
         ],
         Linux: [
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/product_rtm?platform=Linux",
+            link: "/en/Real-time-Messaging/product_rtm?platform=Linux",
             title: "Product Overview",
           },
         ],
         RESTful: [
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/product_rtm?platform=RESTful",
+            link: "/en/Real-time-Messaging/product_rtm?platform=RESTful",
             title: "Product Overview",
           },
         ],
@@ -2983,7 +2983,7 @@ const landingPageData = {
       downloads: {
         Android: [
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/downloads",
+            link: "/en/Real-time-Messaging/downloads",
             title: "SDK",
           },
           {
@@ -2993,7 +2993,7 @@ const landingPageData = {
         ],
         iOS: [
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/downloads",
+            link: "/en/Real-time-Messaging/downloads",
             title: "SDK",
           },
           {
@@ -3003,7 +3003,7 @@ const landingPageData = {
         ],
         macOS: [
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/downloads",
+            link: "/en/Real-time-Messaging/downloads",
             title: "SDK",
           },
           {
@@ -3013,7 +3013,7 @@ const landingPageData = {
         ],
         Web: [
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/downloads",
+            link: "/en/Real-time-Messaging/downloads",
             title: "SDK",
           },
           {
@@ -3023,7 +3023,7 @@ const landingPageData = {
         ],
         微信小程序: [
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/downloads",
+            link: "/en/Real-time-Messaging/downloads",
             title: "SDK",
           },
           {
@@ -3033,7 +3033,7 @@ const landingPageData = {
         ],
         Windows: [
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/downloads",
+            link: "/en/Real-time-Messaging/downloads",
             title: "SDK",
           },
           {
@@ -3043,7 +3043,7 @@ const landingPageData = {
         ],
         Linux: [
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/downloads",
+            link: "/en/Real-time-Messaging/downloads",
             title: "SDK",
           },
           {
@@ -3053,7 +3053,7 @@ const landingPageData = {
         ],
         RESTful: [
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/downloads",
+            link: "/en/Real-time-Messaging/downloads",
             title: "SDK",
           },
         ],
@@ -3070,75 +3070,75 @@ const landingPageData = {
       ],
       quickStart: {
         Android: {
-          link: "https://docs.agora.io/en/Real-time-Messaging/messaging_android?platform=Android",
+          link: "/en/Real-time-Messaging/messaging_android?platform=Android",
           title: "Quickstart Guide",
           desc: "This article contains quickstart information for the RTM SDK.",
         },
         iOS: {
-          link: "https://docs.agora.io/en/Real-time-Messaging/messaging_ios?platform=iOS",
+          link: "/en/Real-time-Messaging/messaging_ios?platform=iOS",
           title: "Quickstart Guide",
           desc: "This article contains quickstart information for the RTM SDK.",
         },
         macOS: {
-          link: "https://docs.agora.io/en/Real-time-Messaging/messaging_mac?platform=macOS",
+          link: "/en/Real-time-Messaging/messaging_mac?platform=macOS",
           title: "Quickstart Guide",
           desc: "This article contains quickstart information for the RTM SDK.",
         },
         Web: {
-          link: "https://docs.agora.io/en/Real-time-Messaging/messaging_web?platform=Web",
+          link: "/en/Real-time-Messaging/messaging_web?platform=Web",
           title: "Quickstart Guide",
           desc: "This article contains quickstart information for the RTM SDK.",
         },
         Windows: {
-          link: "https://docs.agora.io/en/Real-time-Messaging/messaging_cpp_windows?platform=Windows",
+          link: "/en/Real-time-Messaging/messaging_cpp_windows?platform=Windows",
           title: "Quickstart Guide",
           desc: "This article contains quickstart information for the RTM SDK.",
         },
         Linux: {
-          link: "https://docs.agora.io/en/Real-time-Messaging/messaging_java?platform=Linux",
+          link: "/en/Real-time-Messaging/messaging_java?platform=Linux",
           title: "Quickstart Guide",
           desc: "This article contains quickstart information for the RTM SDK.",
         },
       },
       api: {
         Android: {
-          link: "https://docs.agora.io/en/Real-time-Messaging/API%20Reference/RTM_java/index.html",
+          link: "/en/Real-time-Messaging/API%20Reference/RTM_java/index.html",
           title: "Agora RTM Java API Reference for Android",
           desc: "This article contains detailed API reference for the RTM SDK.",
         },
         iOS: {
-          link: "https://docs.agora.io/en/Real-time-Messaging/API%20Reference/RTM_oc/docs/API-Overview.html",
+          link: "/en/Real-time-Messaging/API%20Reference/RTM_oc/docs/API-Overview.html",
           title: "Agora RTM Objective-C API Reference for iOS",
           desc: "This article contains detailed API reference for the RTM SDK.",
         },
         macOS: {
-          link: "https://docs.agora.io/en/Real-time-Messaging/API%20Reference/RTM_oc/docs/API-Overview.html",
+          link: "/en/Real-time-Messaging/API%20Reference/RTM_oc/docs/API-Overview.html",
           title: "Agora RTM Objective-C API Reference for macOS",
           desc: "This article contains detailed API reference for the RTM SDK.",
         },
         Web: {
-          link: "https://docs.agora.io/en/Real-time-Messaging/API%20Reference/RTM_web/index.html",
+          link: "/en/Real-time-Messaging/API%20Reference/RTM_web/index.html",
           title: "Agora RTM Web API Reference",
           desc: "This article contains detailed API reference for the RTM SDK.",
         },
         Windows: {
-          link: "https://docs.agora.io/en/Real-time-Messaging/API%20Reference/RTM_cpp/index.html",
+          link: "/en/Real-time-Messaging/API%20Reference/RTM_cpp/index.html",
           title: "Agora RTM C++ API Reference for Windows",
           desc: "This article contains detailed API reference for the RTM SDK.",
         },
         Linux:
         [
-          {link: "https://docs.agora.io/en/Real-time-Messaging/API%20Reference/RTM_java_linux/index.html",
+          {link: "/en/Real-time-Messaging/API%20Reference/RTM_java_linux/index.html",
           title: "Agora RTM Java API Reference for Linux",
           desc: "This article contains detailed API reference for the RTM SDK.",},
 
-          {link: "https://docs.agora.io/en/Real-time-Messaging/API%20Reference/RTM_cpp/index.html",
+          {link: "/en/Real-time-Messaging/API%20Reference/RTM_cpp/index.html",
           title: "Agora RTM C++ API Reference for Linux",
           desc: "This article contains detailed API reference for the RTM SDK.",},
         ],
         RESTful: [
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/rtm_get_event?platform=RESTful",
+            link: "/en/Real-time-Messaging/rtm_get_event?platform=RESTful",
             title: "User and Channel Events RESTful API",
             desc: "This article contains detailed reference for the RTM RESTful API.",
           },
@@ -3149,112 +3149,112 @@ const landingPageData = {
       articles: {
         Android: [
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/rtm_token?platform=All%20Platforms",
+            link: "/en/Real-time-Messaging/rtm_token?platform=All%20Platforms",
             title: "Generate an RTM Token",
             desc: "This article introduces how to generate an RTM token on your server using the code provided by Agora.",
           },
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/reconnecting_android?platform=Android",
+            link: "/en/Real-time-Messaging/reconnecting_android?platform=Android",
             title: "Manage Connection States",
             desc: "This article introduces how to manage the connection status with the RTM SDK.",
           },
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/limitations_android?platform=Android",
+            link: "/en/Real-time-Messaging/limitations_android?platform=Android",
             title: "Limitations",
             desc: "This article introduces the limitations of the RTM SDK.",
           },
         ],
         iOS: [
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/rtm_token?platform=All%20Platforms",
+            link: "/en/Real-time-Messaging/rtm_token?platform=All%20Platforms",
             title: "Generate an RTM Token",
             desc: "This article introduces how to generate an RTM token on your server using the code provided by Agora.",
           },
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/reconnecting_oc?platform=iOS",
+            link: "/en/Real-time-Messaging/reconnecting_oc?platform=iOS",
             title: "Manage Connection States",
             desc: "This article introduces how to manage the connection status with the RTM SDK.",
           },
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/limitations_oc?platform=iOS",
+            link: "/cn/Real-time-Messaging/limitations_oc?platform=iOS",
             title: "Limitations",
             desc: "This article introduces the limitations of the RTM SDK.",
           },
         ],
         macOS: [
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/rtm_token?platform=All%20Platforms",
+            link: "/en/Real-time-Messaging/rtm_token?platform=All%20Platforms",
             title: "Generate an RTM Token",
             desc: "This article introduces how to generate an RTM token on your server using the code provided by Agora.",
           },
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/reconnecting_oc?platform=macOS",
+            link: "/en/Real-time-Messaging/reconnecting_oc?platform=macOS",
             title: "Manage Connection States",
             desc: "This article introduces how to manage the connection status with the RTM SDK.",
           },
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/limitations_oc?platform=macOS",
+            link: "/en/Real-time-Messaging/limitations_oc?platform=macOS",
             title: "Limitations",
             desc: "This article introduces the limitations of the RTM SDK.",
           },
         ],
         Windows: [
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/rtm_token?platform=All%20Platforms",
+            link: "/en/Real-time-Messaging/rtm_token?platform=All%20Platforms",
             title: "Generate an RTM Token",
             desc: "This article introduces how to generate an RTM token on your server using the code provided by Agora.",
           },
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/reconnecting_cpp?platform=Windows",
+            link: "/en/Real-time-Messaging/reconnecting_cpp?platform=Windows",
             title: "Manage Connection States",
             desc: "This article introduces how to manage the connection status with the RTM SDK.",
           },
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/limitations_cpp?platform=Windows",
+            link: "/en/Real-time-Messaging/limitations_cpp?platform=Windows",
             title: "Limitations",
             desc: "This article introduces the limitations of the RTM SDK.",
           },
         ],
         Web: [
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/rtm_token?platform=All%20Platforms",
+            link: "/en/Real-time-Messaging/rtm_token?platform=All%20Platforms",
             title: "Generate an RTM Token",
             desc: "This article introduces how to generate an RTM token on your server using the code provided by Agora.",
           },
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/reconnecting_web?platform=Web",
+            link: "/en/Real-time-Messaging/reconnecting_web?platform=Web",
             title: "Manage Connection States",
             desc: "This article introduces how to manage the connection status with the RTM SDK.",
           },
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/limitations_web?platform=Web",
+            link: "/en/Real-time-Messaging/limitations_web?platform=Web",
             title: "Limitations",
             desc: "This article introduces the limitations of the RTM SDK.",
           },
         ],
         Linux: [
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/rtm_token?platform=All%20Platforms",
+            link: "/en/Real-time-Messaging/rtm_token?platform=All%20Platforms",
             title: "Manage Connection States",
             desc: "This article introduces how to generate an RTM token on your server using the code provided by Agora.",
           },
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/reconnecting_java?platform=Linux",
+            link: "/en/Real-time-Messaging/reconnecting_java?platform=Linux",
             title: "Manage Connection States",
             desc: "This article introduces how to manage the connection status with the RTM SDK.",
           },
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/reconnecting_cpp?platform=Linux",
+            link: "/en/Real-time-Messaging/reconnecting_cpp?platform=Linux",
             title: "Manage Connection States",
             desc: "This article introduces how to manage the connection status with the RTM SDK.",
           },
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/limitations_cpp_linux?platform=Linux",
+            link: "/en/Real-time-Messaging/limitations_cpp_linux?platform=Linux",
             title: "Limitations",
             desc: "This article introduces the limitations of the RTM SDK.",
           },
           {
-            link: "https://docs.agora.io/en/Real-time-Messaging/limitations_java?platform=Linux",
+            link: "/en/Real-time-Messaging/limitations_java?platform=Linux",
             title: "Limitations",
             desc: "This article introduces the limitations of the RTM SDK.",
           },
