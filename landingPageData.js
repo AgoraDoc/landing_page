@@ -2563,11 +2563,27 @@ const landingPageData = {
             link: "/cn/Real-time-Messaging/product_rtm?platform=Android",
             title: "产品概述",
           },
+          {
+            link: "/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
+            title: "计费说明",
+          },
+          {
+            link: "/cn/Real-time-Messaging/release_android_rtm?platform=Android",
+            title: "发版说明",
+          },
         ],
         iOS: [
           {
             link: "/cn/Real-time-Messaging/product_rtm?platform=iOS",
             title: "产品概述",
+          },
+          {
+            link: "/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
+            title: "计费说明",
+          },
+          {
+            link: "/cn/Real-time-Messaging/release_oc_rtm?platform=iOS",
+            title: "发版说明",
           },
         ],
         macOS: [
@@ -2575,11 +2591,27 @@ const landingPageData = {
             link: "/cn/Real-time-Messaging/product_rtm?platform=macOS",
             title: "产品概述",
           },
+          {
+            link: "/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
+            title: "计费说明",
+          },
+          {
+            link: "/cn/Real-time-Messaging/release_oc_rtm?platform=macOS",
+            title: "发版说明",
+          },
         ],
         Web: [
           {
             link: "/cn/Real-time-Messaging/product_rtm?platform=Web",
             title: "产品概述",
+          },
+          {
+            link: "/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
+            title: "计费说明",
+          },
+          {
+            link: "/cn/Real-time-Messaging/release_web_rtm?platform=Web",
+            title: "发版说明",
           },
         ],
         微信小程序: [
@@ -2587,11 +2619,27 @@ const landingPageData = {
             link: "/cn/Real-time-Messaging/product_rtm?platform=微信小程序",
             title: "产品概述",
           },
+          {
+            link: "/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
+            title: "计费说明",
+          },
+          {
+            link: "/cn/Real-time-Messaging/release_wechat_rtm?platform=微信小程序",
+            title: "发版说明",
+          },
         ],
         Windows: [
           {
             link: "/cn/Real-time-Messaging/product_rtm?platform=Windows",
             title: "产品概述",
+          },
+          {
+            link: "/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
+            title: "计费说明",
+          },
+          {
+            link: "/cn/Real-time-Messaging/release_cpp_windows_rtm?platform=Windows",
+            title: "发版说明",
           },
         ],
         Linux: [
@@ -2599,11 +2647,27 @@ const landingPageData = {
             link: "/cn/Real-time-Messaging/product_rtm?platform=Linux",
             title: "产品概述",
           },
+          {
+            link: "/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
+            title: "计费说明",
+          },
+          {
+            link: "/cn/Real-time-Messaging/release_java_rtm?platform=Linux",
+            title: "发版说明",
+          },
+          {
+            link: "/cn/Real-time-Messaging/release_cpp_rtm?platform=Linux",
+            title: "发版说明",
+          },
         ],
         RESTful: [
           {
             link: "/cn/Real-time-Messaging/product_rtm?platform=RESTful",
             title: "产品概述",
+          },
+          {
+            link: "/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
+            title: "计费说明",
           },
         ],
       },
@@ -2796,11 +2860,6 @@ const landingPageData = {
             desc: "本文展示如何使用 RTM SDK 进行连接状态管理。",
           },
           {
-            link: "/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
-            title: "计费说明",
-            desc: "本文展示 RTM SDK 的计费规则。",
-          },
-          {
             link: "/cn/Real-time-Messaging/limitations_android?platform=Android",
             title: "限制条件",
             desc: "本文展示 RTM SDK 的使用限制条件。",
@@ -2816,11 +2875,6 @@ const landingPageData = {
             link: "/cn/Real-time-Messaging/reconnecting_oc?platform=iOS",
             title: "连接状态管理",
             desc: "本文展示如何使用 RTM SDK 进行连接状态管理。",
-          },
-          {
-            link: "/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
-            title: "计费说明",
-            desc: "本文展示 RTM SDK 的计费规则。",
           },
           {
             link: "/cn/Real-time-Messaging/limitations_oc?platform=iOS",
@@ -2840,11 +2894,6 @@ const landingPageData = {
             desc: "本文展示如何使用 RTM SDK 进行连接状态管理。",
           },
           {
-            link: "/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
-            title: "计费说明",
-            desc: "本文展示 RTM SDK 的计费规则。",
-          },
-          {
             link: "/cn/Real-time-Messaging/limitations_oc?platform=macOS",
             title: "限制条件",
             desc: "本文展示 RTM SDK 的使用限制条件。",
@@ -2862,11 +2911,6 @@ const landingPageData = {
             desc: "本文展示如何使用 RTM SDK 进行连接状态管理。",
           },
           {
-            link: "/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
-            title: "计费说明",
-            desc: "本文展示 RTM SDK 的计费规则。",
-          },
-          {
             link: "/cn/Real-time-Messaging/limitations_cpp?platform=Windows",
             title: "限制条件",
             desc: "本文展示 RTM SDK 的使用限制条件。",
@@ -2882,11 +2926,6 @@ const landingPageData = {
             link: "/cn/Real-time-Messaging/reconnecting_web?platform=Web",
             title: "连接状态管理",
             desc: "本文展示如何使用 RTM SDK 进行连接状态管理。",
-          },
-          {
-            link: "/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
-            title: "计费说明",
-            desc: "本文展示 RTM SDK 的计费规则。",
           },
           {
             link: "/cn/Real-time-Messaging/limitations_web?platform=Web",
@@ -2911,11 +2950,6 @@ const landingPageData = {
             desc: "本文展示如何使用 RTM SDK 进行连接状态管理。",
           },
           {
-            link: "/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
-            title: "计费说明",
-            desc: "本文展示 RTM SDK 的计费规则。",
-          },
-          {
             link: "/cn/Real-time-Messaging/limitations_cpp_linux?platform=Linux",
             title: "限制条件",
             desc: "本文展示 RTM SDK 的使用限制条件。",
@@ -2937,11 +2971,19 @@ const landingPageData = {
             link: "/en/Real-time-Messaging/product_rtm?platform=Android",
             title: "Product Overview",
           },
+          {
+            link: "/en/Real-time-Messaging/release_android_rtm?platform=Android",
+            title: "Release Notes",
+          },
         ],
         iOS: [
           {
             link: "/en/Real-time-Messaging/product_rtm?platform=iOS",
             title: "Product Overview",
+          },
+          {
+            link: "/en/Real-time-Messaging/release_oc_rtm?platform=iOS",
+            title: "Release Notes",
           },
         ],
         macOS: [
@@ -2949,23 +2991,40 @@ const landingPageData = {
             link: "/en/Real-time-Messaging/product_rtm?platform=macOS",
             title: "Product Overview",
           },
+          {
+            link: "/en/Real-time-Messaging/release_oc_rtm?platform=macOS",
+            title: "Release Notes",
+          },
         ],
         Web: [
           {
             link: "/en/Real-time-Messaging/product_rtm?platform=Web",
             title: "Product Overview",
           },
+          {
+            link: "/en/Real-time-Messaging/release_web_rtm?platform=Web",
+            title: "Release Notes",
+          },
+
         ],
         Windows: [
           {
             link: "/en/Real-time-Messaging/product_rtm?platform=Windows",
             title: "Product Overview",
           },
+          {
+            link: "/en/Real-time-Messaging/release_cpp_windows_rtm?platform=Windows",
+            title: "Release Notes",
+          },
         ],
         Linux: [
           {
-            link: "/en/Real-time-Messaging/product_rtm?platform=Linux",
+            link: "/cn/Real-time-Messaging/release_java_rtm?platform=Linux",
             title: "Product Overview",
+          },
+          {
+            link: "/cn/Real-time-Messaging/release_cpp_rtm?platform=Linux",
+            title: "Release Notes",
           },
         ],
         RESTful: [
