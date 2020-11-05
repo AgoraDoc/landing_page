@@ -11,7 +11,7 @@ const product2PlatformMap = {
     "Electron",
     "Unity",
     "Flutter",
-    "ReactNative",
+    "React Native",
     "Cocos Creator",
   ],
   Video: [
@@ -26,7 +26,7 @@ const product2PlatformMap = {
     "Electron",
     "Unity",
     "Flutter",
-    "ReactNative",
+    "React Native",
     "Cocos Creator",
   ],
   "Interactive Streaming": [
@@ -41,7 +41,7 @@ const product2PlatformMap = {
     "Electron",
     "Unity",
     "Flutter",
-    "ReactNative",
+    "React Native",
     "Cocos Creator",
   ], // 互动直播
   极速直播: [
@@ -56,7 +56,7 @@ const product2PlatformMap = {
     "Electron",
     "Unity",
     "Flutter",
-    "ReactNative",
+    "React Native",
     "Cocos Creator",
   ],
   "cloud-recording": ["All Platforms", "RESTful"], // 云端录制
@@ -88,7 +88,7 @@ const product2PlatformMap = {
     "Electron",
     "Unity",
     "Flutter",
-    "ReactNative",
+    "React Native",
     "Cocos Creator",
   ], // 水晶球
   "Agora Platform": [
@@ -104,7 +104,7 @@ const product2PlatformMap = {
     "Electron",
     "Unity",
     "Flutter",
-    "ReactNative",
+    "React Native",
     "Cocos Creator",
   ],
   "Aliyun Audio Moderation": ["All Platforms", "RESTful"],

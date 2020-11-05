@@ -1286,779 +1286,964 @@ const landingPageData = {
   },
   Video: {
     cn: {
-      desc: "",
+      desc: "视频通话 SDK 可实现一对一单聊、多人群聊，支持纯语音通话和音视频通话。通过 Agora RTC SDK，你可以实现视频通话；通过服务端 RESTful API，你可以管理项目和频道。",
       overview: {
         Android: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Video/product_video?platform=Android",
+            title: "产品概述",
+          },
+          {
+            link: "/cn/Video/billing_rtc?platform=Android",
+            title: "计费说明",
+          },
+          {
+            link: "/cn/Video/release_android_video?platform=Android",
+            title: "发版说明",
           },
         ],
         iOS: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Video/product_video?platform=iOS",
+            title: "产品概述",
+          },
+          {
+            link: "/cn/Video/billing_rtc?platform=iOS",
+            title: "计费说明",
+          },
+          {
+            link: "/cn/Video/release_ios_video?platform=iOS",
+            title: "发版说明",
           },
         ],
         macOS: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Video/product_video?platform=macOS",
+            title: "产品概述",
+          },
+          {
+            link: "/cn/Video/billing_rtc?platform=macOS",
+            title: "计费说明",
+          },
+          {
+            link: "/cn/Video/release_mac_video?platform=macOS",
+            title: "发版说明",
           },
         ],
         Web: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Video/product_video?platform=Web",
+            title: "产品概述",
+          },
+          {
+            link: "/cn/Video/billing_rtc?platform=Web",
+            title: "计费说明",
+          },
+          {
+            link: "/cn/Video/release_web_video?platform=Web",
+            title: "发版说明",
           },
         ],
         微信小程序: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Video/product_video?platform=微信小程序",
+            title: "产品概述",
+          },
+          {
+            link: "/cn/Video/billing_rtc?platform=微信小程序",
+            title: "计费说明",
+          },
+          {
+            link: "/cn/Video/release_mini_video?platform=微信小程序",
+            title: "发版说明",
           },
         ],
         Windows: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Video/product_video?platform=Windows",
+            title: "产品概述",
           },
-        ],
-        RESTful: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Video/billing_rtc?platform=Windows",
+            title: "计费说明",
+          },
+          {
+            link: "/cn/Video/release_windows_video?platform=Windows",
+            title: "发版说明",
           },
         ],
         Electron: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Video/product_video?platform=Electron",
+            title: "发版说明",
+          },
+          {
+            link: "/cn/Video/billing_rtc?platform=Electron",
+            title: "计费说明",
+          },
+          {
+            link: "/cn/Video/release_electron_video?platform=Electron",
+            title: "发版说明",
           },
         ],
         Unity: [
           {
-            link: "",
+            link: "/cn/Video/product_video?platform=Unity",
             title: "",
+          },
+          {
+            link: "/cn/Video/billing_rtc?platform=Unity",
+            title: "计费说明",
+          },
+          {
+            link: "/cn/Video/release_unity_video?platform=Unity",
+            title: "发版说明",
           },
         ],
         Flutter: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Video/product_video?platform=Flutter",
+            title: "产品概述",
+          },
+          {
+            link: "/cn/Video/billing_rtc?platform=Flutter",
+            title: "计费说明",
+          },
+          {
+            link: "/cn/Video/release_flutter_video?platform=Flutter",
+            title: "发版说明",
           },
         ],
         ReactNative: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Video/product_video?platform=React%20Native",
+            title: "产品概述",
           },
-        ],
-        "Cocos Creator": [
           {
-            link: "",
-            title: "",
+            link: "/cn/Video/billing_rtc?platform=React%20Native",
+            title: "计费说明",
+          },
+          {
+            link: "/cn/Video/release_react_native_video?platform=React%20Native",
+            title: "发版说明",
           },
         ],
       },
       downloads: {
         Android: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Video/downloads?platform=Android",
+            title: "SDK",
+          },
+          {
+            link: "https://github.com/AgoraIO/Basic-Video-Call",
+            title: "示例代码",
           },
         ],
         iOS: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Video/downloads?platform=iOS",
+            title: "SDK",
+          },
+          {
+            link: "https://github.com/AgoraIO/Basic-Video-Call",
+            title: "示例代码",
           },
         ],
         macOS: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Video/downloads?platform=macOS",
+            title: "SDK",
+          },
+          {
+            link: "https://github.com/AgoraIO/Basic-Video-Call",
+            title: "示例代码",
           },
         ],
         Web: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Video/downloads?platform=Web",
+            title: "SDK",
+          },
+          {
+            link: "https://github.com/AgoraIO/Basic-Video-Call",
+            title: "示例代码",
           },
         ],
         微信小程序: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Video/downloads?platform=微信小程序",
+            title: "SDK",
+          },
+          {
+            link: "https://github.com/AgoraIO/Agora-Miniapp-Tutorial",
+            title: "示例代码",
           },
         ],
         Windows: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Video/downloads?platform=Windows",
+            title: "SDK",
           },
-        ],
-        RESTful: [
           {
-            link: "",
-            title: "",
+            link: "https://github.com/AgoraIO/Basic-Video-Call",
+            title: "示例代码",
           },
         ],
         Electron: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Video/downloads?platform=Electron",
+            title: "SDK",
+          },
+          {
+            link: "https://github.com/AgoraIO-Community/Agora-Electron-Quickstart",
+            title: "示例代码",
           },
         ],
         Unity: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Video/downloads?platform=Unity",
+            title: "SDK",
+          },
+          {
+            link: "https://github.com/AgoraIO/Agora-Unity-Quickstart",
+            title: "示例代码",
           },
         ],
         Flutter: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Video/downloads?platform=Flutter",
+            title: "SDK",
+          },
+          {
+            link: "https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart",
+            title: "示例代码",
           },
         ],
         ReactNative: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Video/downloads?platform=ReactNative",
+            title: "SDK",
           },
-        ],
-        "Cocos Creator": [
           {
-            link: "",
-            title: "",
+            link: "https://github.com/AgoraIO-Community/Agora-RN-Quickstart",
+            title: "示例代码",
           },
         ],
       },
       contact: [
         {
-          link: "",
-          title: "",
+          link: "https://dev.agora.io/",
+          title: "开发者社区",
+        },
+        {
+          link: "https://agora-ticket.agora.io/",
+          title: "提交工单",
         },
       ],
       quickStart: {
         Android: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/Video/start_call_android?platform=Android",
+          title: "快速开始",
+          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的视频通话。",
         },
 
         iOS: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/Video/start_call_ios?platform=iOS",
+          title: "快速开始",
+          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的视频通话。",
         },
 
         macOS: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/Video/start_call_mac?platform=macOS",
+          title: "快速开始",
+          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的视频通话。",
         },
 
         Web: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/Video/start_call_web?platform=Web",
+          title: "快速开始",
+          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的视频通话。",
         },
 
         微信小程序: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/Video/start_call_wechat?platform=微信小程序",
+          title: "快速开始",
+          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的视频通话。",
         },
 
         Windows: {
-          link: "",
-          title: "",
-          desc: "",
-        },
-
-        RESTful: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/Video/start_call_windows?platform=Windows",
+          title: "快速开始",
+          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的视频通话。",
         },
 
         Electron: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/Video/start_call_electron?platform=Electron",
+          title: "快速开始",
+          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的视频通话。",
         },
 
         Unity: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/Video/start_call_unity?platform=Unity",
+          title: "快速开始",
+          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的视频通话。",
         },
 
         Flutter: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/Video/start_call_flutter?platform=Flutter",
+          title: "快速开始",
+          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的视频通话。",
         },
 
         ReactNative: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/Video/start_call_react_native?platform=React%20Native",
+          title: "快速开始",
+          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的视频通话。",
         },
 
-        "Cocos Creator": {
-          link: "",
-          title: "",
-          desc: "",
-        },
       },
       api: {
         Android: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/Video/API%20Reference/java/index.html",
+          title: "API 文档",
+          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
         },
 
         iOS: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/Video/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
+          title: "API 文档",
+          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
         },
 
         macOS: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/Video/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
+          title: "API 文档",
+          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
         },
 
         Web: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/Video/API%20Reference/web/index.html",
+          title: "API 文档",
+          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
         },
 
         微信小程序: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/Video/API%20Reference/wechat/index.html",
+          title: "API 文档",
+          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
         },
 
         Windows: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/Video/API%20Reference/cpp/index.html",
+          title: "API 文档",
+          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
         },
 
         RESTful: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/rtc/restfulapi/",
+          title: "API 文档",
+          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
         },
 
         Electron: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/Video/API%20Reference/electron/index.html",
+          title: "API 文档",
+          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
         },
 
         Unity: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/Video/API%20Reference/unity/index.html",
+          title: "API 文档",
+          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
         },
 
         Flutter: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/Video/API%20Reference/flutter/index.html",
+          title: "API 文档",
+          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
         },
 
         ReactNative: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/Video/API%20Reference/react_native/index.html",
+          title: "API 文档",
+          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
         },
 
-        "Cocos Creator": {
-          link: "",
-          title: "",
-          desc: "",
-        },
       },
       articles: {
         Android: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/cn/Video/token_server?platform=Android",
+            title: "生成 Token",
+            desc: "Token 是加入频道时的鉴权，本文介绍如何生成 Token。",
+          },
+          {
+            link: "/cn/Video/video_profile_android?platform=Android",
+            title: "设置视频属性",
+            desc: "本文介绍如何设置用户视频的编码属性。",
+          },
+          {
+            link: "/cn/Video/screensharing_android?platform=Android",
+            title: "屏幕共享",
+            desc: "本文介绍如何在音视频互动时屏幕共享。",
           },
         ],
         iOS: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/cn/Video/token_server?platform=iOS",
+            title: "生成 Token",
+            desc: "Token 是加入频道时的鉴权，本文介绍如何生成 Token。",
+          },
+          {
+            link: "/cn/Video/video_profile_apple?platform=iOS",
+            title: "设置视频属性",
+            desc: "本文介绍如何设置用户视频的编码属性。",
+          },
+          {
+            link: "/cn/Video/screensharing_ios?platform=iOS",
+            title: "屏幕共享",
+            desc: "本文介绍如何在音视频互动时屏幕共享。",
           },
         ],
         macOS: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/cn/Video/token_server?platform=macOS",
+            title: "生成 Token",
+            desc: "Token 是加入频道时的鉴权，本文介绍如何生成 Token。",
+          },
+          {
+            link: "/cn/Video/video_profile_apple?platform=macOS",
+            title: "设置视频属性",
+            desc: "本文介绍如何设置用户视频的编码属性。",
+          },
+          {
+            link: "/cn/Video/screensharing_mac?platform=macOS",
+            title: "屏幕共享",
+            desc: "本文介绍如何在音视频互动时屏幕共享。",
           },
         ],
         Web: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/cn/Video/token_server?platform=Web",
+            title: "生成 Token",
+            desc: "Token 是加入频道时的鉴权，本文介绍如何生成 Token。",
+          },
+          {
+            link: "/cn/Video/video_profile_web?platform=Web",
+            title: "设置视频属性",
+            desc: "本文介绍如何设置用户视频的编码属性。",
+          },
+          {
+            link: "/cn/Video/screensharing_web?platform=Web",
+            title: "屏幕共享",
+            desc: "本文介绍如何在音视频互动时屏幕共享。",
           },
         ],
         微信小程序: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/cn/Video/token_server?platform=微信小程序",
+            title: "生成 Token",
+            desc: "Token 是加入频道时的鉴权，本文介绍如何生成 Token。",
+          },
+          {
+            link: "/cn/Video/faq/wechat",
+            title: "如何处理小程序 SDK 常见问题？",
+            desc: "本文介绍在使用小程序 SDK 过程中的常见问题及解决方案。",
+          },
+          {
+            link: "/cn/Video/error_rtc?platform=All%20Platforms#微信小程序",
+            title: "错误码和警告码",
+            desc: "本文介绍在调用 Agora API 过程中，SDK 可能会返回的错误码和警告码。",
           },
         ],
         Windows: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/cn/Video/token_server?platform=Windows",
+            title: "生成 Token",
+            desc: "Token 是加入频道时的鉴权，本文介绍如何生成 Token。",
           },
-        ],
-        RESTful: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/cn/Video/video_profile_windows?platform=Windows",
+            title: "设置视频属性",
+            desc: "本文介绍如何设置用户视频的编码属性。",
           },
-        ],
-        Electron: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/cn/Video/screensharing_windows?platform=Windows",
+            title: "屏幕共享",
+            desc: "本文介绍如何在音视频互动时屏幕共享。",
           },
         ],
         Unity: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/cn/Video/token_server?platform=Unity",
+            title: "生成 Token",
+            desc: "Token 是加入频道时的鉴权，本文介绍如何生成 Token。",
           },
-        ],
-        Flutter: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/cn/Video/raw_data_video_unity?platform=Unity",
+            title: "原始视频数据",
+            desc: "本文介绍如何获取原始视频数据。",
           },
-        ],
-        ReactNative: [
           {
-            link: "",
-            title: "",
-            desc: "",
-          },
-        ],
-        "Cocos Creator": [
-          {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/cn/Video/custom_video_unity?platform=Unity",
+            title: "自定义视频采集和渲染",
+            desc: "本文介绍如何使用自定义的视频源采集或使用自定义的渲染器渲染视频数据。",
           },
         ],
       },
     },
     en: {
-      desc: "",
+      desc: "The Video SDK enables easy and convenient one-to-one and one-to-many calls and supports the voice-only and voice and video modes. //TODO通过 Agora RTC SDK，你可以实现视频通话；通过服务端 RESTful API，你可以管理项目和频道。",
       overview: {
         Android: [
           {
-            link: "",
-            title: "",
+            link: "/en/Video/product_video?platform=Android",
+            title: "Product Overview",
+          },
+          {
+            link: "/en/Video/billing_rtc?platform=Android",
+            title: "Billing",
+          },
+          {
+            link: "/en/Video/release_android_video?platform=Android",
+            title: "Release Notes",
           },
         ],
         iOS: [
           {
-            link: "",
-            title: "",
+            link: "/en/Video/product_video?platform=iOS",
+            title: "Product Overview",
+          },
+          {
+            link: "/en/Video/billing_rtc?platform=iOS",
+            title: "Billing",
+          },
+          {
+            link: "/en/Video/release_ios_video?platform=iOS",
+            title: "Release Notes",
           },
         ],
         macOS: [
           {
-            link: "",
-            title: "",
+            link: "/en/Video/product_video?platform=macOS",
+            title: "Product Overview",
+          },
+          {
+            link: "/en/Video/billing_rtc?platform=macOS",
+            title: "Billing",
+          },
+          {
+            link: "/en/Video/release_mac_video?platform=macOS",
+            title: "Release Notes",
           },
         ],
         Web: [
           {
-            link: "",
-            title: "",
+            link: "/en/Video/product_video?platform=Web",
+            title: "Product Overview",
           },
-        ],
-        微信小程序: [
           {
-            link: "",
-            title: "",
+            link: "/en/Video/billing_rtc?platform=Web",
+            title: "Billing",
+          },
+          {
+            link: "/en/Video/release_web_video?platform=Web",
+            title: "Release Notes",
           },
         ],
         Windows: [
           {
-            link: "",
-            title: "",
+            link: "/en/Video/product_video?platform=Windows",
+            title: "Product Overview",
           },
-        ],
-        RESTful: [
           {
-            link: "",
-            title: "",
+            link: "/en/Video/billing_rtc?platform=Windows",
+            title: "Billing",
+          },
+          {
+            link: "/en/Video/release_windows_video?platform=Windows",
+            title: "Release Notes",
           },
         ],
         Electron: [
           {
-            link: "",
-            title: "",
+            link: "/en/Video/product_video?platform=Electron",
+            title: "Product Overview",
+          },
+          {
+            link: "/en/Video/billing_rtc?platform=Electron",
+            title: "Billing",
+          },
+          {
+            link: "/en/Video/release_electron_video?platform=Electron",
+            title: "Release Notes",
           },
         ],
         Unity: [
           {
-            link: "",
-            title: "",
+            link: "/en/Video/product_video?platform=Unity",
+            title: "Product Overview",
+          },
+          {
+            link: "/en/Video/billing_rtc?platform=Unity",
+            title: "Billing",
+          },
+          {
+            link: "/en/Video/release_unity_video?platform=Unity",
+            title: "Release Notes",
           },
         ],
         Flutter: [
           {
-            link: "",
-            title: "",
+            link: "/en/Video/product_video?platform=Flutter",
+            title: "Product Overview",
+          },
+          {
+            link: "/en/Video/billing_rtc?platform=Flutter",
+            title: "Billing",
+          },
+          {
+            link: "/en/Video/release_flutter_video?platform=Flutter",
+            title: "Release Notes",
           },
         ],
         ReactNative: [
           {
-            link: "",
-            title: "",
+            link: "/en/Video/product_video?platform=React%20Native",
+            title: "Product Overview",
           },
-        ],
-        "Cocos Creator": [
           {
-            link: "",
-            title: "",
+            link: "/en/Video/billing_rtc?platform=React%20Native",
+            title: "Billing",
+          },
+          {
+            link: "/en/Video/release_react_native_video?platform=React%20Native",
+            title: "Release Notes",
           },
         ],
       },
       downloads: {
         Android: [
           {
-            link: "",
-            title: "",
+            link: "/en/Video/downloads?platform=Android",
+            title: "SDK",
+          },
+          {
+            link: "https://github.com/AgoraIO/Basic-Video-Call",
+            title: "Code Samples",
           },
         ],
         iOS: [
           {
-            link: "",
-            title: "",
+            link: "/en/Video/downloads?platform=iOS",
+            title: "SDK",
+          },
+          {
+            link: "https://github.com/AgoraIO/Basic-Video-Call",
+            title: "Code Samples",
           },
         ],
         macOS: [
           {
-            link: "",
-            title: "",
+            link: "/en/Video/downloads?platform=macOS",
+            title: "SDK",
+          },
+          {
+            link: "https://github.com/AgoraIO/Basic-Video-Call",
+            title: "Code Samples",
           },
         ],
         Web: [
           {
-            link: "",
-            title: "",
+            link: "/en/Video/downloads?platform=Web",
+            title: "SDK",
           },
-        ],
-        微信小程序: [
           {
-            link: "",
-            title: "",
+            link: "https://github.com/AgoraIO/Basic-Video-Call",
+            title: "Code Samples",
           },
         ],
         Windows: [
           {
-            link: "",
-            title: "",
+            link: "/en/Video/downloads?platform=Windows",
+            title: "SDK",
           },
-        ],
-        RESTful: [
           {
-            link: "",
-            title: "",
+            link: "https://github.com/AgoraIO/Basic-Video-Call",
+            title: "Code Samples",
           },
         ],
         Electron: [
           {
-            link: "",
-            title: "",
+            link: "/en/Video/downloads?platform=Electron",
+            title: "SDK",
+          },
+          {
+            link: "https://github.com/AgoraIO-Community/Agora-Electron-Quickstart",
+            title: "Code Samples",
           },
         ],
         Unity: [
           {
-            link: "",
-            title: "",
+            link: "/en/Video/downloads?platform=Unity",
+            title: "SDK",
+          },
+          {
+            link: "https://github.com/AgoraIO/Agora-Unity-Quickstart",
+            title: "Code Samples",
           },
         ],
         Flutter: [
           {
-            link: "",
-            title: "",
+            link: "/en/Video/downloads?platform=Flutter",
+            title: "SDK",
+          },
+          {
+            link: "https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart",
+            title: "Code Samples",
           },
         ],
         ReactNative: [
           {
-            link: "",
-            title: "",
+            link: "/en/Video/downloads?platform=ReactNative",
+            title: "SDK",
           },
-        ],
-        "Cocos Creator": [
           {
-            link: "",
-            title: "",
+            link: "https://github.com/AgoraIO-Community/Agora-RN-Quickstart",
+            title: "Code Samples",
           },
         ],
       },
       contact: [
         {
-          link: "",
-          title: "",
+          link: "https://dev.agora.io/",
+          title: "Developer Community",
+        },
+        {
+          link: "https://agora-ticket.agora.io/",
+          title: "Submit a ticket",
         },
       ],
       quickStart: {
         Android: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/Video/start_call_android?platform=Android",
+          title: "Quick start",
+          desc: "Describes how to use the Agora RTC SDK for basic video call.",
         },
 
         iOS: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/Video/start_call_ios?platform=iOS",
+          title: "Quick start",
+          desc: "Describes how to use the Agora RTC SDK for basic video call.",
         },
 
         macOS: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/Video/start_call_mac?platform=macOS",
+          title: "Quick start",
+          desc: "Describes how to use the Agora RTC SDK for basic video call.",
         },
 
         Web: {
-          link: "",
-          title: "",
-          desc: "",
-        },
-
-        微信小程序: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/Video/start_call_web?platform=Web",
+          title: "Quick start",
+          desc: "Describes how to use the Agora RTC SDK for basic video call.",
         },
 
         Windows: {
-          link: "",
-          title: "",
-          desc: "",
-        },
-
-        RESTful: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/Video/start_call_windows?platform=Windows",
+          title: "Quick start",
+          desc: "Describes how to use the Agora RTC SDK for basic video call.",
         },
 
         Electron: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/Video/start_call_electron?platform=Electron",
+          title: "Quick start",
+          desc: "Describes how to use the Agora RTC SDK for basic video call.",
         },
 
         Unity: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/Video/start_call_unity?platform=Unity",
+          title: "Quick start",
+          desc: "Describes how to use the Agora RTC SDK for basic video call.",
         },
 
         Flutter: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/Video/start_call_flutter?platform=Flutter",
+          title: "Quick start",
+          desc: "Describes how to use the Agora RTC SDK for basic video call.",
         },
 
         ReactNative: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/Video/start_call_react_native?platform=React%20Native",
+          title: "Quick start",
+          desc: "Describes how to use the Agora RTC SDK for basic video call.",
         },
 
-        "Cocos Creator": {
-          link: "",
-          title: "",
-          desc: "",
-        },
       },
       api: {
         Android: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/Video/API%20Reference/java/index.html",
+          title: "API Reference",
+          desc: "The Agora RTC SDK API documentation.",
         },
 
         iOS: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/Video/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
+          title: "API Reference",
+          desc: "The Agora RTC SDK API documentation.",
         },
 
         macOS: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/Video/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
+          title: "API Reference",
+          desc: "The Agora RTC SDK API documentation.",
         },
 
         Web: {
-          link: "",
-          title: "",
-          desc: "",
-        },
-
-        微信小程序: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/Video/API%20Reference/web/index.html",
+          title: "API Reference",
+          desc: "The Agora RTC SDK API documentation.",
         },
 
         Windows: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/Video/API%20Reference/cpp/index.html",
+          title: "API Reference",
+          desc: "The Agora RTC SDK API documentation.",
         },
 
         RESTful: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/rtc/restfulapi/",
+          title: "API Reference",
+          desc: "The Agora RTC SDK API documentation.",
         },
 
         Electron: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/Video/API%20Reference/electron/index.html",
+          title: "API Reference",
+          desc: "The Agora RTC SDK API documentation.",
         },
 
         Unity: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/Video/API%20Reference/unity/index.html",
+          title: "API Reference",
+          desc: "The Agora RTC SDK API documentation.",
         },
 
         Flutter: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/Video/API%20Reference/flutter/index.html",
+          title: "API Reference",
+          desc: "The Agora RTC SDK API documentation.",
         },
 
         ReactNative: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/Video/API%20Reference/react_native/index.html",
+          title: "API Reference",
+          desc: "The Agora RTC SDK API documentation.",
         },
 
-        "Cocos Creator": {
-          link: "",
-          title: "",
-          desc: "",
-        },
       },
       articles: {
         Android: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/en/Video/token_server?platform=Android",
+            title: "Generate a Token from Your Server",
+            desc: "Token is the authentication when joining a channel. This article introduces how to generate Token.",
+          },
+          {
+            link: "/en/Video/video_profile_android?platform=Android",
+            title: "Set the Video Profile",
+            desc: "Introduces how to set encoding profiles of user video.",
+          },
+          {
+            link: "/en/Video/screensharing_android?platform=Android",
+            title: "Share the Screen",
+            desc: "Introduces how to share the screen when interacting with audio and video.",
           },
         ],
         iOS: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/en/Video/token_server?platform=iOS",
+            title: "Generate a Token from Your Server",
+            desc: "Token is the authentication when joining a channel. This article introduces how to generate Token.",
+          },
+          {
+            link: "/en/Video/video_profile_apple?platform=iOS",
+            title: "Set the Video Profile",
+            desc: "Introduces how to set encoding profiles of user video.",
+          },
+          {
+            link: "/en/Video/screensharing_ios?platform=iOS",
+            title: "Share the Screen",
+            desc: "Introduces how to share the screen when interacting with audio and video.",
           },
         ],
         macOS: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/en/Video/token_server?platform=macOS",
+            title: "Generate a Token from Your Server",
+            desc: "Token is the authentication when joining a channel. This article introduces how to generate Token.",
+          },
+          {
+            link: "/en/Video/video_profile_apple?platform=macOS",
+            title: "Set the Video Profile",
+            desc: "Introduces how to set encoding profiles of user video.",
+          },
+          {
+            link: "/en/Video/screensharing_mac?platform=macOS",
+            title: "Share the Screen",
+            desc: "Introduces how to share the screen when interacting with audio and video.",
           },
         ],
         Web: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/en/Video/token_server?platform=Web",
+            title: "Generate a Token from Your Server",
+            desc: "Token is the authentication when joining a channel. This article introduces how to generate Token.",
           },
-        ],
-        微信小程序: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/en/Video/video_profile_web?platform=Web",
+            title: "Set the Video Profile",
+            desc: "Introduces how to set encoding profiles of user video.",
+          },
+          {
+            link: "/en/Video/screensharing_web?platform=Web",
+            title: "Share the Screen",
+            desc: "Introduces how to share the screen when interacting with audio and video.",
           },
         ],
         Windows: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/en/Video/token_server?platform=Windows",
+            title: "Generate a Token from Your Server",
+            desc: "Token is the authentication when joining a channel. This article introduces how to generate Token.",
           },
-        ],
-        RESTful: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/en/Video/video_profile_windows?platform=Windows",
+            title: "Set the Video Profile",
+            desc: "Introduces how to set encoding profiles of user video.",
           },
-        ],
-        Electron: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/en/Video/screensharing_windows?platform=Windows",
+            title: "Share the Screen",
+            desc: "Introduces how to share the screen when interacting with audio and video.",
           },
         ],
         Unity: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/en/Video/token_server?platform=Unity",
+            title: "Generate a Token from Your Server",
+            desc: "Token is the authentication when joining a channel. This article introduces how to generate Token.",
           },
-        ],
-        Flutter: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/en/Video/raw_data_video_unity?platform=Unity",
+            title: "Raw Video Data",
+            desc: "Introduces how to get the raw audio data.",
           },
-        ],
-        ReactNative: [
           {
-            link: "",
-            title: "",
-            desc: "",
-          },
-        ],
-        "Cocos Creator": [
-          {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/en/Video/custom_video_unity?platform=Unity",
+            title: "Custom Video Source and Renderer",
+            desc: "Introduces how to use custom audio source and custom audio renderer.",
           },
         ],
       },
