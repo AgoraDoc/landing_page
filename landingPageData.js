@@ -2372,7 +2372,7 @@ const landingPageData = {
             title: "发版说明",
           },
           {
-            link: "/cn/Recording/billing_recording?platform=All%20Platforms",
+            link: "/cn/Recording/billing_recording?platform=Linux",
             title: "计费说明",
           },
         ],
@@ -2391,12 +2391,12 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "https://docs.agora.io/cn/Agora%20Platform/community",
+          link: "https://dev.agora.io/",
           title: "开发者社区",
         },
         {
           link: "https://agora-ticket.agora.io/",
-          title: "碰到问题？提交工单，我们会帮您解决",
+          title: "提交工单",
         },
       ],
       quickStart: {
@@ -2446,7 +2446,7 @@ const landingPageData = {
             title: "Release Notes",
           },
           {
-            link: "/en/Recording/billing_recording?platform=All%20Platforms",
+            link: "/en/Recording/billing_recording?platform=Linux",
             title: "Billing",
           },
         ],
@@ -3592,22 +3592,14 @@ const landingPageData = {
       overview: {
         Android: [
           {
-            link: "/cn/Interactive%20Broadcast/single_host_overview?platform=All%20Platforms",
+            link: "/cn/Single%20Host/single_host_overview?platform=Android",
             title: "场景概述",
-          },
-          {
-            link: "/cn/Single%20Host/downloads?platform=Android",
-            title: "App 体验",
           },
         ],
         iOS: [
           {
-            link: "/cn/Interactive%20Broadcast/single_host_overview?platform=All%20Platforms",
+            link: "/cn/Single%20Host/single_host_overview?platform=iOS",
             title: "场景概述",
-          },
-          {
-            link: "/cn/Single%20Host/downloads?platform=iOS",
-            title: "App 体验",
           },
         ],
       },
@@ -3615,7 +3607,7 @@ const landingPageData = {
         Android: [
           {
             link: "/cn/Single%20Host/downloads?platform=Android",
-            title: "SDK 下载",
+            title: "App 体验",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
@@ -3625,7 +3617,7 @@ const landingPageData = {
         iOS: [
           {
             link: "/cn/Single%20Host/downloads?platform=iOS",
-            title: "SDK 下载",
+            title: "App 体验",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
@@ -3645,12 +3637,12 @@ const landingPageData = {
       ],
       quickStart: {
         Android: {
-          link: "/cn/Interactive%20Broadcast/run_agora_live_android?platform=Android",
+          link: "/cn/Single%20Host/run_agora_live_android?platform=Android",
           title: "快速跑通示例项目",
           desc: "本文介绍如何跑通单主播直播的示例项目。",
         },
         iOS: {
-          link: "/cn/Interactive%20Broadcast/run__agora_live_ios?platform=iOS",
+          link: "/cn/Single%20Host/run__agora_live_ios?platform=iOS",
           title: "快速跑通示例项目",
           desc: "本文介绍如何跑通单主播直播的示例项目。",
         },
@@ -3670,14 +3662,14 @@ const landingPageData = {
       articles: {
         Android: [
           {
-            link: "/cn/Interactive%20Broadcast/single_host_android?platform=Android",
+            link: "/cn/Single%20Host/single_host_android?platform=Android",
             title: "功能实现",
             desc: "本文介绍如何通过 Agora RTC SDK、Agora RTM SDK、第三方美颜 SDK 等产品实现基础的单主播直播场景。",
           },
         ],
         iOS: [
           {
-            link: "/cn/Interactive%20Broadcast/single_host_ios?platform=iOS",
+            link: "/cn/Single%20Host/single_host_ios?platform=iOS",
             title: "功能实现",
             desc: "本文介绍如何通过 Agora RTC SDK、Agora RTM SDK、第三方美颜 SDK 等产品实现基础的单主播直播场景。",
           },
@@ -3689,22 +3681,14 @@ const landingPageData = {
       overview: {
         Android: [
           {
-            link: "/en/Interactive%20Broadcast/single_host_overview?platform=All%20Platforms",
+            link: "/en/Single%20Host/single_host_overview?platform=Android",
             title: "Introduction",
-          },
-          {
-            link: "/en/Single%20Host/downloads?platform=Android",
-            title: "Try the app",
           },
         ],
         iOS: [
           {
-            link: "/en/Interactive%20Broadcast/single_host_overview?platform=All%20Platforms",
+            link: "/en/Single%20Host/single_host_overview?platform=iOS",
             title: "Introduction",
-          },
-          {
-            link: "/en/Single%20Host/downloads?platform=iOS",
-            title: "Try the app",
           },
         ],
       },
@@ -3712,7 +3696,7 @@ const landingPageData = {
         Android: [
           {
             link: "/en/Single%20Host/downloads?platform=Android",
-            title: "SDK Downloads",
+            title: "Try the app",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
@@ -3722,7 +3706,7 @@ const landingPageData = {
         iOS: [
           {
             link: "/en/Single%20Host/downloads?platform=iOS",
-            title: "SDK Downloads",
+            title: "Try the app",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
@@ -3742,12 +3726,12 @@ const landingPageData = {
       ],
       quickStart: {
         Android: {
-          link: "/en/Interactive%20Broadcast/run_agora_live_android?platform=Android",
+          link: "/en/Single%20Host/run_agora_live_android?platform=Android",
           title: "Run the sample project",
           desc: "Use this guide to get started with the Single Host sample project quickly.",
         },
         iOS: {
-          link: "/en/Interactive%20Broadcast/run_agora_live_ios?platform=iOS",
+          link: "/en/Single%20Host/run_agora_live_ios?platform=iOS",
           title: "Run the sample project",
           desc: "Use this guide to get started with the Single Host sample project quickly.",
         },
@@ -3767,14 +3751,14 @@ const landingPageData = {
       articles: {
         Android: [
           {
-            link: "/en/Interactive%20Broadcast/single_host_android?platform=Android",
+            link: "/en/Single%20Host/single_host_android?platform=Android",
             title: "Implementation",
             desc: "This guide describes how to implement a client with the Agora RTC SDK, Agora RTM SDK, and third-party image enhancement SDK.",
           },
         ],
         iOS: [
           {
-            link: "/en/Interactive%20Broadcast/single_host_ios?platform=iOS",
+            link: "/en/Single%20Host/single_host_ios?platform=iOS",
             title: "Implementation",
             desc: "This guide describes how to implement a client with the Agora RTC SDK, Agora RTM SDK, and third-party image enhancement SDK.",
           },
@@ -3788,22 +3772,14 @@ const landingPageData = {
       overview: {
         Android: [
           {
-            link: "/cn/Interactive%20Broadcast/co_host_overview?platform=All%20Platforms",
+            link: "/cn/Multiple%20Hosts/co_host_overview?platform=Android",
             title: "场景概述",
-          },
-          {
-            link: "/cn/Multiple%20Hosts/downloads?platform=Android",
-            title: "App 体验",
           },
         ],
         iOS: [
           {
-            link: "/cn/Interactive%20Broadcast/co_host_overview?platform=All%20Platforms",
+            link: "/cn/Multiple%20Hosts/co_host_overview?platform=iOS",
             title: "场景概述",
-          },
-          {
-            link: "/cn/Multiple%20Hosts/downloads?platform=iOS",
-            title: "App 体验",
           },
         ],
       },
@@ -3811,7 +3787,7 @@ const landingPageData = {
         Android: [
           {
             link: "/cn/Multiple%20Hosts/downloads?platform=Android",
-            title: "SDK 下载",
+            title: "App 体验",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
@@ -3821,7 +3797,7 @@ const landingPageData = {
         iOS: [
           {
             link: "/cn/Multiple%20Hosts/downloads?platform=iOS",
-            title: "SDK 下载",
+            title: "App 体验",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
@@ -3841,12 +3817,12 @@ const landingPageData = {
       ],
       quickStart: {
         Android: {
-          link: "/cn/Interactive%20Broadcast/run_agora_live_android?platform=Android",
+          link: "/cn/Multiple%20Hosts/run_agora_live_android?platform=Android",
           title: "快速跑通示例项目",
           desc: "本文介绍如何跑通多人连麦直播的示例项目。",
         },
         iOS: {
-          link: "/cn/Interactive%20Broadcast/run__agora_live_ios?platform=iOS",
+          link: "/cn/Multiple%20Hosts/run__agora_live_ios?platform=iOS",
           title: "快速跑通示例项目",
           desc: "本文介绍如何跑通多人连麦直播的示例项目。",
         },
@@ -3866,14 +3842,14 @@ const landingPageData = {
       articles: {
         Android: [
           {
-            link: "/cn/Interactive%20Broadcast/co_host_android?platform=Android",
+            link: "/cn/Multiple%20Hosts/co_host_android?platform=Android",
             title: "功能实现",
             desc: "本文介绍如何通过 Agora RTC SDK、Agora RTM SDK、第三方美颜 SDK 等产品实现基础的多人连麦直播场景。",
           },
         ],
         iOS: [
           {
-            link: "/cn/Interactive%20Broadcast/single_host_ios?platform=iOS",
+            link: "/cn/Multiple%20Hosts/single_host_ios?platform=iOS",
             title: "功能实现",
             desc: "本文介绍如何通过 Agora RTC SDK、Agora RTM SDK、第三方美颜 SDK 等产品实现基础的多人连麦直播场景。",
           },
@@ -3885,22 +3861,14 @@ const landingPageData = {
       overview: {
         Android: [
           {
-            link: "/en/Interactive%20Broadcast/co_host_overview?platform=All%20Platforms",
+            link: "/en/Multiple%20Hosts/co_host_overview?platform=Android",
             title: "Introduction",
-          },
-          {
-            link: "/en/Multiple%20Hosts/downloads?platform=Android",
-            title: "Try the app",
           },
         ],
         iOS: [
           {
-            link: "/en/Interactive%20Broadcast/co_host_overview?platform=All%20Platforms",
+            link: "/en/Multiple%20Hosts/co_host_overview?platform=iOS",
             title: "Introduction",
-          },
-          {
-            link: "/en/Multiple%20Hosts/downloads?platform=iOS",
-            title: "Try the app",
           },
         ],
       },
@@ -3908,7 +3876,7 @@ const landingPageData = {
         Android: [
           {
             link: "/en/Multiple%20Hosts/downloads?platform=Android",
-            title: "SDK Downloads",
+            title: "Try the app",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
@@ -3918,7 +3886,7 @@ const landingPageData = {
         iOS: [
           {
             link: "/en/Multiple%20Hosts/downloads?platform=iOS",
-            title: "SDK Downloads",
+            title: "Try the app",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
@@ -3938,12 +3906,12 @@ const landingPageData = {
       ],
       quickStart: {
         Android: {
-          link: "/en/Interactive%20Broadcast/run_agora_live_android?platform=Android",
+          link: "/en/Multiple%20Hosts/run_agora_live_android?platform=Android",
           title: "Run the sample project",
           desc: "Use this guide to get started with the Multiple Hosts sample project quickly.",
         },
         iOS: {
-          link: "/en/Interactive%20Broadcast/run_agora_live_android?platform=iOS",
+          link: "/en/Multiple%20Hosts/run_agora_live_android?platform=iOS",
           title: "Run the sample project",
           desc: "Use this guide to get started with the Multiple Hosts sample project quickly.",
         },
@@ -3963,14 +3931,14 @@ const landingPageData = {
       articles: {
         Android: [
           {
-            link: "/en/Interactive%20Broadcast/co_host_android?platform=Android",
+            link: "/en/Multiple%20Hosts/co_host_android?platform=Android",
             title: "Implementation",
             desc: "This guide describes how to implement a client with the Agora RTC SDK, Agora RTM SDK, and third-party image enhancement SDK.",
           },
         ],
         iOS: [
           {
-            link: "/en/Interactive%20Broadcast/co_host_ios?platform=iOS",
+            link: "/en/Multiple%20Hosts/co_host_ios?platform=iOS",
             title: "Implementation",
             desc: "This guide describes how to implement a client with the Agora RTC SDK, Agora RTM SDK, and third-party image enhancement SDK.",
           },
@@ -3984,22 +3952,14 @@ const landingPageData = {
       overview: {
         Android: [
           {
-            link: "/cn/Interactive%20Broadcast/pk_host_overview?platform=All%20Platforms",
+            link: "/cn/PK%20Host/pk_host_overview?platform=Android",
             title: "场景概述",
-          },
-          {
-            link: "/cn/PK%20Host/downloads?platform=Android",
-            title: "App 体验",
           },
         ],
         iOS: [
           {
-            link: "https://docs.agora.io/cn/Interactive%20Broadcast/pk_host_overview?platform=All%20Platforms",
+            link: "/cn/PK%20Host/pk_host_overview?platform=iOS",
             title: "场景概述",
-          },
-          {
-            link: "/cn/PK%20Host/downloads?platform=iOS",
-            title: "App 体验",
           },
         ],
       },
@@ -4007,7 +3967,7 @@ const landingPageData = {
         Android: [
           {
             link: "/cn/PK%20Host/downloads?platform=Android",
-            title: "SDK 下载",
+            title: "App 体验",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
@@ -4017,7 +3977,7 @@ const landingPageData = {
         iOS: [
           {
             link: "/cn/PK%20Host/downloads?platform=iOS",
-            title: "SDK 下载",
+            title: "App 体验",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
@@ -4037,12 +3997,12 @@ const landingPageData = {
       ],
       quickStart: {
         Android: {
-          link: "/cn/Interactive%20Broadcast/run_agora_live_android?platform=Android",
+          link: "/cn/PK%20Host/run_agora_live_android?platform=Android",
           title: "快速跑通示例项目",
           desc: "本文介绍如何跑通视频 PK 连麦的示例项目。",
         },
         iOS: {
-          link: "/cn/Interactive%20Broadcast/run_agora_live_android?platform=iOS",
+          link: "/cn/PK%20Host/run_agora_live_android?platform=iOS",
           title: "快速跑通示例项目",
           desc: "本文介绍如何跑通视频 PK 连麦的示例项目。",
         },
@@ -4062,14 +4022,14 @@ const landingPageData = {
       articles: {
         Android: [
           {
-            link: "/cn/Interactive%20Broadcast/pk_host_android?platform=Android",
+            link: "/cn/PK%20Host/pk_host_android?platform=Android",
             title: "功能实现",
             desc: "本文介绍如何通过 Agora RTC SDK、Agora RTM SDK、第三方美颜 SDK 等产品实现基础的视频 PK 连麦场景。",
           },
         ],
         iOS: [
           {
-            link: "/cn/Interactive%20Broadcast/pk_host_ios?platform=iOS",
+            link: "/cn/PK%20Host/pk_host_ios?platform=iOS",
             title: "功能实现",
             desc: "本文介绍如何通过 Agora RTC SDK、Agora RTM SDK、第三方美颜 SDK 等产品实现基础的视频 PK 连麦场景。",
           },
@@ -4081,22 +4041,14 @@ const landingPageData = {
       overview: {
         Android: [
           {
-            link: "/en/Interactive%20Broadcast/pk_host_overview?platform=All%20Platforms",
+            link: "/en/PK%20Host/pk_host_overview?platform=Android",
             title: "Introduction",
-          },
-          {
-            link: "/en/PK%20Host/downloads?platform=Android",
-            title: "Try the app",
           },
         ],
         iOS: [
           {
-            link: "/en/Interactive%20Broadcast/pk_host_overview?platform=All%20Platforms",
+            link: "/en/PK%20Host/pk_host_overview?platform=iOS",
             title: "Introduction",
-          },
-          {
-            link: "/en/PK%20Host/downloads?platform=iOS",
-            title: "Try the app",
           },
         ],
       },
@@ -4104,7 +4056,7 @@ const landingPageData = {
         Android: [
           {
             link: "/en/PK%20Host/downloads?platform=Android",
-            title: "SDK Downloads",
+            title: "Try the app",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
@@ -4114,7 +4066,7 @@ const landingPageData = {
         iOS: [
           {
             link: "/en/PK%20Host/downloads?platform=iOS",
-            title: "SDK Downloads",
+            title: "Try the app",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
@@ -4134,12 +4086,12 @@ const landingPageData = {
       ],
       quickStart: {
         Android: {
-          link: "/en/Interactive%20Broadcast/run_agora_live_android?platform=Android",
+          link: "/en/PK%20Host/run_agora_live_android?platform=Android",
           title: "Run the sample project",
           desc: "Use this guide to get started with the PK Host sample project quickly.",
         },
         iOS: {
-          link: "/en/Interactive%20Broadcast/run_agora_live_android?platform=iOS",
+          link: "/en/PK%20Host/run_agora_live_android?platform=iOS",
           title: "Run the sample project",
           desc: "Use this guide to get started with the PK Host sample project quickly.",
         },
@@ -4159,14 +4111,14 @@ const landingPageData = {
       articles: {
         Android: [
           {
-            link: "/en/Interactive%20Broadcast/pk_host_android?platform=Android",
+            link: "/en/PK%20Host/pk_host_android?platform=Android",
             title: "Implementation",
             desc: "This guide describes how to implement a client with the Agora RTC SDK, Agora RTM SDK, and third-party image enhancement SDK.",
           },
         ],
         iOS: [
           {
-            link: "/en/Interactive%20Broadcast/pk_host_ios?platform=iOS",
+            link: "/en/PK%20Host/pk_host_ios?platform=iOS",
             title: "Implementation",
             desc: "This guide describes how to implement a client with the Agora RTC SDK, Agora RTM SDK, and third-party image enhancement SDK.",
           },
@@ -4180,22 +4132,14 @@ const landingPageData = {
       overview: {
         Android: [
           {
-            link: "/cn/Interactive%20Broadcast/virtual_host_overview?platform=All%20Platforms",
+            link: "/cn/Virtual%20Host/virtual_host_overview?platform=Android",
             title: "场景概述",
-          },
-          {
-            link: "/cn/Virtual%20Host/downloads?platform=Android",
-            title: "App 体验",
           },
         ],
         iOS: [
           {
-            link: "/cn/Interactive%20Broadcast/virtual_host_overview?platform=All%20Platforms",
+            link: "/cn/Virtual%20Host/virtual_host_overview?platform=iOS",
             title: "场景概述",
-          },
-          {
-            link: "/cn/Virtual%20Host/downloads?platform=iOS",
-            title: "App 体验",
           },
         ],
       },
@@ -4203,7 +4147,7 @@ const landingPageData = {
         Android: [
           {
             link: "/cn/Virtual%20Host/downloads?platform=Android",
-            title: "SDK 下载",
+            title: "App 体验",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
@@ -4213,7 +4157,7 @@ const landingPageData = {
         iOS: [
           {
             link: "/cn/Virtual%20Host/downloads?platform=iOS",
-            title: "SDK 下载",
+            title: "App 体验",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
@@ -4233,12 +4177,12 @@ const landingPageData = {
       ],
       quickStart: {
         Android: {
-          link: "/cn/Interactive%20Broadcast/run_agora_live_android?platform=Android",
+          link: "/cn/Virtual%20Host/run_agora_live_android?platform=Android",
           title: "快速跑通示例项目",
           desc: "本文介绍如何跑通虚拟主播的示例项目。",
         },
         iOS: {
-          link: "/cn/Interactive%20Broadcast/run_agora_live_android?platform=iOS",
+          link: "/cn/Virtual%20Host/run_agora_live_android?platform=iOS",
           title: "快速跑通示例项目",
           desc: "本文介绍如何跑通虚拟主播的示例项目。",
         },
@@ -4258,14 +4202,14 @@ const landingPageData = {
       articles: {
         Android: [
           {
-            link: "/cn/Interactive%20Broadcast/virtual_host_android?platform=Android",
+            link: "/cn/Virtual%20Host/virtual_host_android?platform=Android",
             title: "功能实现",
             desc: "本文介绍如何通过 Agora RTC SDK、Agora RTM SDK、第三方美颜 SDK 等产品实现基础的虚拟主播场景。",
           },
         ],
         iOS: [
           {
-            link: "/cn/Interactive%20Broadcast/virtual_host_ios?platform=iOS",
+            link: "/cn/Virtual%20Host/virtual_host_ios?platform=iOS",
             title: "功能实现",
             desc: "本文介绍如何通过 Agora RTC SDK、Agora RTM SDK、第三方美颜 SDK 等产品实现基础的虚拟主播场景。",
           },
@@ -4277,22 +4221,14 @@ const landingPageData = {
       overview: {
         Android: [
           {
-            link: "/en/Interactive%20Broadcast/virtual_host_overview?platform=All%20Platforms",
+            link: "/en/Virtual%20Host/virtual_host_overview?platform=Android",
             title: "Introduction",
-          },
-          {
-            link: "/en/Virtual%20Host/downloads?platform=Android",
-            title: "Try the app",
           },
         ],
         iOS: [
           {
-            link: "/en/Interactive%20Broadcast/virtual_host_overview?platform=All%20Platforms",
+            link: "/en/Virtual%20Host/virtual_host_overview?platform=iOS",
             title: "Introduction",
-          },
-          {
-            link: "/en/Virtual%20Host/downloads?platform=iOS",
-            title: "Try the app",
           },
         ],
       },
@@ -4300,7 +4236,7 @@ const landingPageData = {
         Android: [
           {
             link: "/en/Virtual%20Host/downloads?platform=Android",
-            title: "SDK Downloads",
+            title: "Try the app",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
@@ -4310,7 +4246,7 @@ const landingPageData = {
         iOS: [
           {
             link: "/en/Virtual%20Host/downloads?platform=iOS",
-            title: "SDK Downloads",
+            title: "Try the app",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
@@ -4330,12 +4266,12 @@ const landingPageData = {
       ],
       quickStart: {
         Android: {
-          link: "/en/Interactive%20Broadcast/run_agora_live_android?platform=Android",
+          link: "/en/Virtual%20Host/run_agora_live_android?platform=Android",
           title: "Run the sample project",
           desc: "Use this guide to get started with the Virtual Host sample project quickly.",
         },
         iOS: {
-          link: "/en/Interactive%20Broadcast/run_agora_live_android?platform=iOS",
+          link: "/en/Virtual%20Host/run_agora_live_android?platform=iOS",
           title: "Run the sample project",
           desc: "Use this guide to get started with the Virtual Host sample project quickly.",
         },
@@ -4355,14 +4291,14 @@ const landingPageData = {
       articles: {
         Android: [
           {
-            link: "/en/Interactive%20Broadcast/virtual_host_android?platform=Android",
+            link: "/en/Virtual%20Host/virtual_host_android?platform=Android",
             title: "Implementation",
             desc: "This guide describes how to implement a client with the Agora RTC SDK, Agora RTM SDK, and third-party image enhancement SDK.",
           },
         ],
         iOS: [
           {
-            link: "/en/Interactive%20Broadcast/virtual_host_ios?platform=iOS",
+            link: "/en/Virtual%20Host/virtual_host_ios?platform=iOS",
             title: "Implementation",
             desc: "This guide describes how to implement a client with the Agora RTC SDK, Agora RTM SDK, and third-party image enhancement SDK.",
           },
@@ -4376,22 +4312,14 @@ const landingPageData = {
       overview: {
         Android: [
           {
-            link: "/cn/Interactive%20Broadcast/live_stream_shopping_overview?platform=All%20Platforms",
+            link: "/cn/Live-stream%20Shopping/live_stream_shopping_overview?platform=Android",
             title: "场景概述",
-          },
-          {
-            link: "/cn/Live-stream%20Shopping/downloads?platform=Android",
-            title: "App 体验",
           },
         ],
         iOS: [
           {
-            link: "/cn/Interactive%20Broadcast/live_stream_shopping_overview?platform=All%20Platforms",
+            link: "/cn/Live-stream%20Shopping/live_stream_shopping_overview?platform=iOS",
             title: "场景概述",
-          },
-          {
-            link: "/cn/Live-stream%20Shopping/downloads?platform=iOS",
-            title: "App 体验",
           },
         ],
       },
@@ -4399,7 +4327,7 @@ const landingPageData = {
         Android: [
           {
             link: "/cn/Live-stream%20Shopping/downloads?platform=Android",
-            title: "SDK 下载",
+            title: "App 体验",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
@@ -4409,7 +4337,7 @@ const landingPageData = {
         iOS: [
           {
             link: "/cn/Live-stream%20Shopping/downloads?platform=iOS",
-            title: "SDK 下载",
+            title: "App 体验",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
@@ -4429,12 +4357,12 @@ const landingPageData = {
       ],
       quickStart: {
         Android: {
-          link: "/cn/Interactive%20Broadcast/run_agora_live_android?platform=Android",
+          link: "/cn/Live-stream%20Shopping/run_agora_live_android?platform=Android",
           title: "快速跑通示例项目",
           desc: "本文介绍如何跑通电商主播的示例项目。",
         },
         iOS: {
-          link: "/cn/Interactive%20Broadcast/run_agora_live_android?platform=iOS",
+          link: "/cn/Live-stream%20Shopping/run_agora_live_android?platform=iOS",
           title: "快速跑通示例项目",
           desc: "本文介绍如何跑通电商主播的示例项目。",
         },
@@ -4454,14 +4382,14 @@ const landingPageData = {
       articles: {
         Android: [
           {
-            link: "/cn/Interactive%20Broadcast/live_stream_shopping_android?platform=Android",
+            link: "/cn/Live-stream%20Shopping/live_stream_shopping_android?platform=Android",
             title: "功能实现",
             desc: "本文介绍如何通过 Agora RTC SDK、Agora RTM SDK、第三方美颜 SDK 等产品实现基础的电商直播场景。",
           },
         ],
         iOS: [
           {
-            link: "/cn/Interactive%20Broadcast/live_stream_shopping_ios?platform=iOS",
+            link: "/cn/Live-stream%20Shopping/live_stream_shopping_ios?platform=iOS",
             title: "功能实现",
             desc: "本文介绍如何通过 Agora RTC SDK、Agora RTM SDK、第三方美颜 SDK 等产品实现基础的电商直播场景。",
           },
@@ -4473,22 +4401,14 @@ const landingPageData = {
       overview: {
         Android: [
           {
-            link: "/en/Interactive%20Broadcast/live_stream_shopping_overview?platform=All%20Platforms",
+            link: "/en/Live-stream%20Shopping/live_stream_shopping_overview?platform=Android",
             title: "Introduction",
-          },
-          {
-            link: "/en/Live-stream%20Shopping/downloads?platform=Android",
-            title: "Try the app",
           },
         ],
         iOS: [
           {
-            link: "https://docs.agora.io/en/Interactive%20Broadcast/live_stream_shopping_overview?platform=All%20Platforms",
+            link: "https://docs.agora.io/en/Interactive%20Broadcast/live_stream_shopping_overview?platform=iOS",
             title: "Introduction",
-          },
-          {
-            link: "/en/Live-stream%20Shopping/downloads?platform=iOS",
-            title: "Try the app",
           },
         ],
       },
@@ -4496,7 +4416,7 @@ const landingPageData = {
         Android: [
           {
             link: "/en/Live-stream%20Shopping/downloads?platform=Android",
-            title: "SDK Downloads",
+            title: "Try the app",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
@@ -4506,7 +4426,7 @@ const landingPageData = {
         iOS: [
           {
             link: "/en/Live-stream%20Shopping/downloads?platform=iOS",
-            title: "SDK Downloads",
+            title: "Try the app",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
@@ -4526,12 +4446,12 @@ const landingPageData = {
       ],
       quickStart: {
         Android: {
-          link: "/en/Interactive%20Broadcast/run_agora_live_android?platform=Android",
+          link: "/en/Live-stream%20Shopping/run_agora_live_android?platform=Android",
           title: "Run the sample project",
           desc: "Use this guide to get started with the Live-stream Shopping sample project quickly.",
         },
         iOS: {
-          link: "/en/Interactive%20Broadcast/run_agora_live_android?platform=iOS",
+          link: "/en/Live-stream%20Shopping/run_agora_live_android?platform=iOS",
           title: "Run the sample project",
           desc: "Use this guide to get started with the Live-stream Shopping sample project quickly.",
         },
@@ -4551,14 +4471,14 @@ const landingPageData = {
       articles: {
         Android: [
           {
-            link: "/en/Interactive%20Broadcast/live_stream_shopping_android?platform=Android",
+            link: "/en/Live-stream%20Shopping/live_stream_shopping_android?platform=Android",
             title: "Implementation",
             desc: "This guide describes how to implement a client with the Agora RTC SDK, Agora RTM SDK, and third-party image enhancement SDK.",
           },
         ],
         iOS: [
           {
-            link: "/en/Interactive%20Broadcast/live_stream_shopping_ios?platform=iOS",
+            link: "/en/Live-stream%20Shopping/live_stream_shopping_ios?platform=iOS",
             title: "Implementation",
             desc: "This guide describes how to implement a client with the Agora RTC SDK, Agora RTM SDK, and third-party image enhancement SDK.",
           },
