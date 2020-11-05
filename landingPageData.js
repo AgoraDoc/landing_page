@@ -2698,99 +2698,585 @@ const landingPageData = {
   },
   "Agora Platform": {
     cn: {
-      desc: "",
-      overview: {
-        Android: [
-          {
-            link: "",
-            title: "",
-          },
-        ],
-      },
-      downloads: {
-        Android: [
-          {
-            link: "",
-            title: "",
-          },
-        ],
-      },
-      contact: [
-        {
-          link: "",
-          title: "",
-        },
-      ],
-      quickStart: {
-        Android: {
-          link: "",
-          title: "",
-          desc: "",
-        },
-      },
-      api: {
-        Android: {
-          link: "",
-          title: "",
-          desc: "",
-        },
-      },
+      desc: "声网 Agora 为开发者提供实时音视频 API，只需集成 Agora SDK，即可快速在应用内构建多种实时互动场景。",
       articles: {
         Android: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/cn/Agora%20Platform/terms",
+            title: "术语库",
+            desc: "本文提供 Agora 关键术语的详细解释。",
+          },
+          {
+            link: "/cn/Agora%20Platform/token",
+            title: "校验用户权限",
+            desc: "本文介绍如何使用 App ID 和 Token 鉴权。",
+          },
+          {
+            link: "/cn/Agora%20Platform/firewall",
+            title: "应用企业防火墙限制",
+            desc: "本文介绍如何添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
+          },
+          {
+            link: "/cn/Agora%20Platform/console_overview",
+            title: "控制台",
+            desc: "控制台提供直观的界面，方便你进行充值、查看、管理等操作。本指南简要介绍如何使用控制台。",
           },
         ],
+        iOS: [
+          {
+            link: "/cn/Agora%20Platform/terms",
+            title: "术语库",
+            desc: "本文提供 Agora 关键术语的详细解释。",
+          },
+          {
+            link: "/cn/Agora%20Platform/token",
+            title: "校验用户权限",
+            desc: "本文介绍如何使用 App ID 和 Token 鉴权。",
+          },
+          {
+            link: "/cn/Agora%20Platform/firewall",
+            title: "应用企业防火墙限制",
+            desc: "本文介绍如何添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
+          },
+          {
+            link: "/cn/Agora%20Platform/console_overview",
+            title: "控制台",
+            desc: "控制台提供直观的界面，方便你进行充值、查看、管理等操作。本指南简要介绍如何使用控制台。",
+          },
+        ],
+        macOS: [
+          {
+            link: "/cn/Agora%20Platform/terms",
+            title: "术语库",
+            desc: "本文提供 Agora 关键术语的详细解释。",
+          },
+          {
+            link: "/cn/Agora%20Platform/token",
+            title: "校验用户权限",
+            desc: "本文介绍如何使用 App ID 和 Token 鉴权。",
+          },
+          {
+            link: "/cn/Agora%20Platform/firewall",
+            title: "应用企业防火墙限制",
+            desc: "本文介绍如何添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
+          },
+          {
+            link: "/cn/Agora%20Platform/console_overview",
+            title: "控制台",
+            desc: "控制台提供直观的界面，方便你进行充值、查看、管理等操作。本指南简要介绍如何使用控制台。",
+          },
+        ],
+        Web: [
+          {
+            link: "/cn/Agora%20Platform/terms",
+            title: "术语库",
+            desc: "本文提供 Agora 关键术语的详细解释。",
+          },
+          {
+            link: "/cn/Agora%20Platform/token",
+            title: "校验用户权限",
+            desc: "本文介绍如何使用 App ID 和 Token 鉴权。",
+          },
+          {
+            link: "/cn/Agora%20Platform/firewall",
+            title: "应用企业防火墙限制",
+            desc: "本文介绍如何添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
+          },
+          {
+            link: "/cn/Agora%20Platform/console_overview",
+            title: "控制台",
+            desc: "控制台提供直观的界面，方便你进行充值、查看、管理等操作。本指南简要介绍如何使用控制台。",
+          },
+        ],
+        微信小程序: [
+          {
+            link: "/cn/Agora%20Platform/terms",
+            title: "术语库",
+            desc: "本文提供 Agora 关键术语的详细解释。",
+          },
+          {
+            link: "/cn/Agora%20Platform/token",
+            title: "校验用户权限",
+            desc: "本文介绍如何使用 App ID 和 Token 鉴权。",
+          },
+          {
+            link: "/cn/Agora%20Platform/firewall",
+            title: "应用企业防火墙限制",
+            desc: "本文介绍如何添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
+          },
+          {
+            link: "/cn/Agora%20Platform/console_overview",
+            title: "控制台",
+            desc: "控制台提供直观的界面，方便你进行充值、查看、管理等操作。本指南简要介绍如何使用控制台。",
+          },
+        ],
+        Windows: [
+          {
+            link: "/cn/Agora%20Platform/terms",
+            title: "术语库",
+            desc: "本文提供 Agora 关键术语的详细解释。",
+          },
+          {
+            link: "/cn/Agora%20Platform/token",
+            title: "校验用户权限",
+            desc: "本文介绍如何使用 App ID 和 Token 鉴权。",
+          },
+          {
+            link: "/cn/Agora%20Platform/firewall",
+            title: "应用企业防火墙限制",
+            desc: "本文介绍如何添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
+          },
+          {
+            link: "/cn/Agora%20Platform/console_overview",
+            title: "控制台",
+            desc: "控制台提供直观的界面，方便你进行充值、查看、管理等操作。本指南简要介绍如何使用控制台。",
+          },
+        ],
+        Linux: [
+          {
+            link: "/cn/Agora%20Platform/terms",
+            title: "术语库",
+            desc: "本文提供 Agora 关键术语的详细解释。",
+          },
+          {
+            link: "/cn/Agora%20Platform/token",
+            title: "校验用户权限",
+            desc: "本文介绍如何使用 App ID 和 Token 鉴权。",
+          },
+          {
+            link: "/cn/Agora%20Platform/firewall",
+            title: "应用企业防火墙限制",
+            desc: "本文介绍如何添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
+          },
+          {
+            link: "/cn/Agora%20Platform/console_overview",
+            title: "控制台",
+            desc: "控制台提供直观的界面，方便你进行充值、查看、管理等操作。本指南简要介绍如何使用控制台。",
+          },
+        ],
+        RESTful: [
+          {
+            link: "/cn/Agora%20Platform/terms",
+            title: "术语库",
+            desc: "本文提供 Agora 关键术语的详细解释。",
+          },
+          {
+            link: "/cn/Agora%20Platform/token",
+            title: "校验用户权限",
+            desc: "本文介绍如何使用 App ID 和 Token 鉴权。",
+          },
+          {
+            link: "/cn/Agora%20Platform/firewall",
+            title: "应用企业防火墙限制",
+            desc: "本文介绍如何添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
+          },
+          {
+            link: "/cn/Agora%20Platform/console_overview",
+            title: "控制台",
+            desc: "控制台提供直观的界面，方便你进行充值、查看、管理等操作。本指南简要介绍如何使用控制台。",
+          },
+        ],
+        Electron: [
+          {
+            link: "/cn/Agora%20Platform/terms",
+            title: "术语库",
+            desc: "本文提供 Agora 关键术语的详细解释。",
+          },
+          {
+            link: "/cn/Agora%20Platform/token",
+            title: "校验用户权限",
+            desc: "本文介绍如何使用 App ID 和 Token 鉴权。",
+          },
+          {
+            link: "/cn/Agora%20Platform/firewall",
+            title: "应用企业防火墙限制",
+            desc: "本文介绍如何添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
+          },
+          {
+            link: "/cn/Agora%20Platform/console_overview",
+            title: "控制台",
+            desc: "控制台提供直观的界面，方便你进行充值、查看、管理等操作。本指南简要介绍如何使用控制台。",
+          },
+        ],
+        Unity: [
+          {
+            link: "/cn/Agora%20Platform/terms",
+            title: "术语库",
+            desc: "本文提供 Agora 关键术语的详细解释。",
+          },
+          {
+            link: "/cn/Agora%20Platform/token",
+            title: "校验用户权限",
+            desc: "本文介绍如何使用 App ID 和 Token 鉴权。",
+          },
+          {
+            link: "/cn/Agora%20Platform/firewall",
+            title: "应用企业防火墙限制",
+            desc: "本文介绍如何添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
+          },
+          {
+            link: "/cn/Agora%20Platform/console_overview",
+            title: "控制台",
+            desc: "控制台提供直观的界面，方便你进行充值、查看、管理等操作。本指南简要介绍如何使用控制台。",
+          },
+        ],
+        Flutter: [
+          {
+            link: "/cn/Agora%20Platform/terms",
+            title: "术语库",
+            desc: "本文提供 Agora 关键术语的详细解释。",
+          },
+          {
+            link: "/cn/Agora%20Platform/token",
+            title: "校验用户权限",
+            desc: "本文介绍如何使用 App ID 和 Token 鉴权。",
+          },
+          {
+            link: "/cn/Agora%20Platform/firewall",
+            title: "应用企业防火墙限制",
+            desc: "本文介绍如何添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
+          },
+          {
+            link: "/cn/Agora%20Platform/console_overview",
+            title: "控制台",
+            desc: "控制台提供直观的界面，方便你进行充值、查看、管理等操作。本指南简要介绍如何使用控制台。",
+          },
+        ],
+        ReactNative: [
+          {
+            link: "/cn/Agora%20Platform/terms",
+            title: "术语库",
+            desc: "本文提供 Agora 关键术语的详细解释。",
+          },
+          {
+            link: "/cn/Agora%20Platform/token",
+            title: "校验用户权限",
+            desc: "本文介绍如何使用 App ID 和 Token 鉴权。",
+          },
+          {
+            link: "/cn/Agora%20Platform/firewall",
+            title: "应用企业防火墙限制",
+            desc: "本文介绍如何添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
+          },
+          {
+            link: "/cn/Agora%20Platform/console_overview",
+            title: "控制台",
+            desc: "控制台提供直观的界面，方便你进行充值、查看、管理等操作。本指南简要介绍如何使用控制台。",
+          },
+        ],
+        "Cocos Creator": [
+          {
+            link: "/cn/Agora%20Platform/terms",
+            title: "术语库",
+            desc: "本文提供 Agora 关键术语的详细解释。",
+          },
+          {
+            link: "/cn/Agora%20Platform/token",
+            title: "校验用户权限",
+            desc: "本文介绍如何使用 App ID 和 Token 鉴权。",
+          },
+          {
+            link: "/cn/Agora%20Platform/firewall",
+            title: "应用企业防火墙限制",
+            desc: "本文介绍如何添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
+          },
+          {
+            link: "/cn/Agora%20Platform/console_overview",
+            title: "控制台",
+            desc: "控制台提供直观的界面，方便你进行充值、查看、管理等操作。本指南简要介绍如何使用控制台。",
+          },
+        ]
       },
     },
     en: {
-      desc: "",
-      overview: {
-        Android: [
-          {
-            link: "",
-            title: "",
-          },
-        ],
-      },
-      downloads: {
-        Android: [
-          {
-            link: "",
-            title: "",
-          },
-        ],
-      },
-      contact: [
-        {
-          link: "",
-          title: "",
-        },
-      ],
-      quickStart: {
-        Android: {
-          link: "",
-          title: "",
-          desc: "",
-        },
-      },
-      api: {
-        Android: {
-          link: "",
-          title: "",
-          desc: "",
-        },
-      },
+      desc: "Agora.io provides building blocks for you to add real-time voice and video communications through a simple and powerful SDK. You can integrate the Agora SDK to enable real-time communications in your own application quickly.",
       articles: {
         Android: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/en/Agora%20Platform/terms",
+            title: "Glossary",
+            desc: "This article provides detailed explanation for key terms used by Agora products.",
+          },
+          {
+            link: "/en/Agora%20Platform/token",
+            title: "Set up Authentication",
+            desc: "This article explains how to authenticate with App ID and Token.",
+          },
+          {
+            link: "/en/Agora%20Platform/firewall",
+            title: "Firewall Requirements",
+            desc: "This articles explains how to set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
+          },
+          {
+            link: "/en/Agora%20Platform/console_overview",
+            title: "Console Overview",
+            desc: "This article introduces how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
           },
         ],
+        iOS: [
+          {
+            link: "/en/Agora%20Platform/terms",
+            title: "Glossary",
+            desc: "This article provides detailed explanation for key terms used by Agora products.",
+          },
+          {
+            link: "/en/Agora%20Platform/token",
+            title: "Set up Authentication",
+            desc: "This article explains how to authenticate with App ID and Token.",
+          },
+          {
+            link: "/en/Agora%20Platform/firewall",
+            title: "Firewall Requirements",
+            desc: "This articles explains how to set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
+          },
+          {
+            link: "/en/Agora%20Platform/console_overview",
+            title: "Console Overview",
+            desc: "This article introduces how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
+          },
+        ],
+        macOS: [
+          {
+            link: "/en/Agora%20Platform/terms",
+            title: "Glossary",
+            desc: "This article provides detailed explanation for key terms used by Agora products.",
+          },
+          {
+            link: "/en/Agora%20Platform/token",
+            title: "Set up Authentication",
+            desc: "This article explains how to authenticate with App ID and Token.",
+          },
+          {
+            link: "/en/Agora%20Platform/firewall",
+            title: "Firewall Requirements",
+            desc: "This articles explains how to set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
+          },
+          {
+            link: "/en/Agora%20Platform/console_overview",
+            title: "Console Overview",
+            desc: "This article introduces how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
+          },
+        ],
+        Web: [
+          {
+            link: "/en/Agora%20Platform/terms",
+            title: "Glossary",
+            desc: "This article provides detailed explanation for key terms used by Agora products.",
+          },
+          {
+            link: "/en/Agora%20Platform/token",
+            title: "Set up Authentication",
+            desc: "This article explains how to authenticate with App ID and Token.",
+          },
+          {
+            link: "/en/Agora%20Platform/firewall",
+            title: "Firewall Requirements",
+            desc: "This articles explains how to set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
+          },
+          {
+            link: "/en/Agora%20Platform/console_overview",
+            title: "Console Overview",
+            desc: "This article introduces how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
+          },
+        ],
+        微信小程序: [
+          {
+            link: "/en/Agora%20Platform/terms",
+            title: "Glossary",
+            desc: "This article provides detailed explanation for key terms used by Agora products.",
+          },
+          {
+            link: "/en/Agora%20Platform/token",
+            title: "Set up Authentication",
+            desc: "This article explains how to authenticate with App ID and Token.",
+          },
+          {
+            link: "/en/Agora%20Platform/firewall",
+            title: "Firewall Requirements",
+            desc: "This articles explains how to set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
+          },
+          {
+            link: "/en/Agora%20Platform/console_overview",
+            title: "Console Overview",
+            desc: "This article introduces how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
+          },
+        ],
+        Windows: [
+          {
+            link: "/en/Agora%20Platform/terms",
+            title: "Glossary",
+            desc: "This article provides detailed explanation for key terms used by Agora products.",
+          },
+          {
+            link: "/en/Agora%20Platform/token",
+            title: "Set up Authentication",
+            desc: "This article explains how to authenticate with App ID and Token.",
+          },
+          {
+            link: "/en/Agora%20Platform/firewall",
+            title: "Firewall Requirements",
+            desc: "This articles explains how to set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
+          },
+          {
+            link: "/en/Agora%20Platform/console_overview",
+            title: "Console Overview",
+            desc: "This article introduces how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
+          },
+        ],
+        Linux: [
+          {
+            link: "/en/Agora%20Platform/terms",
+            title: "Glossary",
+            desc: "This article provides detailed explanation for key terms used by Agora products.",
+          },
+          {
+            link: "/en/Agora%20Platform/token",
+            title: "Set up Authentication",
+            desc: "This article explains how to authenticate with App ID and Token.",
+          },
+          {
+            link: "/en/Agora%20Platform/firewall",
+            title: "Firewall Requirements",
+            desc: "This articles explains how to set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
+          },
+          {
+            link: "/en/Agora%20Platform/console_overview",
+            title: "Console Overview",
+            desc: "This article introduces how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
+          },
+        ],
+        RESTful: [
+          {
+            link: "/en/Agora%20Platform/terms",
+            title: "Glossary",
+            desc: "This article provides detailed explanation for key terms used by Agora products.",
+          },
+          {
+            link: "/en/Agora%20Platform/token",
+            title: "Set up Authentication",
+            desc: "This article explains how to authenticate with App ID and Token.",
+          },
+          {
+            link: "/en/Agora%20Platform/firewall",
+            title: "Firewall Requirements",
+            desc: "This articles explains how to set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
+          },
+          {
+            link: "/en/Agora%20Platform/console_overview",
+            title: "Console Overview",
+            desc: "This article introduces how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
+          },
+        ],
+        Electron: [
+          {
+            link: "/en/Agora%20Platform/terms",
+            title: "Glossary",
+            desc: "This article provides detailed explanation for key terms used by Agora products.",
+          },
+          {
+            link: "/en/Agora%20Platform/token",
+            title: "Set up Authentication",
+            desc: "This article explains how to authenticate with App ID and Token.",
+          },
+          {
+            link: "/en/Agora%20Platform/firewall",
+            title: "Firewall Requirements",
+            desc: "This articles explains how to set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
+          },
+          {
+            link: "/en/Agora%20Platform/console_overview",
+            title: "Console Overview",
+            desc: "This article introduces how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
+          },
+        ],
+        Unity: [
+          {
+            link: "/en/Agora%20Platform/terms",
+            title: "Glossary",
+            desc: "This article provides detailed explanation for key terms used by Agora products.",
+          },
+          {
+            link: "/en/Agora%20Platform/token",
+            title: "Set up Authentication",
+            desc: "This article explains how to authenticate with App ID and Token.",
+          },
+          {
+            link: "/en/Agora%20Platform/firewall",
+            title: "Firewall Requirements",
+            desc: "This articles explains how to set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
+          },
+          {
+            link: "/en/Agora%20Platform/console_overview",
+            title: "Console Overview",
+            desc: "This article introduces how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
+          },
+        ],
+        Flutter: [
+          {
+            link: "/en/Agora%20Platform/terms",
+            title: "Glossary",
+            desc: "This article provides detailed explanation for key terms used by Agora products.",
+          },
+          {
+            link: "/en/Agora%20Platform/token",
+            title: "Set up Authentication",
+            desc: "This article explains how to authenticate with App ID and Token.",
+          },
+          {
+            link: "/en/Agora%20Platform/firewall",
+            title: "Firewall Requirements",
+            desc: "This articles explains how to set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
+          },
+          {
+            link: "/en/Agora%20Platform/console_overview",
+            title: "Console Overview",
+            desc: "This article introduces how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
+          },
+        ],
+        ReactNative: [
+          {
+            link: "/en/Agora%20Platform/terms",
+            title: "Glossary",
+            desc: "This article provides detailed explanation for key terms used by Agora products.",
+          },
+          {
+            link: "/en/Agora%20Platform/token",
+            title: "Set up Authentication",
+            desc: "This article explains how to authenticate with App ID and Token.",
+          },
+          {
+            link: "/en/Agora%20Platform/firewall",
+            title: "Firewall Requirements",
+            desc: "This articles explains how to set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
+          },
+          {
+            link: "/en/Agora%20Platform/console_overview",
+            title: "Console Overview",
+            desc: "This article introduces how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
+          },
+        ],
+        "Cocos Creator": [
+          {
+            link: "/en/Agora%20Platform/terms",
+            title: "Glossary",
+            desc: "This article provides detailed explanation for key terms used by Agora products.",
+          },
+          {
+            link: "/en/Agora%20Platform/token",
+            title: "Set up Authentication",
+            desc: "This article explains how to authenticate with App ID and Token.",
+          },
+          {
+            link: "/en/Agora%20Platform/firewall",
+            title: "Firewall Requirements",
+            desc: "This articles explains how to set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
+          },
+          {
+            link: "/en/Agora%20Platform/console_overview",
+            title: "Console Overview",
+            desc: "This article introduces how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
+          },
+        ]
       },
     },
   },
