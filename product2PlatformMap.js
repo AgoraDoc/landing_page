@@ -5,7 +5,7 @@ const product2PlatformMap = {
     "iOS",
     "macOS",
     "Web",
-    "小程序",
+    "微信小程序",
     "Windows",
     "RESTful",
     "Electron",

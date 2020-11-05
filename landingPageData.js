@@ -139,8 +139,7 @@ const landingPageData = {
             title: "计费说明",
           },
           {
-            link:
-              "/cn/Voice/release_react_native_video?platform=React%20Native",
+            link: "/cn/Voice/release_react_native_video?platform=React%20Native",
             title: "发版说明",
           },
         ],
@@ -154,8 +153,7 @@ const landingPageData = {
             title: "计费说明",
           },
           {
-            link:
-              "/cn/Voice/release_cocos_creator_audio?platform=Cocos%20Creator",
+            link: "/cn/Voice/release_cocos_creator_audio?platform=Cocos%20Creator",
             title: "发版说明",
           },
         ],
@@ -168,11 +166,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/Basic-Audio-Call",
-            title: "示例代码（基础版）",
-          },
-          {
-            link: "https://github.com/AgoraIO/Advanced-Audio",
-            title: "示例代码（进阶版）",
+            title: "示例代码",
           },
         ],
         iOS: [
@@ -182,11 +176,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/Basic-Audio-Call",
-            title: "示例代码（基础版）",
-          },
-          {
-            link: "https://github.com/AgoraIO/Advanced-Audio",
-            title: "示例代码（进阶版）",
+            title: "示例代码",
           },
         ],
         macOS: [
@@ -196,11 +186,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "示例代码（基础版）",
-          },
-          {
-            link: "https://github.com/AgoraIO/Advanced-Video",
-            title: "示例代码（进阶版）",
+            title: "示例代码",
           },
         ],
         Web: [
@@ -210,11 +196,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "示例代码（基础版）",
-          },
-          {
-            link: "https://github.com/AgoraIO/Advanced-Video",
-            title: "示例代码（进阶版）",
+            title: "示例代码",
           },
         ],
         微信小程序: [
@@ -234,11 +216,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "示例代码（基础版）",
-          },
-          {
-            link: "https://github.com/AgoraIO/Advanced-Video",
-            title: "示例代码（进阶版）",
+            title: "示例代码",
           },
         ],
         Electron: [
@@ -257,7 +235,7 @@ const landingPageData = {
             title: "SDK",
           },
           {
-            link: "https://github.com/AgoraIO/Agora-Unity-Quickstart/tree/master/audio/Hello-Unity3D-Agora",
+            link: "https://github.com/AgoraIO/Agora-Unity-Quickstart",
             title: "示例代码",
           },
         ],
@@ -287,7 +265,7 @@ const landingPageData = {
             title: "SDK",
           },
           {
-            link: "https://github.com/AgoraIO/Voice-Call-for-Mobile-Gaming/tree/master/Basic-Voice-Call-for-Gaming/Hello-CocosCreator-Voice-Agora",
+            link: "https://github.com/AgoraIO-Community/Agora-Cocos-Creator-Quickstart",
             title: "示例代码",
           },
         ],
@@ -435,14 +413,12 @@ const landingPageData = {
           {
             link: "/cn/Voice/volume_android?platform=Android",
             title: "调整通话音量",
-            desc:
-              "本文介绍在使用 SDK 从音频采集到播放各阶段中，用户可能需要调整音量的场景。",
+            desc: "本文介绍在使用 SDK 从音频采集到播放各阶段中，用户可能需要调整音量的场景。",
           },
           {
             link: "/cn/Voice/audio_profile_android?platform=Android",
             title: "设置音频属性",
-            desc:
-              "本文介绍如何根据音质、声道、场景等的不同需求，选择不同的音频属性。",
+            desc: "本文介绍如何根据音质、声道、场景等的不同需求，选择不同的音频属性。",
           },
         ],
         iOS: [
@@ -454,14 +430,12 @@ const landingPageData = {
           {
             link: "/cn/Voice/volume_ios?platform=iOS",
             title: "调整通话音量",
-            desc:
-              "本文介绍在使用 SDK 从音频采集到播放各阶段中，用户可能需要调整音量的场景。",
+            desc: "本文介绍在使用 SDK 从音频采集到播放各阶段中，用户可能需要调整音量的场景。",
           },
           {
             link: "/cn/Voice/audio_profile_apple?platform=iOS",
             title: "设置音频属性",
-            desc:
-              "本文介绍如何根据音质、声道、场景等的不同需求，选择不同的音频属性。",
+            desc: "本文介绍如何根据音质、声道、场景等的不同需求，选择不同的音频属性。",
           },
         ],
         macOS: [
@@ -473,14 +447,12 @@ const landingPageData = {
           {
             link: "/cn/Voice/volume_mac?platform=macOS",
             title: "调整通话音量",
-            desc:
-              "本文介绍在使用 SDK 从音频采集到播放各阶段中，用户可能需要调整音量的场景。",
+            desc: "本文介绍在使用 SDK 从音频采集到播放各阶段中，用户可能需要调整音量的场景。",
           },
           {
             link: "/cn/Voice/audio_profile_apple?platform=macOS",
             title: "设置音频属性",
-            desc:
-              "本文介绍如何根据音质、声道、场景等的不同需求，选择不同的音频属性。",
+            desc: "本文介绍如何根据音质、声道、场景等的不同需求，选择不同的音频属性。",
           },
         ],
         Web: [
@@ -492,14 +464,12 @@ const landingPageData = {
           {
             link: "/cn/Voice/volume_web?platform=Web",
             title: "调整通话音量",
-            desc:
-              "本文介绍在使用 SDK 从音频采集到播放各阶段中，用户可能需要调整音量的场景。",
+            desc: "本文介绍在使用 SDK 从音频采集到播放各阶段中，用户可能需要调整音量的场景。",
           },
           {
             link: "/cn/Voice/audio_profile_web?platform=Web",
             title: "设置音频属性",
-            desc:
-              "本文介绍如何根据音质、声道、场景等的不同需求，选择不同的音频属性。",
+            desc: "本文介绍如何根据音质、声道、场景等的不同需求，选择不同的音频属性。",
           },
         ],
         微信小程序: [
@@ -511,14 +481,12 @@ const landingPageData = {
           {
             link: "/cn/Voice/faq/wechat",
             title: "如何处理小程序 SDK 常见问题？",
-            desc:
-              "本文介绍在使用小程序 SDK 过程中的常见问题及解决方案。",
+            desc: "本文介绍在使用小程序 SDK 过程中的常见问题及解决方案。",
           },
           {
             link: "/cn/Voice/error_rtc?platform=All%20Platforms",
             title: "错误码和警告码",
-            desc:
-              "本文介绍在调用 Agora API 过程中，SDK 可能会返回的错误码和警告码。",
+            desc: "本文介绍在调用 Agora API 过程中，SDK 可能会返回的错误码和警告码。",
           },
         ],
         Windows: [
@@ -530,14 +498,12 @@ const landingPageData = {
           {
             link: "/cn/Voice/volume_windows?platform=Windows",
             title: "调整通话音量",
-            desc:
-              "本文介绍在使用 SDK 从音频采集到播放各阶段中，用户可能需要调整音量的场景。",
+            desc: "本文介绍在使用 SDK 从音频采集到播放各阶段中，用户可能需要调整音量的场景。",
           },
           {
             link: "/cn/Voice/audio_profile_windows?platform=Windows",
             title: "设置音频属性",
-            desc:
-              "本文介绍如何根据音质、声道、场景等的不同需求，选择不同的音频属性。",
+            desc: "本文介绍如何根据音质、声道、场景等的不同需求，选择不同的音频属性。",
           },
         ],
         Unity: [
@@ -549,14 +515,12 @@ const landingPageData = {
           {
             link: "/cn/Voice/raw_data_audio_unity?platform=Unity",
             title: "原始音频数据",
-            desc:
-              "本文介绍如何获取原始音频数据。",
+            desc: "本文介绍如何获取原始音频数据。",
           },
           {
             link: "/cn/Voice/custom_audio_unity?platform=Unity",
             title: "自定义音频采集和渲染",
-            desc:
-              "本文介绍如何使用自定义的音频源采集或使用自定义的渲染器渲染音频数据。",
+            desc: "本文介绍如何使用自定义的音频源采集或使用自定义的渲染器渲染音频数据。",
           },
         ],
       },
@@ -567,11 +531,11 @@ const landingPageData = {
       overview: {
         Android: [
           {
-            link: "/en/Voice/product_voice?platform=All%20Platforms",
+            link: "/en/Voice/product_voice?platform=Android",
             title: "Product Overview",
           },
           {
-            link: "/en/Voice/billing_audio?platform=All%20Platforms",
+            link: "/en/Voice/billing_audio?platform=Android",
             title: "Billing",
           },
           {
@@ -581,11 +545,11 @@ const landingPageData = {
         ],
         iOS: [
           {
-            link: "/en/Voice/product_voice?platform=All%20Platforms",
+            link: "/en/Voice/product_voice?platform=iOS",
             title: "Product Overview",
           },
           {
-            link: "/en/Voice/billing_audio?platform=All%20Platforms",
+            link: "/en/Voice/billing_audio?platform=iOS",
             title: "Billing",
           },
           {
@@ -595,11 +559,11 @@ const landingPageData = {
         ],
         macOS: [
           {
-            link: "/en/Voice/product_voice?platform=All%20Platforms",
+            link: "/en/Voice/product_voice?platform=macOS",
             title: "Product Overview",
           },
           {
-            link: "/en/Voice/billing_audio?platform=All%20Platforms",
+            link: "/en/Voice/billing_audio?platform=macOS",
             title: "Billing",
           },
           {
@@ -609,11 +573,11 @@ const landingPageData = {
         ],
         Web: [
           {
-            link: "/en/Voice/product_voice?platform=All%20Platforms",
+            link: "/en/Voice/product_voice?platform=Web",
             title: "Product Overview",
           },
           {
-            link: "/en/Voice/billing_audio?platform=All%20Platforms",
+            link: "/en/Voice/billing_audio?platform=Web",
             title: "Billing",
           },
           {
@@ -621,23 +585,13 @@ const landingPageData = {
             title: "Release Notes",
           },
         ],
-        微信小程序: [
-          {
-            link: "/en/Voice/product_voice?platform=All%20Platforms",
-            title: "Product Overview",
-          },
-          {
-            link: "/en/Voice/billing_audio?platform=All%20Platforms",
-            title: "Billing",
-          },
-        ],
         Windows: [
           {
-            link: "/en/Voice/product_voice?platform=All%20Platforms",
+            link: "/en/Voice/product_voice?platform=Windows",
             title: "Product Overview",
           },
           {
-            link: "/en/Voice/billing_audio?platform=All%20Platforms",
+            link: "/en/Voice/billing_audio?platform=Windows",
             title: "Billing",
           },
           {
@@ -645,23 +599,13 @@ const landingPageData = {
             title: "Release Notes",
           },
         ],
-        RESTful: [
-          {
-            link: "/en/Voice/product_voice?platform=All%20Platforms",
-            title: "Product Overview",
-          },
-          {
-            link: "/en/Voice/billing_audio?platform=All%20Platforms",
-            title: "Billing",
-          },
-        ],
         Electron: [
           {
-            link: "/en/Voice/product_voice?platform=All%20Platforms",
+            link: "/en/Voice/product_voice?platform=Electron",
             title: "Product Overview",
           },
           {
-            link: "/en/Voice/billing_audio?platform=All%20Platforms",
+            link: "/en/Voice/billing_audio?platform=Electron",
             title: "Billing",
           },
           {
@@ -671,11 +615,11 @@ const landingPageData = {
         ],
         Unity: [
           {
-            link: "/en/Voice/product_voice?platform=All%20Platforms",
+            link: "/en/Voice/product_voice?platform=Unity",
             title: "Product Overview",
           },
           {
-            link: "/en/Voice/billing_audio?platform=All%20Platforms",
+            link: "/en/Voice/billing_audio?platform=Unity",
             title: "Billing",
           },
           {
@@ -685,11 +629,11 @@ const landingPageData = {
         ],
         Flutter: [
           {
-            link: "/en/Voice/product_voice?platform=All%20Platforms",
+            link: "/en/Voice/product_voice?platform=Flutter",
             title: "Product Overview",
           },
           {
-            link: "/en/Voice/billing_audio?platform=All%20Platforms",
+            link: "/en/Voice/billing_audio?platform=Flutter",
             title: "Billing",
           },
           {
@@ -699,27 +643,31 @@ const landingPageData = {
         ],
         ReactNative: [
           {
-            link: "/en/Voice/product_voice?platform=All%20Platforms",
+            link: "/en/Voice/product_voice?platform=React%20Native",
             title: "Product Overview",
           },
           {
-            link: "/en/Voice/billing_audio?platform=All%20Platforms",
+            link: "/en/Voice/billing_audio?platform=React%20Native",
             title: "Billing",
           },
           {
-            link:
-              "/en/Voice/release_react_native_video?platform=React%20Native",
+            link: "/en/Voice/release_react_native_video?platform=React%20Native",
             title: "Release Notes",
           },
         ],
         "Cocos Creator": [
           {
-            link: "/en/Voice/product_voice?platform=All%20Platforms",
+            link: "/en/Voice/product_voice?platform=Cocos%20Creator",
             title: "Product Overview",
           },
           {
-            link: "/en/Voice/billing_audio?platform=All%20Platforms",
+            link: "/en/Voice/billing_audio?platform=Cocos%20Creator",
             title: "Billing",
+          },
+          {
+            link:
+              "/en/Voice/release_cocos_creator_audio?platform=Cocos%20Creator",
+            title: "Release Notes",
           },
         ],
       },
@@ -731,11 +679,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/Basic-Audio-Call",
-            title: "Code Samples (Basic)",
-          },
-          {
-            link: "https://github.com/AgoraIO/Advanced-Audio",
-            title: "Code Samples (Advanced)",
+            title: "Code Samples",
           },
         ],
         iOS: [
@@ -745,11 +689,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/Basic-Audio-Call",
-            title: "Code Samples (Basic)",
-          },
-          {
-            link: "https://github.com/AgoraIO/Advanced-Audio",
-            title: "Code Samples (Advanced)",
+            title: "Code Samples",
           },
         ],
         macOS: [
@@ -758,12 +698,8 @@ const landingPageData = {
             title: "SDK",
           },
           {
-            link: "https://github.com/AgoraIO/Basic-Audio-Call",
-            title: "Code Samples (Basic)",
-          },
-          {
-            link: "https://github.com/AgoraIO/Advanced-Audio",
-            title: "Code Samples (Advanced)",
+            link: "https://github.com/AgoraIO/Basic-Video-Call",
+            title: "Code Samples",
           },
         ],
         Web: [
@@ -772,12 +708,8 @@ const landingPageData = {
             title: "SDK",
           },
           {
-            link: "https://github.com/AgoraIO/Basic-Audio-Call",
-            title: "Code Samples (Basic)",
-          },
-          {
-            link: "https://github.com/AgoraIO/Advanced-Audio",
-            title: "Code Samples (Advanced)",
+            link: "https://github.com/AgoraIO/Basic-Video-Call",
+            title: "Code Samples",
           },
         ],
         微信小程序: [
@@ -786,12 +718,8 @@ const landingPageData = {
             title: "SDK",
           },
           {
-            link: "https://github.com/AgoraIO/Basic-Audio-Call",
-            title: "Code Samples (Basic)",
-          },
-          {
-            link: "https://github.com/AgoraIO/Advanced-Audio",
-            title: "Code Samples (Advanced)",
+            link: "https://github.com/AgoraIO/Agora-Miniapp-Tutorial",
+            title: "Code Samples",
           },
         ],
         Windows: [
@@ -800,26 +728,8 @@ const landingPageData = {
             title: "SDK",
           },
           {
-            link: "https://github.com/AgoraIO/Basic-Audio-Call",
-            title: "Code Samples (Basic)",
-          },
-          {
-            link: "https://github.com/AgoraIO/Advanced-Audio",
-            title: "Code Samples (Advanced)",
-          },
-        ],
-        RESTful: [
-          {
-            link: "/en/Voice/downloads?platform=RESTful",
-            title: "SDK",
-          },
-          {
-            link: "https://github.com/AgoraIO/Basic-Audio-Call",
-            title: "Code Samples (Basic)",
-          },
-          {
-            link: "https://github.com/AgoraIO/Advanced-Audio",
-            title: "Code Samples (Advanced)",
+            link: "https://github.com/AgoraIO/Basic-Video-Call",
+            title: "Code Samples",
           },
         ],
         Electron: [
@@ -828,12 +738,8 @@ const landingPageData = {
             title: "SDK",
           },
           {
-            link: "https://github.com/AgoraIO/Basic-Audio-Call",
-            title: "Code Samples (Basic)",
-          },
-          {
-            link: "https://github.com/AgoraIO/Advanced-Audio",
-            title: "Code Samples (Advanced)",
+            link: "https://github.com/AgoraIO-Community/Agora-Electron-Quickstart",
+            title: "Code Samples",
           },
         ],
         Unity: [
@@ -842,12 +748,8 @@ const landingPageData = {
             title: "SDK",
           },
           {
-            link: "https://github.com/AgoraIO/Basic-Audio-Call",
-            title: "Code Samples (Basic)",
-          },
-          {
-            link: "https://github.com/AgoraIO/Advanced-Audio",
-            title: "Code Samples (Advanced)",
+            link: "https://github.com/AgoraIO/Agora-Unity-Quickstart",
+            title: "Code Samples",
           },
         ],
         Flutter: [
@@ -856,12 +758,8 @@ const landingPageData = {
             title: "SDK",
           },
           {
-            link: "https://github.com/AgoraIO/Basic-Audio-Call",
-            title: "Code Samples (Basic)",
-          },
-          {
-            link: "https://github.com/AgoraIO/Advanced-Audio",
-            title: "Code Samples (Advanced)",
+            link: "https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart",
+            title: "Code Samples",
           },
         ],
         ReactNative: [
@@ -870,12 +768,8 @@ const landingPageData = {
             title: "SDK",
           },
           {
-            link: "https://github.com/AgoraIO/Basic-Audio-Call",
-            title: "Code Samples (Basic)",
-          },
-          {
-            link: "https://github.com/AgoraIO/Advanced-Audio",
-            title: "Code Samples (Advanced)",
+            link: "https://github.com/AgoraIO-Community/Agora-RN-Quickstart",
+            title: "Code Samples",
           },
         ],
         "Cocos Creator": [
@@ -884,18 +778,14 @@ const landingPageData = {
             title: "SDK",
           },
           {
-            link: "https://github.com/AgoraIO/Basic-Audio-Call",
-            title: "Code Samples (Basic)",
-          },
-          {
-            link: "https://github.com/AgoraIO/Advanced-Audio",
-            title: "Code Samples (Advanced)",
+            link: "https://github.com/AgoraIO-Community/Agora-Cocos-Creator-Quickstart",
+            title: "Code Samples",
           },
         ],
       },
       contact: [
         {
-          link: "https://rtcdeveloper.com/",
+          link: "https://dev.agora.io/",
           title: "Developer Community",
         },
         {
@@ -907,160 +797,118 @@ const landingPageData = {
         Android: {
           link: "/en/Voice/start_call_audio_android?platform=Android",
           title: "Quick start",
-          desc:
-            "Use this guide to quickly get started with a voice call through the Agora RTC SDK.",
+          desc: "Use this guide to quickly get started with a voice call through the Agora RTC SDK.",
         },
         iOS: {
           link: "/en/Voice/start_call_audio_ios?platform=iOS",
           title: "Quick start",
-          desc:
-            "Use this guide to quickly get started with a voice call through the Agora RTC SDK.",
+          desc: "Use this guide to quickly get started with a voice call through the Agora RTC SDK.",
         },
         macOS: {
           link: "/en/Voice/start_call_audio_mac?platform=macOS",
           title: "Quick start",
-          desc:
-            "Use this guide to quickly get started with a voice call through the Agora RTC SDK.",
+          desc: "Use this guide to quickly get started with a voice call through the Agora RTC SDK.",
         },
         Web: {
           link: "/en/Voice/start_call_audio_web?platform=Web",
           title: "Quick start",
-          desc:
-            "Use this guide to quickly get started with a voice call through the Agora RTC SDK.",
+          desc: "Use this guide to quickly get started with a voice call through the Agora RTC SDK.",
         },
-        // 微信小程序: {
-        //   link: "",
-        //   title: "Quick start",
-        //   desc:
-        //     "Use this guide to quickly get started with a voice call through the Agora RTC SDK.",
-        // },
         Windows: {
           link: "/en/Voice/start_call_audio_windows?platform=Windows",
           title: "Quick start",
-          desc:
-            "Use this guide to quickly get started with a voice call through the Agora RTC SDK.",
+          desc: "Use this guide to quickly get started with a voice call through the Agora RTC SDK.",
         },
-        // RESTful: {
-        //   link: "",
-        //   title: "Quick start",
-        //   desc:
-        //     "Use this guide to quickly get started with a voice call through the Agora RTC SDK.",
-        // },
         Electron: {
           link: "/en/Voice/start_call_audio_electron?platform=Electron",
           title: "Quick start",
-          desc:
-            "Use this guide to quickly get started with a voice call through the Agora RTC SDK.",
+          desc: "Use this guide to quickly get started with a voice call through the Agora RTC SDK.",
         },
         Unity: {
           link: "/en/Voice/start_call_audio_unity?platform=Unity",
           title: "Quick start",
-          desc:
-            "Use this guide to quickly get started with a voice call through the Agora RTC SDK.",
+          desc: "Use this guide to quickly get started with a voice call through the Agora RTC SDK.",
         },
         Flutter: {
           link: "/en/Voice/start_call_audio_flutter?platform=Flutter",
           title: "Quick start",
-          desc:
-            "Use this guide to quickly get started with a voice call through the Agora RTC SDK.",
+          desc: "Use this guide to quickly get started with a voice call through the Agora RTC SDK.",
         },
         ReactNative: {
-          link:
-            "/en/Voice/start_call_audio_react_native?platform=React%20Native",
+          link: "/en/Voice/start_call_audio_react_native?platform=React%20Native",
           title: "Quick start",
-          desc:
-            "Use this guide to quickly get started with a voice call through the Agora RTC SDK.",
+          desc: "Use this guide to quickly get started with a voice call through the Agora RTC SDK.",
         },
-        // "Cocos Creator": {
-        //   link: "",
-        //   title: "Quick start",
-        //   desc:
-        //     "Use this guide to quickly get started with a voice call through the Agora RTC SDK.",
-        // },
+        "Cocos Creator": {
+          link: "/en/Voice/start_call_audio_cocos_creator?platform=Cocos%20Creator",
+          title: "Quick start",
+          desc: "Use this guide to quickly get started with a voice call through the Agora RTC SDK.",
+        },
       },
       api: {
         Android: {
           link: "/en/Voice/API%20Reference/java/index.html",
-          title: "API Ref",
+          title: "API Reference",
           desc:
             "This article contains detailed help for the APIs of the Agora RTC SDK.",
         },
         iOS: {
-          link:
-            "/en/Voice/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
-          title: "API Ref",
-          desc:
-            "This article contains detailed help for the APIs of the Agora RTC SDK.",
+          link: "/en/Voice/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
+          title: "API Reference",
+          desc: "This article contains detailed help for the APIs of the Agora RTC SDK.",
         },
         macOS: {
-          link:
-            "/en/Voice/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
-          title: "API Ref",
-          desc:
-            "This article contains detailed help for the APIs of the Agora RTC SDK.",
+          link: "/en/Voice/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
+          title: "API Reference",
+          desc: "This article contains detailed help for the APIs of the Agora RTC SDK.",
         },
         Web: {
           link: "en/Voice/API%20Reference/web/index.html",
-          title: "API Ref",
-          desc:
-            "This article contains detailed help for the APIs of the Agora RTC SDK.",
+          title: "API Reference",
+          desc: "This article contains detailed help for the APIs of the Agora RTC SDK.",
         },
-        // 微信小程序: {
-        //   link: "",
-        //   title: "API Ref",
-        //   desc:
-        //     "This article contains detailed help for the APIs of the Agora RTC SDK.",
-        // },
         Windows: {
           link: "en/Voice/API%20Reference/cpp/index.html",
-          title: "API Ref",
-          desc:
-            "This article contains detailed help for the APIs of the Agora RTC SDK.",
+          title: "API Reference",
+          desc: "This article contains detailed help for the APIs of the Agora RTC SDK.",
         },
-        // RESTful: {
-        //   link: "",
-        //   title: "API Ref",
-        //   desc:
-        //     "This article contains detailed help for the APIs of the Agora RTC SDK.",
-        // },
+        RESTful: {
+          link: "/en/rtc/restfulapi/",
+          title: "API Reference",
+          desc: "This article contains detailed help for the Server RESTful APIs.",
+        },
         Electron: {
           link: "/en/Voice/API%20Reference/electron/index.html",
-          title: "API Ref",
-          desc:
-            "This article contains detailed help for the APIs of the Agora RTC SDK.",
+          title: "API Reference",
+          desc: "This article contains detailed help for the APIs of the Agora RTC SDK.",
         },
         Unity: {
           link: "/en/Voice/API%20Reference/electron/index.html",
-          title: "API Ref",
-          desc:
-            "This article contains detailed help for the APIs of the Agora RTC SDK.",
+          title: "API Reference",
+          desc: "This article contains detailed help for the APIs of the Agora RTC SDK.",
         },
-        // Flutter: {
-        //   link: "",
-        //   title: "API Ref",
-        //   desc:
-        //     "This article contains detailed help for the APIs of the Agora RTC SDK.",
-        // },
-        // ReactNative: {
-        //   link: "",
-        //   title: "API Ref",
-        //   desc:
-        //     "This article contains detailed help for the APIs of the Agora RTC SDK.",
-        // },
-        // "Cocos Creator": {
-        //   link: "",
-        //   title: "API Ref",
-        //   desc:
-        //     "This article contains detailed help for the APIs of the Agora RTC SDK.",
-        // },
+        Flutter: {
+          link: "/en/Voice/API%20Reference/flutter/index.html",
+          title: "API Reference",
+          desc: "This article contains detailed help for the APIs of the Agora RTC SDK.",
+        },
+        ReactNative: {
+          link: "/en/Voice/API%20Reference/react_native/index.html",
+          title: "API Reference",
+          desc: "This article contains detailed help for the APIs of the Agora RTC SDK.",
+        },
+        "Cocos Creator": {
+          link: "/en/Voice/API%20Reference/cocos_creator_voice/index.html",
+          title: "API Reference",
+          desc: "This article contains detailed help for the APIs of the Agora RTC SDK.",
+        },
       },
       articles: {
         Android: [
           {
             link: "/en/Voice/token_server?platform=All%20Platforms",
             title: "Generate a Token from Your Server",
-            desc:
-              "This article introduces how to generate a token on your server using the code provided by Agora.",
+            desc: "This article introduces how to generate a token on your server using the code provided by Agora.",
           },
           {
             link: "/en/Voice/volume_android?platform=Android",
@@ -1135,14 +983,6 @@ const landingPageData = {
               "This article introduces how to choose the appropriate audio profile based on the audio quality, channel, and scenario.",
           },
         ],
-        微信小程序: [
-          {
-            link: "/en/Voice/token_server?platform=All%20Platforms",
-            title: "Generate a Token from Your Server",
-            desc:
-              "This article introduces how to generate a token on your server using the code provided by Agora.",
-          },
-        ],
         Windows: [
           {
             link: "/en/Voice/token_server?platform=All%20Platforms",
@@ -1163,22 +1003,6 @@ const landingPageData = {
               "This article introduces how to choose the appropriate audio profile based on the audio quality, channel, and scenario.",
           },
         ],
-        RESTful: [
-          {
-            link: "/en/Voice/token_server?platform=All%20Platforms",
-            title: "Generate a Token from Your Server",
-            desc:
-              "This article introduces how to generate a token on your server using the code provided by Agora.",
-          },
-        ],
-        Electron: [
-          {
-            link: "/en/Voice/token_server?platform=All%20Platforms",
-            title: "Generate a Token from Your Server",
-            desc:
-              "This article introduces how to generate a token on your server using the code provided by Agora.",
-          },
-        ],
         Unity: [
           {
             link: "/en/Voice/token_server?platform=All%20Platforms",
@@ -1187,40 +1011,16 @@ const landingPageData = {
               "This article introduces how to generate a token on your server using the code provided by Agora.",
           },
           {
-            link: "/en/Voice/volume_unity?platform=Unity",
-            title: "Adjust the Volume",
+            link: "/en/Voice/raw_data_audio_unity?platform=Unity",
+            title: "Raw audio data",
             desc:
-              "This article introduces how to adjust the volume during the process from audio sampling to playback.",
+              "This article introduces how to get the raw audio data.",
           },
           {
-            link: "/en/Voice/audio_profile_unity?platform=Unity",
-            title: "Set the Audio Profile",
+            link: "/en/Voice/custom_audio_unity?platform=Unity",
+            title: "Custom Audio Source and Renderer",
             desc:
-              "This article introduces how to choose the appropriate audio profile based on the audio quality, channel, and scenario.",
-          },
-        ],
-        Flutter: [
-          {
-            link: "/en/Voice/token_server?platform=All%20Platforms",
-            title: "Generate a Token from Your Server",
-            desc:
-              "This article introduces how to generate a token on your server using the code provided by Agora.",
-          },
-        ],
-        ReactNative: [
-          {
-            link: "/en/Voice/token_server?platform=All%20Platforms",
-            title: "Generate a Token from Your Server",
-            desc:
-              "This article introduces how to generate a token on your server using the code provided by Agora.",
-          },
-        ],
-        "Cocos Creator": [
-          {
-            link: "/en/Voice/token_server?platform=All%20Platforms",
-            title: "Generate a Token from Your Server",
-            desc:
-              "This article introduces how to generate a token on your server using the code provided by Agora.",
+              "This article introduces how to use custom audio source to capture the audio data and use custom audio renderer to render the audio data.",
           },
         ],
       },
