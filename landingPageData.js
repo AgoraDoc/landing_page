@@ -258,11 +258,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/Agora-Unity-Quickstart/tree/master/audio/Hello-Unity3D-Agora",
-            title: "示例代码（基础版）",
-          },
-          {
-            link: "https://github.com/AgoraIO/Agora-Unity-Quickstart/tree/master/API-Example-Unity/Assets/API-Example",
-            title: "示例代码（进阶版）",
+            title: "示例代码",
           },
         ],
         Flutter: [
@@ -514,15 +510,15 @@ const landingPageData = {
           },
           {
             link: "/cn/Voice/faq/wechat",
-            title: "如何处理小程序 SDK 常见问题？ Edit",
+            title: "如何处理小程序 SDK 常见问题？",
             desc:
               "本文介绍在使用小程序 SDK 过程中的常见问题及解决方案。",
           },
           {
-            link: "??",
+            link: "/cn/Voice/error_rtc?platform=All%20Platforms",
             title: "错误码和警告码",
             desc:
-              "本文介绍在调用 API 或运行时可能返回的错误码和警告码。",
+              "本文介绍在调用 Agora API 过程中，SDK 可能会返回的错误码和警告码。",
           },
         ],
         Windows: [
@@ -544,13 +540,6 @@ const landingPageData = {
               "本文介绍如何根据音质、声道、场景等的不同需求，选择不同的音频属性。",
           },
         ],
-        Electron: [
-          {
-            link: "/cn/Voice/token_server?platform=All%20Platforms",
-            title: "生成 Token",
-            desc: "本文介绍如何使用 Agora 提供的代码在服务端生成 Token。",
-          },
-        ],
         Unity: [
           {
             link: "/cn/Voice/token_server?platform=All%20Platforms",
@@ -568,27 +557,6 @@ const landingPageData = {
             title: "自定义音频采集和渲染",
             desc:
               "本文介绍如何使用自定义的音频源采集或使用自定义的渲染器渲染音频数据。",
-          },
-        ],
-        Flutter: [
-          {
-            link: "/cn/Voice/token_server?platform=All%20Platforms",
-            title: "生成 Token",
-            desc: "本文介绍如何使用 Agora 提供的代码在服务端生成 Token。",
-          },
-        ],
-        ReactNative: [
-          {
-            link: "/cn/Voice/token_server?platform=All%20Platforms",
-            title: "生成 Token",
-            desc: "本文介绍如何使用 Agora 提供的代码在服务端生成 Token。",
-          },
-        ],
-        "Cocos Creator": [
-          {
-            link: "/cn/Voice/token_server?platform=All%20Platforms",
-            title: "生成 Token",
-            desc: "本文介绍如何使用 Agora 提供的代码在服务端生成 Token。",
           },
         ],
       },
