@@ -2306,7 +2306,7 @@ const landingPageData = {
       },
       api: {
         RESTful: {
-          link: "/cn/cloud-recording/api-ref?platform=RESTful",
+          link: "/cn/cloud-recording/restfulapi",
           title: "API 文档",
           desc: "本文提供云端录制 RESTful API 的详细信息。",
         },
@@ -2376,7 +2376,7 @@ const landingPageData = {
       },
       api: {
         RESTful: {
-          link: "/en/cloud-recording/api-ref",
+          link: "/cn/cloud-recording/restfulapi",
           title: "API Reference",
           desc: "Detailed help for the Cloud Recording RESTful APIs.",
         },
@@ -3318,7 +3318,7 @@ const landingPageData = {
       },
       api: {
         RESTful: {
-          link: "/cn/Aliyun%20Audio%20Moderation/api-ref",
+          link: "/cn/Aliyun%20Audio%20Moderation/restful_api_ali_audio?platform=RESTful",
           title: "API 文档",
           desc: "本文提供阿里智能语音审核 RESTful API 的详细信息。",
         },
@@ -3365,14 +3365,14 @@ const landingPageData = {
       ],
       quickStart: {
         RESTful: {
-          link: "/cn/Kingsoft%20Audio%20Moderation/quickstart_kingsoft_audio/?platform=RESTful",
+          link: "/cn/Kingsoft%20Audio%20Moderation/quickstart_kingsoft_audio?platform=RESTful",
           title: "快速开始",
           desc: "本文介绍如何使用金山智能语音审核 RESTful API 对频道内的音频进行实时审核。",
         },
       },
       api: {
         RESTful: {
-          link: "/cn/Kingsoft%20Audio%20Moderation/api-ref",
+          link: "/cn/Kingsoft%20Audio%20Moderation/restful_api_kingsoft_audio?platform=RESTful",
           title: "API 文档",
           desc: "本文提供金山智能语音审核 RESTful API 的详细信息。",
         },
