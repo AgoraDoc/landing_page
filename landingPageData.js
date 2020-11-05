@@ -2735,39 +2735,34 @@ const landingPageData = {
       api: {
         Android: {
           link: "/cn/Real-time-Messaging/API%20Reference/RTM_java/index.html",
-          title: "Agora RTM Java API Reference for Android",
+          title: "API 参考",
           desc: "该文提供 RTM SDK 的 API 参考信息。",
         },
         iOS: {
           link: "/cn/Real-time-Messaging/API%20Reference/RTM_oc/docs/API-Overview.html",
-          title: "Agora RTM Objective-C API Reference for iOS",
+          title: "API 参考",
           desc: "该文提供 RTM SDK 的 API 参考信息。",
         },
         macOS: {
           link: "/cn/Real-time-Messaging/API%20Reference/RTM_oc/docs/API-Overview.html",
-          title: "Agora RTM Objective-C API Reference for macOS",
+          title: "API 参考",
           desc: "该文提供 RTM SDK 的 API 参考信息。",
         },
         Web: {
           link: "/cn/Real-time-Messaging/API%20Reference/RTM_web/index.html",
-          title: "Agora RTM Web API Reference",
+          title: "API 参考",
           desc: "该文提供 RTM SDK 的 API 参考信息。",
         },
         Windows: {
           link: "/cn/Real-time-Messaging/API%20Reference/RTM_cpp/index.html",
-          title: "Agora RTM C++ API Reference for Windows",
+          title: "API 参考",
           desc: "该文提供 RTM SDK 的 API 参考信息。",
         },
         Linux:
-        [
-          {link: "/cn/Real-time-Messaging/API%20Reference/RTM_java_linux/index.html",
-          title: "Agora RTM Java API Reference for Linux",
-          desc: "该文提供 RTM SDK 的 API 参考信息。",},
 
-          {link: "/cn/Real-time-Messaging/API%20Reference/RTM_cpp/index.html",
-          title: "Agora RTM C++ API Reference for Linux",
+          {link: "/cn/Real-time-Messaging/API%20Reference/RTM_java_linux/index.html",
+          title: "API 参考",
           desc: "该文提供 RTM SDK 的 API 参考信息。",},
-        ],
 
         },
         微信小程序: {
@@ -3103,39 +3098,34 @@ const landingPageData = {
       api: {
         Android: {
           link: "/en/Real-time-Messaging/API%20Reference/RTM_java/index.html",
-          title: "Agora RTM Java API Reference for Android",
+          title: "API Reference",
           desc: "This article contains detailed API reference for the RTM SDK.",
         },
         iOS: {
           link: "/en/Real-time-Messaging/API%20Reference/RTM_oc/docs/API-Overview.html",
-          title: "Agora RTM Objective-C API Reference for iOS",
+          title: "API Reference",
           desc: "This article contains detailed API reference for the RTM SDK.",
         },
         macOS: {
           link: "/en/Real-time-Messaging/API%20Reference/RTM_oc/docs/API-Overview.html",
-          title: "Agora RTM Objective-C API Reference for macOS",
+          title: "API Reference",
           desc: "This article contains detailed API reference for the RTM SDK.",
         },
         Web: {
           link: "/en/Real-time-Messaging/API%20Reference/RTM_web/index.html",
-          title: "Agora RTM Web API Reference",
+          title: "API Reference",
           desc: "This article contains detailed API reference for the RTM SDK.",
         },
         Windows: {
           link: "/en/Real-time-Messaging/API%20Reference/RTM_cpp/index.html",
-          title: "Agora RTM C++ API Reference for Windows",
+          title: "API Reference",
           desc: "This article contains detailed API reference for the RTM SDK.",
         },
         Linux:
-        [
           {link: "/en/Real-time-Messaging/API%20Reference/RTM_java_linux/index.html",
-          title: "Agora RTM Java API Reference for Linux",
+          title: "API Reference",
           desc: "This article contains detailed API reference for the RTM SDK.",},
 
-          {link: "/en/Real-time-Messaging/API%20Reference/RTM_cpp/index.html",
-          title: "Agora RTM C++ API Reference for Linux",
-          desc: "This article contains detailed API reference for the RTM SDK.",},
-        ],
         RESTful: [
           {
             link: "/en/Real-time-Messaging/rtm_get_event?platform=RESTful",
