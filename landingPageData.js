@@ -2805,6 +2805,11 @@ const landingPageData = {
             title: "计费说明",
             desc: "本文展示 RTM SDK 的计费规则。",
           },
+          {
+            link: "https://docs.agora.io/cn/Real-time-Messaging/limitations_android?platform=Android",
+            title: "限制条件",
+            desc: "本文展示 RTM SDK 的使用限制条件。",
+          },
         ],
         iOS: [
           {
@@ -2821,6 +2826,11 @@ const landingPageData = {
             link: "https://docs.agora.io/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
             title: "计费说明",
             desc: "本文展示 RTM SDK 的计费规则。",
+          },
+          {
+            link: "https://docs.agora.io/cn/Real-time-Messaging/limitations_oc?platform=iOS",
+            title: "限制条件",
+            desc: "本文展示 RTM SDK 的使用限制条件。",
           },
         ],
         macOS: [
@@ -2839,6 +2849,11 @@ const landingPageData = {
             title: "计费说明",
             desc: "本文展示 RTM SDK 的计费规则。",
           },
+          {
+            link: "https://docs.agora.io/cn/Real-time-Messaging/limitations_oc?platform=macOS",
+            title: "限制条件",
+            desc: "本文展示 RTM SDK 的使用限制条件。",
+          },
         ],
         Windows: [
           {
@@ -2847,7 +2862,7 @@ const landingPageData = {
             desc: "本文展示如何使用 Agora 提供的代码在服务端生成 RTM Token。",
           },
           {
-            link: "https://docs.agora.io/cn/Real-time-Messaging/reconnecting_oc?platform=Windows",
+            link: "https://docs.agora.io/cn/Real-time-Messaging/reconnecting_cpp?platform=Windows",
             title: "连接状态管理",
             desc: "本文展示如何使用 RTM SDK 进行连接状态管理。",
           },
@@ -2855,6 +2870,11 @@ const landingPageData = {
             link: "https://docs.agora.io/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
             title: "计费说明",
             desc: "本文展示 RTM SDK 的计费规则。",
+          },
+          {
+            link: "https://docs.agora.io/cn/Real-time-Messaging/limitations_cpp?platform=Windows",
+            title: "限制条件",
+            desc: "本文展示 RTM SDK 的使用限制条件。",
           },
         ],
         Web: [
@@ -2872,6 +2892,11 @@ const landingPageData = {
             link: "https://docs.agora.io/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
             title: "计费说明",
             desc: "本文展示 RTM SDK 的计费规则。",
+          },
+          {
+            link: "https://docs.agora.io/cn/Real-time-Messaging/limitations_web?platform=Web",
+            title: "限制条件",
+            desc: "本文展示 RTM SDK 的使用限制条件。",
           },
         ],
         Linux: [
@@ -2894,6 +2919,16 @@ const landingPageData = {
             link: "https://docs.agora.io/cn/Real-time-Messaging/billing_rtm?platform=All%20Platforms",
             title: "计费说明",
             desc: "本文展示 RTM SDK 的计费规则。",
+          },
+          {
+            link: "https://docs.agora.io/cn/Real-time-Messaging/limitations_cpp_linux?platform=Linux",
+            title: "限制条件",
+            desc: "本文展示 RTM SDK 的使用限制条件。",
+          },
+          {
+            link: "https://docs.agora.io/cn/Real-time-Messaging/limitations_java?platform=Linux",
+            title: "限制条件",
+            desc: "本文展示 RTM SDK 的使用限制条件。",
           },
         ],
       },
@@ -3123,6 +3158,11 @@ const landingPageData = {
             title: "Manage Connection States",
             desc: "This article introduces how to manage the connection status with the RTM SDK.",
           },
+          {
+            link: "https://docs.agora.io/en/Real-time-Messaging/limitations_android?platform=Android",
+            title: "Limitations",
+            desc: "This article introduces the limitations of the RTM SDK.",
+          },
         ],
         iOS: [
           {
@@ -3134,6 +3174,11 @@ const landingPageData = {
             link: "https://docs.agora.io/en/Real-time-Messaging/reconnecting_oc?platform=iOS",
             title: "Manage Connection States",
             desc: "This article introduces how to manage the connection status with the RTM SDK.",
+          },
+          {
+            link: "https://docs.agora.io/cn/Real-time-Messaging/limitations_oc?platform=iOS",
+            title: "Limitations",
+            desc: "This article introduces the limitations of the RTM SDK.",
           },
         ],
         macOS: [
@@ -3147,6 +3192,28 @@ const landingPageData = {
             title: "Manage Connection States",
             desc: "This article introduces how to manage the connection status with the RTM SDK.",
           },
+          {
+            link: "https://docs.agora.io/en/Real-time-Messaging/limitations_oc?platform=macOS",
+            title: "Limitations",
+            desc: "This article introduces the limitations of the RTM SDK.",
+          },
+        ],
+        Windows: [
+          {
+            link: "https://docs.agora.io/en/Real-time-Messaging/rtm_token?platform=All%20Platforms",
+            title: "Generate an RTM Token",
+            desc: "This article introduces how to generate an RTM token on your server using the code provided by Agora.",
+          },
+          {
+            link: "https://docs.agora.io/en/Real-time-Messaging/reconnecting_cpp?platform=Windows",
+            title: "Manage Connection States",
+            desc: "This article introduces how to manage the connection status with the RTM SDK.",
+          },
+          {
+            link: "https://docs.agora.io/en/Real-time-Messaging/limitations_cpp?platform=Windows",
+            title: "Limitations",
+            desc: "This article introduces the limitations of the RTM SDK.",
+          },
         ],
         Web: [
           {
@@ -3158,6 +3225,11 @@ const landingPageData = {
             link: "https://docs.agora.io/en/Real-time-Messaging/reconnecting_web?platform=Web",
             title: "Manage Connection States",
             desc: "This article introduces how to manage the connection status with the RTM SDK.",
+          },
+          {
+            link: "https://docs.agora.io/en/Real-time-Messaging/limitations_web?platform=Web",
+            title: "Limitations",
+            desc: "This article introduces the limitations of the RTM SDK.",
           },
         ],
         Linux: [
@@ -3175,6 +3247,16 @@ const landingPageData = {
             link: "https://docs.agora.io/en/Real-time-Messaging/reconnecting_cpp?platform=Linux",
             title: "Manage Connection States",
             desc: "This article introduces how to manage the connection status with the RTM SDK.",
+          },
+          {
+            link: "https://docs.agora.io/en/Real-time-Messaging/limitations_cpp_linux?platform=Linux",
+            title: "Limitations",
+            desc: "This article introduces the limitations of the RTM SDK.",
+          },
+          {
+            link: "https://docs.agora.io/en/Real-time-Messaging/limitations_java?platform=Linux",
+            title: "Limitations",
+            desc: "This article introduces the limitations of the RTM SDK.",
           },
         ],
       },
