@@ -3010,7 +3010,7 @@ const landingPageData = {
           {
             link: "/en/Agora%20Platform/console_overview",
             title: "Console Overview",
-            desc: "This article introduces how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
+            desc: "Learn how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
           },
         ],
         iOS: [
@@ -3032,7 +3032,7 @@ const landingPageData = {
           {
             link: "/en/Agora%20Platform/console_overview",
             title: "Console Overview",
-            desc: "This article introduces how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
+            desc: "Learn how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
           },
         ],
         macOS: [
@@ -3054,7 +3054,7 @@ const landingPageData = {
           {
             link: "/en/Agora%20Platform/console_overview",
             title: "Console Overview",
-            desc: "This article introduces how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
+            desc: "Learn how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
           },
         ],
         Web: [
@@ -3076,7 +3076,7 @@ const landingPageData = {
           {
             link: "/en/Agora%20Platform/console_overview",
             title: "Console Overview",
-            desc: "This article introduces how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
+            desc: "Learn how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
           },
         ],
         微信小程序: [
@@ -3098,7 +3098,7 @@ const landingPageData = {
           {
             link: "/en/Agora%20Platform/console_overview",
             title: "Console Overview",
-            desc: "This article introduces how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
+            desc: "Learn how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
           },
         ],
         Windows: [
@@ -3120,7 +3120,7 @@ const landingPageData = {
           {
             link: "/en/Agora%20Platform/console_overview",
             title: "Console Overview",
-            desc: "This article introduces how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
+            desc: "Learn how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
           },
         ],
         Linux: [
@@ -3142,7 +3142,7 @@ const landingPageData = {
           {
             link: "/en/Agora%20Platform/console_overview",
             title: "Console Overview",
-            desc: "This article introduces how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
+            desc: "Learn how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
           },
         ],
         RESTful: [
@@ -3164,7 +3164,7 @@ const landingPageData = {
           {
             link: "/en/Agora%20Platform/console_overview",
             title: "Console Overview",
-            desc: "This article introduces how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
+            desc: "Learn how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
           },
         ],
         Electron: [
@@ -3186,7 +3186,7 @@ const landingPageData = {
           {
             link: "/en/Agora%20Platform/console_overview",
             title: "Console Overview",
-            desc: "This article introduces how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
+            desc: "Learn how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
           },
         ],
         Unity: [
@@ -3208,7 +3208,7 @@ const landingPageData = {
           {
             link: "/en/Agora%20Platform/console_overview",
             title: "Console Overview",
-            desc: "This article introduces how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
+            desc: "Learn how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
           },
         ],
         Flutter: [
@@ -3230,7 +3230,7 @@ const landingPageData = {
           {
             link: "/en/Agora%20Platform/console_overview",
             title: "Console Overview",
-            desc: "This article introduces how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
+            desc: "Learn how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
           },
         ],
         ReactNative: [
@@ -3252,7 +3252,7 @@ const landingPageData = {
           {
             link: "/en/Agora%20Platform/console_overview",
             title: "Console Overview",
-            desc: "This article introduces how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
+            desc: "Learn how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
           },
         ],
         "Cocos Creator": [
@@ -3274,7 +3274,7 @@ const landingPageData = {
           {
             link: "/en/Agora%20Platform/console_overview",
             title: "Console Overview",
-            desc: "This article introduces how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
+            desc: "Learn how to use Agora Console, which provides interactive interfaces where you can configure, pay for and monitor your Agora products.",
           },
         ]
       },
