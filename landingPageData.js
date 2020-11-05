@@ -2380,7 +2380,62 @@ const landingPageData = {
         },
       ],
       api: {
+        Android: {
+          link: "/cn/Agora%20Analytics/aa_api?platform=RESTful",
+          title: "RESTful API",
+          desc: "本文提供水晶球 RESTful API 的详细信息。",
+        },
+        iOS: {
+          link: "/cn/Agora%20Analytics/aa_api?platform=RESTful",
+          title: "RESTful API",
+          desc: "本文提供水晶球 RESTful API 的详细信息。",
+        },
+        macOS: {
+          link: "/cn/Agora%20Analytics/aa_api?platform=RESTful",
+          title: "RESTful API",
+          desc: "本文提供水晶球 RESTful API 的详细信息。",
+        },
+        Web: {
+          link: "/cn/Agora%20Analytics/aa_api?platform=RESTful",
+          title: "RESTful API",
+          desc: "本文提供水晶球 RESTful API 的详细信息。",
+        },
+        微信小程序: {
+          link: "/cn/Agora%20Analytics/aa_api?platform=RESTful",
+          title: "RESTful API",
+          desc: "本文提供水晶球 RESTful API 的详细信息。",
+        },
+        Windows: {
+          link: "/cn/Agora%20Analytics/aa_api?platform=RESTful",
+          title: "RESTful API",
+          desc: "本文提供水晶球 RESTful API 的详细信息。",
+        },
+        Linux: {
+          link: "/cn/Agora%20Analytics/aa_api?platform=RESTful",
+          title: "RESTful API",
+          desc: "本文提供水晶球 RESTful API 的详细信息。",
+        },
         RESTful: {
+          link: "/cn/Agora%20Analytics/aa_api?platform=RESTful",
+          title: "RESTful API",
+          desc: "本文提供水晶球 RESTful API 的详细信息。",
+        },
+        Electron: {
+          link: "/cn/Agora%20Analytics/aa_api?platform=RESTful",
+          title: "RESTful API",
+          desc: "本文提供水晶球 RESTful API 的详细信息。",
+        },
+        Unity: {
+          link: "/cn/Agora%20Analytics/aa_api?platform=RESTful",
+          title: "RESTful API",
+          desc: "本文提供水晶球 RESTful API 的详细信息。",
+        },
+        ReactNative: {
+          link: "/cn/Agora%20Analytics/aa_api?platform=RESTful",
+          title: "RESTful API",
+          desc: "本文提供水晶球 RESTful API 的详细信息。",
+        },
+        "Cocos Creator": {
           link: "/cn/Agora%20Analytics/aa_api?platform=RESTful",
           title: "RESTful API",
           desc: "本文提供水晶球 RESTful API 的详细信息。",
@@ -2611,49 +2666,349 @@ const landingPageData = {
       },
     },
     en: {
-      desc: "",
+      desc: "Agora Analytics is a tool that tracks and analyzes the usage and quality of calls. You can use this tool to locate quality issues, find root causes, and fix the issues.",
       overview: {
         Android: [
           {
-            link: "",
-            title: "",
+            link: "/en/Agora%20Analytics/product_agora_analytics",
+            title: "Product Overview",
+          },
+          {
+            link: "/en/Agora%20Analytics/release_aa?platform=Android",
+            title: "Release notes",
           },
         ],
-      },
-      downloads: {
-        Android: [
+        iOS: [
           {
-            link: "",
-            title: "",
+            link: "/en/Agora%20Analytics/product_agora_analytics",
+            title: "Product Overview",
+          },
+          {
+            link: "/en/Agora%20Analytics/release_aa?platform=iOS",
+            title: "Release notes",
+          },
+        ],
+        macOS: [
+          {
+            link: "/en/Agora%20Analytics/product_agora_analytics",
+            title: "Product Overview",
+          },
+          {
+            link: "/en/Agora%20Analytics/release_aa?platform=macOS",
+            title: "Release notes",
+          },
+        ],
+        Web: [
+          {
+            link: "/en/Agora%20Analytics/product_agora_analytics",
+            title: "Product Overview",
+          },
+          {
+            link: "/en/Agora%20Analytics/release_aa?platform=Web",
+            title: "Release notes",
+          },
+        ],
+        Windows: [
+          {
+            link: "/en/Agora%20Analytics/product_agora_analytics",
+            title: "Product Overview",
+          },
+          {
+            link: "/en/Agora%20Analytics/release_aa?platform=Windows",
+            title: "Release notes",
+          },
+        ],
+        Linux: [
+          {
+            link: "/en/Agora%20Analytics/product_agora_analytics",
+            title: "Product Overview",
+          },
+          {
+            link: "/en/Agora%20Analytics/release_aa?platform=Linux",
+            title: "Release notes",
+          },
+        ],
+        RESTful: [
+          {
+            link: "/en/Agora%20Analytics/product_agora_analytics",
+            title: "Product Overview",
+          },
+          {
+            link: "/en/Agora%20Analytics/release_aa?platform=RESTful",
+            title: "Release notes",
+          },
+        ],
+        Electron: [
+          {
+            link: "/en/Agora%20Analytics/product_agora_analytics",
+            title: "Product Overview",
+          },
+          {
+            link: "/en/Agora%20Analytics/release_aa?platform=Electron",
+            title: "Release notes",
+          },
+        ],
+        Unity: [
+          {
+            link: "/en/Agora%20Analytics/product_agora_analytics",
+            title: "Product Overview",
+          },
+          {
+            link: "/en/Agora%20Analytics/release_aa?platform=Unity",
+            title: "Release notes",
+          },
+        ],
+        Flutter: [
+          {
+            link: "/en/Agora%20Analytics/product_agora_analytics",
+            title: "Product Overview",
+          },
+          {
+            link: "/en/Agora%20Analytics/release_aa?platform=Flutter",
+            title: "Release notes",
+          },
+        ],
+        ReactNative: [
+          {
+            link: "/en/Agora%20Analytics/product_agora_analytics",
+            title: "Product Overview",
+          },
+          {
+            link: "/en/Agora%20Analytics/release_aa?platform=React%20Native",
+            title: "Release notes",
+          },
+        ],
+        "Cocos Creator": [
+          {
+            link: "/en/Agora%20Analytics/product_agora_analytics",
+            title: "Product Overview",
+          },
+          {
+            link: "/en/Agora%20Analytics/release_aa?platform=Cocos%20Creator",
+            title: "Release notes",
           },
         ],
       },
       contact: [
         {
-          link: "",
-          title: "",
+          link: "https://dev.agora.io/",
+          title: "Developer Community",
+        },
+        {
+          link: "https://agora-ticket.agora.io/",
+          title: "Submit a ticket",
         },
       ],
-      quickStart: {
-        Android: {
-          link: "",
-          title: "",
-          desc: "",
-        },
-      },
       api: {
         Android: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/Agora%20Analytics/aa_api?platform=RESTful",
+          title: "RESTful API",
+          desc: "This article contains detailed help for the Agora Analytics RESTful APIs.",
         },
       },
       articles: {
         Android: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/en/Agora%20Analytics/aa_live_data?platform=Android",
+            title: "Realtime",
+            desc: "This article introduces how to view the real-time scale, quality, and any abnormalities of your project.",
+          },
+          {
+            link: "/en/Agora%20Analytics/aa_big_channel?platform=Android",
+            title: "Big Channel",
+            desc: "This article introduces how to monitor and analyze quality issues of Big Channels in real time.",
+          },
+          {
+            link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=Android",
+            title: "Real-time Alarm",
+            desc: "This article introduces how to monitor call quality and user's communication experience.",
+          },
+        ],
+        iOS: [
+          {
+            link: "/en/Agora%20Analytics/aa_live_data?platform=iOS",
+            title: "Realtime",
+            desc: "This article introduces how to view the real-time scale, quality, and any abnormalities of your project.",
+          },
+          {
+            link: "/en/Agora%20Analytics/aa_big_channel?platform=iOS",
+            title: "Big Channel",
+            desc: "This article introduces how to monitor and analyze quality issues of Big Channels in real time.",
+          },
+          {
+            link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=iOS",
+            title: "Real-time Alarm",
+            desc: "This article introduces how to monitor call quality and user's communication experience.",
+          },
+        ],
+        macOS: [
+          {
+            link: "/en/Agora%20Analytics/aa_live_data?platform=macOS",
+            title: "Realtime",
+            desc: "This article introduces how to view the real-time scale, quality, and any abnormalities of your project.",
+          },
+          {
+            link: "/en/Agora%20Analytics/aa_big_channel?platform=macOS",
+            title: "Big Channel",
+            desc: "This article introduces how to monitor and analyze quality issues of Big Channels in real time.",
+          },
+          {
+            link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=macOS",
+            title: "Real-time Alarm",
+            desc: "This article introduces how to monitor call quality and user's communication experience.",
+          },
+        ],
+        Web: [
+          {
+            link: "/en/Agora%20Analytics/aa_live_data?platform=Web",
+            title: "Realtime",
+            desc: "This article introduces how to view the real-time scale, quality, and any abnormalities of your project.",
+          },
+          {
+            link: "/en/Agora%20Analytics/aa_big_channel?platform=Web",
+            title: "Big Channel",
+            desc: "This article introduces how to monitor and analyze quality issues of Big Channels in real time.",
+          },
+          {
+            link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=Web",
+            title: "Real-time Alarm",
+            desc: "This article introduces how to monitor call quality and user's communication experience.",
+          },
+        ],
+        Windows: [
+          {
+            link: "/en/Agora%20Analytics/aa_live_data?platform=Windows",
+            title: "Realtime",
+            desc: "This article introduces how to view the real-time scale, quality, and any abnormalities of your project.",
+          },
+          {
+            link: "/en/Agora%20Analytics/aa_big_channel?platform=Windows",
+            title: "Big Channel",
+            desc: "This article introduces how to monitor and analyze quality issues of Big Channels in real time.",
+          },
+          {
+            link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=Windows",
+            title: "Real-time Alarm",
+            desc: "This article introduces how to monitor call quality and user's communication experience.",
+          },
+        ],
+        Linux: [
+          {
+            link: "/en/Agora%20Analytics/aa_live_data?platform=Linux",
+            title: "Realtime",
+            desc: "This article introduces how to view the real-time scale, quality, and any abnormalities of your project.",
+          },
+          {
+            link: "/en/Agora%20Analytics/aa_big_channel?platform=Linux",
+            title: "Big Channel",
+            desc: "This article introduces how to monitor and analyze quality issues of Big Channels in real time.",
+          },
+          {
+            link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=Linux",
+            title: "Real-time Alarm",
+            desc: "This article introduces how to monitor call quality and user's communication experience.",
+          },
+        ],
+        RESTful: [
+          {
+            link: "/en/Agora%20Analytics/aa_live_data?platform=RESTful",
+            title: "Realtime",
+            desc: "This article introduces how to view the real-time scale, quality, and any abnormalities of your project.",
+          },
+          {
+            link: "/en/Agora%20Analytics/aa_big_channel?platform=RESTful",
+            title: "Big Channel",
+            desc: "This article introduces how to monitor and analyze quality issues of Big Channels in real time.",
+          },
+          {
+            link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=RESTful",
+            title: "Real-time Alarm",
+            desc: "This article introduces how to monitor call quality and user's communication experience.",
+          },
+        ],
+        Electron: [
+          {
+            link: "/en/Agora%20Analytics/aa_live_data?platform=Electron",
+            title: "Realtime",
+            desc: "This article introduces how to view the real-time scale, quality, and any abnormalities of your project.",
+          },
+          {
+            link: "/en/Agora%20Analytics/aa_big_channel?platform=Electron",
+            title: "Big Channel",
+            desc: "This article introduces how to monitor and analyze quality issues of Big Channels in real time.",
+          },
+          {
+            link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=Electron",
+            title: "Real-time Alarm",
+            desc: "This article introduces how to monitor call quality and user's communication experience.",
+          },
+        ],
+        Unity: [
+          {
+            link: "/en/Agora%20Analytics/aa_live_data?platform=Unity",
+            title: "Realtime",
+            desc: "This article introduces how to view the real-time scale, quality, and any abnormalities of your project.",
+          },
+          {
+            link: "/en/Agora%20Analytics/aa_big_channel?platform=Unity",
+            title: "Big Channel",
+            desc: "This article introduces how to monitor and analyze quality issues of Big Channels in real time.",
+          },
+          {
+            link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=Unity",
+            title: "Real-time Alarm",
+            desc: "This article introduces how to monitor call quality and user's communication experience.",
+          },
+        ],
+        Flutter: [
+          {
+            link: "/en/Agora%20Analytics/aa_live_data?platform=Flutter",
+            title: "Realtime",
+            desc: "This article introduces how to view the real-time scale, quality, and any abnormalities of your project.",
+          },
+          {
+            link: "/en/Agora%20Analytics/aa_big_channel?platform=Flutter",
+            title: "Big Channel",
+            desc: "This article introduces how to monitor and analyze quality issues of Big Channels in real time.",
+          },
+          {
+            link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=Flutter",
+            title: "Real-time Alarm",
+            desc: "This article introduces how to monitor call quality and user's communication experience.",
+          },
+        ],
+        ReactNative: [
+          {
+            link: "/en/Agora%20Analytics/aa_live_data?platform=React%20Native",
+            title: "Realtime",
+            desc: "This article introduces how to view the real-time scale, quality, and any abnormalities of your project.",
+          },
+          {
+            link: "/en/Agora%20Analytics/aa_big_channel?platform=React%20Native",
+            title: "Big Channel",
+            desc: "This article introduces how to monitor and analyze quality issues of Big Channels in real time.",
+          },
+          {
+            link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=React%20Native",
+            title: "Real-time Alarm",
+            desc: "This article introduces how to monitor call quality and user's communication experience.",
+          },
+        ],
+        "Cocos Creator": [
+          {
+            link: "/en/Agora%20Analytics/aa_live_data?platform=Cocos%20Creator",
+            title: "Realtime",
+            desc: "This article introduces how to view the real-time scale, quality, and any abnormalities of your project.",
+          },
+          {
+            link: "/en/Agora%20Analytics/aa_big_channel?platform=Cocos%20Creator",
+            title: "Big Channel",
+            desc: "This article introduces how to monitor and analyze quality issues of Big Channels in real time.",
+          },
+          {
+            link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=Cocos%20Creator",
+            title: "Real-time Alarm",
+            desc: "This article introduces how to monitor call quality and user's communication experience.",
           },
         ],
       },
