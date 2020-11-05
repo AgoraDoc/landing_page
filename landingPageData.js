@@ -2704,12 +2704,12 @@ const landingPageData = {
           {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
-            desc: "本文提供 Agora 关键术语的详细解释。",
+            desc: "了解 Agora 产品相关的重要概念。",
           },
           {
             link: "/cn/Agora%20Platform/token",
             title: "校验用户权限",
-            desc: "本文介绍如何使用 App ID 和 Token 鉴权。",
+            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -2726,12 +2726,12 @@ const landingPageData = {
           {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
-            desc: "本文提供 Agora 关键术语的详细解释。",
+            desc: "了解 Agora 产品相关的重要概念。",
           },
           {
             link: "/cn/Agora%20Platform/token",
             title: "校验用户权限",
-            desc: "本文介绍如何使用 App ID 和 Token 鉴权。",
+            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -2748,12 +2748,12 @@ const landingPageData = {
           {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
-            desc: "本文提供 Agora 关键术语的详细解释。",
+            desc: "了解 Agora 产品相关的重要概念。",
           },
           {
             link: "/cn/Agora%20Platform/token",
             title: "校验用户权限",
-            desc: "本文介绍如何使用 App ID 和 Token 鉴权。",
+            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -2770,12 +2770,12 @@ const landingPageData = {
           {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
-            desc: "本文提供 Agora 关键术语的详细解释。",
+            desc: "了解 Agora 产品相关的重要概念。",
           },
           {
             link: "/cn/Agora%20Platform/token",
             title: "校验用户权限",
-            desc: "本文介绍如何使用 App ID 和 Token 鉴权。",
+            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -2792,12 +2792,12 @@ const landingPageData = {
           {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
-            desc: "本文提供 Agora 关键术语的详细解释。",
+            desc: "了解 Agora 产品相关的重要概念。",
           },
           {
             link: "/cn/Agora%20Platform/token",
             title: "校验用户权限",
-            desc: "本文介绍如何使用 App ID 和 Token 鉴权。",
+            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -2814,12 +2814,12 @@ const landingPageData = {
           {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
-            desc: "本文提供 Agora 关键术语的详细解释。",
+            desc: "了解 Agora 产品相关的重要概念。",
           },
           {
             link: "/cn/Agora%20Platform/token",
             title: "校验用户权限",
-            desc: "本文介绍如何使用 App ID 和 Token 鉴权。",
+            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -2836,12 +2836,12 @@ const landingPageData = {
           {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
-            desc: "本文提供 Agora 关键术语的详细解释。",
+            desc: "了解 Agora 产品相关的重要概念。",
           },
           {
             link: "/cn/Agora%20Platform/token",
             title: "校验用户权限",
-            desc: "本文介绍如何使用 App ID 和 Token 鉴权。",
+            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -2858,12 +2858,12 @@ const landingPageData = {
           {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
-            desc: "本文提供 Agora 关键术语的详细解释。",
+            desc: "了解 Agora 产品相关的重要概念。",
           },
           {
             link: "/cn/Agora%20Platform/token",
             title: "校验用户权限",
-            desc: "本文介绍如何使用 App ID 和 Token 鉴权。",
+            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -2880,12 +2880,12 @@ const landingPageData = {
           {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
-            desc: "本文提供 Agora 关键术语的详细解释。",
+            desc: "了解 Agora 产品相关的重要概念。",
           },
           {
             link: "/cn/Agora%20Platform/token",
             title: "校验用户权限",
-            desc: "本文介绍如何使用 App ID 和 Token 鉴权。",
+            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -2902,12 +2902,12 @@ const landingPageData = {
           {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
-            desc: "本文提供 Agora 关键术语的详细解释。",
+            desc: "了解 Agora 产品相关的重要概念。",
           },
           {
             link: "/cn/Agora%20Platform/token",
             title: "校验用户权限",
-            desc: "本文介绍如何使用 App ID 和 Token 鉴权。",
+            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -2924,12 +2924,12 @@ const landingPageData = {
           {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
-            desc: "本文提供 Agora 关键术语的详细解释。",
+            desc: "了解 Agora 产品相关的重要概念。",
           },
           {
             link: "/cn/Agora%20Platform/token",
             title: "校验用户权限",
-            desc: "本文介绍如何使用 App ID 和 Token 鉴权。",
+            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -2946,12 +2946,12 @@ const landingPageData = {
           {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
-            desc: "本文提供 Agora 关键术语的详细解释。",
+            desc: "了解 Agora 产品相关的重要概念。",
           },
           {
             link: "/cn/Agora%20Platform/token",
             title: "校验用户权限",
-            desc: "本文介绍如何使用 App ID 和 Token 鉴权。",
+            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -2968,12 +2968,12 @@ const landingPageData = {
           {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
-            desc: "本文提供 Agora 关键术语的详细解释。",
+            desc: "了解 Agora 产品相关的重要概念。",
           },
           {
             link: "/cn/Agora%20Platform/token",
             title: "校验用户权限",
-            desc: "本文介绍如何使用 App ID 和 Token 鉴权。",
+            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -2995,17 +2995,17 @@ const landingPageData = {
           {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
-            desc: "This article provides detailed explanation for key terms used by Agora products.",
+            desc: "Learn about key concepts related to Agora products.",
           },
           {
             link: "/en/Agora%20Platform/token",
             title: "Set up Authentication",
-            desc: "This article explains how to authenticate with App ID and Token.",
+            desc: "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
-            desc: "This articles explains how to set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
+            desc: "Set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
           },
           {
             link: "/en/Agora%20Platform/console_overview",
@@ -3017,17 +3017,17 @@ const landingPageData = {
           {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
-            desc: "This article provides detailed explanation for key terms used by Agora products.",
+            desc: "Learn about key concepts related to Agora products.",
           },
           {
             link: "/en/Agora%20Platform/token",
             title: "Set up Authentication",
-            desc: "This article explains how to authenticate with App ID and Token.",
+            desc: "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
-            desc: "This articles explains how to set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
+            desc: "Set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
           },
           {
             link: "/en/Agora%20Platform/console_overview",
@@ -3039,17 +3039,17 @@ const landingPageData = {
           {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
-            desc: "This article provides detailed explanation for key terms used by Agora products.",
+            desc: "Learn about key concepts related to Agora products.",
           },
           {
             link: "/en/Agora%20Platform/token",
             title: "Set up Authentication",
-            desc: "This article explains how to authenticate with App ID and Token.",
+            desc: "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
-            desc: "This articles explains how to set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
+            desc: "Set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
           },
           {
             link: "/en/Agora%20Platform/console_overview",
@@ -3061,17 +3061,17 @@ const landingPageData = {
           {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
-            desc: "This article provides detailed explanation for key terms used by Agora products.",
+            desc: "Learn about key concepts related to Agora products.",
           },
           {
             link: "/en/Agora%20Platform/token",
             title: "Set up Authentication",
-            desc: "This article explains how to authenticate with App ID and Token.",
+            desc: "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
-            desc: "This articles explains how to set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
+            desc: "Set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
           },
           {
             link: "/en/Agora%20Platform/console_overview",
@@ -3083,17 +3083,17 @@ const landingPageData = {
           {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
-            desc: "This article provides detailed explanation for key terms used by Agora products.",
+            desc: "Learn about key concepts related to Agora products.",
           },
           {
             link: "/en/Agora%20Platform/token",
             title: "Set up Authentication",
-            desc: "This article explains how to authenticate with App ID and Token.",
+            desc: "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
-            desc: "This articles explains how to set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
+            desc: "Set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
           },
           {
             link: "/en/Agora%20Platform/console_overview",
@@ -3105,17 +3105,17 @@ const landingPageData = {
           {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
-            desc: "This article provides detailed explanation for key terms used by Agora products.",
+            desc: "Learn about key concepts related to Agora products.",
           },
           {
             link: "/en/Agora%20Platform/token",
             title: "Set up Authentication",
-            desc: "This article explains how to authenticate with App ID and Token.",
+            desc: "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
-            desc: "This articles explains how to set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
+            desc: "Set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
           },
           {
             link: "/en/Agora%20Platform/console_overview",
@@ -3127,17 +3127,17 @@ const landingPageData = {
           {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
-            desc: "This article provides detailed explanation for key terms used by Agora products.",
+            desc: "Learn about key concepts related to Agora products.",
           },
           {
             link: "/en/Agora%20Platform/token",
             title: "Set up Authentication",
-            desc: "This article explains how to authenticate with App ID and Token.",
+            desc: "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
-            desc: "This articles explains how to set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
+            desc: "Set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
           },
           {
             link: "/en/Agora%20Platform/console_overview",
@@ -3149,17 +3149,17 @@ const landingPageData = {
           {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
-            desc: "This article provides detailed explanation for key terms used by Agora products.",
+            desc: "Learn about key concepts related to Agora products.",
           },
           {
             link: "/en/Agora%20Platform/token",
             title: "Set up Authentication",
-            desc: "This article explains how to authenticate with App ID and Token.",
+            desc: "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
-            desc: "This articles explains how to set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
+            desc: "Set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
           },
           {
             link: "/en/Agora%20Platform/console_overview",
@@ -3171,17 +3171,17 @@ const landingPageData = {
           {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
-            desc: "This article provides detailed explanation for key terms used by Agora products.",
+            desc: "Learn about key concepts related to Agora products.",
           },
           {
             link: "/en/Agora%20Platform/token",
             title: "Set up Authentication",
-            desc: "This article explains how to authenticate with App ID and Token.",
+            desc: "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
-            desc: "This articles explains how to set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
+            desc: "Set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
           },
           {
             link: "/en/Agora%20Platform/console_overview",
@@ -3193,17 +3193,17 @@ const landingPageData = {
           {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
-            desc: "This article provides detailed explanation for key terms used by Agora products.",
+            desc: "Learn about key concepts related to Agora products.",
           },
           {
             link: "/en/Agora%20Platform/token",
             title: "Set up Authentication",
-            desc: "This article explains how to authenticate with App ID and Token.",
+            desc: "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
-            desc: "This articles explains how to set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
+            desc: "Set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
           },
           {
             link: "/en/Agora%20Platform/console_overview",
@@ -3215,17 +3215,17 @@ const landingPageData = {
           {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
-            desc: "This article provides detailed explanation for key terms used by Agora products.",
+            desc: "Learn about key concepts related to Agora products.",
           },
           {
             link: "/en/Agora%20Platform/token",
             title: "Set up Authentication",
-            desc: "This article explains how to authenticate with App ID and Token.",
+            desc: "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
-            desc: "This articles explains how to set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
+            desc: "Set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
           },
           {
             link: "/en/Agora%20Platform/console_overview",
@@ -3237,17 +3237,17 @@ const landingPageData = {
           {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
-            desc: "This article provides detailed explanation for key terms used by Agora products.",
+            desc: "Learn about key concepts related to Agora products.",
           },
           {
             link: "/en/Agora%20Platform/token",
             title: "Set up Authentication",
-            desc: "This article explains how to authenticate with App ID and Token.",
+            desc: "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
-            desc: "This articles explains how to set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
+            desc: "Set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
           },
           {
             link: "/en/Agora%20Platform/console_overview",
@@ -3259,17 +3259,17 @@ const landingPageData = {
           {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
-            desc: "This article provides detailed explanation for key terms used by Agora products.",
+            desc: "Learn about key concepts related to Agora products.",
           },
           {
             link: "/en/Agora%20Platform/token",
             title: "Set up Authentication",
-            desc: "This article explains how to authenticate with App ID and Token.",
+            desc: "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
-            desc: "This articles explains how to set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
+            desc: "Set up firewall whitelist so that you can use Agora products in environments with restricted network access.",
           },
           {
             link: "/en/Agora%20Platform/console_overview",
