@@ -3107,7 +3107,7 @@ const landingPageData = {
             title: "User and Channel Events RESTful API",
             desc: "This article contains detailed reference for the RTM RESTful API.",
           },
-        ]
+        ],
 
         },
       },
