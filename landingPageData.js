@@ -2828,24 +2828,19 @@ const landingPageData = {
           title: "API 参考",
           desc: "该文提供 RTM SDK 的 API 参考信息。",},
 
-        },
+
         微信小程序: {
           link: "/cn/Real-time-Messaging/API%20Reference/RTM_wechat/index.html",
           title: "Agora RTM 微信小程序 SDK API 参考",
           desc: "该文提供 RTM SDK 的 API 参考信息。",
         },
-        RESTful: [
+        RESTful:
           {
             link: "/cn/Real-time-Messaging/rtm_get_event?platform=RESTful",
             title: "事件与历史消息查询 RESTful API",
             desc: "该文提供 RTM RESTful API 的参考信息。",
           },
-          {
-            link: "/cn/Real-time-Messaging/messaging_restful?platform=RESTful",
-            title: "消息发送 RESTful API",
-            desc: "该文提供 RTM RESTful API 的参考信息。",
-          },
-        ]
+
       },
       articles: {
         Android: [
@@ -3175,16 +3170,14 @@ const landingPageData = {
           title: "API Reference",
           desc: "This article contains detailed API reference for the RTM SDK.",},
 
-        RESTful: [
+        RESTful:
           {
             link: "/en/Real-time-Messaging/rtm_get_event?platform=RESTful",
             title: "User and Channel Events RESTful API",
             desc: "This article contains detailed reference for the RTM RESTful API.",
           },
-        ],
 
         },
-      },
       articles: {
         Android: [
           {
