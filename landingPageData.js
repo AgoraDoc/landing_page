@@ -3374,6 +3374,11 @@ const landingPageData = {
           title: "API 文档",
           desc: "点击查阅 1 对 1 互动教学的 API 文档。",
         },
+        RESTful: {
+          link: "https://agoradoc.github.io/cn/edu-cloud-service/restfulapi/",
+          title: "API 文档",
+          desc: "点击查阅教育云服务的 API 文档。",
+        },
       },
       articles: {
         Android: [
@@ -3500,6 +3505,11 @@ const landingPageData = {
           link: "/en/One-to-one%20Classroom/api-ref?platform=Web",
           title: "API Reference",
           desc: "View the API reference for One-to-one Classroom.",
+        },
+        RESTful: {
+          link: "https://agoradoc.github.io/cn/edu-cloud-service/restfulapi/",
+          title: "API Reference",
+          desc: "View the API reference for Edu Cloud Service.",
         },
       },
       articles: {
@@ -3630,6 +3640,11 @@ const landingPageData = {
           title: "API 文档",
           desc: "点击查阅 1 对 N 在线小班课的 API 文档。",
         },
+        RESTful: {
+          link: "https://agoradoc.github.io/cn/edu-cloud-service/restfulapi/",
+          title: "API 文档",
+          desc: "点击查阅教育云服务的 API 文档。",
+        },
       },
       articles: {
         Android: [
@@ -3756,6 +3771,11 @@ const landingPageData = {
           link: "/en/Small%20Classroom/api-ref?platform=Web",
           title: "API Reference",
           desc: "View the API reference for Small Classroom.",
+        },
+        RESTful: {
+          link: "https://agoradoc.github.io/cn/edu-cloud-service/restfulapi/",
+          title: "API Reference",
+          desc: "View the API reference for Edu Cloud Service.",
         },
       },
       articles: {
@@ -3886,6 +3906,11 @@ const landingPageData = {
           title: "API 文档",
           desc: "点击查阅互动直播大班课的 API 文档。",
         },
+        RESTful: {
+          link: "https://agoradoc.github.io/cn/edu-cloud-service/restfulapi/",
+          title: "API 文档",
+          desc: "点击查阅教育云服务的 API 文档。",
+        },
       },
       articles: {
         Android: [
@@ -4012,6 +4037,11 @@ const landingPageData = {
           link: "/en/Lecture%20Hall/api-ref?platform=Web",
           title: "API Reference",
           desc: "View the API reference for Lecture Hall.",
+        },
+        RESTful: {
+          link: "https://agoradoc.github.io/cn/edu-cloud-service/restfulapi/",
+          title: "API Reference",
+          desc: "View the API reference for Edu Cloud Service.",
         },
       },
       articles: {
@@ -4141,6 +4171,11 @@ const landingPageData = {
           link: "/cn/Breakout%20Classroom/api-ref?platform=Web",
           title: "API 文档",
           desc: "点击查阅超级小班课的 API 文档。",
+        },
+        RESTful: {
+          link: "https://agoradoc.github.io/cn/edu-cloud-service/restfulapi/",
+          title: "API 文档",
+          desc: "点击查阅教育云服务的 API 文档。",
         },
       },
       articles: {
