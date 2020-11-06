@@ -2404,97 +2404,149 @@ const landingPageData = {
   },
   Recording: {
     cn: {
-      desc: "",
+      desc: "本地服务端录制是声网针对音视频通话或直播研发的录制组件，用于部署在本地服务端实现录制功能。",
       overview: {
-        Android: [
+        Linux: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Recording/product_recording?platform=Linux",
+            title: "产品简介",
+          },
+          {
+            link: "/cn/Recording/release_recording?platform=Linux",
+            title: "发版说明",
+          },
+          {
+            link: "/cn/Recording/billing_recording?platform=Linux",
+            title: "计费说明",
           },
         ],
       },
       downloads: {
-        Android: [
+        Linux: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Recording/downloads?platform=Linux",
+            title: "SDK 下载",
+          },
+          {
+            link: "https://github.com/AgoraIO/Basic-Recording",
+            title: "示例代码",
           },
         ],
       },
       contact: [
         {
-          link: "",
-          title: "",
+          link: "https://dev.agora.io/",
+          title: "开发者社区",
+        },
+        {
+          link: "https://agora-ticket.agora.io/",
+          title: "提交工单",
         },
       ],
       quickStart: {
-        Android: {
-          link: "",
-          title: "",
-          desc: "",
+        Linux: {
+          link: "/cn/Recording/recording_integrate_cpp?platform=Linux",
+          title: "快速开始",
+          desc: "本文介绍如何集成录制 SDK 并进行录制。",
         },
       },
       api: {
-        Android: {
-          link: "",
-          title: "",
-          desc: "",
+        Linux: {
+          link: "/cn/Recording/api-ref?platform=Linux",
+          title: "API 文档",
+          desc: "本文提供本地录制 API 的详细信息。",
         },
       },
       articles: {
-        Android: [
+        Linux: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/cn/Interactive%20Broadcast/token_server",
+            title: "生成 Token",
+            desc: "本文展示如何使用 Agora 提供的代码在服务端生成 Token。",
+          },
+          {
+            link: "/cn/Recording/recording_individual_mode?platform=Linux",
+            title: "单流录制",
+            desc: "本文介绍如何通过命令行的方式进行单流录制。",
+          },
+          {
+            link: "/cn/Recording/recording_composite_mode?platform=Linux",
+            title: "合流录制",
+            desc: "本文介绍如何通过命令行的方式进行合流录制。",
           },
         ],
       },
     },
     en: {
-      desc: "",
+      desc: "On-premise Recording is a component provided by Agora for recording and saving voice and video calls and interactive broadcasts on a Linux server.",
       overview: {
-        Android: [
+        Linux: [
           {
-            link: "",
-            title: "",
+            link: "/en/Recording/product_recording?platform=Linux",
+            title: "Introduction",
+          },
+          {
+            link: "/en/Recording/release_recording?platform=Linux",
+            title: "Release Notes",
+          },
+          {
+            link: "/en/Recording/billing_recording?platform=Linux",
+            title: "Billing",
           },
         ],
       },
       downloads: {
-        Android: [
+        Linux: [
           {
-            link: "",
-            title: "",
+            link: "/en/Recording/downloads?platform=Linux",
+            title: "SDK Downloads",
+          },
+          {
+            link: "https://github.com/AgoraIO/Basic-Recording",
+            title: "Code Samples",
           },
         ],
       },
       contact: [
         {
-          link: "",
-          title: "",
+          link: "/en/Agora%20Platform/community",
+          title: "Developer Community",
+        },
+        {
+          link: "https://agora-ticket.agora.io/",
+          title: "Submit a ticket",
         },
       ],
       quickStart: {
-        Android: {
-          link: "",
-          title: "",
-          desc: "",
+        Linux: {
+          link: "/en/Recording/recording_integrate_cpp?platform=Linux",
+          title: "Quickstart",
+          desc: "Use this guide to integrate the Recording SDK and start recording audio and video.",
         },
       },
       api: {
-        Android: {
-          link: "",
-          title: "",
-          desc: "",
+        Linux: {
+          link: "/en/Recording/api-ref?platform=Linux",
+          title: "API Reference",
+          desc: "This article contains detailed help for the Recording APIs.",
         },
       },
       articles: {
-        Android: [
+        Linux: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/en/Interactive%20Broadcast/token_server",
+            title: "Generate a Token",
+            desc: "This article introduces how to generate a token on your server using the code provided by Agora.",
+          },
+          {
+            link: "/en/Recording/recording_individual_mode?platform=Linux",
+            title: "Individual Recording",
+            desc: "This article describes how to record audio and/or video in individual recording mode by the command line.",
+          },
+          {
+            link: "/en/Recording/recording_composite_mode?platform=Linux",
+            title: "Composite Recording",
+            desc: "This article describes how to record audio and/or video in composite recording mode by the command line.",
           },
         ],
       },
@@ -5330,97 +5382,179 @@ const landingPageData = {
   },
   "Single Host": {
     cn: {
-      desc: "",
+      desc: "直播间只有一个主播的场景称为单主播直播。这种场景下，直播间的房主就是唯一的主播。观众可以加入直播间观看直播，并向房主发消息、送礼物。",
       overview: {
         Android: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Single%20Host/single_host_overview?platform=Android",
+            title: "场景概述",
+          },
+        ],
+        iOS: [
+          {
+            link: "/cn/Single%20Host/single_host_overview?platform=iOS",
+            title: "场景概述",
           },
         ],
       },
       downloads: {
         Android: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Single%20Host/downloads?platform=Android",
+            title: "App 体验",
+          },
+          {
+            link: "https://github.com/AgoraIO-Usecase/AgoraLive",
+            title: "示例项目",
+          },
+        ],
+        iOS: [
+          {
+            link: "/cn/Single%20Host/downloads?platform=iOS",
+            title: "App 体验",
+          },
+          {
+            link: "https://github.com/AgoraIO-Usecase/AgoraLive",
+            title: "示例项目",
           },
         ],
       },
       contact: [
         {
-          link: "",
-          title: "",
+          link: "https://dev.agora.io/",
+          title: "开发者社区",
+        },
+        {
+          link: "https://agora-ticket.agora.io/",
+          title: "提交工单",
         },
       ],
       quickStart: {
         Android: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/Single%20Host/run_agora_live_android?platform=Android",
+          title: "快速跑通示例项目",
+          desc: "本文介绍如何跑通单主播直播的示例项目。",
+        },
+        iOS: {
+          link: "/cn/Single%20Host/run__agora_live_ios?platform=iOS",
+          title: "快速跑通示例项目",
+          desc: "本文介绍如何跑通单主播直播的示例项目。",
         },
       },
       api: {
         Android: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/Single%20Host/api-ref?platform=Android",
+          title: "API 文档",
+          desc: "点击查阅单主播直播的 API 文档。",
+        },
+        iOS: {
+          link: "/cn/Single%20Host/api-ref?platform=iOS",
+          title: "API 文档",
+          desc: "点击查阅单主播直播的 API 文档。",
         },
       },
       articles: {
         Android: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/cn/Single%20Host/single_host_android?platform=Android",
+            title: "功能实现",
+            desc: "本文介绍如何通过 Agora RTC SDK、Agora RTM SDK、第三方美颜 SDK 等产品实现基础的单主播直播场景。",
+          },
+        ],
+        iOS: [
+          {
+            link: "/cn/Single%20Host/single_host_ios?platform=iOS",
+            title: "功能实现",
+            desc: "本文介绍如何通过 Agora RTC SDK、Agora RTM SDK、第三方美颜 SDK 等产品实现基础的单主播直播场景。",
           },
         ],
       },
     },
     en: {
-      desc: "",
+      desc: "The Single Host scenario is an interactive streaming scenario which has only one host in the channel. In the scenario, all other users join the channel as audience and can watch the host, send text messages, and send gifts to the host.",
       overview: {
         Android: [
           {
-            link: "",
-            title: "",
+            link: "/en/Single%20Host/single_host_overview?platform=Android",
+            title: "Introduction",
+          },
+        ],
+        iOS: [
+          {
+            link: "/en/Single%20Host/single_host_overview?platform=iOS",
+            title: "Introduction",
           },
         ],
       },
       downloads: {
         Android: [
           {
-            link: "",
-            title: "",
+            link: "/en/Single%20Host/downloads?platform=Android",
+            title: "Try the app",
+          },
+          {
+            link: "https://github.com/AgoraIO-Usecase/AgoraLive",
+            title: "Sample Project",
+          },
+        ],
+        iOS: [
+          {
+            link: "/en/Single%20Host/downloads?platform=iOS",
+            title: "Try the app",
+          },
+          {
+            link: "https://github.com/AgoraIO-Usecase/AgoraLive",
+            title: "Sample Project",
           },
         ],
       },
       contact: [
         {
-          link: "",
-          title: "",
+          link: "/en/Agora%20Platform/community",
+          title: "Developer Community",
+        },
+        {
+          link: "https://agora-ticket.agora.io/",
+          title: "Submit a ticket",
         },
       ],
       quickStart: {
         Android: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/Single%20Host/run_agora_live_android?platform=Android",
+          title: "Run the sample project",
+          desc: "Use this guide to get started with the Single Host sample project quickly.",
+        },
+        iOS: {
+          link: "/en/Single%20Host/run_agora_live_ios?platform=iOS",
+          title: "Run the sample project",
+          desc: "Use this guide to get started with the Single Host sample project quickly.",
         },
       },
       api: {
         Android: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/Single%20Host/api-ref?platform=Android",
+          title: "API Reference",
+          desc: "View the API reference for Single Host.",
+        },
+        iOS: {
+          link: "/en/Single%20Host/api-ref?platform=iOS",
+          title: "API Reference",
+          desc: "View the API reference for Single Host.",
         },
       },
       articles: {
         Android: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/en/Single%20Host/single_host_android?platform=Android",
+            title: "Implementation",
+            desc: "This guide describes how to implement a client with the Agora RTC SDK, Agora RTM SDK, and third-party image enhancement SDK.",
+          },
+        ],
+        iOS: [
+          {
+            link: "/en/Single%20Host/single_host_ios?platform=iOS",
+            title: "Implementation",
+            desc: "This guide describes how to implement a client with the Agora RTC SDK, Agora RTM SDK, and third-party image enhancement SDK.",
           },
         ],
       },
@@ -5428,97 +5562,179 @@ const landingPageData = {
   },
   "Multiple Hosts": {
     cn: {
-      desc: "",
+      desc: "多人连麦直播指直播间内有多位主播进行实时音视频互动的场景。房主可以邀请观众上麦、进行麦位控制；观众也可以申请上麦，和主播互动。",
       overview: {
         Android: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Multiple%20Hosts/co_host_overview?platform=Android",
+            title: "场景概述",
+          },
+        ],
+        iOS: [
+          {
+            link: "/cn/Multiple%20Hosts/co_host_overview?platform=iOS",
+            title: "场景概述",
           },
         ],
       },
       downloads: {
         Android: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Multiple%20Hosts/downloads?platform=Android",
+            title: "App 体验",
+          },
+          {
+            link: "https://github.com/AgoraIO-Usecase/AgoraLive",
+            title: "示例项目",
+          },
+        ],
+        iOS: [
+          {
+            link: "/cn/Multiple%20Hosts/downloads?platform=iOS",
+            title: "App 体验",
+          },
+          {
+            link: "https://github.com/AgoraIO-Usecase/AgoraLive",
+            title: "示例项目",
           },
         ],
       },
       contact: [
         {
-          link: "",
-          title: "",
+          link: "https://dev.agora.io/",
+          title: "开发者社区",
+        },
+        {
+          link: "https://agora-ticket.agora.io/",
+          title: "提交工单",
         },
       ],
       quickStart: {
         Android: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/Multiple%20Hosts/run_agora_live_android?platform=Android",
+          title: "快速跑通示例项目",
+          desc: "本文介绍如何跑通多人连麦直播的示例项目。",
+        },
+        iOS: {
+          link: "/cn/Multiple%20Hosts/run__agora_live_ios?platform=iOS",
+          title: "快速跑通示例项目",
+          desc: "本文介绍如何跑通多人连麦直播的示例项目。",
         },
       },
       api: {
         Android: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/Multiple%20Hosts/api-ref?platform=Android",
+          title: "API 文档",
+          desc: "点击查阅多人连麦直播的 API 文档。",
+        },
+        iOS: {
+          link: "/cn/Multiple%20Hosts/api-ref?platform=iOS",
+          title: "API 文档",
+          desc: "点击查阅多人连麦直播的 API 文档。",
         },
       },
       articles: {
         Android: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/cn/Multiple%20Hosts/co_host_android?platform=Android",
+            title: "功能实现",
+            desc: "本文介绍如何通过 Agora RTC SDK、Agora RTM SDK、第三方美颜 SDK 等产品实现基础的多人连麦直播场景。",
+          },
+        ],
+        iOS: [
+          {
+            link: "/cn/Multiple%20Hosts/single_host_ios?platform=iOS",
+            title: "功能实现",
+            desc: "本文介绍如何通过 Agora RTC SDK、Agora RTM SDK、第三方美颜 SDK 等产品实现基础的多人连麦直播场景。",
           },
         ],
       },
     },
     en: {
-      desc: "",
+      desc: "Multi-hosted interactive streaming is a scenario where multiple hosts interact with each other in a live interactive streaming channel. During interactive streaming, the host can manage the host seats and invite the audience members to become a co-host. Additionally, the audience members can apply to become a co-host.",
       overview: {
         Android: [
           {
-            link: "",
-            title: "",
+            link: "/en/Multiple%20Hosts/co_host_overview?platform=Android",
+            title: "Introduction",
+          },
+        ],
+        iOS: [
+          {
+            link: "/en/Multiple%20Hosts/co_host_overview?platform=iOS",
+            title: "Introduction",
           },
         ],
       },
       downloads: {
         Android: [
           {
-            link: "",
-            title: "",
+            link: "/en/Multiple%20Hosts/downloads?platform=Android",
+            title: "Try the app",
+          },
+          {
+            link: "https://github.com/AgoraIO-Usecase/AgoraLive",
+            title: "Sample Project",
+          },
+        ],
+        iOS: [
+          {
+            link: "/en/Multiple%20Hosts/downloads?platform=iOS",
+            title: "Try the app",
+          },
+          {
+            link: "https://github.com/AgoraIO-Usecase/AgoraLive",
+            title: "Sample Project",
           },
         ],
       },
       contact: [
         {
-          link: "",
-          title: "",
+          link: "https://docs.agora.io/en/Agora%20Platform/community",
+          title: "Developer Community",
+        },
+        {
+          link: "https://agora-ticket.agora.io/",
+          title: "Submit a ticket",
         },
       ],
       quickStart: {
         Android: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/Multiple%20Hosts/run_agora_live_android?platform=Android",
+          title: "Run the sample project",
+          desc: "Use this guide to get started with the Multiple Hosts sample project quickly.",
+        },
+        iOS: {
+          link: "/en/Multiple%20Hosts/run_agora_live_android?platform=iOS",
+          title: "Run the sample project",
+          desc: "Use this guide to get started with the Multiple Hosts sample project quickly.",
         },
       },
       api: {
         Android: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/Multiple%20Hosts/api-ref?platform=Android",
+          title: "API Reference",
+          desc: "View the API reference for Multiple Hosts.",
+        },
+        iOS: {
+          link: "/en/Multiple%20Hosts/api-ref?platform=iOS",
+          title: "API Reference",
+          desc: "View the API reference for Multiple Hosts.",
         },
       },
       articles: {
         Android: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/en/Multiple%20Hosts/co_host_android?platform=Android",
+            title: "Implementation",
+            desc: "This guide describes how to implement a client with the Agora RTC SDK, Agora RTM SDK, and third-party image enhancement SDK.",
+          },
+        ],
+        iOS: [
+          {
+            link: "/en/Multiple%20Hosts/co_host_ios?platform=iOS",
+            title: "Implementation",
+            desc: "This guide describes how to implement a client with the Agora RTC SDK, Agora RTM SDK, and third-party image enhancement SDK.",
           },
         ],
       },
@@ -5526,97 +5742,179 @@ const landingPageData = {
   },
   "PK Host": {
     cn: {
-      desc: "",
+      desc: "直播间里，为增进直播气氛、快速吸粉，房主可以邀请另一个直播间的房主进行连麦互动或在线 PK。连麦直播间内的观众可以同时观看两个房主互动，并根据房主表现实时赠送礼物，或快速切换直播间给不同的房主投票。这就是一个典型的视频 PK 连麦场景。",
       overview: {
         Android: [
           {
-            link: "",
-            title: "",
+            link: "/cn/PK%20Host/pk_host_overview?platform=Android",
+            title: "场景概述",
+          },
+        ],
+        iOS: [
+          {
+            link: "/cn/PK%20Host/pk_host_overview?platform=iOS",
+            title: "场景概述",
           },
         ],
       },
       downloads: {
         Android: [
           {
-            link: "",
-            title: "",
+            link: "/cn/PK%20Host/downloads?platform=Android",
+            title: "App 体验",
+          },
+          {
+            link: "https://github.com/AgoraIO-Usecase/AgoraLive",
+            title: "示例项目",
+          },
+        ],
+        iOS: [
+          {
+            link: "/cn/PK%20Host/downloads?platform=iOS",
+            title: "App 体验",
+          },
+          {
+            link: "https://github.com/AgoraIO-Usecase/AgoraLive",
+            title: "示例项目",
           },
         ],
       },
       contact: [
         {
-          link: "",
-          title: "",
+          link: "https://dev.agora.io/",
+          title: "开发者社区",
+        },
+        {
+          link: "https://agora-ticket.agora.io/",
+          title: "提交工单",
         },
       ],
       quickStart: {
         Android: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/PK%20Host/run_agora_live_android?platform=Android",
+          title: "快速跑通示例项目",
+          desc: "本文介绍如何跑通视频 PK 连麦的示例项目。",
+        },
+        iOS: {
+          link: "/cn/PK%20Host/run_agora_live_android?platform=iOS",
+          title: "快速跑通示例项目",
+          desc: "本文介绍如何跑通视频 PK 连麦的示例项目。",
         },
       },
       api: {
         Android: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/PK%20Host/api-ref?platform=Android",
+          title: "API 文档",
+          desc: "点击查阅视频 PK 连麦的 API 文档。",
+        },
+        iOS: {
+          link: "/cn/PK%20Host/api-ref?platform=iOS",
+          title: "API 文档",
+          desc: "点击查阅视频 PK 连麦的 API 文档。",
         },
       },
       articles: {
         Android: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/cn/PK%20Host/pk_host_android?platform=Android",
+            title: "功能实现",
+            desc: "本文介绍如何通过 Agora RTC SDK、Agora RTM SDK、第三方美颜 SDK 等产品实现基础的视频 PK 连麦场景。",
+          },
+        ],
+        iOS: [
+          {
+            link: "/cn/PK%20Host/pk_host_ios?platform=iOS",
+            title: "功能实现",
+            desc: "本文介绍如何通过 Agora RTC SDK、Agora RTM SDK、第三方美颜 SDK 等产品实现基础的视频 PK 连麦场景。",
           },
         ],
       },
     },
     en: {
-      desc: "",
+      desc: "To attract an audience quickly, the host of a live broadcast often invites the host of another channel for co-hosting. Both hosts then engage in online contests, and audiences of both channels watch the hosts, send gifts, or cast votes for whichever host they like. This scenario, known as PK Host, is widely applied in entertainment apps.",
       overview: {
         Android: [
           {
-            link: "",
-            title: "",
+            link: "/en/PK%20Host/pk_host_overview?platform=Android",
+            title: "Introduction",
+          },
+        ],
+        iOS: [
+          {
+            link: "/en/PK%20Host/pk_host_overview?platform=iOS",
+            title: "Introduction",
           },
         ],
       },
       downloads: {
         Android: [
           {
-            link: "",
-            title: "",
+            link: "/en/PK%20Host/downloads?platform=Android",
+            title: "Try the app",
+          },
+          {
+            link: "https://github.com/AgoraIO-Usecase/AgoraLive",
+            title: "Sample Project",
+          },
+        ],
+        iOS: [
+          {
+            link: "/en/PK%20Host/downloads?platform=iOS",
+            title: "Try the app",
+          },
+          {
+            link: "https://github.com/AgoraIO-Usecase/AgoraLive",
+            title: "Sample Project",
           },
         ],
       },
       contact: [
         {
-          link: "",
-          title: "",
+          link: "/en/Agora%20Platform/community",
+          title: "Developer Community",
+        },
+        {
+          link: "https://agora-ticket.agora.io/",
+          title: "Submit a ticket",
         },
       ],
       quickStart: {
         Android: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/PK%20Host/run_agora_live_android?platform=Android",
+          title: "Run the sample project",
+          desc: "Use this guide to get started with the PK Host sample project quickly.",
+        },
+        iOS: {
+          link: "/en/PK%20Host/run_agora_live_android?platform=iOS",
+          title: "Run the sample project",
+          desc: "Use this guide to get started with the PK Host sample project quickly.",
         },
       },
       api: {
         Android: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/PK%20Host/api-ref?platform=Android",
+          title: "API Reference",
+          desc: "View the API reference for PK Host.",
+        },
+        iOS: {
+          link: "/en/PK%20Host/api-ref?platform=iOS",
+          title: "API Reference",
+          desc: "View the API reference for PK Host.",
         },
       },
       articles: {
         Android: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/en/PK%20Host/pk_host_android?platform=Android",
+            title: "Implementation",
+            desc: "This guide describes how to implement a client with the Agora RTC SDK, Agora RTM SDK, and third-party image enhancement SDK.",
+          },
+        ],
+        iOS: [
+          {
+            link: "/en/PK%20Host/pk_host_ios?platform=iOS",
+            title: "Implementation",
+            desc: "This guide describes how to implement a client with the Agora RTC SDK, Agora RTM SDK, and third-party image enhancement SDK.",
           },
         ],
       },
@@ -5624,97 +5922,179 @@ const landingPageData = {
   },
   "Virtual Host": {
     cn: {
-      desc: "",
+      desc: "主播使用虚拟形象在直播间进行直播的场景称为虚拟主播。通过虚拟形象驱动技术，虚拟形象可以同步模仿主播的表情与动作。直播过程中，房主可以邀请一位观众进行连麦互动，也可以对正在连麦的主播进行下麦操作。",
       overview: {
         Android: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Virtual%20Host/virtual_host_overview?platform=Android",
+            title: "场景概述",
+          },
+        ],
+        iOS: [
+          {
+            link: "/cn/Virtual%20Host/virtual_host_overview?platform=iOS",
+            title: "场景概述",
           },
         ],
       },
       downloads: {
         Android: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Virtual%20Host/downloads?platform=Android",
+            title: "App 体验",
+          },
+          {
+            link: "https://github.com/AgoraIO-Usecase/AgoraLive",
+            title: "示例项目",
+          },
+        ],
+        iOS: [
+          {
+            link: "/cn/Virtual%20Host/downloads?platform=iOS",
+            title: "App 体验",
+          },
+          {
+            link: "https://github.com/AgoraIO-Usecase/AgoraLive",
+            title: "示例项目",
           },
         ],
       },
       contact: [
         {
-          link: "",
-          title: "",
+          link: "https://dev.agora.io/",
+          title: "开发者社区",
+        },
+        {
+          link: "https://agora-ticket.agora.io/",
+          title: "提交工单",
         },
       ],
       quickStart: {
         Android: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/Virtual%20Host/run_agora_live_android?platform=Android",
+          title: "快速跑通示例项目",
+          desc: "本文介绍如何跑通虚拟主播的示例项目。",
+        },
+        iOS: {
+          link: "/cn/Virtual%20Host/run_agora_live_android?platform=iOS",
+          title: "快速跑通示例项目",
+          desc: "本文介绍如何跑通虚拟主播的示例项目。",
         },
       },
       api: {
         Android: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/Virtual%20Host/api-ref?platform=Android",
+          title: "API 文档",
+          desc: "点击查阅虚拟主播的 API 文档。",
+        },
+        iOS: {
+          link: "/cn/Virtual%20Host/api-ref?platform=iOS",
+          title: "API 文档",
+          desc: "点击查阅虚拟主播的 API 文档。",
         },
       },
       articles: {
         Android: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/cn/Virtual%20Host/virtual_host_android?platform=Android",
+            title: "功能实现",
+            desc: "本文介绍如何通过 Agora RTC SDK、Agora RTM SDK、第三方美颜 SDK 等产品实现基础的虚拟主播场景。",
+          },
+        ],
+        iOS: [
+          {
+            link: "/cn/Virtual%20Host/virtual_host_ios?platform=iOS",
+            title: "功能实现",
+            desc: "本文介绍如何通过 Agora RTC SDK、Agora RTM SDK、第三方美颜 SDK 等产品实现基础的虚拟主播场景。",
           },
         ],
       },
     },
     en: {
-      desc: "",
+      desc: "In a virtual host scenario, a host uses an avatar for live streaming. The avatar can imitate the expressions and the actions of the host in real time. During live streaming, the host can invite an audience member to become a co-host or stop co-hosting. ",
       overview: {
         Android: [
           {
-            link: "",
-            title: "",
+            link: "/en/Virtual%20Host/virtual_host_overview?platform=Android",
+            title: "Introduction",
+          },
+        ],
+        iOS: [
+          {
+            link: "/en/Virtual%20Host/virtual_host_overview?platform=iOS",
+            title: "Introduction",
           },
         ],
       },
       downloads: {
         Android: [
           {
-            link: "",
-            title: "",
+            link: "/en/Virtual%20Host/downloads?platform=Android",
+            title: "Try the app",
+          },
+          {
+            link: "https://github.com/AgoraIO-Usecase/AgoraLive",
+            title: "Sample Project",
+          },
+        ],
+        iOS: [
+          {
+            link: "/en/Virtual%20Host/downloads?platform=iOS",
+            title: "Try the app",
+          },
+          {
+            link: "https://github.com/AgoraIO-Usecase/AgoraLive",
+            title: "Sample Project",
           },
         ],
       },
       contact: [
         {
-          link: "",
-          title: "",
+          link: "/en/Agora%20Platform/community",
+          title: "Developer Community",
+        },
+        {
+          link: "https://agora-ticket.agora.io/",
+          title: "Submit a ticket",
         },
       ],
       quickStart: {
         Android: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/Virtual%20Host/run_agora_live_android?platform=Android",
+          title: "Run the sample project",
+          desc: "Use this guide to get started with the Virtual Host sample project quickly.",
+        },
+        iOS: {
+          link: "/en/Virtual%20Host/run_agora_live_android?platform=iOS",
+          title: "Run the sample project",
+          desc: "Use this guide to get started with the Virtual Host sample project quickly.",
         },
       },
       api: {
         Android: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/Virtual%20Host/api-ref?platform=Android",
+          title: "API Reference",
+          desc: "View the API reference for Virtual Host.",
+        },
+        iOS: {
+          link: "/en/Virtual%20Host/api-ref?platform=iOS",
+          title: "API Reference",
+          desc: "View the API reference for Virtual Host.",
         },
       },
       articles: {
         Android: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/en/Virtual%20Host/virtual_host_android?platform=Android",
+            title: "Implementation",
+            desc: "This guide describes how to implement a client with the Agora RTC SDK, Agora RTM SDK, and third-party image enhancement SDK.",
+          },
+        ],
+        iOS: [
+          {
+            link: "/en/Virtual%20Host/virtual_host_ios?platform=iOS",
+            title: "Implementation",
+            desc: "This guide describes how to implement a client with the Agora RTC SDK, Agora RTM SDK, and third-party image enhancement SDK.",
           },
         ],
       },
@@ -5722,97 +6102,179 @@ const landingPageData = {
   },
   "Live-stream Shopping": {
     cn: {
-      desc: "",
+      desc: "电商直播是电子商务与视频互动直播相结合的场景。在直播间里，房主向观众介绍商品，提供商品列表和链接；观众看到心仪的商品，可点击链接快速下单。直播过程中，观众可以上麦，和房主实时互动；房主还可以和另一个直播间的房主进行 PK 连麦，展示各自的商品，激发观众的购买热情，增加直播的趣味性。",
       overview: {
         Android: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Live-stream%20Shopping/live_stream_shopping_overview?platform=Android",
+            title: "场景概述",
+          },
+        ],
+        iOS: [
+          {
+            link: "/cn/Live-stream%20Shopping/live_stream_shopping_overview?platform=iOS",
+            title: "场景概述",
           },
         ],
       },
       downloads: {
         Android: [
           {
-            link: "",
-            title: "",
+            link: "/cn/Live-stream%20Shopping/downloads?platform=Android",
+            title: "App 体验",
+          },
+          {
+            link: "https://github.com/AgoraIO-Usecase/AgoraLive",
+            title: "示例项目",
+          },
+        ],
+        iOS: [
+          {
+            link: "/cn/Live-stream%20Shopping/downloads?platform=iOS",
+            title: "App 体验",
+          },
+          {
+            link: "https://github.com/AgoraIO-Usecase/AgoraLive",
+            title: "示例项目",
           },
         ],
       },
       contact: [
         {
-          link: "",
-          title: "",
+          link: "https://dev.agora.io/",
+          title: "开发者社区",
+        },
+        {
+          link: "https://agora-ticket.agora.io/",
+          title: "提交工单",
         },
       ],
       quickStart: {
         Android: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/Live-stream%20Shopping/run_agora_live_android?platform=Android",
+          title: "快速跑通示例项目",
+          desc: "本文介绍如何跑通电商主播的示例项目。",
+        },
+        iOS: {
+          link: "/cn/Live-stream%20Shopping/run_agora_live_android?platform=iOS",
+          title: "快速跑通示例项目",
+          desc: "本文介绍如何跑通电商主播的示例项目。",
         },
       },
       api: {
         Android: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/cn/Live-stream%20Shopping/api-ref?platform=Android",
+          title: "API 文档",
+          desc: "点击查阅电商直播的 API 文档。",
+        },
+        iOS: {
+          link: "/cn/Live-stream%20Shopping/api-ref?platform=iOS",
+          title: "API 文档",
+          desc: "点击查阅电商直播的 API 文档。",
         },
       },
       articles: {
         Android: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/cn/Live-stream%20Shopping/live_stream_shopping_android?platform=Android",
+            title: "功能实现",
+            desc: "本文介绍如何通过 Agora RTC SDK、Agora RTM SDK、第三方美颜 SDK 等产品实现基础的电商直播场景。",
+          },
+        ],
+        iOS: [
+          {
+            link: "/cn/Live-stream%20Shopping/live_stream_shopping_ios?platform=iOS",
+            title: "功能实现",
+            desc: "本文介绍如何通过 Agora RTC SDK、Agora RTM SDK、第三方美颜 SDK 等产品实现基础的电商直播场景。",
           },
         ],
       },
     },
     en: {
-      desc: "",
+      desc: "Live-stream shopping combines e-commerce and live interactive video streaming. The host demonstrates their products in a live interactive streaming channel, and provides a product list with links; the audience can watch the host and place orders for desired products simply by clicking the links. During the interactive streaming, an audience member can become a co-host to interact with the host in real-time. The host can also invite the host of another channel to co-host; the two hosts can then compete in promoting their products, thus stimulating the audience's enthusiasm for buying and enhancing the fun of live interactive streaming.",
       overview: {
         Android: [
           {
-            link: "",
-            title: "",
+            link: "/en/Live-stream%20Shopping/live_stream_shopping_overview?platform=Android",
+            title: "Introduction",
+          },
+        ],
+        iOS: [
+          {
+            link: "https://docs.agora.io/en/Interactive%20Broadcast/live_stream_shopping_overview?platform=iOS",
+            title: "Introduction",
           },
         ],
       },
       downloads: {
         Android: [
           {
-            link: "",
-            title: "",
+            link: "/en/Live-stream%20Shopping/downloads?platform=Android",
+            title: "Try the app",
+          },
+          {
+            link: "https://github.com/AgoraIO-Usecase/AgoraLive",
+            title: "Sample Project",
+          },
+        ],
+        iOS: [
+          {
+            link: "/en/Live-stream%20Shopping/downloads?platform=iOS",
+            title: "Try the app",
+          },
+          {
+            link: "https://github.com/AgoraIO-Usecase/AgoraLive",
+            title: "Sample Project",
           },
         ],
       },
       contact: [
         {
-          link: "",
-          title: "",
+          link: "/en/Agora%20Platform/community",
+          title: "Developer Community",
+        },
+        {
+          link: "https://agora-ticket.agora.io/",
+          title: "Submit a ticket",
         },
       ],
       quickStart: {
         Android: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/Live-stream%20Shopping/run_agora_live_android?platform=Android",
+          title: "Run the sample project",
+          desc: "Use this guide to get started with the Live-stream Shopping sample project quickly.",
+        },
+        iOS: {
+          link: "/en/Live-stream%20Shopping/run_agora_live_android?platform=iOS",
+          title: "Run the sample project",
+          desc: "Use this guide to get started with the Live-stream Shopping sample project quickly.",
         },
       },
       api: {
         Android: {
-          link: "",
-          title: "",
-          desc: "",
+          link: "/en/Live-stream%20Shopping/api-ref?platform=Android",
+          title: "API Reference",
+          desc: "View the API reference for Live-stream Shopping.",
+        },
+        iOS: {
+          link: "/en/Live-stream%20Shopping/api-ref?platform=iOS",
+          title: "API Reference",
+          desc: "View the API reference for Live-stream Shopping.",
         },
       },
       articles: {
         Android: [
           {
-            link: "",
-            title: "",
-            desc: "",
+            link: "/en/Live-stream%20Shopping/live_stream_shopping_android?platform=Android",
+            title: "Implementation",
+            desc: "This guide describes how to implement a client with the Agora RTC SDK, Agora RTM SDK, and third-party image enhancement SDK.",
+          },
+        ],
+        iOS: [
+          {
+            link: "/en/Live-stream%20Shopping/live_stream_shopping_ios?platform=iOS",
+            title: "Implementation",
+            desc: "This guide describes how to implement a client with the Agora RTC SDK, Agora RTM SDK, and third-party image enhancement SDK.",
           },
         ],
       },
