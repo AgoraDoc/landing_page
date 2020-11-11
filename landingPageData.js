@@ -783,7 +783,7 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "https://dev.agora.io/",
+          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer Community",
         },
         {
@@ -1791,7 +1791,7 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "https://dev.agora.io/",
+          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer Community",
         },
         {
@@ -2816,7 +2816,7 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "https://dev.agora.io/",
+          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer Community",
         },
         {
@@ -3286,7 +3286,7 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "https://rtcdeveloper.com/",
+          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer Community",
         },
         {
@@ -3444,7 +3444,7 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "/en/Agora%20Platform/community",
+          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer Community",
         },
         {
@@ -4175,7 +4175,7 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "https://rtcdeveloper.com/",
+          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer Community",
         },
         {
@@ -4901,7 +4901,7 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "https://dev.agora.io/",
+          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer Community",
         },
         {
@@ -6155,7 +6155,7 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "https://dev.agora.io/",
+          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer community",
         },
         {
@@ -6396,7 +6396,7 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "https://dev.agora.io/",
+          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer community",
         },
         {
@@ -6688,7 +6688,7 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "https://dev.agora.io/",
+          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer community",
         },
         {
@@ -6977,7 +6977,7 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "https://dev.agora.io/",
+          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer community",
         },
         {
@@ -7347,7 +7347,7 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "/en/Agora%20Platform/community",
+          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer Community",
         },
         {
@@ -7535,7 +7535,7 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "https://docs.agora.io/en/Agora%20Platform/community",
+          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer Community",
         },
         {
@@ -7723,7 +7723,7 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "/en/Agora%20Platform/community",
+          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer Community",
         },
         {
@@ -7911,7 +7911,7 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "/en/Agora%20Platform/community",
+          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer Community",
         },
         {
@@ -8107,7 +8107,7 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "/en/Agora%20Platform/community",
+          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer Community",
         },
         {
