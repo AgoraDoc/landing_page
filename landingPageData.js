@@ -2,7 +2,7 @@ const landingPageData = {
   Voice: {
     cn: {
       desc:
-        "语音通话可以实现纯语音的一对一单聊和多人群聊，所有用户都可发言。通过 Agora RTC SDK，你可以实现语音通话；通过服务端 RESTful API，你可以实现创建项目、获取用量、创建踢人规则等功能。",
+        "语音通话可以通过 Agora Voice SDK 实现纯语音的一对一单聊和多人群聊，所有用户都可发言。在语音通话过程中，你还可以使用服务端 RESTful API 管理通话频道。",
       overview: {
         Android: [
           {
@@ -186,19 +186,11 @@ const landingPageData = {
             link: "/cn/Voice/downloads?platform=macOS",
             title: "SDK",
           },
-          {
-            link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "示例代码",
-          },
         ],
         Web: [
           {
             link: "/cn/Voice/downloads?platform=Web",
             title: "SDK",
-          },
-          {
-            link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "示例代码",
           },
         ],
         微信小程序: [
@@ -206,30 +198,17 @@ const landingPageData = {
             link: "/cn/Voice/downloads?platform=微信小程序",
             title: "SDK",
           },
-          {
-            link: "https://github.com/AgoraIO/Agora-Miniapp-Tutorial",
-            title: "示例代码",
-          },
         ],
         Windows: [
           {
             link: "/cn/Voice/downloads?platform=Windows",
             title: "SDK",
           },
-          {
-            link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "示例代码",
-          },
         ],
         Electron: [
           {
             link: "/cn/Voice/downloads?platform=Electron",
             title: "SDK",
-          },
-          {
-            link:
-              "https://github.com/AgoraIO-Community/Agora-Electron-Quickstart",
-            title: "示例代码",
           },
         ],
         Unity: [
@@ -247,31 +226,17 @@ const landingPageData = {
             link: "/cn/Voice/downloads?platform=Flutter",
             title: "SDK",
           },
-          {
-            link:
-              "https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart",
-            title: "示例代码",
-          },
         ],
         "React Native": [
           {
             link: "/cn/Voice/downloads?platform=React Native",
             title: "SDK",
           },
-          {
-            link: "https://github.com/AgoraIO-Community/Agora-RN-Quickstart",
-            title: "示例代码",
-          },
         ],
         "Cocos Creator": [
           {
             link: "/cn/Voice/downloads?platform=Cocos%20Creator",
             title: "SDK",
-          },
-          {
-            link:
-              "https://github.com/AgoraIO-Community/Agora-Cocos-Creator-Quickstart",
-            title: "示例代码",
           },
         ],
       },
@@ -347,64 +312,64 @@ const landingPageData = {
         Android: {
           link: "/cn/Voice/API%20Reference/java/index.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
         iOS: {
           link:
             "/cn/Voice/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
         macOS: {
           link:
             "/cn/Voice/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
         Web: {
           link: "/cn/Voice/API%20Reference/web/index.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
         微信小程序: {
           link: "/cn/Voice/API%20Reference/wechat/index.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
         Windows: {
           link: "/cn/Voice/API%20Reference/cpp/index.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
         RESTful: {
           link: "/cn/rtc/restfulapi/",
           title: "API 文档",
-          desc: "本文提供 Agora 服务端 RESTful API 的详细信息。",
+          desc: "查看服务端 RESTful API 的详细信息。",
         },
         Electron: {
           link: "/cn/Voice/API%20Reference/electron/index.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
         Unity: {
           link: "/cn/Voice/API%20Reference/unity/index.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
         Flutter: {
           link: "/cn/Voice/API%20Reference/flutter/index.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
         "React Native": {
           link: "/cn/Voice/API%20Reference/react_native/index.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
         "Cocos Creator": {
           link: "/cn/Voice/API%20Reference/cocos_creator_voice/index.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
       },
       articles: {
@@ -420,9 +385,9 @@ const landingPageData = {
             desc: "调整 SDK 采集和播放音频的音量。",
           },
           {
-            link: "/cn/Voice/audio_profile_android?platform=Android",
-            title: "设置音频属性",
-            desc: "根据音质、声道、场景等的不同需求，选择不同的音频属性。",
+            link: "/cn/Voice/voice_changer_android?platform=Android",
+            title: "美声与音效",
+            desc: "美化人声或为人声增添丰富的音效。",
           },
         ],
         iOS: [
@@ -437,9 +402,9 @@ const landingPageData = {
             desc: "调整 SDK 采集和播放音频的音量。",
           },
           {
-            link: "/cn/Voice/audio_profile_apple?platform=iOS",
-            title: "设置音频属性",
-            desc: "根据音质、声道、场景等的不同需求，选择不同的音频属性。",
+            link: "/cn/Voice/voice_changer_apple?platform=iOS",
+            title: "美声与音效",
+            desc: "美化人声或为人声增添丰富的音效。",
           },
         ],
         macOS: [
@@ -454,9 +419,9 @@ const landingPageData = {
             desc: "调整 SDK 采集和播放音频的音量。",
           },
           {
-            link: "/cn/Voice/audio_profile_apple?platform=macOS",
-            title: "设置音频属性",
-            desc: "根据音质、声道、场景等的不同需求，选择不同的音频属性。",
+            link: "/cn/Voice/voice_changer_apple?platform=macOS",
+            title: "美声与音效",
+            desc: "美化人声或为人声增添丰富的音效。",
           },
         ],
         Web: [
@@ -471,9 +436,9 @@ const landingPageData = {
             desc: "调整 SDK 采集和播放音频的音量。",
           },
           {
-            link: "/cn/Voice/audio_profile_web?platform=Web",
-            title: "设置音频属性",
-            desc: "根据音质、声道、场景等的不同需求，选择不同的音频属性。",
+            link: "/cn/Voice/voice_changer_web?platform=Web",
+            title: "美声与音效",
+            desc: "美化人声或为人声增添丰富的音效。",
           },
         ],
         微信小程序: [
@@ -491,7 +456,7 @@ const landingPageData = {
             link: "/cn/Voice/error_rtc?platform=微信小程序",
             title: "错误码和警告码",
             desc:
-              "本文介绍在调用 Agora API 过程中，SDK 可能会返回的错误码和警告码。",
+              "在调用 Agora API 过程中 SDK 可能会返回的错误码和警告码。",
           },
         ],
         Windows: [
@@ -506,9 +471,9 @@ const landingPageData = {
             desc: "调整 SDK 采集和播放音频的音量。",
           },
           {
-            link: "/cn/Voice/audio_profile_windows?platform=Windows",
-            title: "设置音频属性",
-            desc: "根据音质、声道、场景等的不同需求，选择不同的音频属性。",
+            link: "/cn/Voice/voice_changer_windows?platform=Windows",
+            title: "美声与音效",
+            desc: "美化人声或为人声增添丰富的音效。",
           },
         ],
         Unity: [
@@ -532,7 +497,7 @@ const landingPageData = {
     },
     en: {
       desc:
-        "Agora Voice Call enables easy and convenient one-to-one or one-to-many voice-only calls, and all users can talk to each other freely. With the Agora RTC SDK, you can implement a voice call. With the server RESTful API, you can manage projects and channels.",
+        "Agora Voice Call enables easy and convenient one-to-one or one-to-many voice-only calls by using the Agora Voice SDK, and all users can talk to each other freely. During voice calls, you can also use the Server RESTful API to manage channels.",
       overview: {
         Android: [
           {
@@ -702,19 +667,11 @@ const landingPageData = {
             link: "/en/Voice/downloads?platform=macOS",
             title: "SDK",
           },
-          {
-            link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "Code Samples",
-          },
         ],
         Web: [
           {
             link: "/en/Voice/downloads?platform=Web",
             title: "SDK",
-          },
-          {
-            link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "Code Samples",
           },
         ],
         Windows: [
@@ -722,20 +679,11 @@ const landingPageData = {
             link: "/en/Voice/downloads?platform=Windows",
             title: "SDK",
           },
-          {
-            link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "Code Samples",
-          },
         ],
         Electron: [
           {
             link: "/en/Voice/downloads?platform=Electron",
             title: "SDK",
-          },
-          {
-            link:
-              "https://github.com/AgoraIO-Community/Agora-Electron-Quickstart",
-            title: "Code Samples",
           },
         ],
         Unity: [
@@ -753,31 +701,17 @@ const landingPageData = {
             link: "/en/Voice/downloads?platform=Flutter",
             title: "SDK",
           },
-          {
-            link:
-              "https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart",
-            title: "Code Samples",
-          },
         ],
         "React Native": [
           {
             link: "/en/Voice/downloads?platform=React Native",
             title: "SDK",
           },
-          {
-            link: "https://github.com/AgoraIO-Community/Agora-RN-Quickstart",
-            title: "Code Samples",
-          },
         ],
         "Cocos Creator": [
           {
             link: "/en/Voice/downloads?platform=Cocos Creator",
             title: "SDK",
-          },
-          {
-            link:
-              "https://github.com/AgoraIO-Community/Agora-Cocos-Creator-Quickstart",
-            title: "Code Samples",
           },
         ],
       },
@@ -796,62 +730,62 @@ const landingPageData = {
           link: "/en/Voice/start_call_audio_android?platform=Android",
           title: "Quick start",
           desc:
-            "Use this guide to quickly implement a voice call using the Agora RTC SDK.",
+            "Implement a simple voice call using the Agora RTC SDK.",
         },
         iOS: {
           link: "/en/Voice/start_call_audio_ios?platform=iOS",
           title: "Quick start",
           desc:
-            "Use this guide to quickly implement a voice call using the Agora RTC SDK.",
+            "Implement a simple voice call using the Agora RTC SDK.",
         },
         macOS: {
           link: "/en/Voice/start_call_audio_mac?platform=macOS",
           title: "Quick start",
           desc:
-            "Use this guide to quickly implement a voice call using the Agora RTC SDK.",
+            "Implement a simple voice call using the Agora RTC SDK.",
         },
         Web: {
           link: "/en/Voice/start_call_audio_web?platform=Web",
           title: "Quick start",
           desc:
-            "Use this guide to quickly implement a voice call using the Agora RTC SDK.",
+            "Implement a simple voice call using the Agora RTC SDK.",
         },
         Windows: {
           link: "/en/Voice/start_call_audio_windows?platform=Windows",
           title: "Quick start",
           desc:
-            "Use this guide to quickly implement a voice call using the Agora RTC SDK.",
+            "Implement a simple voice call using the Agora RTC SDK.",
         },
         Electron: {
           link: "/en/Voice/start_call_audio_electron?platform=Electron",
           title: "Quick start",
           desc:
-            "Use this guide to quickly implement a voice call using the Agora RTC SDK.",
+            "Implement a simple voice call using the Agora RTC SDK.",
         },
         Unity: {
           link: "/en/Voice/start_call_audio_unity?platform=Unity",
           title: "Quick start",
           desc:
-            "Use this guide to quickly implement a voice call using the Agora RTC SDK.",
+            "Implement a simple voice call using the Agora RTC SDK.",
         },
         Flutter: {
           link: "/en/Voice/start_call_audio_flutter?platform=Flutter",
           title: "Quick start",
           desc:
-            "Use this guide to quickly implement a voice call using the Agora RTC SDK.",
+            "Implement a simple voice call using the Agora RTC SDK.",
         },
         "React Native": {
           link: "/en/Voice/start_call_audio_react_native?platform=React Native",
           title: "Quick start",
           desc:
-            "Use this guide to quickly implement a voice call using the Agora RTC SDK.",
+            "Implement a simple voice call using the Agora RTC SDK.",
         },
         "Cocos Creator": {
           link:
             "/en/Voice/start_call_audio_cocos_creator?platform=Cocos%20Creator",
           title: "Quick start",
           desc:
-            "Use this guide to quickly implement a voice call using the Agora RTC SDK.",
+            "Implement a simple voice call using the Agora RTC SDK.",
         },
       },
       api: {
@@ -859,69 +793,69 @@ const landingPageData = {
           link: "/en/Voice/API%20Reference/java/index.html",
           title: "API Reference",
           desc:
-            "This article contains detailed help for the APIs of the Agora RTC SDK.",
+            "View the API reference of the Agora RTC SDK.",
         },
         iOS: {
           link:
             "/en/Voice/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
           title: "API Reference",
           desc:
-            "This article contains detailed help for the APIs of the Agora RTC SDK.",
+            "View the API reference of the Agora RTC SDK.",
         },
         macOS: {
           link:
             "/en/Voice/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
           title: "API Reference",
           desc:
-            "This article contains detailed help for the APIs of the Agora RTC SDK.",
+            "View the API reference of the Agora RTC SDK.",
         },
         Web: {
           link: "en/Voice/API%20Reference/web/index.html",
           title: "API Reference",
           desc:
-            "This article contains detailed help for the APIs of the Agora RTC SDK.",
+            "View the API reference of the Agora RTC SDK.",
         },
         Windows: {
           link: "en/Voice/API%20Reference/cpp/index.html",
           title: "API Reference",
           desc:
-            "This article contains detailed help for the APIs of the Agora RTC SDK.",
+            "View the API reference of the Agora RTC SDK.",
         },
         RESTful: {
           link: "/en/rtc/restfulapi/",
           title: "API Reference",
           desc:
-            "This article contains detailed help for the Server RESTful APIs.",
+            "View the detailed of the Server RESTful APIs.",
         },
         Electron: {
           link: "/en/Voice/API%20Reference/electron/index.html",
           title: "API Reference",
           desc:
-            "This article contains detailed help for the APIs of the Agora RTC SDK.",
+            "View the API reference of the Agora RTC SDK.",
         },
         Unity: {
           link: "/en/Voice/API%20Reference/electron/index.html",
           title: "API Reference",
           desc:
-            "This article contains detailed help for the APIs of the Agora RTC SDK.",
+            "View the API reference of the Agora RTC SDK.",
         },
         Flutter: {
           link: "/en/Voice/API%20Reference/flutter/index.html",
           title: "API Reference",
           desc:
-            "This article contains detailed help for the APIs of the Agora RTC SDK.",
+            "View the API reference of the Agora RTC SDK.",
         },
         "React Native": {
           link: "/en/Voice/API%20Reference/react_native/index.html",
           title: "API Reference",
           desc:
-            "This article contains detailed help for the APIs of the Agora RTC SDK.",
+            "View the API reference of the Agora RTC SDK.",
         },
         "Cocos Creator": {
           link: "/en/Voice/API%20Reference/cocos_creator_voice/index.html",
           title: "API Reference",
           desc:
-            "This article contains detailed help for the APIs of the Agora RTC SDK.",
+            "View the API reference of the Agora RTC SDK.",
         },
       },
       articles: {
@@ -930,19 +864,19 @@ const landingPageData = {
             link: "/en/Voice/token_server?platform=Android",
             title: "Generate a Token from Your Server",
             desc:
-              "This article introduces how to generate a token on your server using the code provided by Agora.",
+              "Generate a token on your server using the code provided by Agora.",
           },
           {
             link: "/en/Voice/volume_android?platform=Android",
             title: "Adjust the Volume",
             desc:
-              "This article introduces how to adjust the volume during the process from audio sampling to playback.",
+              "Adjust the volume during the process from audio sampling to playback.",
           },
           {
-            link: "/en/Voice/audio_profile_android?platform=Android",
-            title: "Set the Audio Profile",
+            link: "/en/Voice/voice_changer_android?platform=Android",
+            title: "Set the Voice Beautifier and Audio Effects",
             desc:
-              "This article introduces how to choose the appropriate audio profile based on the audio quality, channel, and scenario.",
+              "Beautify voice or add various audio effects.",
           },
         ],
         iOS: [
@@ -950,19 +884,19 @@ const landingPageData = {
             link: "/en/Voice/token_server?platform=iOS",
             title: "Generate a Token from Your Server",
             desc:
-              "This article introduces how to generate a token on your server using the code provided by Agora.",
+              "Generate a token on your server using the code provided by Agora.",
           },
           {
             link: "/en/Voice/volume_ios?platform=iOS",
             title: "Adjust the Volume",
             desc:
-              "This article introduces how to adjust the volume during the process from audio sampling to playback.",
+              "Adjust the volume during the process from audio sampling to playback.",
           },
           {
-            link: "/en/Voice/audio_profile_apple?platform=iOS",
-            title: "Set the Audio Profile",
+            link: "/en/Voice/voice_changer_apple?platform=iOS",
+            title: "Set the Voice Beautifier and Audio Effects",
             desc:
-              "This article introduces how to choose the appropriate audio profile based on the audio quality, channel, and scenario.",
+              "Beautify voice or add various audio effects.",
           },
         ],
         macOS: [
@@ -970,19 +904,19 @@ const landingPageData = {
             link: "/en/Voice/token_server?platform=macOS",
             title: "Generate a Token from Your Server",
             desc:
-              "This article introduces how to generate a token on your server using the code provided by Agora.",
+              "Generate a token on your server using the code provided by Agora.",
           },
           {
             link: "/en/Voice/volume_mac?platform=macOS",
             title: "Adjust the Volume",
             desc:
-              "This article introduces how to adjust the volume during the process from audio sampling to playback.",
+              "Adjust the volume during the process from audio sampling to playback.",
           },
           {
-            link: "/en/Voice/audio_profile_apple?platform=macOS",
-            title: "Set the Audio Profile",
+            link: "/en/Voice/voice_changer_apple?platform=macOS",
+            title: "Set the Voice Beautifier and Audio Effects",
             desc:
-              "This article introduces how to choose the appropriate audio profile based on the audio quality, channel, and scenario.",
+              "Beautify voice or add various audio effects.",
           },
         ],
         Web: [
@@ -990,19 +924,19 @@ const landingPageData = {
             link: "/en/Voice/token_server?platform=Web",
             title: "Generate a Token from Your Server",
             desc:
-              "This article introduces how to generate a token on your server using the code provided by Agora.",
+              "Generate a token on your server using the code provided by Agora.",
           },
           {
             link: "/en/Voice/volume_web?platform=Web",
             title: "Adjust the Volume",
             desc:
-              "This article introduces how to adjust the volume during the process from audio sampling to playback.",
+              "Adjust the volume during the process from audio sampling to playback.",
           },
           {
-            link: "/en/Voice/audio_profile_web?platform=Web",
-            title: "Set the Audio Profile",
+            link: "/en/Voice/voice_changer_web?platform=Web",
+            title: "Set the Voice Beautifier and Audio Effects",
             desc:
-              "This article introduces how to choose the appropriate audio profile based on the audio quality, channel, and scenario.",
+              "Beautify voice or add various audio effects.",
           },
         ],
         Windows: [
@@ -1010,19 +944,19 @@ const landingPageData = {
             link: "/en/Voice/token_server?platform=Windows",
             title: "Generate a Token from Your Server",
             desc:
-              "This article introduces how to generate a token on your server using the code provided by Agora.",
+              "Generate a token on your server using the code provided by Agora.",
           },
           {
             link: "/en/Voice/volume_windows?platform=Windows",
             title: "Adjust the Volume",
             desc:
-              "This article introduces how to adjust the volume during the process from audio sampling to playback.",
+              "Adjust the volume during the process from audio sampling to playback.",
           },
           {
-            link: "/en/Voice/audio_profile_windows?platform=Windows",
-            title: "Set the Audio Profile",
+            link: "/en/Voice/voice_changer_windows?platform=Windows",
+            title: "Set the Voice Beautifier and Audio Effects",
             desc:
-              "This article introduces how to choose the appropriate audio profile based on the audio quality, channel, and scenario.",
+              "Beautify voice or add various audio effects.",
           },
         ],
         Unity: [
@@ -1030,7 +964,7 @@ const landingPageData = {
             link: "/en/Voice/token_server?platform=Unity",
             title: "Generate a Token from Your Server",
             desc:
-              "This article introduces how to generate a token on your server using the code provided by Agora.",
+              "Generate a token on your server using the code provided by Agora.",
           },
           {
             link: "/en/Voice/raw_data_audio_unity?platform=Unity",
@@ -1042,7 +976,7 @@ const landingPageData = {
             link: "/en/Voice/custom_audio_unity?platform=Unity",
             title: "Custom Audio Source and Renderer",
             desc:
-              "This article introduces how to use custom audio source to capture the audio data and use custom audio renderer to render the audio data.",
+              "Use custom audio source to capture the audio data and use custom audio renderer to render the audio data.",
           },
         ],
       },
@@ -4398,80 +4332,132 @@ const landingPageData = {
       overview: {
         Android: [
           {
-            link: "/cn/Agora%20Analytics/product_agora_analytics",
+            link: "/cn/Agora%20Analytics/aa_guide",
             title: "产品概述",
+          },
+          {
+            link: "/cn/Agora%20Analytics/release_aa?platform=Android",
+            title: "发版说明",
           },
         ],
         iOS: [
           {
-            link: "/cn/Agora%20Analytics/product_agora_analytics",
+            link: "/cn/Agora%20Analytics/aa_guide",
             title: "产品概述",
+          },
+          {
+            link: "/cn/Agora%20Analytics/release_aa?platform=iOS",
+            title: "发版说明",
           },
         ],
         macOS: [
           {
-            link: "/cn/Agora%20Analytics/product_agora_analytics",
+            link: "/cn/Agora%20Analytics/aa_guide",
             title: "产品概述",
+          },
+          {
+            link: "/cn/Agora%20Analytics/release_aa?platform=macOS",
+            title: "发版说明",
           },
         ],
         Web: [
           {
-            link: "/cn/Agora%20Analytics/product_agora_analytics",
+            link: "/cn/Agora%20Analytics/aa_guide",
             title: "产品概述",
+          },
+          {
+            link: "/cn/Agora%20Analytics/release_aa?platform=Web",
+            title: "发版说明",
           },
         ],
         微信小程序: [
           {
-            link: "/cn/Agora%20Analytics/product_agora_analytics",
+            link: "/cn/Agora%20Analytics/aa_guide",
             title: "产品概述",
+          },
+          {
+            link: "/cn/Agora%20Analytics/release_aa?platform=微信小程序",
+            title: "发版说明",
           },
         ],
         Windows: [
           {
-            link: "/cn/Agora%20Analytics/product_agora_analytics",
+            link: "/cn/Agora%20Analytics/aa_guide",
             title: "产品概述",
+          },
+          {
+            link: "/cn/Agora%20Analytics/release_aa?platform=Windows",
+            title: "发版说明",
           },
         ],
         Linux: [
           {
-            link: "/cn/Agora%20Analytics/product_agora_analytics",
+            link: "/cn/Agora%20Analytics/aa_guide",
             title: "产品概述",
+          },
+          {
+            link: "/cn/Agora%20Analytics/release_aa?platform=Linux",
+            title: "发版说明",
           },
         ],
         RESTful: [
           {
-            link: "/cn/Agora%20Analytics/product_agora_analytics",
+            link: "/cn/Agora%20Analytics/aa_guide",
             title: "产品概述",
+          },
+          {
+            link: "/cn/Agora%20Analytics/release_aa?platform=RESTful",
+            title: "发版说明",
           },
         ],
         Electron: [
           {
-            link: "/cn/Agora%20Analytics/product_agora_analytics",
+            link: "/cn/Agora%20Analytics/aa_guide",
             title: "产品概述",
+          },
+          {
+            link: "/cn/Agora%20Analytics/release_aa?platform=Electron",
+            title: "发版说明",
           },
         ],
         Unity: [
           {
-            link: "/cn/Agora%20Analytics/product_agora_analytics",
+            link: "/cn/Agora%20Analytics/aa_guide",
             title: "产品概述",
+          },
+          {
+            link: "/cn/Agora%20Analytics/release_aa?platform=Unity",
+            title: "发版说明",
           },
         ],
         Flutter: [
           {
-            link: "/cn/Agora%20Analytics/product_agora_analytics",
+            link: "/cn/Agora%20Analytics/aa_guide",
             title: "产品概述",
+          },
+          {
+            link: "/cn/Agora%20Analytics/release_aa?platform=Flutter",
+            title: "发版说明",
           },
         ],
         "React Native": [
           {
-            link: "/cn/Agora%20Analytics/product_agora_analytics",
+            link: "/cn/Agora%20Analytics/aa_guide",
             title: "产品概述",
+          },
+          {
+            link: "/cn/Agora%20Analytics/release_aa?platform=React Native",
+            title: "发版说明",
           },
         ],
         "Cocos Creator": [
           {
-            link: "/cn/Agora%20Analytics/product_agora_analytics",
+            link: "/cn/Agora%20Analytics/aa_guide",
             title: "产品概述",
+          },
+          {
+            link: "/cn/Agora%20Analytics/release_aa?platform=Cocos Creator",
+            title: "发版说明",
           },
         ],
       },
@@ -4489,62 +4475,62 @@ const landingPageData = {
         Android: {
           link: "/cn/Agora%20Analytics/aa_api?platform=RESTful",
           title: "RESTful API",
-          desc: "本文提供水晶球 RESTful API 的详细信息。",
+          desc: "查看水晶球 RESTful API 的详细信息。",
         },
         iOS: {
           link: "/cn/Agora%20Analytics/aa_api?platform=RESTful",
           title: "RESTful API",
-          desc: "本文提供水晶球 RESTful API 的详细信息。",
+          desc: "查看水晶球 RESTful API 的详细信息。",
         },
         macOS: {
           link: "/cn/Agora%20Analytics/aa_api?platform=RESTful",
           title: "RESTful API",
-          desc: "本文提供水晶球 RESTful API 的详细信息。",
+          desc: "查看水晶球 RESTful API 的详细信息。",
         },
         Web: {
           link: "/cn/Agora%20Analytics/aa_api?platform=RESTful",
           title: "RESTful API",
-          desc: "本文提供水晶球 RESTful API 的详细信息。",
+          desc: "查看水晶球 RESTful API 的详细信息。",
         },
         微信小程序: {
           link: "/cn/Agora%20Analytics/aa_api?platform=RESTful",
           title: "RESTful API",
-          desc: "本文提供水晶球 RESTful API 的详细信息。",
+          desc: "查看水晶球 RESTful API 的详细信息。",
         },
         Windows: {
           link: "/cn/Agora%20Analytics/aa_api?platform=RESTful",
           title: "RESTful API",
-          desc: "本文提供水晶球 RESTful API 的详细信息。",
+          desc: "查看水晶球 RESTful API 的详细信息。",
         },
         Linux: {
           link: "/cn/Agora%20Analytics/aa_api?platform=RESTful",
           title: "RESTful API",
-          desc: "本文提供水晶球 RESTful API 的详细信息。",
+          desc: "查看水晶球 RESTful API 的详细信息。",
         },
         RESTful: {
           link: "/cn/Agora%20Analytics/aa_api?platform=RESTful",
           title: "RESTful API",
-          desc: "本文提供水晶球 RESTful API 的详细信息。",
+          desc: "查看水晶球 RESTful API 的详细信息。",
         },
         Electron: {
           link: "/cn/Agora%20Analytics/aa_api?platform=RESTful",
           title: "RESTful API",
-          desc: "本文提供水晶球 RESTful API 的详细信息。",
+          desc: "查看水晶球 RESTful API 的详细信息。",
         },
         Unity: {
           link: "/cn/Agora%20Analytics/aa_api?platform=RESTful",
           title: "RESTful API",
-          desc: "本文提供水晶球 RESTful API 的详细信息。",
+          desc: "查看水晶球 RESTful API 的详细信息。",
         },
         "React Native": {
           link: "/cn/Agora%20Analytics/aa_api?platform=RESTful",
           title: "RESTful API",
-          desc: "本文提供水晶球 RESTful API 的详细信息。",
+          desc: "查看水晶球 RESTful API 的详细信息。",
         },
         "Cocos Creator": {
           link: "/cn/Agora%20Analytics/aa_api?platform=RESTful",
           title: "RESTful API",
-          desc: "本文提供水晶球 RESTful API 的详细信息。",
+          desc: "查看水晶球 RESTful API 的详细信息。",
         },
       },
       articles: {
@@ -4780,7 +4766,7 @@ const landingPageData = {
       overview: {
         Android: [
           {
-            link: "/en/Agora%20Analytics/product_agora_analytics",
+            link: "/en/Agora%20Analytics/aa_guide",
             title: "Product Overview",
           },
           {
@@ -4790,7 +4776,7 @@ const landingPageData = {
         ],
         iOS: [
           {
-            link: "/en/Agora%20Analytics/product_agora_analytics",
+            link: "/en/Agora%20Analytics/aa_guide",
             title: "Product Overview",
           },
           {
@@ -4800,7 +4786,7 @@ const landingPageData = {
         ],
         macOS: [
           {
-            link: "/en/Agora%20Analytics/product_agora_analytics",
+            link: "/en/Agora%20Analytics/aa_guide",
             title: "Product Overview",
           },
           {
@@ -4810,7 +4796,7 @@ const landingPageData = {
         ],
         Web: [
           {
-            link: "/en/Agora%20Analytics/product_agora_analytics",
+            link: "/en/Agora%20Analytics/aa_guide",
             title: "Product Overview",
           },
           {
@@ -4820,7 +4806,7 @@ const landingPageData = {
         ],
         Windows: [
           {
-            link: "/en/Agora%20Analytics/product_agora_analytics",
+            link: "/en/Agora%20Analytics/aa_guide",
             title: "Product Overview",
           },
           {
@@ -4830,7 +4816,7 @@ const landingPageData = {
         ],
         Linux: [
           {
-            link: "/en/Agora%20Analytics/product_agora_analytics",
+            link: "/en/Agora%20Analytics/aa_guide",
             title: "Product Overview",
           },
           {
@@ -4840,7 +4826,7 @@ const landingPageData = {
         ],
         RESTful: [
           {
-            link: "/en/Agora%20Analytics/product_agora_analytics",
+            link: "/en/Agora%20Analytics/aa_guide",
             title: "Product Overview",
           },
           {
@@ -4850,7 +4836,7 @@ const landingPageData = {
         ],
         Electron: [
           {
-            link: "/en/Agora%20Analytics/product_agora_analytics",
+            link: "/en/Agora%20Analytics/aa_guide",
             title: "Product Overview",
           },
           {
@@ -4860,7 +4846,7 @@ const landingPageData = {
         ],
         Unity: [
           {
-            link: "/en/Agora%20Analytics/product_agora_analytics",
+            link: "/en/Agora%20Analytics/aa_guide",
             title: "Product Overview",
           },
           {
@@ -4870,7 +4856,7 @@ const landingPageData = {
         ],
         Flutter: [
           {
-            link: "/en/Agora%20Analytics/product_agora_analytics",
+            link: "/en/Agora%20Analytics/aa_guide",
             title: "Product Overview",
           },
           {
@@ -4880,7 +4866,7 @@ const landingPageData = {
         ],
         "React Native": [
           {
-            link: "/en/Agora%20Analytics/product_agora_analytics",
+            link: "/en/Agora%20Analytics/aa_guide",
             title: "Product Overview",
           },
           {
@@ -4890,7 +4876,7 @@ const landingPageData = {
         ],
         "Cocos Creator": [
           {
-            link: "/en/Agora%20Analytics/product_agora_analytics",
+            link: "/en/Agora%20Analytics/aa_guide",
             title: "Product Overview",
           },
           {
@@ -4913,8 +4899,57 @@ const landingPageData = {
         Android: {
           link: "/en/Agora%20Analytics/aa_api?platform=RESTful",
           title: "RESTful API",
-          desc:
-            "This article contains detailed help for the Agora Analytics RESTful APIs.",
+          desc: "View the details of the Agora Analytics RESTful APIs.",
+        },
+        iOS: {
+          link: "/en/Agora%20Analytics/aa_api?platform=RESTful",
+          title: "RESTful API",
+          desc: "View the details of the Agora Analytics RESTful APIs.",
+        },
+        macOS: {
+          link: "/en/Agora%20Analytics/aa_api?platform=RESTful",
+          title: "RESTful API",
+          desc: "View the details of the Agora Analytics RESTful APIs.",
+        },
+        Web: {
+          link: "/en/Agora%20Analytics/aa_api?platform=RESTful",
+          title: "RESTful API",
+          desc: "View the details of the Agora Analytics RESTful APIs.",
+        },
+        Windows: {
+          link: "/en/Agora%20Analytics/aa_api?platform=RESTful",
+          title: "RESTful API",
+          desc: "View the details of the Agora Analytics RESTful APIs.",
+        },
+        Linux: {
+          link: "/en/Agora%20Analytics/aa_api?platform=RESTful",
+          title: "RESTful API",
+          desc: "View the details of the Agora Analytics RESTful APIs.",
+        },
+        RESTful: {
+          link: "/en/Agora%20Analytics/aa_api?platform=RESTful",
+          title: "RESTful API",
+          desc: "View the details of the Agora Analytics RESTful APIs.",
+        },
+        Electron: {
+          link: "/en/Agora%20Analytics/aa_api?platform=RESTful",
+          title: "RESTful API",
+          desc: "View the details of the Agora Analytics RESTful APIs.",
+        },
+        Unity: {
+          link: "/en/Agora%20Analytics/aa_api?platform=RESTful",
+          title: "RESTful API",
+          desc: "View the details of the Agora Analytics RESTful APIs.",
+        },
+        "React Native": {
+          link: "/en/Agora%20Analytics/aa_api?platform=RESTful",
+          title: "RESTful API",
+          desc: "View the details of the Agora Analytics RESTful APIs.",
+        },
+        "Cocos Creator": {
+          link: "/en/Agora%20Analytics/aa_api?platform=RESTful",
+          title: "RESTful API",
+          desc: "View the details of the Agora Analytics RESTful APIs.",
         },
       },
       articles: {
@@ -4923,19 +4958,19 @@ const landingPageData = {
             link: "/en/Agora%20Analytics/aa_live_data?platform=Android",
             title: "Realtime",
             desc:
-              "This article introduces how to view the real-time scale, quality, and any abnormalities of your project.",
+              "View the real-time scale, quality, and any abnormalities of your project.",
           },
           {
             link: "/en/Agora%20Analytics/aa_big_channel?platform=Android",
             title: "Big Channel",
             desc:
-              "This article introduces how to monitor and analyze quality issues of Big Channels in real time.",
+              "Monitor and analyze quality issues of Big Channels in real time.",
           },
           {
             link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=Android",
             title: "Real-time Alarm",
             desc:
-              "This article introduces how to monitor call quality and user's communication experience.",
+              "Monitor call quality and user's communication experience.",
           },
         ],
         iOS: [
@@ -4943,19 +4978,19 @@ const landingPageData = {
             link: "/en/Agora%20Analytics/aa_live_data?platform=iOS",
             title: "Realtime",
             desc:
-              "This article introduces how to view the real-time scale, quality, and any abnormalities of your project.",
+              "View the real-time scale, quality, and any abnormalities of your project.",
           },
           {
             link: "/en/Agora%20Analytics/aa_big_channel?platform=iOS",
             title: "Big Channel",
             desc:
-              "This article introduces how to monitor and analyze quality issues of Big Channels in real time.",
+              "Monitor and analyze quality issues of Big Channels in real time.",
           },
           {
             link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=iOS",
             title: "Real-time Alarm",
             desc:
-              "This article introduces how to monitor call quality and user's communication experience.",
+              "Monitor call quality and user's communication experience.",
           },
         ],
         macOS: [
@@ -4963,19 +4998,19 @@ const landingPageData = {
             link: "/en/Agora%20Analytics/aa_live_data?platform=macOS",
             title: "Realtime",
             desc:
-              "This article introduces how to view the real-time scale, quality, and any abnormalities of your project.",
+              "View the real-time scale, quality, and any abnormalities of your project.",
           },
           {
             link: "/en/Agora%20Analytics/aa_big_channel?platform=macOS",
             title: "Big Channel",
             desc:
-              "This article introduces how to monitor and analyze quality issues of Big Channels in real time.",
+              "Monitor and analyze quality issues of Big Channels in real time.",
           },
           {
             link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=macOS",
             title: "Real-time Alarm",
             desc:
-              "This article introduces how to monitor call quality and user's communication experience.",
+              "Monitor call quality and user's communication experience.",
           },
         ],
         Web: [
@@ -4983,19 +5018,19 @@ const landingPageData = {
             link: "/en/Agora%20Analytics/aa_live_data?platform=Web",
             title: "Realtime",
             desc:
-              "This article introduces how to view the real-time scale, quality, and any abnormalities of your project.",
+              "View the real-time scale, quality, and any abnormalities of your project.",
           },
           {
             link: "/en/Agora%20Analytics/aa_big_channel?platform=Web",
             title: "Big Channel",
             desc:
-              "This article introduces how to monitor and analyze quality issues of Big Channels in real time.",
+              "Monitor and analyze quality issues of Big Channels in real time.",
           },
           {
             link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=Web",
             title: "Real-time Alarm",
             desc:
-              "This article introduces how to monitor call quality and user's communication experience.",
+              "Monitor call quality and user's communication experience.",
           },
         ],
         Windows: [
@@ -5003,19 +5038,19 @@ const landingPageData = {
             link: "/en/Agora%20Analytics/aa_live_data?platform=Windows",
             title: "Realtime",
             desc:
-              "This article introduces how to view the real-time scale, quality, and any abnormalities of your project.",
+              "View the real-time scale, quality, and any abnormalities of your project.",
           },
           {
             link: "/en/Agora%20Analytics/aa_big_channel?platform=Windows",
             title: "Big Channel",
             desc:
-              "This article introduces how to monitor and analyze quality issues of Big Channels in real time.",
+              "Monitor and analyze quality issues of Big Channels in real time.",
           },
           {
             link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=Windows",
             title: "Real-time Alarm",
             desc:
-              "This article introduces how to monitor call quality and user's communication experience.",
+              "Monitor call quality and user's communication experience.",
           },
         ],
         Linux: [
@@ -5023,19 +5058,19 @@ const landingPageData = {
             link: "/en/Agora%20Analytics/aa_live_data?platform=Linux",
             title: "Realtime",
             desc:
-              "This article introduces how to view the real-time scale, quality, and any abnormalities of your project.",
+              "View the real-time scale, quality, and any abnormalities of your project.",
           },
           {
             link: "/en/Agora%20Analytics/aa_big_channel?platform=Linux",
             title: "Big Channel",
             desc:
-              "This article introduces how to monitor and analyze quality issues of Big Channels in real time.",
+              "Monitor and analyze quality issues of Big Channels in real time.",
           },
           {
             link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=Linux",
             title: "Real-time Alarm",
             desc:
-              "This article introduces how to monitor call quality and user's communication experience.",
+              "Monitor call quality and user's communication experience.",
           },
         ],
         RESTful: [
@@ -5043,19 +5078,19 @@ const landingPageData = {
             link: "/en/Agora%20Analytics/aa_live_data?platform=RESTful",
             title: "Realtime",
             desc:
-              "This article introduces how to view the real-time scale, quality, and any abnormalities of your project.",
+              "View the real-time scale, quality, and any abnormalities of your project.",
           },
           {
             link: "/en/Agora%20Analytics/aa_big_channel?platform=RESTful",
             title: "Big Channel",
             desc:
-              "This article introduces how to monitor and analyze quality issues of Big Channels in real time.",
+              "Monitor and analyze quality issues of Big Channels in real time.",
           },
           {
             link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=RESTful",
             title: "Real-time Alarm",
             desc:
-              "This article introduces how to monitor call quality and user's communication experience.",
+              "Monitor call quality and user's communication experience.",
           },
         ],
         Electron: [
@@ -5063,19 +5098,19 @@ const landingPageData = {
             link: "/en/Agora%20Analytics/aa_live_data?platform=Electron",
             title: "Realtime",
             desc:
-              "This article introduces how to view the real-time scale, quality, and any abnormalities of your project.",
+              "View the real-time scale, quality, and any abnormalities of your project.",
           },
           {
             link: "/en/Agora%20Analytics/aa_big_channel?platform=Electron",
             title: "Big Channel",
             desc:
-              "This article introduces how to monitor and analyze quality issues of Big Channels in real time.",
+              "Monitor and analyze quality issues of Big Channels in real time.",
           },
           {
             link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=Electron",
             title: "Real-time Alarm",
             desc:
-              "This article introduces how to monitor call quality and user's communication experience.",
+              "Monitor call quality and user's communication experience.",
           },
         ],
         Unity: [
@@ -5083,19 +5118,19 @@ const landingPageData = {
             link: "/en/Agora%20Analytics/aa_live_data?platform=Unity",
             title: "Realtime",
             desc:
-              "This article introduces how to view the real-time scale, quality, and any abnormalities of your project.",
+              "View the real-time scale, quality, and any abnormalities of your project.",
           },
           {
             link: "/en/Agora%20Analytics/aa_big_channel?platform=Unity",
             title: "Big Channel",
             desc:
-              "This article introduces how to monitor and analyze quality issues of Big Channels in real time.",
+              "Monitor and analyze quality issues of Big Channels in real time.",
           },
           {
             link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=Unity",
             title: "Real-time Alarm",
             desc:
-              "This article introduces how to monitor call quality and user's communication experience.",
+              "Monitor call quality and user's communication experience.",
           },
         ],
         Flutter: [
@@ -5103,19 +5138,19 @@ const landingPageData = {
             link: "/en/Agora%20Analytics/aa_live_data?platform=Flutter",
             title: "Realtime",
             desc:
-              "This article introduces how to view the real-time scale, quality, and any abnormalities of your project.",
+              "View the real-time scale, quality, and any abnormalities of your project.",
           },
           {
             link: "/en/Agora%20Analytics/aa_big_channel?platform=Flutter",
             title: "Big Channel",
             desc:
-              "This article introduces how to monitor and analyze quality issues of Big Channels in real time.",
+              "Monitor and analyze quality issues of Big Channels in real time.",
           },
           {
             link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=Flutter",
             title: "Real-time Alarm",
             desc:
-              "This article introduces how to monitor call quality and user's communication experience.",
+              "Monitor call quality and user's communication experience.",
           },
         ],
         "React Native": [
@@ -5123,20 +5158,20 @@ const landingPageData = {
             link: "/en/Agora%20Analytics/aa_live_data?platform=React Native",
             title: "Realtime",
             desc:
-              "This article introduces how to view the real-time scale, quality, and any abnormalities of your project.",
+              "View the real-time scale, quality, and any abnormalities of your project.",
           },
           {
             link: "/en/Agora%20Analytics/aa_big_channel?platform=React Native",
             title: "Big Channel",
             desc:
-              "This article introduces how to monitor and analyze quality issues of Big Channels in real time.",
+              "Monitor and analyze quality issues of Big Channels in real time.",
           },
           {
             link:
               "/en/Agora%20Analytics/aa_realtime_alarm?platform=React Native",
             title: "Real-time Alarm",
             desc:
-              "This article introduces how to monitor call quality and user's communication experience.",
+              "Monitor call quality and user's communication experience.",
           },
         ],
         "Cocos Creator": [
@@ -5144,21 +5179,21 @@ const landingPageData = {
             link: "/en/Agora%20Analytics/aa_live_data?platform=Cocos%20Creator",
             title: "Realtime",
             desc:
-              "This article introduces how to view the real-time scale, quality, and any abnormalities of your project.",
+              "View the real-time scale, quality, and any abnormalities of your project.",
           },
           {
             link:
               "/en/Agora%20Analytics/aa_big_channel?platform=Cocos%20Creator",
             title: "Big Channel",
             desc:
-              "This article introduces how to monitor and analyze quality issues of Big Channels in real time.",
+              "Monitor and analyze quality issues of Big Channels in real time.",
           },
           {
             link:
               "/en/Agora%20Analytics/aa_realtime_alarm?platform=Cocos%20Creator",
             title: "Real-time Alarm",
             desc:
-              "This article introduces how to monitor call quality and user's communication experience.",
+              "Monitor call quality and user's communication experience.",
           },
         ],
       },
