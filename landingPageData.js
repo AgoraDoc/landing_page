@@ -2,7 +2,7 @@ const landingPageData = {
   Voice: {
     cn: {
       desc:
-        "语音通话可以通过 Agora Voice SDK 实现纯语音的一对一单聊和多人群聊，所有用户都可发言。在语音通话过程中，你还可以使用服务端 RESTful API 管理通话频道。",
+        "语音通话可以通过 Agora 音频 SDK 实现纯语音的一对一单聊和多人群聊，所有用户都可发言。在语音通话过程中，你还可以使用服务端 RESTful API 管理通话频道。",
       overview: {
         Android: [
           {
@@ -4771,7 +4771,7 @@ const landingPageData = {
           },
           {
             link: "/en/Agora%20Analytics/release_aa?platform=Android",
-            title: "Release notes",
+            title: "Release Notes",
           },
         ],
         iOS: [
@@ -4781,7 +4781,7 @@ const landingPageData = {
           },
           {
             link: "/en/Agora%20Analytics/release_aa?platform=iOS",
-            title: "Release notes",
+            title: "Release Notes",
           },
         ],
         macOS: [
@@ -4791,7 +4791,7 @@ const landingPageData = {
           },
           {
             link: "/en/Agora%20Analytics/release_aa?platform=macOS",
-            title: "Release notes",
+            title: "Release Notes",
           },
         ],
         Web: [
@@ -4801,7 +4801,7 @@ const landingPageData = {
           },
           {
             link: "/en/Agora%20Analytics/release_aa?platform=Web",
-            title: "Release notes",
+            title: "Release Notes",
           },
         ],
         Windows: [
@@ -4811,7 +4811,7 @@ const landingPageData = {
           },
           {
             link: "/en/Agora%20Analytics/release_aa?platform=Windows",
-            title: "Release notes",
+            title: "Release Notes",
           },
         ],
         Linux: [
@@ -4821,7 +4821,7 @@ const landingPageData = {
           },
           {
             link: "/en/Agora%20Analytics/release_aa?platform=Linux",
-            title: "Release notes",
+            title: "Release Notes",
           },
         ],
         RESTful: [
@@ -4831,7 +4831,7 @@ const landingPageData = {
           },
           {
             link: "/en/Agora%20Analytics/release_aa?platform=RESTful",
-            title: "Release notes",
+            title: "Release Notes",
           },
         ],
         Electron: [
@@ -4841,7 +4841,7 @@ const landingPageData = {
           },
           {
             link: "/en/Agora%20Analytics/release_aa?platform=Electron",
-            title: "Release notes",
+            title: "Release Notes",
           },
         ],
         Unity: [
@@ -4851,7 +4851,7 @@ const landingPageData = {
           },
           {
             link: "/en/Agora%20Analytics/release_aa?platform=Unity",
-            title: "Release notes",
+            title: "Release Notes",
           },
         ],
         Flutter: [
@@ -4861,7 +4861,7 @@ const landingPageData = {
           },
           {
             link: "/en/Agora%20Analytics/release_aa?platform=Flutter",
-            title: "Release notes",
+            title: "Release Notes",
           },
         ],
         "React Native": [
@@ -4871,7 +4871,7 @@ const landingPageData = {
           },
           {
             link: "/en/Agora%20Analytics/release_aa?platform=React Native",
-            title: "Release notes",
+            title: "Release Notes",
           },
         ],
         "Cocos Creator": [
@@ -4881,7 +4881,7 @@ const landingPageData = {
           },
           {
             link: "/en/Agora%20Analytics/release_aa?platform=Cocos%20Creator",
-            title: "Release notes",
+            title: "Release Notes",
           },
         ],
       },
