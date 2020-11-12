@@ -5978,36 +5978,43 @@ const landingPageData = {
         Android: [
           {
             link:
-              "/cn/AI%20Interactive%20Classroom/ai_class?platform=All%20Platforms",
-            title: "场景概述",
+              "/cn/AI%20Interactive%20Classroom/ai_class?platform=Android",
+            title: "场景介绍",
           },
         ],
         iOS: [
           {
             link:
-              "/cn/AI%20Interactive%20Classroom/ai_class?platform=All%20Platforms",
-            title: "场景概述",
+              "/cn/AI%20Interactive%20Classroom/ai_class?platform=iOS",
+            title: "场景介绍",
           },
         ],
         macOS: [
           {
             link:
-              "/cn/AI%20Interactive%20Classroom/ai_class?platform=All%20Platforms",
-            title: "场景概述",
+              "/cn/AI%20Interactive%20Classroom/ai_class?platform=macOS",
+            title: "场景介绍",
           },
         ],
         Windows: [
           {
             link:
-              "/cn/AI%20Interactive%20Classroom/ai_class?platform=All%20Platforms",
-            title: "场景概述",
+              "/cn/AI%20Interactive%20Classroom/ai_class?platform=Windows",
+            title: "场景介绍",
           },
         ],
         Web: [
           {
             link:
-              "/cn/AI%20Interactive%20Classroom/ai_class?platform=All%20Platforms",
-            title: "场景概述",
+              "/cn/AI%20Interactive%20Classroom/ai_class?platform=Web",
+            title: "场景介绍",
+          },
+        ],
+        Linux: [
+          {
+            link:
+              "/cn/AI%20Interactive%20Classroom/ai_class?platform=Linux",
+            title: "场景介绍",
           },
         ],
       },
@@ -6042,6 +6049,12 @@ const landingPageData = {
             title: "SDK 下载",
           },
         ],
+        Linux: [
+          {
+            link: "/cn/AI%20Interactive%20Classroom/downloads?platform=Linux",
+            title: "SDK 下载",
+          },
+        ],
       },
       contact: [
         {
@@ -6057,27 +6070,32 @@ const landingPageData = {
         Android: {
           link: "/cn/AI%20Interactive%20Classroom/api-ref?platform=Android",
           title: "API 文档",
-          desc: "点击查阅 AI 互动课堂的 API 文档。",
+          desc: "查看 AI 互动课堂的 API 文档。",
         },
         iOS: {
           link: "/cn/AI%20Interactive%20Classroom/api-ref?platform=iOS",
           title: "API 文档",
-          desc: "点击查阅 AI 互动课堂的 API 文档。",
+          desc: "查看 AI 互动课堂的 API 文档。",
         },
         macOS: {
           link: "/cn/AI%20Interactive%20Classroom/api-ref?platform=macOS",
           title: "API 文档",
-          desc: "点击查阅 AI 互动课堂的 API 文档。",
+          desc: "查看 AI 互动课堂的 API 文档。",
         },
         Windows: {
           link: "/cn/AI%20Interactive%20Classroom/api-ref?platform=Windows",
           title: "API 文档",
-          desc: "点击查阅 AI 互动课堂的 API 文档。",
+          desc: "查看 AI 互动课堂的 API 文档。",
         },
         Web: {
           link: "/cn/AI%20Interactive%20Classroom/api-ref?platform=Web",
           title: "API 文档",
-          desc: "点击查阅 AI 互动课堂的 API 文档。",
+          desc: "查看 AI 互动课堂的 API 文档。",
+        },
+        Linux: {
+          link: "/cn/AI%20Interactive%20Classroom/API%20Reference/server_cpp/index.html",
+          title: "API 文档",
+          desc: "查看 Agora Media Streaming Server SDK 的 API 文档。",
         },
       },
     },
@@ -6088,35 +6106,42 @@ const landingPageData = {
         Android: [
           {
             link:
-              "/en/AI%20Interactive%20Classroom/ai_class?platform=All%20Platforms",
+              "/en/AI%20Interactive%20Classroom/ai_class?platform=Android",
             title: "Overview",
           },
         ],
         iOS: [
           {
             link:
-              "/en/AI%20Interactive%20Classroom/ai_class?platform=All%20Platforms",
+              "/en/AI%20Interactive%20Classroom/ai_class?platform=iOS",
             title: "Overview",
           },
         ],
         macOS: [
           {
             link:
-              "/en/AI%20Interactive%20Classroom/ai_class?platform=All%20Platforms",
+              "/en/AI%20Interactive%20Classroom/ai_class?platform=macOS",
             title: "Overview",
           },
         ],
         Windows: [
           {
             link:
-              "/en/AI%20Interactive%20Classroom/ai_class?platform=All%20Platforms",
+              "/en/AI%20Interactive%20Classroom/ai_class?platform=Windows",
             title: "Overview",
           },
         ],
         Web: [
           {
             link:
-              "/en/AI%20Interactive%20Classroom/ai_class?platform=All%20Platforms",
+              "/en/AI%20Interactive%20Classroom/ai_class?platform=Web",
+            title: "Overview",
+          },
+        ],
+        Linux: [
+          {
+            link:
+              "/en/AI%20Interactive%20Classroom/ai_class?platform=Linux",
             title: "Overview",
           },
         ],
@@ -6152,6 +6177,12 @@ const landingPageData = {
             title: "SDK Downloads",
           },
         ],
+        Linux: [
+          {
+            link: "/en/AI%20Interactive%20Classroom/downloads?platform=Linux",
+            title: "SDK Downloads",
+          },
+        ],
       },
       contact: [
         {
@@ -6166,28 +6197,33 @@ const landingPageData = {
       api: {
         Android: {
           link: "/en/AI%20Interactive%20Classroom/api-ref?platform=Android",
-          title: "API reference",
+          title: "API Reference",
           desc: "View the API reference for AI Interactive Classroom.",
         },
         iOS: {
           link: "/en/AI%20Interactive%20Classroom/api-ref?platform=iOS",
-          title: "API 文档",
+          title: "API Reference",
           desc: "View the API reference for AI Interactive Classroom.",
         },
         macOS: {
           link: "/en/AI%20Interactive%20Classroom/api-ref?platform=macOS",
-          title: "API 文档",
+          title: "API Reference",
           desc: "View the API reference for AI Interactive Classroom.",
         },
         Windows: {
           link: "/en/AI%20Interactive%20Classroom/api-ref?platform=Windows",
-          title: "API 文档",
+          title: "API Reference",
           desc: "View the API reference for AI Interactive Classroom.",
         },
         Web: {
           link: "/en/AI%20Interactive%20Classroom/api-ref?platform=Web",
-          title: "API 文档",
+          title: "API Reference",
           desc: "View the API reference for AI Interactive Classroom.",
+        },
+        Linux: {
+          link: "/en/AI%20Interactive%20Classroom/API%20Reference/server_cpp/index.html",
+          title: "API Reference",
+          desc: "View the API reference of the Agora Media Streaming Server SDK.",
         },
       },
     },
@@ -6200,29 +6236,51 @@ const landingPageData = {
         Android: [
           {
             link:
-              "/cn/One-to-one%20Classroom/1_to_1_class_overview_6.0?platform=All%20Platforms",
-            title: "场景概述",
+              "/cn/One-to-one%20Classroom/1_to_1_class_overview_6.0?platform=Android",
+            title: "场景介绍",
+          },
+          {
+            link:
+              "/cn/One-to-one%20Classroom/edu_platform?platform=Android",
+            title: "平台说明",
           },
         ],
         iOS: [
           {
             link:
-              "/cn/One-to-one%20Classroom/1_to_1_class_overview_6.0?platform=All%20Platforms",
-            title: "场景概述",
+              "/cn/One-to-one%20Classroom/1_to_1_class_overview_6.0?platform=iOS",
+            title: "场景介绍",
+          },
+          {
+            link:
+              "/cn/One-to-one%20Classroom/edu_platform?platform=iOS",
+            title: "平台说明",
           },
         ],
         Web: [
           {
             link:
-              "/cn/One-to-one%20Classroom/1_to_1_class_overview_6.0?platform=All%20Platforms",
-            title: "场景概述",
+              "/cn/One-to-one%20Classroom/1_to_1_class_overview_6.0?platform=Web",
+            title: "场景介绍",
+          },
+          {
+            link:
+              "/cn/One-to-one%20Classroom/edu_platform?platform=Web",
+            title: "平台说明",
+          },
+        ],
+        RESTful: [
+          {
+            link:
+              "/cn/One-to-one%20Classroom/1_to_1_class_overview_6.0?platform=RESTful",
+            title: "场景介绍",
           },
         ],
       },
       downloads: {
         Android: [
           {
-            link: "/cn/One-to-one%20Classroom/downloads?platform=Android",
+            link: "/cn/One-to-one%20Classroom/edu_app_download?platform=Android",
             title: "App 体验",
           },
           {
@@ -6232,7 +6290,7 @@ const landingPageData = {
         ],
         iOS: [
           {
-            link: "/cn/One-to-one%20Classroom/downloads?platform=iOS",
+            link: "/cn/One-to-one%20Classroom/edu_app_download?platform=iOS",
             title: "App 体验",
           },
           {
@@ -6242,7 +6300,7 @@ const landingPageData = {
         ],
         Web: [
           {
-            link: "/cn/One-to-one%20Classroom/downloads?platform=Web",
+            link: "/cn/One-to-one%20Classroom/edu_app_download?platform=Web",
             title: "App 体验",
           },
           {
@@ -6285,22 +6343,22 @@ const landingPageData = {
         Android: {
           link: "/cn/One-to-one%20Classroom/api-ref?platform=Android",
           title: "API 文档",
-          desc: "点击查阅 1 对 1 互动教学的 API 文档。",
+          desc: "查看 1 对 1 互动教学的 API 文档。",
         },
         iOS: {
           link: "/cn/One-to-one%20Classroom/api-ref?platform=iOS",
           title: "API 文档",
-          desc: "点击查阅 1 对 1 互动教学的 API 文档。",
+          desc: "查看 1 对 1 互动教学的 API 文档。",
         },
         Web: {
           link: "/cn/One-to-one%20Classroom/api-ref?platform=Web",
           title: "API 文档",
-          desc: "点击查阅 1 对 1 互动教学的 API 文档。",
+          desc: "查看 1 对 1 互动教学的 API 文档。",
         },
         RESTful: {
           link: "https://agoradoc.github.io/cn/edu-cloud-service/restfulapi/",
           title: "API 文档",
-          desc: "点击查阅教育云服务的 API 文档。",
+          desc: "查看教育云服务 RESTful API 的详细信息。",
         },
       },
       articles: {
@@ -6309,7 +6367,7 @@ const landingPageData = {
             link:
               "/cn/One-to-one%20Classroom/1_to_1_class_student_Android_6.0?platform=Android",
             title: "学生端实现",
-            desc: "本文介绍如何实现学生端相关功能。",
+            desc: "实现学生端相关功能的基本流程。",
           },
         ],
         iOS: [
@@ -6317,7 +6375,7 @@ const landingPageData = {
             link:
               "/cn/One-to-one%20Classroom/1_to_1_class_student_ios_6.0?platform=iOS",
             title: "学生端实现",
-            desc: "本文介绍如何实现学生端相关功能。",
+            desc: "实现学生端相关功能的基本流程。",
           },
         ],
         Web: [
@@ -6325,13 +6383,13 @@ const landingPageData = {
             link:
               "/cn/One-to-one%20Classroom/1_to_1_class_student_web_6.0?platform=Web",
             title: "学生端实现",
-            desc: "本文介绍如何实现学生端相关功能。",
+            desc: "实现学生端相关功能的基本流程。",
           },
           {
             link:
               "/cn/One-to-one%20Classroom/1_to_1_class_teacher_web_6.0?platform=Web",
             title: "教师端实现",
-            desc: "本文介绍如何实现教师端相关功能。",
+            desc: "实现教师端相关功能的基本流程。",
           },
         ],
       },
@@ -6343,22 +6401,44 @@ const landingPageData = {
         Android: [
           {
             link:
-              "/en/One-to-one%20Classroom/1_to_1_class_overview_6.0?platform=All%20Platforms",
-            title: "Overview",
+              "/en/One-to-one%20Classroom/1_to_1_class_overview_6.0?platform=Android",
+            title: "Introduction",
+          },
+          {
+            link:
+              "/en/One-to-one%20Classroom/edu_platform?platform=Android",
+            title: "Platform Support",
           },
         ],
         iOS: [
           {
             link:
-              "/en/One-to-one%20Classroom/1_to_1_class_overview_6.0?platform=All%20Platforms",
-            title: "Overview",
+              "/en/One-to-one%20Classroom/1_to_1_class_overview_6.0?platform=iOS",
+            title: "Introduction",
+          },
+          {
+            link:
+              "/en/One-to-one%20Classroom/edu_platform?platform=iOS",
+            title: "Platform Support",
           },
         ],
         Web: [
           {
             link:
-              "/en/One-to-one%20Classroom/1_to_1_class_overview_6.0?platform=All%20Platforms",
-            title: "Overview",
+              "/en/One-to-one%20Classroom/1_to_1_class_overview_6.0?platform=Web",
+            title: "Introduction",
+          },
+          {
+            link:
+              "/en/One-to-one%20Classroom/edu_platform?platform=Web",
+            title: "Platform Support",
+          },
+        ],
+        RESTful: [
+          {
+            link:
+              "/en/One-to-one%20Classroom/1_to_1_class_overview_6.0?platform=RESTful",
+            title: "Introduction",
           },
         ],
       },
@@ -6366,7 +6446,7 @@ const landingPageData = {
         Android: [
           {
             link: "/en/One-to-one%20Classroom/downloads?platform=Android",
-            title: "Try the app",
+            title: "Try the demo app",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
@@ -6376,7 +6456,7 @@ const landingPageData = {
         iOS: [
           {
             link: "/en/One-to-one%20Classroom/downloads?platform=iOS",
-            title: "Try the app",
+            title: "Try the demo app",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
@@ -6386,7 +6466,7 @@ const landingPageData = {
         Web: [
           {
             link: "/en/One-to-one%20Classroom/downloads?platform=Web",
-            title: "Try the app",
+            title: "Try the demo app",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
@@ -6409,7 +6489,7 @@ const landingPageData = {
           link: "/en/One-to-one%20Classroom/run_edu_android?platform=Android",
           title: "Run the sample project",
           desc:
-            "Get started with the eEducation sample project to try online interactive classes. ",
+            "Get started with the eEducation sample project to try online interactive classes.",
         },
         iOS: {
           link: "/en/One-to-one%20Classroom/run_edu_android?platform=iOS",
@@ -6443,7 +6523,7 @@ const landingPageData = {
         RESTful: {
           link: "https://agoradoc.github.io/cn/edu-cloud-service/restfulapi/",
           title: "API Reference",
-          desc: "View the API reference for Edu Cloud Service.",
+          desc: "View the details of the Edu Cloud Service RESTful APIs.",
         },
       },
       articles: {
@@ -6453,7 +6533,7 @@ const landingPageData = {
               "/en/One-to-one%20Classroom/1_to_1_class_student_Android_6.0?platform=Android",
             title: "Build a client for the student",
             desc:
-              "This guides describes how to implement a client for the student.",
+              "The basic process of building a client for the student.",
           },
         ],
         iOS: [
@@ -6462,7 +6542,7 @@ const landingPageData = {
               "/en/One-to-one%20Classroom/1_to_1_class_student_ios_6.0?platform=iOS",
             title: "Build a client for the student",
             desc:
-              "This guides describes how to implement a client for the student.",
+              "The basic process of building a client for the student.",
           },
         ],
         Web: [
@@ -6471,14 +6551,14 @@ const landingPageData = {
               "/en/One-to-one%20Classroom/1_to_1_class_student_web_6.0?platform=Web",
             title: "Build a client for the student",
             desc:
-              "This guides describes how to implement a client for the student.",
+              "The basic process of building a client for the student.",
           },
           {
             link:
               "/en/One-to-one%20Classroom/1_to_1_class_teacher_web_6.0?platform=Web",
             title: "Build a client for the teacher",
             desc:
-              "This guides describes how to implement a client for the teacher.",
+              "The basic process of building a client for the teacher.",
           },
         ],
       },
@@ -6492,29 +6572,51 @@ const landingPageData = {
         Android: [
           {
             link:
-              "/cn/Small%20Classroom/small_classroom_overview_6.0?platform=All%20Platforms",
-            title: "场景概述",
+              "/cn/Small%20Classroom/small_classroom_overview_6.0?platform=Android",
+            title: "场景介绍",
+          },
+          {
+            link:
+              "/cn/Small%20Classroom/edu_platform?platform=Android",
+            title: "平台说明",
           },
         ],
         iOS: [
           {
             link:
-              "/cn/Small%20Classroom/small_classroom_overview_6.0?platform=All%20Platforms",
-            title: "场景概述",
+              "/cn/Small%20Classroom/small_classroom_overview_6.0?platform=iOS",
+            title: "场景介绍",
+          },
+          {
+            link:
+              "/cn/Small%20Classroom/edu_platform?platform=iOS",
+            title: "平台说明",
           },
         ],
         Web: [
           {
             link:
-              "/cn/Small%20Classroom/small_classroom_overview_6.0?platform=All%20Platforms",
-            title: "场景概述",
+              "/cn/Small%20Classroom/small_classroom_overview_6.0?platform=Web",
+            title: "场景介绍",
+          },
+          {
+            link:
+              "/cn/Small%20Classroom/edu_platform?platform=Web",
+            title: "平台说明",
+          },
+        ],
+        RESTful: [
+          {
+            link:
+              "/cn/Small%20Classroom/small_classroom_overview_6.0?platform=RESTful",
+            title: "场景介绍",
           },
         ],
       },
       downloads: {
         Android: [
           {
-            link: "/cn/Small%20Classroom/downloads?platform=Android",
+            link: "/cn/Small%20Classroom/edu_app_download?platform=Android",
             title: "App 体验",
           },
           {
@@ -6524,7 +6626,7 @@ const landingPageData = {
         ],
         iOS: [
           {
-            link: "/cn/Small%20Classroom/downloads?platform=iOS",
+            link: "/cn/Small%20Classroom/edu_app_download?platform=iOS",
             title: "App 体验",
           },
           {
@@ -6534,7 +6636,7 @@ const landingPageData = {
         ],
         Web: [
           {
-            link: "/cn/Small%20Classroom/downloads?platform=Web",
+            link: "/cn/Small%20Classroom/edu_app_download?platform=Web",
             title: "App 体验",
           },
           {
@@ -6577,22 +6679,22 @@ const landingPageData = {
         Android: {
           link: "/cn/Small%20Classroom/api-ref?platform=Android",
           title: "API 文档",
-          desc: "点击查阅 1 对 N 在线小班课的 API 文档。",
+          desc: "查看 1 对 N 在线小班课的 API 文档。",
         },
         iOS: {
           link: "/cn/Small%20Classroom/api-ref?platform=iOS",
           title: "API 文档",
-          desc: "点击查阅 1 对 N 在线小班课的 API 文档。",
+          desc: "查看 1 对 N 在线小班课的 API 文档。",
         },
         Web: {
           link: "/cn/Small%20Classroom/api-ref?platform=Web",
           title: "API 文档",
-          desc: "点击查阅 1 对 N 在线小班课的 API 文档。",
+          desc: "查看 1 对 N 在线小班课的 API 文档。",
         },
         RESTful: {
           link: "https://agoradoc.github.io/cn/edu-cloud-service/restfulapi/",
           title: "API 文档",
-          desc: "点击查阅教育云服务的 API 文档。",
+          desc: "查看教育云服务 RESTful API 的详细信息。",
         },
       },
       articles: {
@@ -6601,7 +6703,7 @@ const landingPageData = {
             link:
               "/cn/Small%20Classroom/small_classroom_student_Android_6.0?platform=Android",
             title: "学生端实现",
-            desc: "本文介绍如何实现学生端相关功能。",
+            desc: "实现学生端相关功能的基本流程。",
           },
         ],
         iOS: [
@@ -6609,7 +6711,7 @@ const landingPageData = {
             link:
               "/cn/Small%20Classroom/small_classroom_student_ios_6.0?platform=iOS",
             title: "学生端实现",
-            desc: "本文介绍如何实现学生端相关功能。",
+            desc: "实现学生端相关功能的基本流程。",
           },
         ],
         Web: [
@@ -6617,13 +6719,13 @@ const landingPageData = {
             link:
               "/cn/Small%20Classroom/small_classroom_student_web_6.0?platform=Web",
             title: "学生端实现",
-            desc: "本文介绍如何实现学生端相关功能。",
+            desc: "实现学生端相关功能的基本流程。",
           },
           {
             link:
               "/cn/Small%20Classroom/small_classroom_teacher_web_6.0?platform=Web",
             title: "教师端实现",
-            desc: "本文介绍如何实现教师端相关功能。",
+            desc: "实现教师端相关功能的基本流程。",
           },
         ],
       },
@@ -6635,30 +6737,52 @@ const landingPageData = {
         Android: [
           {
             link:
-              "/en/Small%20Classroom/small_classroom_overview_6.0?platform=All%20Platforms",
-            title: "Overview",
+              "/en/Small%20Classroom/small_classroom_overview_6.0?platform=Android",
+            title: "Introduction",
+          },
+          {
+            link:
+              "/en/One-to-one%20Classroom/edu_platform?platform=Android",
+            title: "Platform Support",
           },
         ],
         iOS: [
           {
             link:
-              "/en/Small%20Classroom/small_classroom_overview_6.0?platform=All%20Platforms",
-            title: "Overview",
+              "/en/Small%20Classroom/small_classroom_overview_6.0?platform=iOS",
+            title: "Introduction",
+          },
+          {
+            link:
+              "/en/One-to-one%20Classroom/edu_platform?platform=iOS",
+            title: "Platform Support",
           },
         ],
         Web: [
           {
             link:
-              "/en/Small%20Classroom/small_classroom_overview_6.0?platform=All%20Platforms",
-            title: "Overview",
+              "/en/Small%20Classroom/small_classroom_overview_6.0?platform=Web",
+            title: "Introduction",
+          },
+          {
+            link:
+              "/en/One-to-one%20Classroom/edu_platform?platform=Web",
+            title: "Platform Support",
+          },
+        ],
+        RESTful: [
+          {
+            link:
+              "/en/Small%20Classroom/small_classroom_overview_6.0?platform=RESTful",
+            title: "Introduction",
           },
         ],
       },
       downloads: {
         Android: [
           {
-            link: "/en/Small%20Classroom/downloads?platform=Android",
-            title: "Try the app",
+            link: "/en/Small%20Classroom/edu_app_download?platform=Android",
+            title: "Try the demo app",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
@@ -6667,8 +6791,8 @@ const landingPageData = {
         ],
         iOS: [
           {
-            link: "/en/Small%20Classroom/downloads?platform=iOS",
-            title: "Try the app",
+            link: "/en/Small%20Classroom/edu_app_download?platform=iOS",
+            title: "Try the demo app",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
@@ -6677,8 +6801,8 @@ const landingPageData = {
         ],
         Web: [
           {
-            link: "/en/Small%20Classroom/downloads?platform=Web",
-            title: "Try the app",
+            link: "/en/Small%20Classroom/edu_app_download?platform=Web",
+            title: "Try the demo app",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
@@ -6735,7 +6859,7 @@ const landingPageData = {
         RESTful: {
           link: "https://agoradoc.github.io/cn/edu-cloud-service/restfulapi/",
           title: "API Reference",
-          desc: "View the API reference for Edu Cloud Service.",
+          desc: "View the details of the Edu Cloud Service RESTful APIs.",
         },
       },
       articles: {
@@ -6745,7 +6869,7 @@ const landingPageData = {
               "/en/Small%20Classroom/small_classroom_student_Android_6.0?platform=Android",
             title: "Build a client for the student",
             desc:
-              "This guides describes how to implement a client for the student.",
+              "The basic process of building a client for the student.",
           },
         ],
         iOS: [
@@ -6754,7 +6878,7 @@ const landingPageData = {
               "/en/Small%20Classroom/small_classroom_student_ios_6.0?platform=iOS",
             title: "Build a client for the student",
             desc:
-              "This guides describes how to implement a client for the student.",
+              "The basic process of building a client for the student.",
           },
         ],
         Web: [
@@ -6763,14 +6887,14 @@ const landingPageData = {
               "/en/Small%20Classroom/small_classroom_student_web_6.0?platform=Web",
             title: "Build a client for the student",
             desc:
-              "This guides describes how to implement a client for the student.",
+              "The basic process of building a client for the student.",
           },
           {
             link:
               "/en/Small%20Classroom/small_classroom_teacher_web_6.0?platform=Web",
             title: "Build a client for the teacher",
             desc:
-              "This guides describes how to implement a client for the teacher.",
+              "The basic process of building a client for the teacher.",
           },
         ],
       },
@@ -6784,29 +6908,51 @@ const landingPageData = {
         Android: [
           {
             link:
-              "/cn/Lecture%20Hall/big_class_overview_6.0?platform=All%20Platforms",
-            title: "场景概述",
+              "/cn/Lecture%20Hall/big_class_overview_6.0?platform=Android",
+            title: "场景介绍",
+          },
+          {
+            link:
+              "/cn/Lecture%20Hall/edu_platform?platform=Android",
+            title: "平台说明",
           },
         ],
         iOS: [
           {
             link:
-              "/cn/Lecture%20Hall/big_class_overview_6.0?platform=All%20Platforms",
-            title: "场景概述",
+              "/cn/Lecture%20Hall/big_class_overview_6.0?platform=iOS",
+            title: "场景介绍",
+          },
+          {
+            link:
+              "/cn/Lecture%20Hall/edu_platform?platform=iOS",
+            title: "平台说明",
           },
         ],
         Web: [
           {
             link:
-              "/cn/Lecture%20Hall/big_class_overview_6.0?platform=All%20Platforms",
-            title: "场景概述",
+              "/cn/Lecture%20Hall/big_class_overview_6.0?platform=Web",
+            title: "场景介绍",
+          },
+          {
+            link:
+              "/cn/Lecture%20Hall/edu_platform?platform=Web",
+            title: "平台说明",
+          },
+        ],
+        RESTful: [
+          {
+            link:
+              "/cn/Lecture%20Hall/big_class_overview_6.0?platform=RESTful",
+            title: "场景介绍",
           },
         ],
       },
       downloads: {
         Android: [
           {
-            link: "/cn/Lecture%20Hall/downloads?platform=Android",
+            link: "/cn/Lecture%20Hall/edu_app_download?platform=Android",
             title: "App 体验",
           },
           {
@@ -6816,7 +6962,7 @@ const landingPageData = {
         ],
         iOS: [
           {
-            link: "/cn/Lecture%20Hall/downloads?platform=iOS",
+            link: "/cn/Lecture%20Hall/edu_app_download?platform=iOS",
             title: "App 体验",
           },
           {
@@ -6826,7 +6972,7 @@ const landingPageData = {
         ],
         Web: [
           {
-            link: "/cn/Lecture%20Hall/downloads?platform=Web",
+            link: "/cn/Lecture%20Hall/edu_app_download?platform=Web",
             title: "App 体验",
           },
           {
@@ -6869,22 +7015,22 @@ const landingPageData = {
         Android: {
           link: "/cn/Lecture%20Hall/api-ref?platform=Android",
           title: "API 文档",
-          desc: "点击查阅互动直播大班课的 API 文档。",
+          desc: "查看互动直播大班课的 API 文档。",
         },
         iOS: {
           link: "/cn/Lecture%20Hall/api-ref?platform=iOS",
           title: "API 文档",
-          desc: "点击查阅互动直播大班课的 API 文档。",
+          desc: "查看互动直播大班课的 API 文档。",
         },
         Web: {
           link: "/cn/Lecture%20Hall/api-ref?platform=Web",
           title: "API 文档",
-          desc: "点击查阅互动直播大班课的 API 文档。",
+          desc: "查看互动直播大班课的 API 文档。",
         },
         RESTful: {
           link: "https://agoradoc.github.io/cn/edu-cloud-service/restfulapi/",
           title: "API 文档",
-          desc: "点击查阅教育云服务的 API 文档。",
+          desc: "查看教育云服务 RESTful API 的详细信息。",
         },
       },
       articles: {
@@ -6893,26 +7039,26 @@ const landingPageData = {
             link:
               "/cn/Lecture%20Hall/big_class_student_Android_6.0?platform=Android",
             title: "学生端实现",
-            desc: "本文介绍如何实现学生端相关功能。",
+            desc: "实现学生端相关功能的基本流程。",
           },
         ],
         iOS: [
           {
             link: "/cn/Lecture%20Hall/big_class_student_ios_6.0?platform=iOS",
             title: "学生端实现",
-            desc: "本文介绍如何实现学生端相关功能。",
+            desc: "实现学生端相关功能的基本流程。",
           },
         ],
         Web: [
           {
             link: "/cn/Lecture%20Hall/big_class_student_web_6.0?platform=Web",
             title: "学生端实现",
-            desc: "本文介绍如何实现学生端相关功能。",
+            desc: "实现学生端相关功能的基本流程。",
           },
           {
             link: "/cn/Lecture%20Hall/big_class_teacher_web_6.0?platform=Web",
             title: "教师端实现",
-            desc: "本文介绍如何实现教师端相关功能。",
+            desc: "实现教师端相关功能的基本流程。",
           },
         ],
       },
@@ -6924,30 +7070,52 @@ const landingPageData = {
         Android: [
           {
             link:
-              "/en/Lecture%20Hall/big_class_overview_6.0?platform=All%20Platforms",
-            title: "Overview",
+              "/en/Lecture%20Hall/big_class_overview_6.0?platform=Android",
+            title: "Introduction",
+          },
+          {
+            link:
+              "/en/Lecture%20Hall/edu_platform?platform=Android",
+            title: "Platform Support",
           },
         ],
         iOS: [
           {
             link:
-              "/en/Lecture%20Hall/big_class_overview_6.0?platform=All%20Platforms",
-            title: "Overview",
+              "/en/Lecture%20Hall/big_class_overview_6.0?platform=iOS",
+            title: "Introduction",
+          },
+          {
+            link:
+              "/en/Lecture%20Hall/edu_platform?platform=iOS",
+            title: "Platform Support",
           },
         ],
         Web: [
           {
             link:
-              "/en/Lecture%20Hall/big_class_overview_6.0?platform=All%20Platforms",
-            title: "Overview",
+              "/en/Lecture%20Hall/big_class_overview_6.0?platform=iOS",
+            title: "Introduction",
+          },
+          {
+            link:
+              "/en/Lecture%20Hall/edu_platform?platform=iOS",
+            title: "Platform Support",
+          },
+        ],
+        RESTful: [
+          {
+            link:
+              "/en/Lecture%20Hall/big_class_overview_6.0?platform=RESTful",
+            title: "Introduction",
           },
         ],
       },
       downloads: {
         Android: [
           {
-            link: "/en/Lecture%20Hall/downloads?platform=Android",
-            title: "Try the app",
+            link: "/en/Lecture%20Hall/edu_app_download?platform=Android",
+            title: "Try the demo app",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
@@ -6956,8 +7124,8 @@ const landingPageData = {
         ],
         iOS: [
           {
-            link: "/en/Lecture%20Hall/downloads?platform=iOS",
-            title: "Try the app",
+            link: "/en/Lecture%20Hall/edu_app_download?platform=iOS",
+            title: "Try the demo app",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
@@ -6966,8 +7134,8 @@ const landingPageData = {
         ],
         Web: [
           {
-            link: "/en/Lecture%20Hall/downloads?platform=Web",
-            title: "Try the app",
+            link: "/en/Lecture%20Hall/edu_app_download?platform=Web",
+            title: "Try the demo app",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
@@ -7024,7 +7192,7 @@ const landingPageData = {
         RESTful: {
           link: "https://agoradoc.github.io/cn/edu-cloud-service/restfulapi/",
           title: "API Reference",
-          desc: "View the API reference for Edu Cloud Service.",
+          desc: "View the details of the Edu Cloud Service RESTful APIs.",
         },
       },
       articles: {
@@ -7034,7 +7202,7 @@ const landingPageData = {
               "/en/Lecture%20Hall/big_class_student_Android_6.0?platform=Android",
             title: "Build a client for the student",
             desc:
-              "This guides describes how to implement a client for the student.",
+              "The basic process of building a client for the student.",
           },
         ],
         iOS: [
@@ -7042,7 +7210,7 @@ const landingPageData = {
             link: "/en/Lecture%20Hall/big_class_student_ios_6.0?platform=iOS",
             title: "Build a client for the student",
             desc:
-              "This guides describes how to implement a client for the student.",
+              "The basic process of building a client for the student.",
           },
         ],
         Web: [
@@ -7050,13 +7218,13 @@ const landingPageData = {
             link: "/en/Lecture%20Hall/big_class_student_web_6.0?platform=Web",
             title: "Build a client for the student",
             desc:
-              "This guides describes how to implement a client for the student.",
+              "The basic process of building a client for the student.",
           },
           {
             link: "/en/Lecture%20Hall/big_class_teacher_web_6.0?platform=Web",
             title: "Build a client for the teacher",
             desc:
-              "This guides describes how to implement a client for the teacher.",
+              "The basic process of building a client for the teacher.",
           },
         ],
       },
@@ -7070,29 +7238,51 @@ const landingPageData = {
         Android: [
           {
             link:
-              "/cn/Breakout%20Classroom/breakout_class_overview_6.0?platform=All%20Platforms",
-            title: "场景概述",
+              "/cn/Breakout%20Classroom/breakout_class_overview_6.0?platform=Android",
+            title: "场景介绍",
+          },
+          {
+            link:
+              "/cn/Breakout%20Classroom/breakout_class_platform?platform=Android",
+            title: "平台说明",
           },
         ],
         iOS: [
           {
             link:
-              "/cn/Breakout%20Classroom/breakout_class_overview_6.0?platform=All%20Platforms",
-            title: "场景概述",
+              "/cn/Breakout%20Classroom/breakout_class_overview_6.0?platform=iOS",
+            title: "场景介绍",
+          },
+          {
+            link:
+              "/cn/Breakout%20Classroom/breakout_class_platform?platform=iOS",
+            title: "平台说明",
           },
         ],
         Web: [
           {
             link:
-              "/cn/Breakout%20Classroom/breakout_class_overview_6.0?platform=All%20Platforms",
-            title: "场景概述",
+              "/cn/Breakout%20Classroom/breakout_class_overview_6.0?platform=Web",
+            title: "场景介绍",
+          },
+          {
+            link:
+              "/cn/Breakout%20Classroom/breakout_class_platform?platform=Web",
+            title: "平台说明",
+          },
+        ],
+        RESTful: [
+          {
+            link:
+              "/cn/Breakout%20Classroom/breakout_class_overview_6.0?platform=RESTful",
+            title: "场景介绍",
           },
         ],
       },
       downloads: {
         Android: [
           {
-            link: "/cn/Breakout%20Classroom/downloads?platform=Android",
+            link: "/cn/Breakout%20Classroom/edu_app_download?platform=Android",
             title: "App 体验",
           },
           {
@@ -7102,7 +7292,7 @@ const landingPageData = {
         ],
         iOS: [
           {
-            link: "/cn/Breakout%20Classroom/downloads?platform=iOS",
+            link: "/cn/Breakout%20Classroom/edu_app_download?platform=iOS",
             title: "App 体验",
           },
           {
@@ -7112,7 +7302,7 @@ const landingPageData = {
         ],
         Web: [
           {
-            link: "/cn/Breakout%20Classroom/downloads?platform=Web",
+            link: "/cn/Breakout%20Classroom/edu_app_download?platform=Web",
             title: "App 体验",
           },
           {
@@ -7155,22 +7345,22 @@ const landingPageData = {
         Android: {
           link: "/cn/Breakout%20Classroom/api-ref?platform=Android",
           title: "API 文档",
-          desc: "点击查阅超级小班课的 API 文档。",
+          desc: "查看超级小班课的 API 文档。",
         },
         iOS: {
           link: "/cn/Breakout%20Classroom/api-ref?platform=iOS",
           title: "API 文档",
-          desc: "点击查阅超级小班课的 API 文档。",
+          desc: "查看超级小班课的 API 文档。",
         },
         Web: {
           link: "/cn/Breakout%20Classroom/api-ref?platform=Web",
           title: "API 文档",
-          desc: "点击查阅超级小班课的 API 文档。",
+          desc: "查看超级小班课的 API 文档。",
         },
         RESTful: {
           link: "https://agoradoc.github.io/cn/edu-cloud-service/restfulapi/",
           title: "API 文档",
-          desc: "点击查阅教育云服务的 API 文档。",
+          desc: "查看教育云服务 RESTful API 的详细信息。",
         },
       },
       articles: {
@@ -7179,7 +7369,7 @@ const landingPageData = {
             link:
               "/cn/Breakout%20Classroom/breakout_class_student_Android_6.0?platform=Android",
             title: "学生端实现",
-            desc: "本文介绍如何实现学生端相关功能。",
+            desc: "实现学生端相关功能的基本流程。",
           },
         ],
         iOS: [
@@ -7187,7 +7377,7 @@ const landingPageData = {
             link:
               "/cn/Breakout%20Classroom/breakout_class_student_ios_6.0?platform=iOS",
             title: "学生端实现",
-            desc: "本文介绍如何实现学生端相关功能。",
+            desc: "实现学生端相关功能的基本流程。",
           },
         ],
         Web: [
@@ -7195,22 +7385,192 @@ const landingPageData = {
             link:
               "/cn/Breakout%20Classroom/breakout_class_student_web_6.0?platform=Web",
             title: "学生端实现",
-            desc: "本文介绍如何实现学生端相关功能。",
+            desc: "实现学生端相关功能的基本流程。",
           },
           {
             link:
               "/cn/Breakout%20Classroom/breakout_class_teacher_web_6.0?platform=Web",
             title: "教师端实现",
-            desc: "本文介绍如何实现教师端相关功能。",
+            desc: "实现教师端相关功能的基本流程。",
           },
           {
             link:
               "/cn/Breakout%20Classroom/breakout_class_ta_web_6.0?platform=Web",
             title: "助教端实现",
-            desc: "本文介绍如何实现助教端相关功能。",
+            desc: "实现助教端相关功能的基本流程。",
           },
         ],
       },
+      en: {
+        desc:
+          "Divide the students in an online big class into several small groups, in which they can engage in real-time discussions while listening to the teacher. Agora uses the Agora RTC SDK, Agora RTM SDK, Cloud Recording, Edu Cloud Service, and the third-party whiteboard class to implement a Breakout Class scenario.",
+        overview: {
+          Android: [
+            {
+              link:
+                "/en/Breakout%20Classroom/breakout_class_overview_6.0?platform=Android",
+              title: "Introduction",
+            },
+            {
+              link:
+                "/en/Breakout%20Classroom/breakout_class_platform?platform=Android",
+              title: "Platform Support",
+            },
+          ],
+          iOS: [
+            {
+              link:
+                "/en/Breakout%20Classroom/breakout_class_overview_6.0?platform=iOS",
+              title: "Introduction",
+            },
+            {
+              link:
+                "/en/Breakout%20Classroom/breakout_class_platform?platform=iOS",
+              title: "Platform Support",
+            },
+          ],
+          Web: [
+            {
+              link:
+                "/en/Breakout%20Classroom/breakout_class_overview_6.0?platform=Web",
+              title: "Introduction",
+            },
+            {
+              link:
+                "/en/Breakout%20Classroom/breakout_class_platform?platform=Web",
+              title: "Platform Support",
+            },
+          ],
+          RESTful: [
+            {
+              link:
+                "/en/Breakout%20Classroom/breakout_class_overview_6.0?platform=RESTful",
+              title: "Introduction",
+            },
+          ],
+        },
+        downloads: {
+          Android: [
+            {
+              link: "/en/Breakout%20Classroom/edu_app_download?platform=Android",
+              title: "Try the demo app",
+            },
+            {
+              link: "https://github.com/AgoraIO-Usecase/eEducation",
+              title: "Sample project",
+            },
+          ],
+          iOS: [
+            {
+              link: "/en/Breakout%20Classroom/edu_app_download?platform=iOS",
+              title: "Try the demo app",
+            },
+            {
+              link: "https://github.com/AgoraIO-Usecase/eEducation",
+              title: "Sample project",
+            },
+          ],
+          Web: [
+            {
+              link: "/en/Breakout%20Classroom/edu_app_download?platform=Web",
+              title: "Try the demo app",
+            },
+            {
+              link: "https://github.com/AgoraIO-Usecase/eEducation",
+              title: "Sample project",
+            },
+          ],
+        },
+        contact: [
+          {
+            link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
+            title: "Developer community",
+          },
+          {
+            link: "https://agora-ticket.agora.io/",
+            title: "Submit a ticket",
+          },
+        ],
+        quickStart: {
+          Android: {
+            link: "/en/Breakout%20Classroom/run_edu_android?platform=Android",
+            title: "Run the sample project",
+            desc:
+              "Get started with the eEducation sample project to try online interactive classes.",
+          },
+          iOS: {
+            link: "/en/Breakout%20Classroom/run_edu_android?platform=iOS",
+            title: "Run the sample project",
+            desc:
+              "Get started with the eEducation sample project to try online interactive classes.",
+          },
+          Web: {
+            link: "/en/Breakout%20Classroom/run_edu_android?platform=Web",
+            title: "Run the sample project",
+            desc:
+              "Get started with the eEducation sample project to try online interactive classes.",
+          },
+        },
+        api: {
+          Android: {
+            link: "/en/Breakout%20Classroom/api-ref?platform=Android",
+            title: "API Reference",
+            desc: "View the API reference for Breakout Class.",
+          },
+          iOS: {
+            link: "/en/Breakout%20Classroom/api-ref?platform=iOS",
+            title: "API Reference",
+            desc: "View the API reference for Breakout Class.",
+          },
+          Web: {
+            link: "/en/Breakout%20Classroom/api-ref?platform=Web",
+            title: "API Reference",
+            desc: "View the API reference for Breakout Class.",
+          },
+          RESTful: {
+            link: "https://agoradoc.github.io/en/edu-cloud-service/restfulapi/",
+            title: "API Reference",
+            desc: "View the details of the Edu Cloud Service RESTful APIs.",
+          },
+        },
+        articles: {
+          Android: [
+            {
+              link:
+                "/en/Breakout%20Classroom/breakout_class_student_Android_6.0?platform=Android",
+              title: "Build a client for the student",
+              desc: "The basic process of building a client for the student.",
+            },
+          ],
+          iOS: [
+            {
+              link:
+                "/en/Breakout%20Classroom/breakout_class_student_ios_6.0?platform=iOS",
+              title: "Build a client for the student",
+              desc: "The basic process of building a client for the student.",
+            },
+          ],
+          Web: [
+            {
+              link:
+                "/en/Breakout%20Classroom/breakout_class_student_web_6.0?platform=Web",
+              title: "Build a client for the student",
+              desc: "The basic process of building a client for the student.",
+            },
+            {
+              link:
+                "/en/Breakout%20Classroom/breakout_class_teacher_web_6.0?platform=Web",
+              title: "Build a client for the teacher",
+              desc: "The basic process of building a client for the teacher.",
+            },
+            {
+              link:
+                "/en/Breakout%20Classroom/breakout_class_ta_web_6.0?platform=Web",
+              title: "Build a client for the teaching assistant",
+              desc: "The basic process of building a client for the teaching assistant.",
+            },
+          ],
+        },
     },
   },
   "Single Host": {
@@ -7279,12 +7639,12 @@ const landingPageData = {
         Android: {
           link: "/cn/Single%20Host/api-ref?platform=Android",
           title: "API 文档",
-          desc: "点击查阅单主播直播的 API 文档。",
+          desc: "查看单主播直播的 API 文档。",
         },
         iOS: {
           link: "/cn/Single%20Host/api-ref?platform=iOS",
           title: "API 文档",
-          desc: "点击查阅单主播直播的 API 文档。",
+          desc: "查看单主播直播的 API 文档。",
         },
       },
       articles: {
@@ -7327,7 +7687,7 @@ const landingPageData = {
         Android: [
           {
             link: "/en/Single%20Host/downloads?platform=Android",
-            title: "Try the app",
+            title: "Try the demo app",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
@@ -7337,7 +7697,7 @@ const landingPageData = {
         iOS: [
           {
             link: "/en/Single%20Host/downloads?platform=iOS",
-            title: "Try the app",
+            title: "Try the demo app",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
@@ -7467,12 +7827,12 @@ const landingPageData = {
         Android: {
           link: "/cn/Multiple%20Hosts/api-ref?platform=Android",
           title: "API 文档",
-          desc: "点击查阅多人连麦直播的 API 文档。",
+          desc: "查看多人连麦直播的 API 文档。",
         },
         iOS: {
           link: "/cn/Multiple%20Hosts/api-ref?platform=iOS",
           title: "API 文档",
-          desc: "点击查阅多人连麦直播的 API 文档。",
+          desc: "查看多人连麦直播的 API 文档。",
         },
       },
       articles: {
@@ -7515,7 +7875,7 @@ const landingPageData = {
         Android: [
           {
             link: "/en/Multiple%20Hosts/downloads?platform=Android",
-            title: "Try the app",
+            title: "Try the demo app",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
@@ -7525,7 +7885,7 @@ const landingPageData = {
         iOS: [
           {
             link: "/en/Multiple%20Hosts/downloads?platform=iOS",
-            title: "Try the app",
+            title: "Try the demo app",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
@@ -7655,12 +8015,12 @@ const landingPageData = {
         Android: {
           link: "/cn/PK%20Host/api-ref?platform=Android",
           title: "API 文档",
-          desc: "点击查阅视频 PK 连麦的 API 文档。",
+          desc: "查看视频 PK 连麦的 API 文档。",
         },
         iOS: {
           link: "/cn/PK%20Host/api-ref?platform=iOS",
           title: "API 文档",
-          desc: "点击查阅视频 PK 连麦的 API 文档。",
+          desc: "查看视频 PK 连麦的 API 文档。",
         },
       },
       articles: {
@@ -7703,7 +8063,7 @@ const landingPageData = {
         Android: [
           {
             link: "/en/PK%20Host/downloads?platform=Android",
-            title: "Try the app",
+            title: "Try the demo app",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
@@ -7713,7 +8073,7 @@ const landingPageData = {
         iOS: [
           {
             link: "/en/PK%20Host/downloads?platform=iOS",
-            title: "Try the app",
+            title: "Try the demo app",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
@@ -7843,12 +8203,12 @@ const landingPageData = {
         Android: {
           link: "/cn/Virtual%20Host/api-ref?platform=Android",
           title: "API 文档",
-          desc: "点击查阅虚拟主播的 API 文档。",
+          desc: "查看虚拟主播的 API 文档。",
         },
         iOS: {
           link: "/cn/Virtual%20Host/api-ref?platform=iOS",
           title: "API 文档",
-          desc: "点击查阅虚拟主播的 API 文档。",
+          desc: "查看虚拟主播的 API 文档。",
         },
       },
       articles: {
@@ -7891,7 +8251,7 @@ const landingPageData = {
         Android: [
           {
             link: "/en/Virtual%20Host/downloads?platform=Android",
-            title: "Try the app",
+            title: "Try the demo app",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
@@ -7901,7 +8261,7 @@ const landingPageData = {
         iOS: [
           {
             link: "/en/Virtual%20Host/downloads?platform=iOS",
-            title: "Try the app",
+            title: "Try the demo app",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
@@ -8035,12 +8395,12 @@ const landingPageData = {
         Android: {
           link: "/cn/Live-stream%20Shopping/api-ref?platform=Android",
           title: "API 文档",
-          desc: "点击查阅电商直播的 API 文档。",
+          desc: "查看电商直播的 API 文档。",
         },
         iOS: {
           link: "/cn/Live-stream%20Shopping/api-ref?platform=iOS",
           title: "API 文档",
-          desc: "点击查阅电商直播的 API 文档。",
+          desc: "查看电商直播的 API 文档。",
         },
       },
       articles: {
@@ -8087,7 +8447,7 @@ const landingPageData = {
         Android: [
           {
             link: "/en/Live-stream%20Shopping/downloads?platform=Android",
-            title: "Try the app",
+            title: "Try the demo app",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
@@ -8097,7 +8457,7 @@ const landingPageData = {
         iOS: [
           {
             link: "/en/Live-stream%20Shopping/downloads?platform=iOS",
-            title: "Try the app",
+            title: "Try the demo app",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
