@@ -825,7 +825,7 @@ const landingPageData = {
           link: "/en/rtc/restfulapi/",
           title: "API Reference",
           desc:
-            "View the detailed of the Server RESTful APIs.",
+            "View the details of the Server RESTful APIs.",
         },
         Electron: {
           link: "/en/Voice/API%20Reference/electron/index.html",
