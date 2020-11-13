@@ -728,62 +728,62 @@ const landingPageData = {
       quickStart: {
         Android: {
           link: "/en/Voice/start_call_audio_android?platform=Android",
-          title: "Quick start",
+          title: "Quick Start",
           desc:
             "Implement a simple voice call using the Agora RTC SDK.",
         },
         iOS: {
           link: "/en/Voice/start_call_audio_ios?platform=iOS",
-          title: "Quick start",
+          title: "Quick Start",
           desc:
             "Implement a simple voice call using the Agora RTC SDK.",
         },
         macOS: {
           link: "/en/Voice/start_call_audio_mac?platform=macOS",
-          title: "Quick start",
+          title: "Quick Start",
           desc:
             "Implement a simple voice call using the Agora RTC SDK.",
         },
         Web: {
           link: "/en/Voice/start_call_audio_web?platform=Web",
-          title: "Quick start",
+          title: "Quick Start",
           desc:
             "Implement a simple voice call using the Agora RTC SDK.",
         },
         Windows: {
           link: "/en/Voice/start_call_audio_windows?platform=Windows",
-          title: "Quick start",
+          title: "Quick Start",
           desc:
             "Implement a simple voice call using the Agora RTC SDK.",
         },
         Electron: {
           link: "/en/Voice/start_call_audio_electron?platform=Electron",
-          title: "Quick start",
+          title: "Quick Start",
           desc:
             "Implement a simple voice call using the Agora RTC SDK.",
         },
         Unity: {
           link: "/en/Voice/start_call_audio_unity?platform=Unity",
-          title: "Quick start",
+          title: "Quick Start",
           desc:
             "Implement a simple voice call using the Agora RTC SDK.",
         },
         Flutter: {
           link: "/en/Voice/start_call_audio_flutter?platform=Flutter",
-          title: "Quick start",
+          title: "Quick Start",
           desc:
             "Implement a simple voice call using the Agora RTC SDK.",
         },
         "React Native": {
           link: "/en/Voice/start_call_audio_react_native?platform=React Native",
-          title: "Quick start",
+          title: "Quick Start",
           desc:
             "Implement a simple voice call using the Agora RTC SDK.",
         },
         "Cocos Creator": {
           link:
             "/en/Voice/start_call_audio_cocos_creator?platform=Cocos%20Creator",
-          title: "Quick start",
+          title: "Quick Start",
           desc:
             "Implement a simple voice call using the Agora RTC SDK.",
         },
@@ -1736,55 +1736,55 @@ const landingPageData = {
       quickStart: {
         Android: {
           link: "/en/Video/start_call_android?platform=Android",
-          title: "Quick start",
+          title: "Quick Start",
           desc: "Describes how to use the Agora RTC SDK for basic video call.",
         },
 
         iOS: {
           link: "/en/Video/start_call_ios?platform=iOS",
-          title: "Quick start",
+          title: "Quick Start",
           desc: "Describes how to use the Agora RTC SDK for basic video call.",
         },
 
         macOS: {
           link: "/en/Video/start_call_mac?platform=macOS",
-          title: "Quick start",
+          title: "Quick Start",
           desc: "Describes how to use the Agora RTC SDK for basic video call.",
         },
 
         Web: {
           link: "/en/Video/start_call_web?platform=Web",
-          title: "Quick start",
+          title: "Quick Start",
           desc: "Describes how to use the Agora RTC SDK for basic video call.",
         },
 
         Windows: {
           link: "/en/Video/start_call_windows?platform=Windows",
-          title: "Quick start",
+          title: "Quick Start",
           desc: "Describes how to use the Agora RTC SDK for basic video call.",
         },
 
         Electron: {
           link: "/en/Video/start_call_electron?platform=Electron",
-          title: "Quick start",
+          title: "Quick Start",
           desc: "Describes how to use the Agora RTC SDK for basic video call.",
         },
 
         Unity: {
           link: "/en/Video/start_call_unity?platform=Unity",
-          title: "Quick start",
+          title: "Quick Start",
           desc: "Describes how to use the Agora RTC SDK for basic video call.",
         },
 
         Flutter: {
           link: "/en/Video/start_call_flutter?platform=Flutter",
-          title: "Quick start",
+          title: "Quick Start",
           desc: "Describes how to use the Agora RTC SDK for basic video call.",
         },
 
         "React Native": {
           link: "/en/Video/start_call_react_native?platform=React%20Native",
-          title: "Quick start",
+          title: "Quick Start",
           desc: "Describes how to use the Agora RTC SDK for basic video call.",
         },
       },
@@ -2762,59 +2762,59 @@ const landingPageData = {
         Android: {
           link:
             "/en/Interactive%20Broadcast/start_live_android?platform=Android",
-          title: "Quick start",
+          title: "Quick Start",
           desc: "Describes how to use the Agora RTC SDK for basic video call.",
         },
 
         iOS: {
           link: "/en/Interactive%20Broadcast/start_live_ios?platform=iOS",
-          title: "Quick start",
+          title: "Quick Start",
           desc: "Describes how to use the Agora RTC SDK for basic video call.",
         },
 
         macOS: {
           link: "/en/Interactive%20Broadcast/start_live_mac?platform=macOS",
-          title: "Quick start",
+          title: "Quick Start",
           desc: "Describes how to use the Agora RTC SDK for basic video call.",
         },
 
         Web: {
           link: "/en/Interactive%20Broadcast/start_live_web?platform=Web",
-          title: "Quick start",
+          title: "Quick Start",
           desc: "Describes how to use the Agora RTC SDK for basic video call.",
         },
 
         Windows: {
           link:
             "/en/Interactive%20Broadcast/start_live_windows?platform=Windows",
-          title: "Quick start",
+          title: "Quick Start",
           desc: "Describes how to use the Agora RTC SDK for basic video call.",
         },
 
         Electron: {
           link:
             "/en/Interactive%20Broadcast/start_live_electron?platform=Electron",
-          title: "Quick start",
+          title: "Quick Start",
           desc: "Describes how to use the Agora RTC SDK for basic video call.",
         },
 
         Unity: {
           link: "/en/Interactive%20Broadcast/start_live_unity?platform=Unity",
-          title: "Quick start",
+          title: "Quick Start",
           desc: "Describes how to use the Agora RTC SDK for basic video call.",
         },
 
         Flutter: {
           link:
             "/en/Interactive%20Broadcast/start_live_flutter?platform=Flutter",
-          title: "Quick start",
+          title: "Quick Start",
           desc: "Describes how to use the Agora RTC SDK for basic video call.",
         },
 
         "React Native": {
           link:
             "/en/Interactive%20Broadcast/start_live_react_native?platform=React%20Native",
-          title: "Quick start",
+          title: "Quick Start",
           desc: "Describes how to use the Agora RTC SDK for basic video call.",
         },
       },
@@ -3231,7 +3231,7 @@ const landingPageData = {
       quickStart: {
         RESTful: {
           link: "/en/cloud-recording/cloud_recording_rest?platform=RESTful",
-          title: "Quickstart",
+          title: "Quick Start",
           desc:
             "Use RESTful APIs to record voice/video calls and live streamings.",
         },
@@ -3389,7 +3389,7 @@ const landingPageData = {
       quickStart: {
         Linux: {
           link: "/en/Recording/recording_integrate_cpp?platform=Linux",
-          title: "Quickstart",
+          title: "Quick Start",
           desc:
             "Integrate the Recording SDK and start recording audio and video.",
         },
@@ -4124,7 +4124,7 @@ const landingPageData = {
       quickStart: {
         Android: {
           link: "/en/Real-time-Messaging/messaging_android?platform=Android",
-          title: "Quickstart Guide",
+          title: "Quick Start",
           desc: "This article contains quickstart information for the RTM SDK.",
         },
         iOS: {
