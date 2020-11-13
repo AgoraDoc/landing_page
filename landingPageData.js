@@ -3656,11 +3656,11 @@ const landingPageData = {
           },
           {
             link: "/cn/Real-time-Messaging/release_java_rtm?platform=Linux",
-            title: "发版说明",
+            title: "发版说明 (Linux Java)",
           },
           {
             link: "/cn/Real-time-Messaging/release_cpp_rtm?platform=Linux",
-            title: "发版说明",
+            title: "发版说明 (Linux C++)",
           },
         ],
         RESTful: [
@@ -3943,23 +3943,23 @@ const landingPageData = {
           },
           {
             link: "/cn/Real-time-Messaging/reconnecting_java?platform=Linux",
-            title: "连接状态管理",
+            title: "连接状态管理 (Linux Java)",
             desc: "本文展示如何使用 RTM SDK 进行连接状态管理。",
           },
           {
             link: "/cn/Real-time-Messaging/reconnecting_cpp?platform=Linux",
-            title: "连接状态管理",
+            title: "连接状态管理 (Linux C++)",
             desc: "本文展示如何使用 RTM SDK 进行连接状态管理。",
           },
           {
             link:
               "/cn/Real-time-Messaging/limitations_cpp_linux?platform=Linux",
-            title: "限制条件",
+            title: "限制条件 (Linux C++)",
             desc: "本文展示 RTM SDK 的使用限制条件。",
           },
           {
             link: "/cn/Real-time-Messaging/limitations_java?platform=Linux",
-            title: "限制条件",
+            title: "限制条件 (Linux Java)",
             desc: "本文展示 RTM SDK 的使用限制条件。",
           },
         ],
@@ -4029,7 +4029,11 @@ const landingPageData = {
           },
           {
             link: "/cn/Real-time-Messaging/release_cpp_rtm?platform=Linux",
-            title: "Release Notes",
+            title: "Release Notes (Linux C++)",
+          },
+          {
+            link: "/cn/Real-time-Messaging/release_java_rtm?platform=Linux",
+            title: "Release Notes (Linux Java)",
           },
         ],
         RESTful: [
@@ -4293,31 +4297,31 @@ const landingPageData = {
         Linux: [
           {
             link: "/en/Real-time-Messaging/rtm_token?platform=All%20Platforms",
-            title: "Manage Connection States",
+            title: "Set up authentication",
             desc:
               "This article introduces how to generate an RTM token on your server using the code provided by Agora.",
           },
           {
             link: "/en/Real-time-Messaging/reconnecting_java?platform=Linux",
-            title: "Manage Connection States",
+            title: "Manage Connection States (Linux Java)",
             desc:
               "This article introduces how to manage the connection status with the RTM SDK.",
           },
           {
             link: "/en/Real-time-Messaging/reconnecting_cpp?platform=Linux",
-            title: "Manage Connection States",
+            title: "Manage Connection States (Linux C++)",
             desc:
               "This article introduces how to manage the connection status with the RTM SDK.",
           },
           {
             link:
               "/en/Real-time-Messaging/limitations_cpp_linux?platform=Linux",
-            title: "Limitations",
+            title: "Limitations (Linux C++)",
             desc: "This article introduces the limitations of the RTM SDK.",
           },
           {
             link: "/en/Real-time-Messaging/limitations_java?platform=Linux",
-            title: "Limitations",
+            title: "Limitations (Linux Java)",
             desc: "This article introduces the limitations of the RTM SDK.",
           },
         ],
