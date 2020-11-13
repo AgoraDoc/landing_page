@@ -4024,15 +4024,15 @@ const landingPageData = {
         ],
         Linux: [
           {
-            link: "/cn/Real-time-Messaging/release_java_rtm?platform=Linux",
+            link: "/en/Real-time-Messaging/release_java_rtm?platform=Linux",
             title: "Product Overview",
           },
           {
-            link: "/cn/Real-time-Messaging/release_cpp_rtm?platform=Linux",
+            link: "/en/Real-time-Messaging/release_cpp_rtm?platform=Linux",
             title: "Release Notes (Linux C++)",
           },
           {
-            link: "/cn/Real-time-Messaging/release_java_rtm?platform=Linux",
+            link: "/en/Real-time-Messaging/release_java_rtm?platform=Linux",
             title: "Release Notes (Linux Java)",
           },
         ],
@@ -4232,7 +4232,7 @@ const landingPageData = {
               "This article introduces how to manage the connection status with the RTM SDK.",
           },
           {
-            link: "/cn/Real-time-Messaging/limitations_oc?platform=iOS",
+            link: "/en/Real-time-Messaging/limitations_oc?platform=iOS",
             title: "Limitations",
             desc: "This article introduces the limitations of the RTM SDK.",
           },
