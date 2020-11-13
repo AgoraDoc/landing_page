@@ -2,7 +2,7 @@ const landingPageData = {
   Voice: {
     cn: {
       desc:
-        "语音通话可以通过 Agora 音频 SDK 实现纯语音的一对一单聊和多人群聊，所有用户都可发言。在语音通话过程中，你还可以使用服务端 RESTful API 管理通话频道。",
+        "集成 Agora 音频 SDK，实现高音质语音通话。通过美声、音效、混音等功能，你可以轻松开发语聊房、线上 KTV、语音会议等应用。搭配服务端 RESTful API，你还可以实现踢人、查询用户列表等功能。",
       overview: {
         Android: [
           {
@@ -10,7 +10,7 @@ const landingPageData = {
             title: "产品概述",
           },
           {
-            link: "/cn/Voice/billing_audio?platform=Android",
+            link: "/cn/Voice/billing_rtc?platform=Android",
             title: "计费说明",
           },
           {
@@ -24,7 +24,7 @@ const landingPageData = {
             title: "产品概述",
           },
           {
-            link: "/cn/Voice/billing_audio?platform=iOS",
+            link: "/cn/Voice/billing_rtc?platform=iOS",
             title: "计费说明",
           },
           {
@@ -38,7 +38,7 @@ const landingPageData = {
             title: "产品概述",
           },
           {
-            link: "/cn/Voice/billing_audio?platform=macOS",
+            link: "/cn/Voice/billing_rtc?platform=macOS",
             title: "计费说明",
           },
           {
@@ -52,7 +52,7 @@ const landingPageData = {
             title: "产品概述",
           },
           {
-            link: "/cn/Voice/billing_audio?platform=Web",
+            link: "/cn/Voice/billing_rtc?platform=Web",
             title: "计费说明",
           },
           {
@@ -66,7 +66,7 @@ const landingPageData = {
             title: "产品概述",
           },
           {
-            link: "/cn/Voice/billing_audio?platform=微信小程序",
+            link: "/cn/Voice/billing_rtc?platform=微信小程序",
             title: "计费说明",
           },
           {
@@ -80,7 +80,7 @@ const landingPageData = {
             title: "产品概述",
           },
           {
-            link: "/cn/Voice/billing_audio?platform=Windows",
+            link: "/cn/Voice/billing_rtc?platform=Windows",
             title: "计费说明",
           },
           {
@@ -94,7 +94,7 @@ const landingPageData = {
             title: "产品概述",
           },
           {
-            link: "/cn/Voice/billing_audio?platform=Electron",
+            link: "/cn/Voice/billing_rtc?platform=Electron",
             title: "计费说明",
           },
           {
@@ -108,7 +108,7 @@ const landingPageData = {
             title: "产品概述",
           },
           {
-            link: "/cn/Voice/billing_audio?platform=Unity",
+            link: "/cn/Voice/billing_rtc?platform=Unity",
             title: "计费说明",
           },
           {
@@ -122,7 +122,7 @@ const landingPageData = {
             title: "产品概述",
           },
           {
-            link: "/cn/Voice/billing_audio?platform=Flutter",
+            link: "/cn/Voice/billing_rtc?platform=Flutter",
             title: "计费说明",
           },
           {
@@ -136,7 +136,7 @@ const landingPageData = {
             title: "产品概述",
           },
           {
-            link: "/cn/Voice/billing_audio?platform=React Native",
+            link: "/cn/Voice/billing_rtc?platform=React Native",
             title: "计费说明",
           },
           {
@@ -150,7 +150,7 @@ const landingPageData = {
             title: "产品概述",
           },
           {
-            link: "/cn/Voice/billing_audio?platform=Cocos%20Creator",
+            link: "/cn/Voice/billing_rtc?platform=Cocos%20Creator",
             title: "计费说明",
           },
           {
@@ -497,7 +497,7 @@ const landingPageData = {
     },
     en: {
       desc:
-        "Agora Voice Call enables easy and convenient one-to-one or one-to-many voice-only calls by using the Agora Voice SDK, and all users can talk to each other freely. During voice calls, you can also use the Server RESTful API to manage channels.",
+        "Integrate the Agora Voice SDK to implement a high-quality voice call. Using functions such as voice beautifier, audio effects, and audio mixing, you can easily develop applications such as online chatrooms, online KTV, and audio conferences. With the Server RESTful API, you can also implement functions such as banning users and getting user lists.",
       overview: {
         Android: [
           {
@@ -505,7 +505,7 @@ const landingPageData = {
             title: "Product Overview",
           },
           {
-            link: "/en/Voice/billing_audio?platform=Android",
+            link: "/en/Voice/billing_rtc?platform=Android",
             title: "Billing",
           },
           {
@@ -519,7 +519,7 @@ const landingPageData = {
             title: "Product Overview",
           },
           {
-            link: "/en/Voice/billing_audio?platform=iOS",
+            link: "/en/Voice/billing_rtc?platform=iOS",
             title: "Billing",
           },
           {
@@ -533,7 +533,7 @@ const landingPageData = {
             title: "Product Overview",
           },
           {
-            link: "/en/Voice/billing_audio?platform=macOS",
+            link: "/en/Voice/billing_rtc?platform=macOS",
             title: "Billing",
           },
           {
@@ -547,7 +547,7 @@ const landingPageData = {
             title: "Product Overview",
           },
           {
-            link: "/en/Voice/billing_audio?platform=Web",
+            link: "/en/Voice/billing_rtc?platform=Web",
             title: "Billing",
           },
           {
@@ -561,7 +561,7 @@ const landingPageData = {
             title: "Product Overview",
           },
           {
-            link: "/en/Voice/billing_audio?platform=Windows",
+            link: "/en/Voice/billing_rtc?platform=Windows",
             title: "Billing",
           },
           {
@@ -575,7 +575,7 @@ const landingPageData = {
             title: "Product Overview",
           },
           {
-            link: "/en/Voice/billing_audio?platform=Electron",
+            link: "/en/Voice/billing_rtc?platform=Electron",
             title: "Billing",
           },
           {
@@ -589,7 +589,7 @@ const landingPageData = {
             title: "Product Overview",
           },
           {
-            link: "/en/Voice/billing_audio?platform=Unity",
+            link: "/en/Voice/billing_rtc?platform=Unity",
             title: "Billing",
           },
           {
@@ -603,7 +603,7 @@ const landingPageData = {
             title: "Product Overview",
           },
           {
-            link: "/en/Voice/billing_audio?platform=Flutter",
+            link: "/en/Voice/billing_rtc?platform=Flutter",
             title: "Billing",
           },
           {
@@ -617,7 +617,7 @@ const landingPageData = {
             title: "Product Overview",
           },
           {
-            link: "/en/Voice/billing_audio?platform=React Native",
+            link: "/en/Voice/billing_rtc?platform=React Native",
             title: "Billing",
           },
           {
@@ -631,7 +631,7 @@ const landingPageData = {
             title: "Product Overview",
           },
           {
-            link: "/en/Voice/billing_audio?platform=Cocos%20Creator",
+            link: "/en/Voice/billing_rtc?platform=Cocos%20Creator",
             title: "Billing",
           },
           {
