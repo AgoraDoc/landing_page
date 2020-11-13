@@ -985,7 +985,7 @@ const landingPageData = {
   Video: {
     cn: {
       desc:
-        "视频通话 SDK 可实现一对一单聊、多人群聊，支持纯语音通话和音视频通话。通过 Agora RTC SDK，你可以实现视频通话；通过服务端 RESTful API，你可以管理项目和频道。",
+        "集成 Agora 视频 SDK，实现高清流畅视频通话。搭配服务端 RESTful API，你还可以实现踢人、查询用户列表等功能。",
       overview: {
         Android: [
           {
@@ -1247,130 +1247,130 @@ const landingPageData = {
         Android: {
           link: "/cn/Video/start_call_android?platform=Android",
           title: "快速开始",
-          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的视频通话。",
+          desc: "快速集成 Agora RTC SDK，实现视频通话功能。",
         },
 
         iOS: {
           link: "/cn/Video/start_call_ios?platform=iOS",
           title: "快速开始",
-          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的视频通话。",
+          desc: "快速集成 Agora RTC SDK，实现视频通话功能。",
         },
 
         macOS: {
           link: "/cn/Video/start_call_mac?platform=macOS",
           title: "快速开始",
-          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的视频通话。",
+          desc: "快速集成 Agora RTC SDK，实现视频通话功能。",
         },
 
         Web: {
           link: "/cn/Video/start_call_web?platform=Web",
           title: "快速开始",
-          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的视频通话。",
+          desc: "快速集成 Agora RTC SDK，实现视频通话功能。",
         },
 
         微信小程序: {
           link: "/cn/Video/start_call_wechat?platform=微信小程序",
           title: "快速开始",
-          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的视频通话。",
+          desc: "快速集成 Agora RTC SDK，实现视频通话功能。",
         },
 
         Windows: {
           link: "/cn/Video/start_call_windows?platform=Windows",
           title: "快速开始",
-          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的视频通话。",
+          desc: "快速集成 Agora RTC SDK，实现视频通话功能。",
         },
 
         Electron: {
           link: "/cn/Video/start_call_electron?platform=Electron",
           title: "快速开始",
-          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的视频通话。",
+          desc: "快速集成 Agora RTC SDK，实现视频通话功能。",
         },
 
         Unity: {
           link: "/cn/Video/start_call_unity?platform=Unity",
           title: "快速开始",
-          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的视频通话。",
+          desc: "快速集成 Agora RTC SDK，实现视频通话功能。",
         },
 
         Flutter: {
           link: "/cn/Video/start_call_flutter?platform=Flutter",
           title: "快速开始",
-          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的视频通话。",
+          desc: "快速集成 Agora RTC SDK，实现视频通话功能。",
         },
 
         "React Native": {
           link: "/cn/Video/start_call_react_native?platform=React%20Native",
           title: "快速开始",
-          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的视频通话。",
+          desc: "快速集成 Agora RTC SDK，实现视频通话功能。",
         },
       },
       api: {
         Android: {
           link: "/cn/Video/API%20Reference/java/index.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
 
         iOS: {
           link:
             "/cn/Video/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
 
         macOS: {
           link:
             "/cn/Video/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
 
         Web: {
           link: "/cn/Video/API%20Reference/web/index.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
 
         微信小程序: {
           link: "/cn/Video/API%20Reference/wechat/index.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
 
         Windows: {
           link: "/cn/Video/API%20Reference/cpp/index.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
 
         RESTful: {
           link: "/cn/rtc/restfulapi/",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看服务端 RESTful API 的详细信息。",
         },
 
         Electron: {
           link: "/cn/Video/API%20Reference/electron/index.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
 
         Unity: {
           link: "/cn/Video/API%20Reference/unity/index.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
 
         Flutter: {
           link: "/cn/Video/API%20Reference/flutter/index.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
 
         "React Native": {
           link: "/cn/Video/API%20Reference/react_native/index.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
       },
       articles: {
@@ -1378,128 +1378,128 @@ const landingPageData = {
           {
             link: "/cn/Video/token_server?platform=Android",
             title: "生成 Token",
-            desc: "Token 是加入频道时的鉴权，本文介绍如何生成 Token。",
+            desc: "使用 Agora 提供的代码在服务端生成 Token。",
           },
           {
             link: "/cn/Video/video_profile_android?platform=Android",
             title: "设置视频属性",
-            desc: "本文介绍如何设置用户视频的编码属性。",
+            desc: "设置用户视频的编码属性。",
           },
           {
             link: "/cn/Video/screensharing_android?platform=Android",
             title: "屏幕共享",
-            desc: "本文介绍如何在音视频互动时屏幕共享。",
+            desc: "在音视频互动时屏幕共享。",
           },
         ],
         iOS: [
           {
             link: "/cn/Video/token_server?platform=iOS",
             title: "生成 Token",
-            desc: "Token 是加入频道时的鉴权，本文介绍如何生成 Token。",
+            desc: "使用 Agora 提供的代码在服务端生成 Token。",
           },
           {
             link: "/cn/Video/video_profile_apple?platform=iOS",
             title: "设置视频属性",
-            desc: "本文介绍如何设置用户视频的编码属性。",
+            desc: "设置用户视频的编码属性。",
           },
           {
             link: "/cn/Video/screensharing_ios?platform=iOS",
             title: "屏幕共享",
-            desc: "本文介绍如何在音视频互动时屏幕共享。",
+            desc: "在音视频互动时屏幕共享。",
           },
         ],
         macOS: [
           {
             link: "/cn/Video/token_server?platform=macOS",
             title: "生成 Token",
-            desc: "Token 是加入频道时的鉴权，本文介绍如何生成 Token。",
+            desc: "使用 Agora 提供的代码在服务端生成 Token。",
           },
           {
             link: "/cn/Video/video_profile_apple?platform=macOS",
             title: "设置视频属性",
-            desc: "本文介绍如何设置用户视频的编码属性。",
+            desc: "设置用户视频的编码属性。",
           },
           {
             link: "/cn/Video/screensharing_mac?platform=macOS",
             title: "屏幕共享",
-            desc: "本文介绍如何在音视频互动时屏幕共享。",
+            desc: "在音视频互动时屏幕共享。",
           },
         ],
         Web: [
           {
             link: "/cn/Video/token_server?platform=Web",
             title: "生成 Token",
-            desc: "Token 是加入频道时的鉴权，本文介绍如何生成 Token。",
+            desc: "使用 Agora 提供的代码在服务端生成 Token。",
           },
           {
             link: "/cn/Video/video_profile_web?platform=Web",
             title: "设置视频属性",
-            desc: "本文介绍如何设置用户视频的编码属性。",
+            desc: "设置用户视频的编码属性。",
           },
           {
             link: "/cn/Video/screensharing_web?platform=Web",
             title: "屏幕共享",
-            desc: "本文介绍如何在音视频互动时屏幕共享。",
+            desc: "在音视频互动时屏幕共享。",
           },
         ],
         微信小程序: [
           {
             link: "/cn/Video/token_server?platform=微信小程序",
             title: "生成 Token",
-            desc: "Token 是加入频道时的鉴权，本文介绍如何生成 Token。",
+            desc: "使用 Agora 提供的代码在服务端生成 Token。",
           },
           {
             link: "/cn/Video/faq/wechat",
             title: "如何处理小程序 SDK 常见问题？",
-            desc: "本文介绍在使用小程序 SDK 过程中的常见问题及解决方案。",
+            desc: "在使用小程序 SDK 过程中的常见问题及解决方案。",
           },
           {
             link: "/cn/Video/error_rtc?platform=All%20Platforms#微信小程序",
             title: "错误码和警告码",
             desc:
-              "本文介绍在调用 Agora API 过程中，SDK 可能会返回的错误码和警告码。",
+              "在调用 Agora API 过程中 SDK 可能会返回的错误码和警告码。",
           },
         ],
         Windows: [
           {
             link: "/cn/Video/token_server?platform=Windows",
             title: "生成 Token",
-            desc: "Token 是加入频道时的鉴权，本文介绍如何生成 Token。",
+            desc: "使用 Agora 提供的代码在服务端生成 Token。",
           },
           {
             link: "/cn/Video/video_profile_windows?platform=Windows",
             title: "设置视频属性",
-            desc: "本文介绍如何设置用户视频的编码属性。",
+            desc: "设置用户视频的编码属性。",
           },
           {
             link: "/cn/Video/screensharing_windows?platform=Windows",
             title: "屏幕共享",
-            desc: "本文介绍如何在音视频互动时屏幕共享。",
+            desc: "在音视频互动时屏幕共享。",
           },
         ],
         Unity: [
           {
             link: "/cn/Video/token_server?platform=Unity",
             title: "生成 Token",
-            desc: "Token 是加入频道时的鉴权，本文介绍如何生成 Token。",
+            desc: "使用 Agora 提供的代码在服务端生成 Token。",
           },
           {
             link: "/cn/Video/raw_data_video_unity?platform=Unity",
             title: "原始视频数据",
-            desc: "本文介绍如何获取原始视频数据。",
+            desc: "获取原始视频数据。",
           },
           {
             link: "/cn/Video/custom_video_unity?platform=Unity",
             title: "自定义视频采集和渲染",
             desc:
-              "本文介绍如何使用自定义的视频源采集或使用自定义的渲染器渲染视频数据。",
+              "自定义视频采集，自定义视频渲染。",
           },
         ],
       },
     },
     en: {
       desc:
-        "The Video SDK enables easy and convenient one-to-one and one-to-many calls and supports the voice-only and voice and video modes. With the Agora RTC SDK, you can implement a video call. With the server RESTful API, you can manage projects and channels.",
+        "Integrate the Agora Video SDK for high-definition and smooth video calls. With the Server RESTful API, you can also implement functions such as banning users and getting user lists.",
       overview: {
         Android: [
           {
@@ -1737,118 +1737,118 @@ const landingPageData = {
         Android: {
           link: "/en/Video/start_call_android?platform=Android",
           title: "Quick Start",
-          desc: "Describes how to use the Agora RTC SDK for basic video call.",
+          desc: "Implement a simple video call using the Agora RTC SDK.",
         },
 
         iOS: {
           link: "/en/Video/start_call_ios?platform=iOS",
           title: "Quick Start",
-          desc: "Describes how to use the Agora RTC SDK for basic video call.",
+          desc: "Implement a simple video call using the Agora RTC SDK.",
         },
 
         macOS: {
           link: "/en/Video/start_call_mac?platform=macOS",
           title: "Quick Start",
-          desc: "Describes how to use the Agora RTC SDK for basic video call.",
+          desc: "Implement a simple video call using the Agora RTC SDK.",
         },
 
         Web: {
           link: "/en/Video/start_call_web?platform=Web",
           title: "Quick Start",
-          desc: "Describes how to use the Agora RTC SDK for basic video call.",
+          desc: "Implement a simple video call using the Agora RTC SDK.",
         },
 
         Windows: {
           link: "/en/Video/start_call_windows?platform=Windows",
           title: "Quick Start",
-          desc: "Describes how to use the Agora RTC SDK for basic video call.",
+          desc: "Implement a simple video call using the Agora RTC SDK.",
         },
 
         Electron: {
           link: "/en/Video/start_call_electron?platform=Electron",
           title: "Quick Start",
-          desc: "Describes how to use the Agora RTC SDK for basic video call.",
+          desc: "Implement a simple video call using the Agora RTC SDK.",
         },
 
         Unity: {
           link: "/en/Video/start_call_unity?platform=Unity",
           title: "Quick Start",
-          desc: "Describes how to use the Agora RTC SDK for basic video call.",
+          desc: "Implement a simple video call using the Agora RTC SDK.",
         },
 
         Flutter: {
           link: "/en/Video/start_call_flutter?platform=Flutter",
           title: "Quick Start",
-          desc: "Describes how to use the Agora RTC SDK for basic video call.",
+          desc: "Implement a simple video call using the Agora RTC SDK.",
         },
 
         "React Native": {
           link: "/en/Video/start_call_react_native?platform=React%20Native",
           title: "Quick Start",
-          desc: "Describes how to use the Agora RTC SDK for basic video call.",
+          desc: "Implement a simple video call using the Agora RTC SDK.",
         },
       },
       api: {
         Android: {
           link: "/en/Video/API%20Reference/java/index.html",
           title: "API Reference",
-          desc: "The Agora RTC SDK API documentation.",
+          desc: "View the API reference of the Agora RTC SDK.",
         },
 
         iOS: {
           link:
             "/en/Video/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
           title: "API Reference",
-          desc: "The Agora RTC SDK API documentation.",
+          desc: "View the API reference of the Agora RTC SDK.",
         },
 
         macOS: {
           link:
             "/en/Video/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
           title: "API Reference",
-          desc: "The Agora RTC SDK API documentation.",
+          desc: "View the API reference of the Agora RTC SDK.",
         },
 
         Web: {
           link: "/en/Video/API%20Reference/web/index.html",
           title: "API Reference",
-          desc: "The Agora RTC SDK API documentation.",
+          desc: "View the API reference of the Agora RTC SDK.",
         },
 
         Windows: {
           link: "/en/Video/API%20Reference/cpp/index.html",
           title: "API Reference",
-          desc: "The Agora RTC SDK API documentation.",
+          desc: "View the API reference of the Agora RTC SDK.",
         },
 
         RESTful: {
           link: "/en/rtc/restfulapi/",
           title: "API Reference",
-          desc: "The Agora RTC SDK API documentation.",
+          desc: "View the details of the Server RESTful APIs.",
         },
 
         Electron: {
           link: "/en/Video/API%20Reference/electron/index.html",
           title: "API Reference",
-          desc: "The Agora RTC SDK API documentation.",
+          desc: "View the API reference of the Agora RTC SDK.",
         },
 
         Unity: {
           link: "/en/Video/API%20Reference/unity/index.html",
           title: "API Reference",
-          desc: "The Agora RTC SDK API documentation.",
+          desc: "View the API reference of the Agora RTC SDK.",
         },
 
         Flutter: {
           link: "/en/Video/API%20Reference/flutter/index.html",
           title: "API Reference",
-          desc: "The Agora RTC SDK API documentation.",
+          desc: "View the API reference of the Agora RTC SDK.",
         },
 
         "React Native": {
           link: "/en/Video/API%20Reference/react_native/index.html",
           title: "API Reference",
-          desc: "The Agora RTC SDK API documentation.",
+          desc: "View the API reference of the Agora RTC SDK.",
         },
       },
       articles: {
@@ -1857,18 +1857,18 @@ const landingPageData = {
             link: "/en/Video/token_server?platform=Android",
             title: "Generate a Token from Your Server",
             desc:
-              "Token is the authentication when joining a channel. This article introduces how to generate Token.",
+              "Generate a token on your server using the code provided by Agora.",
           },
           {
             link: "/en/Video/video_profile_android?platform=Android",
             title: "Set the Video Profile",
-            desc: "Introduces how to set encoding profiles of user video.",
+            desc: "Set encoding profiles of user video.",
           },
           {
             link: "/en/Video/screensharing_android?platform=Android",
             title: "Share the Screen",
             desc:
-              "Introduces how to share the screen when interacting with audio and video.",
+              "Share the screen when interacting with audio and video.",
           },
         ],
         iOS: [
@@ -1876,18 +1876,18 @@ const landingPageData = {
             link: "/en/Video/token_server?platform=iOS",
             title: "Generate a Token from Your Server",
             desc:
-              "Token is the authentication when joining a channel. This article introduces how to generate Token.",
+              "Generate a token on your server using the code provided by Agora.",
           },
           {
             link: "/en/Video/video_profile_apple?platform=iOS",
             title: "Set the Video Profile",
-            desc: "Introduces how to set encoding profiles of user video.",
+            desc: "Set encoding profiles of user video.",
           },
           {
             link: "/en/Video/screensharing_ios?platform=iOS",
             title: "Share the Screen",
             desc:
-              "Introduces how to share the screen when interacting with audio and video.",
+              "Share the screen when interacting with audio and video.",
           },
         ],
         macOS: [
@@ -1895,18 +1895,18 @@ const landingPageData = {
             link: "/en/Video/token_server?platform=macOS",
             title: "Generate a Token from Your Server",
             desc:
-              "Token is the authentication when joining a channel. This article introduces how to generate Token.",
+              "Generate a token on your server using the code provided by Agora.",
           },
           {
             link: "/en/Video/video_profile_apple?platform=macOS",
             title: "Set the Video Profile",
-            desc: "Introduces how to set encoding profiles of user video.",
+            desc: "Set encoding profiles of user video.",
           },
           {
             link: "/en/Video/screensharing_mac?platform=macOS",
             title: "Share the Screen",
             desc:
-              "Introduces how to share the screen when interacting with audio and video.",
+              "Share the screen when interacting with audio and video.",
           },
         ],
         Web: [
@@ -1914,18 +1914,18 @@ const landingPageData = {
             link: "/en/Video/token_server?platform=Web",
             title: "Generate a Token from Your Server",
             desc:
-              "Token is the authentication when joining a channel. This article introduces how to generate Token.",
+              "Generate a token on your server using the code provided by Agora.",
           },
           {
             link: "/en/Video/video_profile_web?platform=Web",
             title: "Set the Video Profile",
-            desc: "Introduces how to set encoding profiles of user video.",
+            desc: "Set encoding profiles of user video.",
           },
           {
             link: "/en/Video/screensharing_web?platform=Web",
             title: "Share the Screen",
             desc:
-              "Introduces how to share the screen when interacting with audio and video.",
+              "Share the screen when interacting with audio and video.",
           },
         ],
         Windows: [
@@ -1933,18 +1933,18 @@ const landingPageData = {
             link: "/en/Video/token_server?platform=Windows",
             title: "Generate a Token from Your Server",
             desc:
-              "Token is the authentication when joining a channel. This article introduces how to generate Token.",
+              "Generate a token on your server using the code provided by Agora.",
           },
           {
             link: "/en/Video/video_profile_windows?platform=Windows",
             title: "Set the Video Profile",
-            desc: "Introduces how to set encoding profiles of user video.",
+            desc: "Set encoding profiles of user video.",
           },
           {
             link: "/en/Video/screensharing_windows?platform=Windows",
             title: "Share the Screen",
             desc:
-              "Introduces how to share the screen when interacting with audio and video.",
+              "Share the screen when interacting with audio and video.",
           },
         ],
         Unity: [
@@ -1952,18 +1952,18 @@ const landingPageData = {
             link: "/en/Video/token_server?platform=Unity",
             title: "Generate a Token from Your Server",
             desc:
-              "Token is the authentication when joining a channel. This article introduces how to generate Token.",
+              "Generate a token on your server using the code provided by Agora.",
           },
           {
             link: "/en/Video/raw_data_video_unity?platform=Unity",
             title: "Raw Video Data",
-            desc: "Introduces how to get the raw audio data.",
+            desc: "Get the raw audio data.",
           },
           {
             link: "/en/Video/custom_video_unity?platform=Unity",
             title: "Custom Video Source and Renderer",
             desc:
-              "Introduces how to use custom audio source and custom audio renderer.",
+              "Use custom audio source and custom audio renderer.",
           },
         ],
       },
@@ -1972,7 +1972,7 @@ const landingPageData = {
   "Interactive Streaming": {
     cn: {
       desc:
-        "互动直播 SDK 可以实现一对多，多对多的音视频互动直播。通过 Agora RTC SDK，你可以实现互动直播；通过服务端 RESTful API，你可以管理项目和频道。",
+        "集成 Agora 视频 SDK，实现高清流畅的音视频互动直播。搭配服务端 RESTful API，你还可以实现踢人、查询用户列表等功能。",
       overview: {
         Android: [
           {
@@ -2311,72 +2311,72 @@ const landingPageData = {
         Android: {
           link: "/cn/Interactive%20Broadcast/API%20Reference/java/index.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
 
         iOS: {
           link:
             "/cn/Interactive%20Broadcast/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
 
         macOS: {
           link:
             "/cn/Interactive%20Broadcast/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
 
         Web: {
           link: "/cn/Interactive%20Broadcast/API%20Reference/web/index.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
 
         微信小程序: {
           link: "/cn/Interactive%20Broadcast/API%20Reference/wechat/index.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
 
         Windows: {
           link: "/cn/Interactive%20Broadcast/API%20Reference/cpp/index.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
 
         RESTful: {
           link: "/cn/rtc/restfulapi/",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看服务端 RESTful API 的详细信息。",
         },
 
         Electron: {
           link:
             "/cn/Interactive%20Broadcast/API%20Reference/electron/index.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
 
         Unity: {
           link: "/cn/Interactive%20Broadcast/API%20Reference/unity/index.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
 
         Flutter: {
           link:
             "/cn/Interactive%20Broadcast/API%20Reference/flutter/index.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
 
         "React Native": {
           link:
             "/cn/Interactive%20Broadcast/API%20Reference/react_native/index.html",
           title: "API 文档",
-          desc: "本文提供 Agora RTC SDK 的详细 API 信息。",
+          desc: "查看 Agora RTC SDK 的 API 参考。",
         },
       },
       articles: {
@@ -2384,73 +2384,73 @@ const landingPageData = {
           {
             link: "/cn/Interactive%20Broadcast/token_server?platform=Android",
             title: "生成 Token",
-            desc: "Token 是加入频道时的鉴权，本文介绍如何生成 Token。",
+            desc: "使用 Agora 提供的代码在服务端生成 Token。",
           },
           {
             link:
               "/cn/Interactive%20Broadcast/video_profile_android?platform=Android",
             title: "设置视频属性",
-            desc: "本文介绍如何设置用户视频的编码属性。",
+            desc: "设置用户视频的编码属性。",
           },
           {
             link:
               "/cn/Interactive%20Broadcast/screensharing_android?platform=Android",
             title: "屏幕共享",
-            desc: "本文介绍如何在音视频互动时屏幕共享。",
+            desc: "在音视频互动时屏幕共享。",
           },
         ],
         iOS: [
           {
             link: "/cn/Interactive%20Broadcast/token_server?platform=iOS",
             title: "生成 Token",
-            desc: "Token 是加入频道时的鉴权，本文介绍如何生成 Token。",
+            desc: "使用 Agora 提供的代码在服务端生成 Token。",
           },
           {
             link:
               "/cn/Interactive%20Broadcast/video_profile_apple?platform=iOS",
             title: "设置视频属性",
-            desc: "本文介绍如何设置用户视频的编码属性。",
+            desc: "设置用户视频的编码属性。",
           },
           {
             link: "/cn/Interactive%20Broadcast/screensharing_ios?platform=iOS",
             title: "屏幕共享",
-            desc: "本文介绍如何在音视频互动时屏幕共享。",
+            desc: "在音视频互动时屏幕共享。",
           },
         ],
         macOS: [
           {
             link: "/cn/Interactive%20Broadcast/token_server?platform=macOS",
             title: "生成 Token",
-            desc: "Token 是加入频道时的鉴权，本文介绍如何生成 Token。",
+            desc: "使用 Agora 提供的代码在服务端生成 Token。",
           },
           {
             link:
               "/cn/Interactive%20Broadcast/video_profile_apple?platform=macOS",
             title: "设置视频属性",
-            desc: "本文介绍如何设置用户视频的编码属性。",
+            desc: "设置用户视频的编码属性。",
           },
           {
             link:
               "/cn/Interactive%20Broadcast/screensharing_mac?platform=macOS",
             title: "屏幕共享",
-            desc: "本文介绍如何在音视频互动时屏幕共享。",
+            desc: "在音视频互动时屏幕共享。",
           },
         ],
         Web: [
           {
             link: "/cn/Interactive%20Broadcast/token_server?platform=Web",
             title: "生成 Token",
-            desc: "Token 是加入频道时的鉴权，本文介绍如何生成 Token。",
+            desc: "使用 Agora 提供的代码在服务端生成 Token。",
           },
           {
             link: "/cn/Interactive%20Broadcast/video_profile_web?platform=Web",
             title: "设置视频属性",
-            desc: "本文介绍如何设置用户视频的编码属性。",
+            desc: "设置用户视频的编码属性。",
           },
           {
             link: "/cn/Interactive%20Broadcast/screensharing_web?platform=Web",
             title: "屏幕共享",
-            desc: "本文介绍如何在音视频互动时屏幕共享。",
+            desc: "在音视频互动时屏幕共享。",
           },
         ],
         微信小程序: [
@@ -2458,45 +2458,45 @@ const landingPageData = {
             link:
               "/cn/Interactive%20Broadcast/token_server?platform=微信小程序",
             title: "生成 Token",
-            desc: "Token 是加入频道时的鉴权，本文介绍如何生成 Token。",
+            desc: "使用 Agora 提供的代码在服务端生成 Token。",
           },
           {
             link: "/cn/Interactive%20Broadcast/faq/wechat",
             title: "如何处理小程序 SDK 常见问题？",
-            desc: "本文介绍在使用小程序 SDK 过程中的常见问题及解决方案。",
+            desc: "在使用小程序 SDK 过程中的常见问题及解决方案。",
           },
           {
             link:
               "/cn/Interactive%20Broadcast/error_rtc?platform=All%20Platforms#微信小程序",
             title: "错误码和警告码",
             desc:
-              "本文介绍在调用 Agora API 过程中，SDK 可能会返回的错误码和警告码。",
+              "在调用 Agora API 过程中 SDK 可能会返回的错误码和警告码。",
           },
         ],
         Windows: [
           {
             link: "/cn/Interactive%20Broadcast/token_server?platform=Windows",
             title: "生成 Token",
-            desc: "Token 是加入频道时的鉴权，本文介绍如何生成 Token。",
+            desc: "使用 Agora 提供的代码在服务端生成 Token。",
           },
           {
             link:
               "/cn/Interactive%20Broadcast/video_profile_windows?platform=Windows",
             title: "设置视频属性",
-            desc: "本文介绍如何设置用户视频的编码属性。",
+            desc: "设置用户视频的编码属性。",
           },
           {
             link:
               "/cn/Interactive%20Broadcast/screensharing_windows?platform=Windows",
             title: "屏幕共享",
-            desc: "本文介绍如何在音视频互动时屏幕共享。",
+            desc: "在音视频互动时屏幕共享。",
           },
         ],
         Unity: [
           {
             link: "/cn/Interactive%20Broadcast/token_server?platform=Unity",
             title: "生成 Token",
-            desc: "Token 是加入频道时的鉴权，本文介绍如何生成 Token。",
+            desc: "使用 Agora 提供的代码在服务端生成 Token。",
           },
           {
             link:
@@ -2516,7 +2516,7 @@ const landingPageData = {
     },
     en: {
       desc:
-        "The Interactive Broadcasting SDK enables one-to-many and many-to-many audio and video live streaming. With the Agora RTC SDK, you can implement the live interactive streaming. With the server RESTful API, you can manage projects and channels.",
+        "Integrate the Agora Video SDK for high-definition and smooth interactive live streaming. With the Server RESTful API, you can also implement functions such as banning users and getting user lists.",
       overview: {
         Android: [
           {
@@ -2763,125 +2763,125 @@ const landingPageData = {
           link:
             "/en/Interactive%20Broadcast/start_live_android?platform=Android",
           title: "Quick Start",
-          desc: "Describes how to use the Agora RTC SDK for basic video call.",
+          desc: "Implement a simple video call using the Agora RTC SDK.",
         },
 
         iOS: {
           link: "/en/Interactive%20Broadcast/start_live_ios?platform=iOS",
           title: "Quick Start",
-          desc: "Describes how to use the Agora RTC SDK for basic video call.",
+          desc: "Implement a simple video call using the Agora RTC SDK.",
         },
 
         macOS: {
           link: "/en/Interactive%20Broadcast/start_live_mac?platform=macOS",
           title: "Quick Start",
-          desc: "Describes how to use the Agora RTC SDK for basic video call.",
+          desc: "Implement a simple video call using the Agora RTC SDK.",
         },
 
         Web: {
           link: "/en/Interactive%20Broadcast/start_live_web?platform=Web",
           title: "Quick Start",
-          desc: "Describes how to use the Agora RTC SDK for basic video call.",
+          desc: "Implement a simple video call using the Agora RTC SDK.",
         },
 
         Windows: {
           link:
             "/en/Interactive%20Broadcast/start_live_windows?platform=Windows",
           title: "Quick Start",
-          desc: "Describes how to use the Agora RTC SDK for basic video call.",
+          desc: "Implement a simple video call using the Agora RTC SDK.",
         },
 
         Electron: {
           link:
             "/en/Interactive%20Broadcast/start_live_electron?platform=Electron",
           title: "Quick Start",
-          desc: "Describes how to use the Agora RTC SDK for basic video call.",
+          desc: "Implement a simple video call using the Agora RTC SDK.",
         },
 
         Unity: {
           link: "/en/Interactive%20Broadcast/start_live_unity?platform=Unity",
           title: "Quick Start",
-          desc: "Describes how to use the Agora RTC SDK for basic video call.",
+          desc: "Implement a simple video call using the Agora RTC SDK.",
         },
 
         Flutter: {
           link:
             "/en/Interactive%20Broadcast/start_live_flutter?platform=Flutter",
           title: "Quick Start",
-          desc: "Describes how to use the Agora RTC SDK for basic video call.",
+          desc: "Implement a simple video call using the Agora RTC SDK.",
         },
 
         "React Native": {
           link:
             "/en/Interactive%20Broadcast/start_live_react_native?platform=React%20Native",
           title: "Quick Start",
-          desc: "Describes how to use the Agora RTC SDK for basic video call.",
+          desc: "Implement a simple video call using the Agora RTC SDK.",
         },
       },
       api: {
         Android: {
           link: "/en/Interactive%20Broadcast/API%20Reference/java/index.html",
           title: "API Reference",
-          desc: "The Agora RTC SDK API documentation.",
+          desc: "View the API reference of the Agora RTC SDK.",
         },
 
         iOS: {
           link:
             "/en/Interactive%20Broadcast/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
           title: "API Reference",
-          desc: "The Agora RTC SDK API documentation.",
+          desc: "View the API reference of the Agora RTC SDK.",
         },
 
         macOS: {
           link:
             "/en/Interactive%20Broadcast/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
           title: "API Reference",
-          desc: "The Agora RTC SDK API documentation.",
+          desc: "View the API reference of the Agora RTC SDK.",
         },
 
         Web: {
           link: "/en/Interactive%20Broadcast/API%20Reference/web/index.html",
           title: "API Reference",
-          desc: "The Agora RTC SDK API documentation.",
+          desc: "View the API reference of the Agora RTC SDK.",
         },
 
         Windows: {
           link: "/en/Interactive%20Broadcast/API%20Reference/cpp/index.html",
           title: "API Reference",
-          desc: "The Agora RTC SDK API documentation.",
+          desc: "View the API reference of the Agora RTC SDK.",
         },
 
         RESTful: {
           link: "/en/rtc/restfulapi/",
           title: "API Reference",
-          desc: "The Agora RTC SDK API documentation.",
+          desc: "View the details of the Server RESTful APIs.",
         },
 
         Electron: {
           link:
             "/en/Interactive%20Broadcast/API%20Reference/electron/index.html",
           title: "API Reference",
-          desc: "The Agora RTC SDK API documentation.",
+          desc: "View the API reference of the Agora RTC SDK.",
         },
 
         Unity: {
           link: "/en/Interactive%20Broadcast/API%20Reference/unity/index.html",
           title: "API Reference",
-          desc: "The Agora RTC SDK API documentation.",
+          desc: "View the API reference of the Agora RTC SDK.",
         },
 
         Flutter: {
           link:
             "/en/Interactive%20Broadcast/API%20Reference/flutter/index.html",
           title: "API Reference",
-          desc: "The Agora RTC SDK API documentation.",
+          desc: "View the API reference of the Agora RTC SDK.",
         },
 
         "React Native": {
           link:
             "/en/Interactive%20Broadcast/API%20Reference/react_native/index.html",
           title: "API Reference",
-          desc: "The Agora RTC SDK API documentation.",
+          desc: "View the API reference of the Agora RTC SDK.",
         },
       },
       articles: {
@@ -2890,20 +2890,20 @@ const landingPageData = {
             link: "/en/Interactive%20Broadcast/token_server?platform=Android",
             title: "Generate a Token from Your Server",
             desc:
-              "Token is the authentication when joining a channel. This article introduces how to generate Token.",
+              "Generate a token on your server using the code provided by Agora.",
           },
           {
             link:
               "/en/Interactive%20Broadcast/video_profile_android?platform=Android",
             title: "Set the Video Profile",
-            desc: "Introduces how to set encoding profiles of user video.",
+            desc: "Set encoding profiles of user video.",
           },
           {
             link:
               "/en/Interactive%20Broadcast/screensharing_android?platform=Android",
             title: "Share the Screen",
             desc:
-              "Introduces how to share the screen when interacting with audio and video.",
+              "Share the screen when interacting with audio and video.",
           },
         ],
         iOS: [
@@ -2911,19 +2911,19 @@ const landingPageData = {
             link: "/en/Interactive%20Broadcast/token_server?platform=iOS",
             title: "Generate a Token from Your Server",
             desc:
-              "Token is the authentication when joining a channel. This article introduces how to generate Token.",
+              "Generate a token on your server using the code provided by Agora.",
           },
           {
             link:
               "/en/Interactive%20Broadcast/video_profile_apple?platform=iOS",
             title: "Set the Video Profile",
-            desc: "Introduces how to set encoding profiles of user video.",
+            desc: "Set encoding profiles of user video.",
           },
           {
             link: "/en/Interactive%20Broadcast/screensharing_ios?platform=iOS",
             title: "Share the Screen",
             desc:
-              "Introduces how to share the screen when interacting with audio and video.",
+              "Share the screen when interacting with audio and video.",
           },
         ],
         macOS: [
@@ -2931,20 +2931,20 @@ const landingPageData = {
             link: "/en/Interactive%20Broadcast/token_server?platform=macOS",
             title: "Generate a Token from Your Server",
             desc:
-              "Token is the authentication when joining a channel. This article introduces how to generate Token.",
+              "Generate a token on your server using the code provided by Agora.",
           },
           {
             link:
               "/en/Interactive%20Broadcast/video_profile_apple?platform=macOS",
             title: "Set the Video Profile",
-            desc: "Introduces how to set encoding profiles of user video.",
+            desc: "Set encoding profiles of user video.",
           },
           {
             link:
               "/en/Interactive%20Broadcast/screensharing_mac?platform=macOS",
             title: "Share the Screen",
             desc:
-              "Introduces how to share the screen when interacting with audio and video.",
+              "Share the screen when interacting with audio and video.",
           },
         ],
         Web: [
@@ -2952,18 +2952,18 @@ const landingPageData = {
             link: "/en/Interactive%20Broadcast/token_server?platform=Web",
             title: "Generate a Token from Your Server",
             desc:
-              "Token is the authentication when joining a channel. This article introduces how to generate Token.",
+              "Generate a token on your server using the code provided by Agora.",
           },
           {
             link: "/en/Interactive%20Broadcast/video_profile_web?platform=Web",
             title: "Set the Video Profile",
-            desc: "Introduces how to set encoding profiles of user video.",
+            desc: "Set encoding profiles of user video.",
           },
           {
             link: "/en/Interactive%20Broadcast/screensharing_web?platform=Web",
             title: "Share the Screen",
             desc:
-              "Introduces how to share the screen when interacting with audio and video.",
+              "Share the screen when interacting with audio and video.",
           },
         ],
         Windows: [
@@ -2971,20 +2971,20 @@ const landingPageData = {
             link: "/en/Interactive%20Broadcast/token_server?platform=Windows",
             title: "Generate a Token from Your Server",
             desc:
-              "Token is the authentication when joining a channel. This article introduces how to generate Token.",
+              "Generate a token on your server using the code provided by Agora.",
           },
           {
             link:
               "/en/Interactive%20Broadcast/video_profile_windows?platform=Windows",
             title: "Set the Video Profile",
-            desc: "Introduces how to set encoding profiles of user video.",
+            desc: "Set encoding profiles of user video.",
           },
           {
             link:
               "/en/Interactive%20Broadcast/screensharing_windows?platform=Windows",
             title: "Share the Screen",
             desc:
-              "Introduces how to share the screen when interacting with audio and video.",
+              "Share the screen when interacting with audio and video.",
           },
         ],
         Unity: [
@@ -2992,20 +2992,20 @@ const landingPageData = {
             link: "/en/Interactive%20Broadcast/token_server?platform=Unity",
             title: "Generate a Token from Your Server",
             desc:
-              "Token is the authentication when joining a channel. This article introduces how to generate Token.",
+              "Generate a token on your server using the code provided by Agora.",
           },
           {
             link:
               "/en/Interactive%20Broadcast/raw_data_video_unity?platform=Unity",
             title: "Raw Video Data",
-            desc: "Introduces how to get the raw audio data.",
+            desc: "Get the raw audio data.",
           },
           {
             link:
               "/en/Interactive%20Broadcast/custom_video_unity?platform=Unity",
             title: "Custom Video Source and Renderer",
             desc:
-              "Introduces how to use custom audio source and custom audio renderer.",
+              "Use custom audio source and custom audio renderer.",
           },
         ],
       },
