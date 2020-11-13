@@ -3498,7 +3498,7 @@ const landingPageData = {
       overview: {
         Android: [
           {
-            link: "/cn/RTSA/product_rtsa?platform=All%20Platforms",
+            link: "/cn/RTSA/product_rtsa?platform=Android",
             title: "产品概述",
           },
           {
@@ -3508,17 +3508,17 @@ const landingPageData = {
         ],
         iOS: [
           {
-            link: "/cn/RTSA/product_rtsa?platform=All%20Platforms",
+            link: "/cn/RTSA/product_rtsa?platform=iOS",
             title: "产品概述",
           },
           {
-            link: "/cn/Voice/elease_rtsa_ios?platform=iOS",
+            link: "/cn/Voice/release_rtsa_ios?platform=iOS",
             title: "发版说明",
           },
         ],
         macOS: [
           {
-            link: "/cn/RTSA/product_rtsa?platform=All%20Platforms",
+            link: "/cn/RTSA/product_rtsa?platform=macOS",
             title: "产品概述",
           },
           {
@@ -3528,7 +3528,7 @@ const landingPageData = {
         ],
         Windows: [
           {
-            link: "/cn/RTSA/product_rtsa?platform=All%20Platforms",
+            link: "/cn/RTSA/product_rtsa?platform=Windows",
             title: "产品概述",
           },
           {
@@ -3538,12 +3538,44 @@ const landingPageData = {
         ],
         Linux: [
           {
-            link: "/cn/RTSA/product_rtsa?platform=All%20Platforms",
+            link: "/cn/RTSA/product_rtsa?platform=Linux",
             title: "产品概述",
           },
           {
             link: "/cn/Voice/release_rtsa_linux?platform=Linux",
             title: "发版说明",
+          },
+        ],
+      },
+      downloads: {
+        Android: [
+          {
+            link: "https://github.com/AgoraIO/Basic-RTSA",
+            title: "示例代码",
+          },
+        ],
+        iOS: [
+          {
+            link: "https://github.com/AgoraIO/Basic-RTSA",
+            title: "示例代码",
+          },
+        ],
+        macOS: [
+          {
+            link: "https://github.com/AgoraIO/Basic-RTSA",
+            title: "示例代码",
+          },
+        ],
+        Windows: [
+          {
+            link: "https://github.com/AgoraIO/Basic-RTSA",
+            title: "示例代码",
+          },
+        ],
+        Linux: [
+          {
+            link: "https://github.com/AgoraIO/Basic-RTSA",
+            title: "示例代码",
           },
         ],
       },
@@ -3558,55 +3590,143 @@ const landingPageData = {
         },
       ],
       quickStart: {
+        Android: {
+          link: "/cn/RTSA/demo_guide_android?platform=Android",
+          title: "跑通示例项目",
+          desc: "编译并运行 Agora 提供的示例项目，初步了解实时码流传输。",
+        },
+        iOS: {
+          link: "/cn/RTSA/demo_guide_ios?platform=iOS",
+          title: "跑通示例项目",
+          desc: "编译并运行 Agora 提供的示例项目，初步了解实时码流传输。",
+        },
+        macOS: {
+          link: "/cn/RTSA/demo_guide_macos?platform=macOS",
+          title: "跑通示例项目",
+          desc: "编译并运行 Agora 提供的示例项目，初步了解实时码流传输。",
+        },
+        Windows: {
+          link: "/cn/RTSA/demo_guide_windows?platform=Windows",
+          title: "跑通示例项目",
+          desc: "编译并运行 Agora 提供的示例项目，初步了解实时码流传输。",
+        },
         Linux: {
           link: "/cn/RTSA/demo_guide_linux?platform=Linux",
-          title: "实现码流传输",
-          desc: "本文详细介绍实现码流传输的具体步骤和 API 调用。",
+          title: "跑通示例项目",
+          desc: "编译并运行 Agora 提供的示例项目，初步了解实时码流传输。",
         },
       },
       api: {
         Android: {
           link: "/cn/RTSA/API%20Reference/rtsa_java/index.html",
           title: "API 文档",
-          desc: "本文提供 RTSA SDK 的详细 API 信息。",
+          desc: "查看 RTSA SDK 的详细 API 信息。",
         },
         iOS: {
           link: "/cn/RTSA/API%20Reference/rtsa_oc/docs/mainpage.html",
           title: "API 文档",
-          desc: "本文提供 RTSA SDK 的详细 API 信息。",
+          desc: "查看 RTSA SDK 的详细 API 信息。",
         },
         macOS: {
           link: "/cn/RTSA/API%20Reference/rtsa_oc/docs/mainpage.html",
           title: "API 文档",
-          desc: "本文提供 RTSA SDK 的详细 API 信息。",
+          desc: "查看 RTSA SDK 的详细 API 信息。",
         },
         Windows: {
           link: "/cn/RTSA/API%20Reference/rtsa_c/index.html",
           title: "API 文档",
-          desc: "本文提供 RTSA SDK 的详细 API 信息。",
+          desc: "查看 RTSA SDK 的详细 API 信息。",
         },
         Linux: {
           link: "/cn/RTSA/API%20Reference/rtsa_c/index.html",
           title: "API 文档",
-          desc: "本文提供 RTSA SDK 的详细 API 信息。",
+          desc: "查看 RTSA SDK 的详细 API 信息。",
         },
       },
       articles: {
+        Android: [
+          {
+            link: "/cn/RTSA/demo_guide_android?platform=Android",
+            title: "实现码流传输",
+            desc: "实现码流传输的具体步骤和 API 调用。",
+          },
+          {
+            link: "/cn/RTSA/key_frame_android?platform=Android",
+            title: "关键帧",
+            desc: "实时码流传输中对关键帧的处理策略。",
+          },
+          {
+            link: "/cn/RTSA/recommend_bitrate_android?platform=Android",
+            title: "动态码率推荐",
+            desc: "在网络带宽状况变化时对发送码率的调整建议。",
+          },
+        ],
+        iOS: [
+          {
+            link: "/cn/RTSA/demo_guide_ios?platform=iOS",
+            title: "实现码流传输",
+            desc: "实现码流传输的具体步骤和 API 调用。",
+          },
+          {
+            link: "/cn/RTSA/key_frame_ios?platform=iOS",
+            title: "关键帧",
+            desc: "实时码流传输中对关键帧的处理策略。",
+          },
+          {
+            link: "/cn/RTSA/recommend_bitrate_ios?platform=iOS",
+            title: "动态码率推荐",
+            desc: "在网络带宽状况变化时对发送码率的调整建议。",
+          },
+        ],
+        macOS: [
+          {
+            link: "/cn/RTSA/demo_guide_ios?platform=macOS",
+            title: "实现码流传输",
+            desc: "实现码流传输的具体步骤和 API 调用。",
+          },
+          {
+            link: "/cn/RTSA/key_frame_ios?platform=macOS",
+            title: "关键帧",
+            desc: "实时码流传输中对关键帧的处理策略。",
+          },
+          {
+            link: "/cn/RTSA/recommend_bitrate_ios?platform=macOS",
+            title: "动态码率推荐",
+            desc: "在网络带宽状况变化时对发送码率的调整建议。",
+          },
+        ],
+        Windows: [
+          {
+            link: "/cn/RTSA/demo_guide_windows?platform=Windows",
+            title: "实现码流传输",
+            desc: "实现码流传输的具体步骤和 API 调用。",
+          },
+          {
+            link: "/cn/RTSA/key_frame_windows?platform=Windows",
+            title: "关键帧",
+            desc: "实时码流传输中对关键帧的处理策略。",
+          },
+          {
+            link: "/cn/RTSA/recommend_bitrate_windows?platform=Windows",
+            title: "动态码率推荐",
+            desc: "在网络带宽状况变化时对发送码率的调整建议。",
+          },
+        ],
         Linux: [
           {
             link: "/cn/RTSA/demo_guide_linux?platform=Linux",
-            title: "跑通示例项目",
-            desc: "本文介绍如何编译并运行模拟数据 Demo 初步了解实时码流传输。",
+            title: "实现码流传输",
+            desc: "实现码流传输的具体步骤和 API 调用。",
           },
           {
             link: "/cn/RTSA/key_frame_windows?platform=Linux",
             title: "关键帧",
-            desc: "本文介绍实时码流传输中对关键帧的处理策略。",
+            desc: "实时码流传输中对关键帧的处理策略。",
           },
           {
-            link: "/cn/RTSA/recommend_bitrate_windows?platform=Linu",
+            link: "/cn/RTSA/recommend_bitrate_windows?platform=Linux",
             title: "动态码率推荐",
-            desc: "本文介绍 RTSA 在网络带宽状况变化时对发送码率的调整建议。",
+            desc: "在网络带宽状况变化时对发送码率的调整建议。",
           },
         ],
       },
