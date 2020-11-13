@@ -3155,14 +3155,14 @@ const landingPageData = {
         RESTful: {
           link: "/cn/cloud-recording/cloud_recording_rest?platform=RESTful",
           title: "快速开始",
-          desc: "本文介绍如何使用云端录制 RESTful API 录制频道内的音视频流。",
+          desc: "使用云端录制 RESTful API 录制频道内的音视频流。",
         },
       },
       api: {
         RESTful: {
           link: "/cn/cloud-recording/restfulapi",
           title: "API 文档",
-          desc: "本文提供云端录制 RESTful API 的详细信息。",
+          desc: "查看云端录制 RESTful API 的详细信息。",
         },
       },
       articles: {
@@ -3170,19 +3170,19 @@ const landingPageData = {
           {
             link: "/cn/Interactive%20Broadcast/token_server",
             title: "生成 Token",
-            desc: "本文展示如何使用 Agora 提供的代码在服务端生成 Token。",
+            desc: "使用 Agora 提供的代码在服务端生成 Token。",
           },
           {
             link:
               "/cn/cloud-recording/cloud_recording_individual_mode?platform=RESTful",
             title: "单流录制",
-            desc: "本文介绍如何通过设置 RESTful API 参数在单流模式下进行录制。",
+            desc: "分别录制频道中每个 UID 的音频流和视频流。",
           },
           {
             link:
               "/cn/cloud-recording/cloud_recording_composite_mode?platform=RESTful",
             title: "合流录制",
-            desc: "本文介绍如何通过设置 RESTful API 参数在合流模式下进行录制。",
+            desc: "频道内所有或指定 UID 的音视频混合录制为一个音视频文件。",
           },
         ],
       },
@@ -3233,14 +3233,14 @@ const landingPageData = {
           link: "/en/cloud-recording/cloud_recording_rest?platform=RESTful",
           title: "Quickstart",
           desc:
-            "Use this guide to quickly get started with recording audio and video through RESTful APIs.",
+            "Use RESTful APIs to record voice/video calls and live streamings.",
         },
       },
       api: {
         RESTful: {
           link: "/cn/cloud-recording/restfulapi",
           title: "API Reference",
-          desc: "Detailed help for the Cloud Recording RESTful APIs.",
+          desc: "View the details of the Cloud Recording RESTful APIs.",
         },
       },
       articles: {
@@ -3249,21 +3249,21 @@ const landingPageData = {
             link: "/en/Interactive%20Broadcast/token_server",
             title: "Generate a Token",
             desc:
-              "This article introduces how to generate a token on your server using the code provided by Agora.",
+              "Generate a token on your server using the code provided by Agora.",
           },
           {
             link:
               "/en/cloud-recording/cloud_recording_individual_mode?platform=RESTful",
             title: "Individual Recording",
             desc:
-              "This article explains how to record a call in individual recording mode by using the RESTful API.",
+              "Record the audio and video as separate files for each UID in a channel.",
           },
           {
             link:
               "/en/cloud-recording/cloud_recording_composite_mode?platform=RESTful",
             title: "Composite Recording",
             desc:
-              "This article explains how to record a call in composite recording mode by using the RESTful API.",
+              "Generate a single mixed audio and video file for all or specified UIDs in a channel.",
           },
         ],
       },
@@ -3315,14 +3315,14 @@ const landingPageData = {
         Linux: {
           link: "/cn/Recording/recording_integrate_cpp?platform=Linux",
           title: "快速开始",
-          desc: "本文介绍如何集成录制 SDK 并进行录制。",
+          desc: "集成录制 SDK 并进行录制。",
         },
       },
       api: {
         Linux: {
           link: "/cn/Recording/api-ref?platform=Linux",
           title: "API 文档",
-          desc: "本文提供本地录制 API 的详细信息。",
+          desc: "查看本地录制 API 的详细信息。",
         },
       },
       articles: {
@@ -3330,17 +3330,17 @@ const landingPageData = {
           {
             link: "/cn/Interactive%20Broadcast/token_server",
             title: "生成 Token",
-            desc: "本文展示如何使用 Agora 提供的代码在服务端生成 Token。",
+            desc: "使用 Agora 提供的代码在服务端生成 Token。",
           },
           {
             link: "/cn/Recording/recording_individual_mode?platform=Linux",
             title: "单流录制",
-            desc: "本文介绍如何通过命令行的方式进行单流录制。",
+            desc: "分开录制频道内每个 UID 的音频流和视频流。",
           },
           {
             link: "/cn/Recording/recording_composite_mode?platform=Linux",
             title: "合流录制",
-            desc: "本文介绍如何通过命令行的方式进行合流录制。",
+            desc: "混合录制频道内所有或指定 UID 的音视频。",
           },
         ],
       },
@@ -3391,14 +3391,14 @@ const landingPageData = {
           link: "/en/Recording/recording_integrate_cpp?platform=Linux",
           title: "Quickstart",
           desc:
-            "Use this guide to integrate the Recording SDK and start recording audio and video.",
+            "Integrate the Recording SDK and start recording audio and video.",
         },
       },
       api: {
         Linux: {
           link: "/en/Recording/api-ref?platform=Linux",
           title: "API Reference",
-          desc: "This article contains detailed help for the Recording APIs.",
+          desc: "View the API Reference of the On-premise Recording SDK.",
         },
       },
       articles: {
@@ -3407,19 +3407,19 @@ const landingPageData = {
             link: "/en/Interactive%20Broadcast/token_server",
             title: "Generate a Token",
             desc:
-              "This article introduces how to generate a token on your server using the code provided by Agora.",
+              "Generate a token on your server using the code provided by Agora.",
           },
           {
             link: "/en/Recording/recording_individual_mode?platform=Linux",
             title: "Individual Recording",
             desc:
-              "This article describes how to record audio and/or video in individual recording mode by the command line.",
+              "Generate one audio and/or video file for each UID.",
           },
           {
             link: "/en/Recording/recording_composite_mode?platform=Linux",
             title: "Composite Recording",
             desc:
-              "This article describes how to record audio and/or video in composite recording mode by the command line.",
+              "Generate a single mixed audio and video file for all UIDs in a channel, or mixes the audio of all UIDs into an audio file and the video of all UIDs into a video file.",
           },
         ],
       },
@@ -3656,11 +3656,11 @@ const landingPageData = {
           },
           {
             link: "/cn/Real-time-Messaging/release_java_rtm?platform=Linux",
-            title: "发版说明",
+            title: "发版说明 (Linux Java)",
           },
           {
             link: "/cn/Real-time-Messaging/release_cpp_rtm?platform=Linux",
-            title: "发版说明",
+            title: "发版说明 (Linux C++)",
           },
         ],
         RESTful: [
@@ -3943,23 +3943,23 @@ const landingPageData = {
           },
           {
             link: "/cn/Real-time-Messaging/reconnecting_java?platform=Linux",
-            title: "连接状态管理",
+            title: "连接状态管理 (Linux Java)",
             desc: "本文展示如何使用 RTM SDK 进行连接状态管理。",
           },
           {
             link: "/cn/Real-time-Messaging/reconnecting_cpp?platform=Linux",
-            title: "连接状态管理",
+            title: "连接状态管理 (Linux C++)",
             desc: "本文展示如何使用 RTM SDK 进行连接状态管理。",
           },
           {
             link:
               "/cn/Real-time-Messaging/limitations_cpp_linux?platform=Linux",
-            title: "限制条件",
+            title: "限制条件 (Linux C++)",
             desc: "本文展示 RTM SDK 的使用限制条件。",
           },
           {
             link: "/cn/Real-time-Messaging/limitations_java?platform=Linux",
-            title: "限制条件",
+            title: "限制条件 (Linux Java)",
             desc: "本文展示 RTM SDK 的使用限制条件。",
           },
         ],
@@ -4029,7 +4029,11 @@ const landingPageData = {
           },
           {
             link: "/cn/Real-time-Messaging/release_cpp_rtm?platform=Linux",
-            title: "Release Notes",
+            title: "Release Notes (Linux C++)",
+          },
+          {
+            link: "/cn/Real-time-Messaging/release_java_rtm?platform=Linux",
+            title: "Release Notes (Linux Java)",
           },
         ],
         RESTful: [
@@ -4293,31 +4297,31 @@ const landingPageData = {
         Linux: [
           {
             link: "/en/Real-time-Messaging/rtm_token?platform=All%20Platforms",
-            title: "Manage Connection States",
+            title: "Set up authentication",
             desc:
               "This article introduces how to generate an RTM token on your server using the code provided by Agora.",
           },
           {
             link: "/en/Real-time-Messaging/reconnecting_java?platform=Linux",
-            title: "Manage Connection States",
+            title: "Manage Connection States (Linux Java)",
             desc:
               "This article introduces how to manage the connection status with the RTM SDK.",
           },
           {
             link: "/en/Real-time-Messaging/reconnecting_cpp?platform=Linux",
-            title: "Manage Connection States",
+            title: "Manage Connection States (Linux C++)",
             desc:
               "This article introduces how to manage the connection status with the RTM SDK.",
           },
           {
             link:
               "/en/Real-time-Messaging/limitations_cpp_linux?platform=Linux",
-            title: "Limitations",
+            title: "Limitations (Linux C++)",
             desc: "This article introduces the limitations of the RTM SDK.",
           },
           {
             link: "/en/Real-time-Messaging/limitations_java?platform=Linux",
-            title: "Limitations",
+            title: "Limitations (Linux Java)",
             desc: "This article introduces the limitations of the RTM SDK.",
           },
         ],
@@ -5219,7 +5223,7 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
-              "本文介绍如何添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
+              "通过添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
           },
           {
             link: "/cn/Agora%20Platform/console_overview",
@@ -5243,7 +5247,7 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
-              "本文介绍如何添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
+              "通过添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
           },
           {
             link: "/cn/Agora%20Platform/console_overview",
@@ -5267,7 +5271,7 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
-              "本文介绍如何添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
+              "通过添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
           },
           {
             link: "/cn/Agora%20Platform/console_overview",
@@ -5291,7 +5295,7 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
-              "本文介绍如何添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
+              "通过添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
           },
           {
             link: "/cn/Agora%20Platform/console_overview",
@@ -5315,7 +5319,7 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
-              "本文介绍如何添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
+              "通过如何添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
           },
           {
             link: "/cn/Agora%20Platform/console_overview",
@@ -5339,7 +5343,7 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
-              "本文介绍如何添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
+              "通过添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
           },
           {
             link: "/cn/Agora%20Platform/console_overview",
@@ -5363,7 +5367,7 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
-              "本文介绍如何添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
+              "通过添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
           },
           {
             link: "/cn/Agora%20Platform/console_overview",
@@ -5387,7 +5391,7 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
-              "本文介绍如何添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
+              "通过添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
           },
           {
             link: "/cn/Agora%20Platform/console_overview",
@@ -5411,7 +5415,7 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
-              "本文介绍如何添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
+              "通过添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
           },
           {
             link: "/cn/Agora%20Platform/console_overview",
@@ -5435,7 +5439,7 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
-              "本文介绍如何添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
+              "通过添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
           },
           {
             link: "/cn/Agora%20Platform/console_overview",
@@ -5459,7 +5463,7 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
-              "本文介绍如何添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
+              "通过添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
           },
           {
             link: "/cn/Agora%20Platform/console_overview",
@@ -5483,7 +5487,7 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
-              "本文介绍如何添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
+              "通过添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
           },
           {
             link: "/cn/Agora%20Platform/console_overview",
@@ -5507,7 +5511,7 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
-              "本文介绍如何添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
+              "通过添加防火墙白名单，使你在有网络访问限制的环境中使用 Agora 产品。",
           },
           {
             link: "/cn/Agora%20Platform/console_overview",
@@ -5889,7 +5893,7 @@ const landingPageData = {
             "/cn/Aliyun%20Audio%20Moderation/quickstart_ali_audio?platform=RESTful",
           title: "快速开始",
           desc:
-            "本文介绍如何使用阿里智能语音审核 RESTful API 对频道内的音频进行实时审核。",
+            "使用阿里智能语音审核 RESTful API 对频道内的音频进行实时审核。",
         },
       },
       api: {
@@ -5897,7 +5901,7 @@ const landingPageData = {
           link:
             "/cn/Aliyun%20Audio%20Moderation/restful_api_ali_audio?platform=RESTful",
           title: "API 文档",
-          desc: "本文提供阿里智能语音审核 RESTful API 的详细信息。",
+          desc: "查看阿里智能语音审核 RESTful API 的详细信息。",
         },
       },
       articles: {
@@ -5951,7 +5955,7 @@ const landingPageData = {
             "/cn/Kingsoft%20Audio%20Moderation/quickstart_kingsoft_audio?platform=RESTful",
           title: "快速开始",
           desc:
-            "本文介绍如何使用金山智能语音审核 RESTful API 对频道内的音频进行实时审核。",
+            "使用金山智能语音审核 RESTful API 对频道内的音频进行实时审核。",
         },
       },
       api: {
@@ -5959,7 +5963,7 @@ const landingPageData = {
           link:
             "/cn/Kingsoft%20Audio%20Moderation/restful_api_kingsoft_audio?platform=RESTful",
           title: "API 文档",
-          desc: "本文提供金山智能语音审核 RESTful API 的详细信息。",
+          desc: "查看金山智能语音审核 RESTful API 的详细信息。",
         },
       },
       articles: {
