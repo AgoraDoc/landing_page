@@ -4297,7 +4297,7 @@ const landingPageData = {
         Linux: [
           {
             link: "/en/Real-time-Messaging/rtm_token?platform=All%20Platforms",
-            title: "Set up authentication",
+            title: "Set up Authentication",
             desc:
               "This article introduces how to generate an RTM token on your server using the code provided by Agora.",
           },
