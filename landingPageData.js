@@ -1346,7 +1346,7 @@ const landingPageData = {
         RESTful: {
           link: "/cn/rtc/restfulapi/",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看服务端 RESTful API 的详细信息。",
         },
 
         Electron: {
@@ -1824,7 +1824,7 @@ const landingPageData = {
         RESTful: {
           link: "/en/rtc/restfulapi/",
           title: "API Reference",
-          desc: "View the API reference of the Agora RTC SDK.",
+          desc: "View the details of the Server RESTful APIs.",
         },
 
         Electron: {
@@ -2349,7 +2349,7 @@ const landingPageData = {
         RESTful: {
           link: "/cn/rtc/restfulapi/",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看服务端 RESTful API 的详细信息。",
         },
 
         Electron: {
@@ -2854,7 +2854,7 @@ const landingPageData = {
         RESTful: {
           link: "/en/rtc/restfulapi/",
           title: "API Reference",
-          desc: "View the API reference of the Agora RTC SDK.",
+          desc: "View the details of the Server RESTful APIs.",
         },
 
         Electron: {
