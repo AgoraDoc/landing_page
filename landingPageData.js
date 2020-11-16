@@ -1369,12 +1369,12 @@ const landingPageData = {
           {
             link: "/cn/Video/video_profile_android?platform=Android",
             title: "设置视频属性",
-            desc: "设置用户视频的编码属性。",
+            desc: "设置用户视频的编码属性，如视频分辨率、帧率、码率、旋转模式、镜像模式。",
           },
           {
             link: "/cn/Video/screensharing_android?platform=Android",
             title: "屏幕共享",
-            desc: "在音视频互动时屏幕共享。",
+            desc: "在音视频互动时共享指定的屏幕或窗口。",
           },
         ],
         iOS: [
@@ -1386,12 +1386,12 @@ const landingPageData = {
           {
             link: "/cn/Video/video_profile_apple?platform=iOS",
             title: "设置视频属性",
-            desc: "设置用户视频的编码属性。",
+            desc: "设置用户视频的编码属性，如视频分辨率、帧率、码率、旋转模式、镜像模式。",
           },
           {
             link: "/cn/Video/screensharing_ios?platform=iOS",
             title: "屏幕共享",
-            desc: "在音视频互动时屏幕共享。",
+            desc: "在音视频互动时共享指定的屏幕或窗口。",
           },
         ],
         macOS: [
@@ -1403,12 +1403,12 @@ const landingPageData = {
           {
             link: "/cn/Video/video_profile_apple?platform=macOS",
             title: "设置视频属性",
-            desc: "设置用户视频的编码属性。",
+            desc: "设置用户视频的编码属性，如视频分辨率、帧率、码率、旋转模式、镜像模式。",
           },
           {
             link: "/cn/Video/screensharing_mac?platform=macOS",
             title: "屏幕共享",
-            desc: "在音视频互动时屏幕共享。",
+            desc: "在音视频互动时共享指定的屏幕或窗口。",
           },
         ],
         Web: [
@@ -1420,12 +1420,12 @@ const landingPageData = {
           {
             link: "/cn/Video/video_profile_web?platform=Web",
             title: "设置视频属性",
-            desc: "设置用户视频的编码属性。",
+            desc: "设置用户视频的编码属性，如视频分辨率、帧率、码率、旋转模式、镜像模式。",
           },
           {
             link: "/cn/Video/screensharing_web?platform=Web",
             title: "屏幕共享",
-            desc: "在音视频互动时屏幕共享。",
+            desc: "在音视频互动时共享指定的屏幕或窗口。",
           },
         ],
         微信小程序: [
@@ -1454,12 +1454,12 @@ const landingPageData = {
           {
             link: "/cn/Video/video_profile_windows?platform=Windows",
             title: "设置视频属性",
-            desc: "设置用户视频的编码属性。",
+            desc: "设置用户视频的编码属性，如视频分辨率、帧率、码率、旋转模式、镜像模式。",
           },
           {
             link: "/cn/Video/screensharing_windows?platform=Windows",
             title: "屏幕共享",
-            desc: "在音视频互动时屏幕共享。",
+            desc: "在音视频互动时共享指定的屏幕或窗口。",
           },
         ],
         Unity: [
@@ -1471,12 +1471,12 @@ const landingPageData = {
           {
             link: "/cn/Video/raw_data_video_unity?platform=Unity",
             title: "原始视频数据",
-            desc: "获取原始视频数据。",
+            desc: "获取原始视频数据，自己进行前处理或后处理。",
           },
           {
             link: "/cn/Video/custom_video_unity?platform=Unity",
             title: "自定义视频采集和渲染",
-            desc: "自定义视频采集，自定义视频渲染。",
+            desc: "使用自定义的视频源采集或使用自定义的渲染器渲染视频数据。",
           },
         ],
       },
@@ -1852,7 +1852,7 @@ const landingPageData = {
           {
             link: "/en/Video/screensharing_android?platform=Android",
             title: "Share the Screen",
-            desc: "Share the specified screen or window during real-time audio and video engagement.",
+            desc: "Share a specified screen or window during real-time audio and video engagement.",
           },
         ],
         iOS: [
@@ -1870,7 +1870,7 @@ const landingPageData = {
           {
             link: "/en/Video/screensharing_ios?platform=iOS",
             title: "Share the Screen",
-            desc: "Share the specified screen or window during real-time audio and video engagement.",
+            desc: "Share a specified screen or window during real-time audio and video engagement.",
           },
         ],
         macOS: [
@@ -1888,7 +1888,7 @@ const landingPageData = {
           {
             link: "/en/Video/screensharing_mac?platform=macOS",
             title: "Share the Screen",
-            desc: "Share the specified screen or window during real-time audio and video engagement.",
+            desc: "Share a specified screen or window during real-time audio and video engagement.",
           },
         ],
         Web: [
@@ -1906,7 +1906,7 @@ const landingPageData = {
           {
             link: "/en/Video/screensharing_web?platform=Web",
             title: "Share the Screen",
-            desc: "Share the specified screen or window during real-time audio and video engagement.",
+            desc: "Share a specified screen or window during real-time audio and video engagement.",
           },
         ],
         Windows: [
@@ -1924,7 +1924,7 @@ const landingPageData = {
           {
             link: "/en/Video/screensharing_windows?platform=Windows",
             title: "Share the Screen",
-            desc: "Share the specified screen or window during real-time audio and video engagement.",
+            desc: "Share a specified screen or window during real-time audio and video engagement.",
           },
         ],
         Unity: [
@@ -1951,7 +1951,7 @@ const landingPageData = {
   "Interactive Broadcast": {
     cn: {
       desc:
-        "集成 Agora 音频/视频 SDK，实现高清流畅的音视频互动直播。通过跨直播间连麦、加入多频道、屏幕共享、推流到 CDN等功能，你可以轻松实现PK 连麦、超级小班课、电商直播等场景。搭配服务端 RESTful API，你还可以实现踢人、查询用户列表等功能。",
+        "集成 Agora 音频/视频 SDK，实现高清流畅的音视频互动直播。通过跨频道媒体流转发、加入多频道、屏幕共享、推流到 CDN 等功能，你可以轻松实现 PK 连麦、超级小班课、电商直播等场景。搭配服务端 RESTful API，你还可以实现踢人、查询用户列表等功能。",
       overview: {
         Android: [
           {
@@ -2374,15 +2374,15 @@ const landingPageData = {
           },
           {
             link:
-              "/cn/Interactive%20Broadcast/video_profile_android?platform=Android",
-            title: "设置视频属性",
-            desc: "设置用户视频的编码属性。",
+              "/cn/Interactive%20Broadcast/media_relay_android?platform=Android",
+            title: "跨频道媒体流转发",
+            desc: "将主播的媒体流同时转发到多个直播频道，实现该主播跨频道与其他频道的主播实时互动。",
           },
           {
             link:
-              "/cn/Interactive%20Broadcast/screensharing_android?platform=Android",
-            title: "屏幕共享",
-            desc: "在音视频互动时屏幕共享。",
+              "/cn/Interactive%20Broadcast/cdn_streaming_android?platform=Android",
+            title: "推流到 CDN",
+            desc: "将 Agora 频道内的媒体流推送到第三方 CDN（Content Delivery Network），实现在实时互动直播的同时进行 CDN 直播推流。",
           },
         ],
         iOS: [
@@ -2393,15 +2393,15 @@ const landingPageData = {
           },
           {
             link:
-              "/cn/Interactive%20Broadcast/video_profile_apple?platform=iOS",
-            title: "设置视频属性",
-            desc: "设置用户视频的编码属性。",
+              "/cn/Interactive%20Broadcast/media_relay_apple?platform=iOS",
+            title: "跨频道媒体流转发",
+            desc: "将主播的媒体流同时转发到多个直播频道，实现该主播跨频道与其他频道的主播实时互动。",
           },
           {
             link:
-              "/cn/Interactive%20Broadcast/screensharing_ios?platform=iOS",
-            title: "屏幕共享",
-            desc: "在音视频互动时屏幕共享。",
+              "/cn/Interactive%20Broadcast/cdn_streaming_apple?platform=iOS",
+            title: "推流到 CDN",
+            desc: "将 Agora 频道内的媒体流推送到第三方 CDN（Content Delivery Network），实现在实时互动直播的同时进行 CDN 直播推流。",
           },
         ],
         macOS: [
@@ -2412,15 +2412,15 @@ const landingPageData = {
           },
           {
             link:
-              "/cn/Interactive%20Broadcast/video_profile_apple?platform=macOS",
-            title: "设置视频属性",
-            desc: "设置用户视频的编码属性。",
+              "/cn/Interactive%20Broadcast/media_relay_apple?platform=macOS",
+            title: "跨频道媒体流转发",
+            desc: "将主播的媒体流同时转发到多个直播频道，实现该主播跨频道与其他频道的主播实时互动。",
           },
           {
             link:
-              "/cn/Interactive%20Broadcast/screensharing_mac?platform=macOS",
-            title: "屏幕共享",
-            desc: "在音视频互动时屏幕共享。",
+              "/cn/Interactive%20Broadcast/cdn_streaming_apple?platform=macOS",
+            title: "推流到 CDN",
+            desc: "将 Agora 频道内的媒体流推送到第三方 CDN（Content Delivery Network），实现在实时互动直播的同时进行 CDN 直播推流。",
           },
         ],
         Web: [
@@ -2431,15 +2431,15 @@ const landingPageData = {
           },
           {
             link:
-              "/cn/Interactive%20Broadcast/video_profile_web?platform=Web",
-            title: "设置视频属性",
-            desc: "设置用户视频的编码属性。",
+              "/cn/Interactive%20Broadcast/media_relay_web?platform=Web",
+            title: "跨频道媒体流转发",
+            desc: "将主播的媒体流同时转发到多个直播频道，实现该主播跨频道与其他频道的主播实时互动。",
           },
           {
             link:
-              "/cn/Interactive%20Broadcast/screensharing_web?platform=Web",
-            title: "屏幕共享",
-            desc: "在音视频互动时屏幕共享。",
+              "/cn/Interactive%20Broadcast/cdn_streaming_web?platform=Web",
+            title: "推流到 CDN",
+            desc: "将 Agora 频道内的媒体流推送到第三方 CDN（Content Delivery Network），实现在实时互动直播的同时进行 CDN 直播推流。",
           },
         ],
         微信小程序: [
@@ -2469,15 +2469,15 @@ const landingPageData = {
           },
           {
             link:
-              "/cn/Interactive%20Broadcast/video_profile_windows?platform=Windows",
-            title: "设置视频属性",
-            desc: "设置用户视频的编码属性。",
+              "/cn/Interactive%20Broadcast/media_relay_windows?platform=Windows",
+            title: "跨频道媒体流转发",
+            desc: "将主播的媒体流同时转发到多个直播频道，实现该主播跨频道与其他频道的主播实时互动。",
           },
           {
             link:
-              "/cn/Interactive%20Broadcast/screensharing_windows?platform=Windows",
-            title: "屏幕共享",
-            desc: "在音视频互动时屏幕共享。",
+              "/cn/Interactive%20Broadcast/cdn_streaming_windows?platform=Windows",
+            title: "推流到 CDN",
+            desc: "将 Agora 频道内的媒体流推送到第三方 CDN（Content Delivery Network），实现在实时互动直播的同时进行 CDN 直播推流。",
           },
         ],
         Unity: [
@@ -2888,15 +2888,15 @@ const landingPageData = {
           },
           {
             link:
-              "/en/Interactive%20Broadcast/video_profile_android?platform=Android",
-            title: "Set the Video Profile",
-            desc: "Set video encoding profiles, such as resolution, frame rate, bitrate, orientation mode, and mirror mode.",
+              "/en/Interactive%20Broadcast/media_relay_android?platform=Android",
+            title: "Co-host across Channels",
+            desc: "Forward a host’s media stream to multiple live streaming channels.",
           },
           {
             link:
-              "/en/Interactive%20Broadcast/screensharing_android?platform=Android",
-            title: "Share the Screen",
-            desc: "Share the specified screen or window during real-time audio and video engagement.",
+              "/en/Interactive%20Broadcast/cdn_streaming_android?platform=Android",
+            title: "Push streams to CDN",
+            desc: "Push media streams from Agora channels to a third-party CDN (Content Delivery Network).",
           },
         ],
         iOS: [
@@ -2908,15 +2908,15 @@ const landingPageData = {
           },
           {
             link:
-              "/en/Interactive%20Broadcast/video_profile_apple?platform=iOS",
-            title: "Set the Video Profile",
-            desc: "Set video encoding profiles, such as resolution, frame rate, bitrate, orientation mode, and mirror mode.",
+              "/en/Interactive%20Broadcast/media_relay_apple?platform=iOS",
+            title: "Co-host across Channels",
+            desc: "Forward a host’s media stream to multiple live streaming channels.",
           },
           {
             link:
-              "/en/Interactive%20Broadcast/screensharing_ios?platform=iOS",
-            title: "Share the Screen",
-            desc: "Share the specified screen or window during real-time audio and video engagement.",
+              "/en/Interactive%20Broadcast/cdn_streaming_apple?platform=iOS",
+            title: "Push streams to CDN",
+            desc: "Push media streams from Agora channels to a third-party CDN (Content Delivery Network).",
           },
         ],
         macOS: [
@@ -2928,15 +2928,15 @@ const landingPageData = {
           },
           {
             link:
-              "/en/Interactive%20Broadcast/video_profile_apple?platform=macOS",
-            title: "Set the Video Profile",
-            desc: "Set video encoding profiles, such as resolution, frame rate, bitrate, orientation mode, and mirror mode.",
+              "/en/Interactive%20Broadcast/media_relay_apple?platform=macOS",
+            title: "Co-host across Channels",
+            desc: "Forward a host’s media stream to multiple live streaming channels.",
           },
           {
             link:
-              "/en/Interactive%20Broadcast/screensharing_mac?platform=macOS",
-            title: "Share the Screen",
-            desc: "Share the specified screen or window during real-time audio and video engagement.",
+              "/en/Interactive%20Broadcast/cdn_streaming_apple?platform=macOS",
+            title: "Push streams to CDN",
+            desc: "Push media streams from Agora channels to a third-party CDN (Content Delivery Network).",
           },
         ],
         Web: [
@@ -2948,15 +2948,15 @@ const landingPageData = {
           },
           {
             link:
-              "/en/Interactive%20Broadcast/video_profile_web?platform=Web",
-            title: "Set the Video Profile",
-            desc: "Set video encoding profiles, such as resolution, frame rate, bitrate, orientation mode, and mirror mode.",
+              "/en/Interactive%20Broadcast/media_relay_web?platform=Web",
+            title: "Co-host across Channels",
+            desc: "Forward a host’s media stream to multiple live streaming channels.",
           },
           {
             link:
-              "/en/Interactive%20Broadcast/screensharing_web?platform=Web",
-            title: "Share the Screen",
-            desc: "Share the specified screen or window during real-time audio and video engagement.",
+              "/en/Interactive%20Broadcast/cdn_streaming_web?platform=Web",
+            title: "Push streams to CDN",
+            desc: "Push media streams from Agora channels to a third-party CDN (Content Delivery Network).",
           },
         ],
         Windows: [
@@ -2968,15 +2968,15 @@ const landingPageData = {
           },
           {
             link:
-              "/en/Interactive%20Broadcast/video_profile_windows?platform=Windows",
-            title: "Set the Video Profile",
-            desc: "Set video encoding profiles, such as resolution, frame rate, bitrate, orientation mode, and mirror mode.",
+              "/en/Interactive%20Broadcast/media_relay_windows?platform=Windows",
+            title: "Co-host across Channels",
+            desc: "Forward a host’s media stream to multiple live streaming channels.",
           },
           {
             link:
-              "/en/Interactive%20Broadcast/screensharing_windows?platform=Windows",
-            title: "Share the Screen",
-            desc: "Share the specified screen or window during real-time audio and video engagement.",
+              "/en/Interactive%20Broadcast/cdn_streaming_windows?platform=Windows",
+            title: "Push streams to CDN",
+            desc: "Push media streams from Agora channels to a third-party CDN (Content Delivery Network).",
           },
         ],
         Unity: [
