@@ -164,79 +164,79 @@ const landingPageData = {
         Android: [
           {
             link: "/cn/Voice/downloads?platform=Android",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Audio-Call",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         iOS: [
           {
             link: "/cn/Voice/downloads?platform=iOS",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Audio-Call",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         macOS: [
           {
             link: "/cn/Voice/downloads?platform=macOS",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
         ],
         Web: [
           {
             link: "/cn/Voice/downloads?platform=Web",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
         ],
         微信小程序: [
           {
             link: "/cn/Voice/downloads?platform=微信小程序",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
         ],
         Windows: [
           {
             link: "/cn/Voice/downloads?platform=Windows",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
         ],
         Electron: [
           {
             link: "/cn/Voice/downloads?platform=Electron",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
         ],
         Unity: [
           {
             link: "/cn/Voice/downloads?platform=Unity",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Agora-Unity-Quickstart",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         Flutter: [
           {
             link: "/cn/Voice/downloads?platform=Flutter",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
         ],
         "React Native": [
           {
             link: "/cn/Voice/downloads?platform=React Native",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
         ],
         "Cocos Creator": [
           {
             link: "/cn/Voice/downloads?platform=Cocos%20Creator",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
         ],
       },
@@ -645,73 +645,73 @@ const landingPageData = {
         Android: [
           {
             link: "/en/Voice/downloads?platform=Android",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Audio-Call",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
           {
             link: "/en/Voice/downloads?platform=iOS",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Audio-Call",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         macOS: [
           {
             link: "/en/Voice/downloads?platform=macOS",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
         ],
         Web: [
           {
             link: "/en/Voice/downloads?platform=Web",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
         ],
         Windows: [
           {
             link: "/en/Voice/downloads?platform=Windows",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
         ],
         Electron: [
           {
             link: "/en/Voice/downloads?platform=Electron",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
         ],
         Unity: [
           {
             link: "/en/Voice/downloads?platform=Unity",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Agora-Unity-Quickstart",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Flutter: [
           {
             link: "/en/Voice/downloads?platform=Flutter",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
         ],
         "React Native": [
           {
             link: "/en/Voice/downloads?platform=React Native",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
         ],
         "Cocos Creator": [
           {
             link: "/en/Voice/downloads?platform=Cocos Creator",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
         ],
       },
@@ -1133,103 +1133,103 @@ const landingPageData = {
         Android: [
           {
             link: "/cn/Video/downloads?platform=Android",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         iOS: [
           {
             link: "/cn/Video/downloads?platform=iOS",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         macOS: [
           {
             link: "/cn/Video/downloads?platform=macOS",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         Web: [
           {
             link: "/cn/Video/downloads?platform=Web",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         微信小程序: [
           {
             link: "/cn/Video/downloads?platform=微信小程序",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Agora-Miniapp-Tutorial",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         Windows: [
           {
             link: "/cn/Video/downloads?platform=Windows",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         Electron: [
           {
             link: "/cn/Video/downloads?platform=Electron",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link:
               "https://github.com/AgoraIO-Community/Agora-Electron-Quickstart",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         Unity: [
           {
             link: "/cn/Video/downloads?platform=Unity",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Agora-Unity-Quickstart",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         Flutter: [
           {
             link: "/cn/Video/downloads?platform=Flutter",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link:
               "https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         "React Native": [
           {
             link: "/cn/Video/downloads?platform=React Native",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO-Community/Agora-RN-Quickstart",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
       },
@@ -1633,93 +1633,93 @@ const landingPageData = {
         Android: [
           {
             link: "/en/Video/downloads?platform=Android",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
           {
             link: "/en/Video/downloads?platform=iOS",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         macOS: [
           {
             link: "/en/Video/downloads?platform=macOS",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Web: [
           {
             link: "/en/Video/downloads?platform=Web",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Windows: [
           {
             link: "/en/Video/downloads?platform=Windows",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Electron: [
           {
             link: "/en/Video/downloads?platform=Electron",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link:
               "https://github.com/AgoraIO-Community/Agora-Electron-Quickstart",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Unity: [
           {
             link: "/en/Video/downloads?platform=Unity",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Agora-Unity-Quickstart",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Flutter: [
           {
             link: "/en/Video/downloads?platform=Flutter",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link:
               "https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         "React Native": [
           {
             link: "/en/Video/downloads?platform=React Native",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO-Community/Agora-RN-Quickstart",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
       },
@@ -2130,103 +2130,103 @@ const landingPageData = {
         Android: [
           {
             link: "/cn/Interactive%20Broadcast/downloads?platform=Android",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         iOS: [
           {
             link: "/cn/Interactive%20Broadcast/downloads?platform=iOS",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         macOS: [
           {
             link: "/cn/Interactive%20Broadcast/downloads?platform=macOS",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         Web: [
           {
             link: "/cn/Interactive%20Broadcast/downloads?platform=Web",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         微信小程序: [
           {
             link: "/cn/Interactive%20Broadcast/downloads?platform=微信小程序",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Agora-Miniapp-Tutorial",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         Windows: [
           {
             link: "/cn/Interactive%20Broadcast/downloads?platform=Windows",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         Electron: [
           {
             link: "/cn/Interactive%20Broadcast/downloads?platform=Electron",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link:
               "https://github.com/AgoraIO-Community/Agora-Electron-Quickstart",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         Unity: [
           {
             link: "/cn/Interactive%20Broadcast/downloads?platform=Unity",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Agora-Unity-Quickstart",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         Flutter: [
           {
             link: "/cn/Interactive%20Broadcast/downloads?platform=Flutter",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link:
               "https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         "React Native": [
           {
             link: "/cn/Interactive%20Broadcast/downloads?platform=React Native",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO-Community/Agora-RN-Quickstart",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
       },
@@ -2658,93 +2658,93 @@ const landingPageData = {
         Android: [
           {
             link: "/en/Interactive%20Broadcast/downloads?platform=Android",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
           {
             link: "/en/Interactive%20Broadcast/downloads?platform=iOS",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         macOS: [
           {
             link: "/en/Interactive%20Broadcast/downloads?platform=macOS",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Web: [
           {
             link: "/en/Interactive%20Broadcast/downloads?platform=Web",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Windows: [
           {
             link: "/en/Interactive%20Broadcast/downloads?platform=Windows",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Electron: [
           {
             link: "/en/Interactive%20Broadcast/downloads?platform=Electron",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link:
               "https://github.com/AgoraIO-Community/Agora-Electron-Quickstart",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Unity: [
           {
             link: "/en/Interactive%20Broadcast/downloads?platform=Unity",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Agora-Unity-Quickstart",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Flutter: [
           {
             link: "/en/Interactive%20Broadcast/downloads?platform=Flutter",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link:
               "https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         "React Native": [
           {
             link: "/en/Interactive%20Broadcast/downloads?platform=React Native",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO-Community/Agora-RN-Quickstart",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
       },
@@ -3168,7 +3168,7 @@ const landingPageData = {
       articles: {
         RESTful: [
           {
-            link: "/cn/Interactive%20Broadcast/token_server",
+            link: "/cn/cloud-recording/token_server",
             title: "生成 Token",
             desc: "使用 Agora 提供的代码在服务端生成 Token。",
           },
@@ -3238,7 +3238,7 @@ const landingPageData = {
       },
       api: {
         RESTful: {
-          link: "/cn/cloud-recording/restfulapi",
+          link: "/en/cloud-recording/restfulapi",
           title: "API Reference",
           desc: "View the details of the Cloud Recording RESTful APIs.",
         },
@@ -3246,7 +3246,7 @@ const landingPageData = {
       articles: {
         RESTful: [
           {
-            link: "/en/Interactive%20Broadcast/token_server",
+            link: "/en/cloud-recording/token_server",
             title: "Generate a Token",
             desc:
               "Generate a token on your server using the code provided by Agora.",
@@ -3293,11 +3293,11 @@ const landingPageData = {
         Linux: [
           {
             link: "/cn/Recording/downloads?platform=Linux",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Recording",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
       },
@@ -3372,7 +3372,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/Basic-Recording",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
       },
@@ -3419,7 +3419,7 @@ const landingPageData = {
             link: "/en/Recording/recording_composite_mode?platform=Linux",
             title: "Composite Recording",
             desc:
-              "Generate a single mixed audio and video file for all UIDs in a channel, or mixes the audio of all UIDs into an audio file and the video of all UIDs into a video file.",
+              "Generate a single file for all UIDs in a channel, or mixes the audio of all UIDs into an audio file and the video of all UIDs into a video file.",
           },
         ],
       },
@@ -3799,77 +3799,77 @@ const landingPageData = {
         Android: [
           {
             link: "/cn/Real-time-Messaging/downloads",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         iOS: [
           {
             link: "/cn/Real-time-Messaging/downloads",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         macOS: [
           {
             link: "/cn/Real-time-Messaging/downloads",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         Web: [
           {
             link: "/cn/Real-time-Messaging/downloads",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         微信小程序: [
           {
             link: "/cn/Real-time-Messaging/downloads",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         Windows: [
           {
             link: "/cn/Real-time-Messaging/downloads",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         Linux: [
           {
             link: "/cn/Real-time-Messaging/downloads",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         RESTful: [
           {
             link: "/cn/Real-time-Messaging/downloads",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
         ],
       },
@@ -4167,67 +4167,67 @@ const landingPageData = {
         Android: [
           {
             link: "/en/Real-time-Messaging/downloads",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "Code samples",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
           {
             link: "/en/Real-time-Messaging/downloads",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "Code samples",
+            title: "GitHub sample project",
           },
         ],
         macOS: [
           {
             link: "/en/Real-time-Messaging/downloads",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "Code samples",
+            title: "GitHub sample project",
           },
         ],
         Web: [
           {
             link: "/en/Real-time-Messaging/downloads",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "Code samples",
+            title: "GitHub sample project",
           },
         ],
         Windows: [
           {
             link: "/en/Real-time-Messaging/downloads",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "Code samples",
+            title: "GitHub sample project",
           },
         ],
         Linux: [
           {
             link: "/en/Real-time-Messaging/downloads",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "Code samples",
+            title: "GitHub sample project",
           },
         ],
         RESTful: [
           {
             link: "/en/Real-time-Messaging/downloads",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
         ],
       },
@@ -5335,11 +5335,6 @@ const landingPageData = {
             desc: "了解 Agora 产品相关的重要概念。",
           },
           {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
-          },
-          {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
@@ -5357,11 +5352,6 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
             desc: "了解 Agora 产品相关的重要概念。",
-          },
-          {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -5383,11 +5373,6 @@ const landingPageData = {
             desc: "了解 Agora 产品相关的重要概念。",
           },
           {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
-          },
-          {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
@@ -5405,11 +5390,6 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
             desc: "了解 Agora 产品相关的重要概念。",
-          },
-          {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -5431,11 +5411,6 @@ const landingPageData = {
             desc: "了解 Agora 产品相关的重要概念。",
           },
           {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
-          },
-          {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
@@ -5453,11 +5428,6 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
             desc: "了解 Agora 产品相关的重要概念。",
-          },
-          {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -5479,11 +5449,6 @@ const landingPageData = {
             desc: "了解 Agora 产品相关的重要概念。",
           },
           {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
-          },
-          {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
@@ -5501,11 +5466,6 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
             desc: "了解 Agora 产品相关的重要概念。",
-          },
-          {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -5527,11 +5487,6 @@ const landingPageData = {
             desc: "了解 Agora 产品相关的重要概念。",
           },
           {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
-          },
-          {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
@@ -5549,11 +5504,6 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
             desc: "了解 Agora 产品相关的重要概念。",
-          },
-          {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -5575,11 +5525,6 @@ const landingPageData = {
             desc: "了解 Agora 产品相关的重要概念。",
           },
           {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
-          },
-          {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
@@ -5599,11 +5544,6 @@ const landingPageData = {
             desc: "了解 Agora 产品相关的重要概念。",
           },
           {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
-          },
-          {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
@@ -5621,11 +5561,6 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
             desc: "了解 Agora 产品相关的重要概念。",
-          },
-          {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -5653,12 +5588,6 @@ const landingPageData = {
             desc: "Learn about key concepts related to Agora products.",
           },
           {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
-          },
-          {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
             desc:
@@ -5676,12 +5605,6 @@ const landingPageData = {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
             desc: "Learn about key concepts related to Agora products.",
-          },
-          {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
@@ -5703,12 +5626,6 @@ const landingPageData = {
             desc: "Learn about key concepts related to Agora products.",
           },
           {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
-          },
-          {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
             desc:
@@ -5726,12 +5643,6 @@ const landingPageData = {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
             desc: "Learn about key concepts related to Agora products.",
-          },
-          {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
@@ -5753,12 +5664,6 @@ const landingPageData = {
             desc: "Learn about key concepts related to Agora products.",
           },
           {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
-          },
-          {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
             desc:
@@ -5776,12 +5681,6 @@ const landingPageData = {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
             desc: "Learn about key concepts related to Agora products.",
-          },
-          {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
@@ -5803,12 +5702,6 @@ const landingPageData = {
             desc: "Learn about key concepts related to Agora products.",
           },
           {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
-          },
-          {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
             desc:
@@ -5826,12 +5719,6 @@ const landingPageData = {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
             desc: "Learn about key concepts related to Agora products.",
-          },
-          {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
@@ -5853,12 +5740,6 @@ const landingPageData = {
             desc: "Learn about key concepts related to Agora products.",
           },
           {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
-          },
-          {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
             desc:
@@ -5876,12 +5757,6 @@ const landingPageData = {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
             desc: "Learn about key concepts related to Agora products.",
-          },
-          {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
@@ -5903,12 +5778,6 @@ const landingPageData = {
             desc: "Learn about key concepts related to Agora products.",
           },
           {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
-          },
-          {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
             desc:
@@ -5928,12 +5797,6 @@ const landingPageData = {
             desc: "Learn about key concepts related to Agora products.",
           },
           {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
-          },
-          {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
             desc:
@@ -5951,12 +5814,6 @@ const landingPageData = {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
             desc: "Learn about key concepts related to Agora products.",
-          },
-          {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
@@ -6181,31 +6038,31 @@ const landingPageData = {
         Android: [
           {
             link: "/cn/AI%20Interactive%20Classroom/downloads?platform=Android",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
         ],
         iOS: [
           {
             link: "/cn/AI%20Interactive%20Classroom/downloads?platform=Android",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
         ],
         macOS: [
           {
             link: "/cn/AI%20Interactive%20Classroom/downloads?platform=macOS",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
         ],
         Windows: [
           {
             link: "/cn/AI%20Interactive%20Classroom/downloads?platform=Windows",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
         ],
         Web: [
           {
             link: "/cn/AI%20Interactive%20Classroom/downloads?platform=Web",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
         ],
         Linux: [
@@ -6444,7 +6301,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
         iOS: [
@@ -6454,7 +6311,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
         Web: [
@@ -6464,7 +6321,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
       },
@@ -6609,7 +6466,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
@@ -6619,7 +6476,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
         Web: [
@@ -6629,7 +6486,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
       },
@@ -6780,7 +6637,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
         iOS: [
@@ -6790,7 +6647,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
         Web: [
@@ -6800,7 +6657,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
       },
@@ -6945,7 +6802,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
@@ -6955,7 +6812,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
         Web: [
@@ -6965,7 +6822,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
       },
@@ -7116,7 +6973,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
         iOS: [
@@ -7126,7 +6983,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
         Web: [
@@ -7136,7 +6993,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
       },
@@ -7278,7 +7135,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
@@ -7288,7 +7145,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
         Web: [
@@ -7298,7 +7155,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
       },
@@ -7446,7 +7303,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
         iOS: [
@@ -7456,7 +7313,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
         Web: [
@@ -7466,7 +7323,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
       },
@@ -7766,7 +7623,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
         iOS: [
@@ -7776,7 +7633,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
       },
@@ -7866,7 +7723,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
@@ -7876,7 +7733,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
       },
@@ -7970,7 +7827,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
         iOS: [
@@ -7980,7 +7837,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
       },
@@ -8070,7 +7927,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
@@ -8080,7 +7937,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
       },
@@ -8174,7 +8031,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
         iOS: [
@@ -8184,7 +8041,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
       },
@@ -8274,7 +8131,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
@@ -8284,7 +8141,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
       },
@@ -8378,7 +8235,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
         iOS: [
@@ -8388,7 +8245,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
       },
@@ -8478,7 +8335,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
@@ -8488,7 +8345,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
       },
@@ -8584,7 +8441,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
         iOS: [
@@ -8594,7 +8451,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
       },
@@ -8690,7 +8547,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
@@ -8700,7 +8557,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
       },
