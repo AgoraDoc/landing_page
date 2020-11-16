@@ -3866,12 +3866,7 @@ const landingPageData = {
             title: "GitHub 示例项目",
           },
         ],
-        RESTful: [
-          {
-            link: "/cn/Real-time-Messaging/downloads",
-            title: "SDK 以及演示 App",
-          },
-        ],
+      
       },
       contact: [
         {
@@ -4144,15 +4139,15 @@ const landingPageData = {
         ],
         Linux: [
           {
-            link: "/cn/Real-time-Messaging/release_java_rtm?platform=Linux",
+            link: "/en/Real-time-Messaging/release_java_rtm?platform=Linux",
             title: "Product Overview",
           },
           {
-            link: "/cn/Real-time-Messaging/release_cpp_rtm?platform=Linux",
+            link: "/en/Real-time-Messaging/release_cpp_rtm?platform=Linux",
             title: "Release Notes (Linux C++)",
           },
           {
-            link: "/cn/Real-time-Messaging/release_java_rtm?platform=Linux",
+            link: "/en/Real-time-Messaging/release_java_rtm?platform=Linux",
             title: "Release Notes (Linux Java)",
           },
         ],
@@ -4224,12 +4219,7 @@ const landingPageData = {
             title: "GitHub sample project",
           },
         ],
-        RESTful: [
-          {
-            link: "/en/Real-time-Messaging/downloads",
-            title: "SDK and demo apps",
-          },
-        ],
+
       },
       contact: [
         {
@@ -4352,7 +4342,7 @@ const landingPageData = {
               "This article introduces how to manage the connection status with the RTM SDK.",
           },
           {
-            link: "/cn/Real-time-Messaging/limitations_oc?platform=iOS",
+            link: "/en/Real-time-Messaging/limitations_oc?platform=iOS",
             title: "Limitations",
             desc: "This article introduces the limitations of the RTM SDK.",
           },
@@ -4417,7 +4407,7 @@ const landingPageData = {
         Linux: [
           {
             link: "/en/Real-time-Messaging/rtm_token?platform=All%20Platforms",
-            title: "Set up authentication",
+            title: "Set up Authentication",
             desc:
               "This article introduces how to generate an RTM token on your server using the code provided by Agora.",
           },
