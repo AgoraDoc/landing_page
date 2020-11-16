@@ -971,7 +971,7 @@ const landingPageData = {
   Video: {
     cn: {
       desc:
-        "集成 Agora 视频 SDK，实现高清流畅视频通话。搭配服务端 RESTful API，你还可以实现踢人、查询用户列表等功能。",
+        "集成 Agora 视频 SDK，实现高清流畅视频通话。通过伴奏混音、基础美颜、屏幕共享、修改音视频原始数据等功能，你可以轻松实现线上 KTV、视频会议、互动课堂等场景。搭配服务端 RESTful API，你还可以实现踢人、查询用户列表等功能。",
       overview: {
         Android: [
           {
@@ -1074,7 +1074,7 @@ const landingPageData = {
         Unity: [
           {
             link: "/cn/Video/product_video?platform=Unity",
-            title: "",
+            title: "产品概述",
           },
           {
             link: "/cn/Video/billing_rtc?platform=Unity",
@@ -1483,7 +1483,7 @@ const landingPageData = {
     },
     en: {
       desc:
-        "Integrate the Agora Video SDK for high-definition and smooth video calls. With the Server RESTful API, you can also implement functions such as banning users and getting user lists.",
+        "Integrate the Agora Video SDK for high-definition and smooth video calls. Using functions such as audio mixing, basic image enhancement, screen sharing, and modifying the media raw data, you can easily implement use cases such as online KTV, video conferences, and interactive classrooms. With the Server RESTful API, you can also implement functions such as banning users and getting user lists.",
       overview: {
         Android: [
           {
@@ -1937,12 +1937,12 @@ const landingPageData = {
           {
             link: "/en/Video/raw_data_video_unity?platform=Unity",
             title: "Raw Video Data",
-            desc: "Get the raw audio data.",
+            desc: "Get the raw video data.",
           },
           {
             link: "/en/Video/custom_video_unity?platform=Unity",
             title: "Custom Video Source and Renderer",
-            desc: "Use custom audio source and custom audio renderer.",
+            desc: "Use custom video source and custom video renderer.",
           },
         ],
       },
@@ -1951,7 +1951,7 @@ const landingPageData = {
   "Interactive Broadcast": {
     cn: {
       desc:
-        "集成 Agora 视频 SDK，实现高清流畅的音视频互动直播。搭配服务端 RESTful API，你还可以实现踢人、查询用户列表等功能。",
+        "集成 Agora 音频/视频 SDK，实现高清流畅的音视频互动直播。通过跨直播间连麦、加入多频道、屏幕共享、推流到 CDN等功能，你可以轻松实现PK 连麦、超级小班课、电商直播等场景。搭配服务端 RESTful API，你还可以实现踢人、查询用户列表等功能。",
       overview: {
         Android: [
           {
@@ -2064,7 +2064,7 @@ const landingPageData = {
         Unity: [
           {
             link: "/cn/Interactive%20Broadcast/product_live?platform=Unity",
-            title: "",
+            title: "产品概述",
           },
           {
             link: "/cn/Interactive%20Broadcast/billing_rtc?platform=Unity",
@@ -2504,7 +2504,7 @@ const landingPageData = {
     },
     en: {
       desc:
-        "Integrate the Agora Video SDK for high-definition and smooth interactive live streaming. With the Server RESTful API, you can also implement functions such as banning users and getting user lists.",
+        "Integrate the Agora Voice/Video SDK for high-definition and smooth interactive live streaming. Using functions such as co-hosting across channels, joining multiple channels, screen sharing, and pushing streams to CDN, you can easily implement use case such as PK hosting, breakout classes, e-commerce live streaming. With the Server RESTful API, you can also implement functions such as banning users and getting user lists.",
       overview: {
         Android: [
           {
@@ -2990,13 +2990,13 @@ const landingPageData = {
             link:
               "/en/Interactive%20Broadcast/raw_data_video_unity?platform=Unity",
             title: "Raw Video Data",
-            desc: "Get the raw audio data.",
+            desc: "Get the raw video data.",
           },
           {
             link:
               "/en/Interactive%20Broadcast/custom_video_unity?platform=Unity",
             title: "Custom Video Source and Renderer",
-            desc: "Use custom audio source and custom audio renderer.",
+            desc: "Use custom video source and custom video renderer.",
           },
         ],
       },
