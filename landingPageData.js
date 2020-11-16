@@ -6343,13 +6343,13 @@ const landingPageData = {
             "快速跑通 Agora 提供的 eEducation 开源示例项目，体验在线互动教学。",
         },
         iOS: {
-          link: "/cn/One-to-one%20Classroom/run_edu_android?platform=iOS",
+          link: "/cn/One-to-one%20Classroom/run_edu_ios?platform=iOS",
           title: "快速跑通示例项目",
           desc:
             "快速跑通 Agora 提供的 eEducation 开源示例项目，体验在线互动教学。",
         },
         Web: {
-          link: "/cn/One-to-one%20Classroom/run_edu_android?platform=Web",
+          link: "/cn/One-to-one%20Classroom/run_edu_web?platform=Web",
           title: "快速跑通示例项目",
           desc:
             "快速跑通 Agora 提供的 eEducation 开源示例项目，体验在线互动教学。",
@@ -6508,13 +6508,13 @@ const landingPageData = {
             "Get started with the eEducation sample project to try online interactive classes.",
         },
         iOS: {
-          link: "/en/One-to-one%20Classroom/run_edu_android?platform=iOS",
+          link: "/en/One-to-one%20Classroom/run_edu_ios?platform=iOS",
           title: "Run the sample project",
           desc:
-            "Get started with the eEducation sample project to try online interactive classes.。",
+            "Get started with the eEducation sample project to try online interactive classes.",
         },
         Web: {
-          link: "/en/One-to-one%20Classroom/run_edu_android?platform=Web",
+          link: "/en/One-to-one%20Classroom/run_edu_web?platform=Web",
           title: "Run the sample project",
           desc:
             "Get started with the eEducation sample project to try online interactive classes.",
@@ -6679,13 +6679,13 @@ const landingPageData = {
             "快速跑通 Agora 提供的 eEducation 开源示例项目，体验在线互动教学。",
         },
         iOS: {
-          link: "/cn/Small%20Classroom/run_edu_android?platform=iOS",
+          link: "/cn/Small%20Classroom/run_edu_ios?platform=iOS",
           title: "快速跑通示例项目",
           desc:
             "快速跑通 Agora 提供的 eEducation 开源示例项目，体验在线互动教学。",
         },
         Web: {
-          link: "/cn/Small%20Classroom/run_edu_android?platform=Web",
+          link: "/cn/Small%20Classroom/run_edu_web?platform=Web",
           title: "快速跑通示例项目",
           desc:
             "快速跑通 Agora 提供的 eEducation 开源示例项目，体验在线互动教学。",
@@ -6844,13 +6844,13 @@ const landingPageData = {
             "Get started with the eEducation sample project to try online interactive classes. ",
         },
         iOS: {
-          link: "/en/Small%20Classroom/run_edu_android?platform=iOS",
+          link: "/en/Small%20Classroom/run_edu_ios?platform=iOS",
           title: "Run the sample project",
           desc:
             "Get started with the eEducation sample project to try online interactive classes.。",
         },
         Web: {
-          link: "/en/Small%20Classroom/run_edu_android?platform=Web",
+          link: "/en/Small%20Classroom/run_edu_web?platform=Web",
           title: "Run the sample project",
           desc:
             "Get started with the eEducation sample project to try online interactive classes.",
@@ -7015,13 +7015,13 @@ const landingPageData = {
             "快速跑通 Agora 提供的 eEducation 开源示例项目，体验在线互动教学。",
         },
         iOS: {
-          link: "/cn/Lecture%20Hall/run_edu_android?platform=iOS",
+          link: "/cn/Lecture%20Hall/run_edu_ios?platform=iOS",
           title: "快速跑通示例项目",
           desc:
             "快速跑通 Agora 提供的 eEducation 开源示例项目，体验在线互动教学。",
         },
         Web: {
-          link: "/cn/Lecture%20Hall/run_edu_android?platform=Web",
+          link: "/cn/Lecture%20Hall/run_edu_web?platform=Web",
           title: "快速跑通示例项目",
           desc:
             "快速跑通 Agora 提供的 eEducation 开源示例项目，体验在线互动教学。",
@@ -7177,13 +7177,13 @@ const landingPageData = {
             "Get started with the eEducation sample project to try online interactive classes. ",
         },
         iOS: {
-          link: "/en/Lecture%20Hall/run_edu_android?platform=iOS",
+          link: "/en/Lecture%20Hall/run_edu_ios?platform=iOS",
           title: "Run the sample project",
           desc:
             "Get started with the eEducation sample project to try online interactive classes.。",
         },
         Web: {
-          link: "/en/Lecture%20Hall/run_edu_android?platform=Web",
+          link: "/en/Lecture%20Hall/run_edu_web?platform=Web",
           title: "Run the sample project",
           desc:
             "Get started with the eEducation sample project to try online interactive classes.",
@@ -7345,13 +7345,13 @@ const landingPageData = {
             "快速跑通 Agora 提供的 eEducation 开源示例项目，体验在线互动教学。",
         },
         iOS: {
-          link: "/cn/Breakout%20Classroom/run_edu_android?platform=iOS",
+          link: "/cn/Breakout%20Classroom/run_edu_ios?platform=iOS",
           title: "快速跑通示例项目",
           desc:
             "快速跑通 Agora 提供的 eEducation 开源示例项目，体验在线互动教学。",
         },
         Web: {
-          link: "/cn/Breakout%20Classroom/run_edu_android?platform=Web",
+          link: "/cn/Breakout%20Classroom/run_edu_web?platform=Web",
           title: "快速跑通示例项目",
           desc:
             "快速跑通 Agora 提供的 eEducation 开源示例项目，体验在线互动教学。",
@@ -7515,13 +7515,13 @@ const landingPageData = {
               "Get started with the eEducation sample project to try online interactive classes.",
           },
           iOS: {
-            link: "/en/Breakout%20Classroom/run_edu_android?platform=iOS",
+            link: "/en/Breakout%20Classroom/run_edu_ios?platform=iOS",
             title: "Run the sample project",
             desc:
               "Get started with the eEducation sample project to try online interactive classes.",
           },
           Web: {
-            link: "/en/Breakout%20Classroom/run_edu_android?platform=Web",
+            link: "/en/Breakout%20Classroom/run_edu_web?platform=Web",
             title: "Run the sample project",
             desc:
               "Get started with the eEducation sample project to try online interactive classes.",
@@ -7700,7 +7700,7 @@ const landingPageData = {
             title: "Introduction",
           },
           {
-            link: "en/Single%20Host/single_host_app_download?platform=All%20Platforms",
+            link: "/en/Single%20Host/single_host_app_download?platform=All%20Platforms",
             title: "Try the demo app",
           },
         ],
@@ -7710,7 +7710,7 @@ const landingPageData = {
             title: "Introduction",
           },
           {
-            link: "en/Single%20Host/single_host_app_download?platform=All%20Platforms",
+            link: "/en/Single%20Host/single_host_app_download?platform=All%20Platforms",
             title: "Try the demo app",
           },
         ],
@@ -7804,7 +7804,7 @@ const landingPageData = {
             title: "场景介绍",
           },
           {
-            link: "cn/Multiple%20Hosts/co_host_app_download?platform=All%20Platforms",
+            link: "/cn/Multiple%20Hosts/co_host_app_download?platform=All%20Platforms",
             title: "App 体验",
           },
         ],
@@ -7814,7 +7814,7 @@ const landingPageData = {
             title: "场景介绍",
           },
           {
-            link: "cn/Multiple%20Hosts/co_host_app_download?platform=All%20Platforms",
+            link: "/cn/Multiple%20Hosts/co_host_app_download?platform=All%20Platforms",
             title: "App 体验",
           },
         ],
@@ -7858,7 +7858,7 @@ const landingPageData = {
           desc: "快速跑通 Agora Live 开源示例项目，体验多人连麦直播场景。",
         },
         iOS: {
-          link: "/cn/Multiple%20Hosts/run__agora_live_ios?platform=iOS",
+          link: "/cn/Multiple%20Hosts/run_agora_live_ios?platform=iOS",
           title: "快速跑通示例项目",
           desc: "快速跑通 Agora Live 开源示例项目，体验多人连麦直播场景。",
         },
@@ -7886,7 +7886,7 @@ const landingPageData = {
         ],
         iOS: [
           {
-            link: "/cn/Multiple%20Hosts/co_host__ios?platform=iOS",
+            link: "/cn/Multiple%20Hosts/co_host_ios?platform=iOS",
             title: "客户端实现",
             desc:
               "使用 Agora RTC SDK、Agora RTM SDK、第三方美颜 SDK 等产品实现客户端相关功能的基本流程。",
@@ -7959,7 +7959,7 @@ const landingPageData = {
             "Get started with the Agora Live sample project to try the Multiple Hosts scenario.",
         },
         iOS: {
-          link: "/en/Multiple%20Hosts/run_agora_live_android?platform=iOS",
+          link: "/en/Multiple%20Hosts/run_agora_live_ios?platform=iOS",
           title: "Run the sample project",
           desc:
             "Get started with the Agora Live sample project to try the Multiple Hosts scenario.",
@@ -8062,7 +8062,7 @@ const landingPageData = {
           desc: "快速跑通 Agora Live 开源示例项目，体验视频 PK 连麦场景。",
         },
         iOS: {
-          link: "/cn/PK%20Host/run_agora_live_android?platform=iOS",
+          link: "/cn/PK%20Host/run_agora_live_ios?platform=iOS",
           title: "快速跑通示例项目",
           desc: "快速跑通 Agora Live 开源示例项目，体验视频 PK 连麦场景。",
         },
@@ -8163,7 +8163,7 @@ const landingPageData = {
             "Get started with the Agora Live sample project to try the PK Host scenario.",
         },
         iOS: {
-          link: "/en/PK%20Host/run_agora_live_android?platform=iOS",
+          link: "/en/PK%20Host/run_agora_live_ios?platform=iOS",
           title: "Run the sample project",
           desc:
             "Get started with the Agora Live sample project to try the PK Host scenario.",
@@ -8266,7 +8266,7 @@ const landingPageData = {
           desc: "快速跑通 Agora Live 开源示例项目，体验虚拟主播场景。",
         },
         iOS: {
-          link: "/cn/Virtual%20Host/run_agora_live_android?platform=iOS",
+          link: "/cn/Virtual%20Host/run_agora_live_ios?platform=iOS",
           title: "快速跑通示例项目",
           desc: "快速跑通 Agora Live 开源示例项目，体验虚拟主播场景。",
         },
@@ -8367,7 +8367,7 @@ const landingPageData = {
             "Get started with the Agora Live sample project to try the Virtual Host scenario.",
         },
         iOS: {
-          link: "/en/Virtual%20Host/run_agora_live_android?platform=iOS",
+          link: "/en/Virtual%20Host/run_agora_live_ios?platform=iOS",
           title: "Run the sample project",
           desc:
             "Get started with the Agora Live sample project to try the Virtual Host scenario.",
@@ -8474,7 +8474,7 @@ const landingPageData = {
         },
         iOS: {
           link:
-            "/cn/Live-stream%20Shopping/run_agora_live_android?platform=iOS",
+            "/cn/Live-stream%20Shopping/run_agora_live_ios?platform=iOS",
           title: "快速跑通示例项目",
           desc: "快速跑通 Agora Live 开源示例项目，体验电商直播场景。",
         },
@@ -8581,7 +8581,7 @@ const landingPageData = {
         },
         iOS: {
           link:
-            "/en/Live-stream%20Shopping/run_agora_live_android?platform=iOS",
+            "/en/Live-stream%20Shopping/run_agora_live_ios?platform=iOS",
           title: "Run the sample project",
           desc:
             "Get started with the Agora Live sample project to try the Live-stream Shopping scenario.",
