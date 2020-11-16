@@ -3330,7 +3330,7 @@ const landingPageData = {
             title: "产品概述",
           },
           {
-            link: "/cn/RTSA/release_rtsa_android?platform=Android",
+            link: "/cn/RTSA/release_rtsa_java?platform=Android",
             title: "发版说明",
           },
         ],
@@ -3340,7 +3340,7 @@ const landingPageData = {
             title: "产品概述",
           },
           {
-            link: "/cn/Voice/release_rtsa_ios?platform=iOS",
+            link: "/cn/Voice/release_rtsa_oc?platform=iOS",
             title: "发版说明",
           },
         ],
@@ -3350,7 +3350,7 @@ const landingPageData = {
             title: "产品概述",
           },
           {
-            link: "/cn/Voice/release_rtsa_macos?platform=macOS",
+            link: "/cn/Voice/release_rtsa_oc?platform=macOS",
             title: "发版说明",
           },
         ],
@@ -3360,7 +3360,7 @@ const landingPageData = {
             title: "产品概述",
           },
           {
-            link: "/cn/Voice/release_rtsa_windows?platform=Windows",
+            link: "/cn/Voice/release_rtsa?platform=Windows",
             title: "发版说明",
           },
         ],
@@ -3370,7 +3370,7 @@ const landingPageData = {
             title: "产品概述",
           },
           {
-            link: "/cn/Voice/release_rtsa_linux?platform=Linux",
+            link: "/cn/Voice/release_rtsa?platform=Linux",
             title: "发版说明",
           },
         ],
@@ -5944,9 +5944,8 @@ const landingPageData = {
         ],
         iOS: [
           {
-            link:
-              "/cn/AI%20Interactive%20Classroom/downloads?platform=Android",
-            title: "SDK 以及演示 App",
+            link: "/cn/AI%20Interactive%20Classroom/downloads?platform=iOS",
+            title: "SDK 下载",
           },
         ],
         macOS: [
@@ -6072,8 +6071,7 @@ const landingPageData = {
         ],
         iOS: [
           {
-            link:
-              "/en/AI%20Interactive%20Classroom/downloads?platform=Android",
+            link: "/en/AI%20Interactive%20Classroom/downloads?platform=iOS",
             title: "SDK Downloads",
           },
         ],
@@ -6325,8 +6323,9 @@ const landingPageData = {
             title: "Introduction",
           },
           {
-            link: "/en/One-to-one%20Classroom/edu_platform?platform=Android",
-            title: "Platform Support",
+            link:
+              "/en/One-to-one%20Classroom/edu_platform?platform=Android",
+            title: "Platform support",
           },
         ],
         iOS: [
@@ -6336,8 +6335,9 @@ const landingPageData = {
             title: "Introduction",
           },
           {
-            link: "/en/One-to-one%20Classroom/edu_platform?platform=iOS",
-            title: "Platform Support",
+            link:
+              "/en/One-to-one%20Classroom/edu_platform?platform=iOS",
+            title: "Platform support",
           },
         ],
         Web: [
@@ -6347,8 +6347,9 @@ const landingPageData = {
             title: "Introduction",
           },
           {
-            link: "/en/One-to-one%20Classroom/edu_platform?platform=Web",
-            title: "Platform Support",
+            link:
+              "/en/One-to-one%20Classroom/edu_platform?platform=Web",
+            title: "Platform support",
           },
         ],
         RESTful: [
@@ -6405,19 +6406,19 @@ const landingPageData = {
       quickStart: {
         Android: {
           link: "/en/One-to-one%20Classroom/run_edu_android?platform=Android",
-          title: "Run the sample project",
+          title: "Run the Sample Project",
           desc:
             "Get started with the eEducation sample project to try online interactive classes.",
         },
         iOS: {
-          link: "/en/One-to-one%20Classroom/run_edu_ios?platform=iOS",
-          title: "Run the sample project",
+          link: "/en/One-to-one%20Classroom/run_edu_android?platform=iOS",
+          title: "Run the Sample Project",
           desc:
             "Get started with the eEducation sample project to try online interactive classes.",
         },
         Web: {
-          link: "/en/One-to-one%20Classroom/run_edu_web?platform=Web",
-          title: "Run the sample project",
+          link: "/en/One-to-one%20Classroom/run_edu_android?platform=Web",
+          title: "Run the Sample Project",
           desc:
             "Get started with the eEducation sample project to try online interactive classes.",
         },
@@ -6652,8 +6653,9 @@ const landingPageData = {
             title: "Introduction",
           },
           {
-            link: "/en/One-to-one%20Classroom/edu_platform?platform=Android",
-            title: "Platform Support",
+            link:
+              "/en/One-to-one%20Classroom/edu_platform?platform=Android",
+            title: "Platform support",
           },
         ],
         iOS: [
@@ -6663,8 +6665,9 @@ const landingPageData = {
             title: "Introduction",
           },
           {
-            link: "/en/One-to-one%20Classroom/edu_platform?platform=iOS",
-            title: "Platform Support",
+            link:
+              "/en/One-to-one%20Classroom/edu_platform?platform=iOS",
+            title: "Platform support",
           },
         ],
         Web: [
@@ -6674,8 +6677,9 @@ const landingPageData = {
             title: "Introduction",
           },
           {
-            link: "/en/One-to-one%20Classroom/edu_platform?platform=Web",
-            title: "Platform Support",
+            link:
+              "/en/One-to-one%20Classroom/edu_platform?platform=Web",
+            title: "Platform support",
           },
         ],
         RESTful: [
@@ -6732,19 +6736,19 @@ const landingPageData = {
       quickStart: {
         Android: {
           link: "/en/Small%20Classroom/run_edu_android?platform=Android",
-          title: "Run the sample project",
+          title: "Run the Sample Project",
           desc:
             "Get started with the eEducation sample project to try online interactive classes. ",
         },
         iOS: {
-          link: "/en/Small%20Classroom/run_edu_ios?platform=iOS",
-          title: "Run the sample project",
+          link: "/en/Small%20Classroom/run_edu_android?platform=iOS",
+          title: "Run the Sample Project",
           desc:
-            "Get started with the eEducation sample project to try online interactive classes.。",
+            "Get started with the eEducation sample project to try online interactive classes.",
         },
         Web: {
-          link: "/en/Small%20Classroom/run_edu_web?platform=Web",
-          title: "Run the sample project",
+          link: "/en/Small%20Classroom/run_edu_android?platform=Web",
+          title: "Run the Sample Project",
           desc:
             "Get started with the eEducation sample project to try online interactive classes.",
         },
@@ -6974,8 +6978,9 @@ const landingPageData = {
             title: "Introduction",
           },
           {
-            link: "/en/Lecture%20Hall/edu_platform?platform=Android",
-            title: "Platform Support",
+            link:
+              "/en/Lecture%20Hall/edu_platform?platform=Android",
+            title: "Platform support",
           },
         ],
         iOS: [
@@ -6984,18 +6989,21 @@ const landingPageData = {
             title: "Introduction",
           },
           {
-            link: "/en/Lecture%20Hall/edu_platform?platform=iOS",
-            title: "Platform Support",
+            link:
+              "/en/Lecture%20Hall/edu_platform?platform=iOS",
+            title: "Platform support",
           },
         ],
         Web: [
           {
-            link: "/en/Lecture%20Hall/big_class_overview_6.0?platform=iOS",
+            link:
+              "/en/Lecture%20Hall/big_class_overview_6.0?platform=Web",
             title: "Introduction",
           },
           {
-            link: "/en/Lecture%20Hall/edu_platform?platform=iOS",
-            title: "Platform Support",
+            link:
+              "/en/Lecture%20Hall/edu_platform?platform=Web",
+            title: "Platform support",
           },
         ],
         RESTful: [
@@ -7052,19 +7060,19 @@ const landingPageData = {
       quickStart: {
         Android: {
           link: "/en/Lecture%20Hall/run_edu_android?platform=Android",
-          title: "Run the sample project",
+          title: "Run the Sample Project",
           desc:
             "Get started with the eEducation sample project to try online interactive classes. ",
         },
         iOS: {
-          link: "/en/Lecture%20Hall/run_edu_ios?platform=iOS",
-          title: "Run the sample project",
+          link: "/en/Lecture%20Hall/run_edu_android?platform=iOS",
+          title: "Run the Sample Project",
           desc:
-            "Get started with the eEducation sample project to try online interactive classes.。",
+            "Get started with the eEducation sample project to try online interactive classes.",
         },
         Web: {
-          link: "/en/Lecture%20Hall/run_edu_web?platform=Web",
-          title: "Run the sample project",
+          link: "/en/Lecture%20Hall/run_edu_android?platform=Web",
+          title: "Run the Sample Project",
           desc:
             "Get started with the eEducation sample project to try online interactive classes.",
         },
@@ -7295,98 +7303,176 @@ const landingPageData = {
         ],
       },
     },
-    en: {
-      desc:
-        "Divide the students in an online big class into several small groups, in which they can engage in real-time discussions while listening to the teacher. Agora uses the Agora RTC SDK, Agora RTM SDK, Cloud Recording, Edu Cloud Service, and the third-party whiteboard class to implement a Breakout Class scenario.",
-      overview: {
-        Android: [
-          {
-            link:
-              "/en/Breakout%20Classroom/breakout_class_overview_6.0?platform=Android",
-            title: "Introduction",
-          },
-          {
-            link:
-              "/en/Breakout%20Classroom/breakout_class_platform?platform=Android",
-            title: "Platform Support",
-          },
-        ],
-        iOS: [
-          {
-            link:
-              "/en/Breakout%20Classroom/breakout_class_overview_6.0?platform=iOS",
-            title: "Introduction",
-          },
-          {
-            link:
-              "/en/Breakout%20Classroom/breakout_class_platform?platform=iOS",
-            title: "Platform Support",
-          },
-        ],
-        Web: [
-          {
-            link:
-              "/en/Breakout%20Classroom/breakout_class_overview_6.0?platform=Web",
-            title: "Introduction",
-          },
-          {
-            link:
-              "/en/Breakout%20Classroom/breakout_class_platform?platform=Web",
-            title: "Platform Support",
-          },
-        ],
-        RESTful: [
-          {
-            link:
-              "/en/Breakout%20Classroom/breakout_class_overview_6.0?platform=RESTful",
-            title: "Introduction",
-          },
-        ],
-      },
-      downloads: {
-        Android: [
-          {
-            link:
-              "/en/Breakout%20Classroom/edu_app_download?platform=Android",
-            title: "Try the demo app",
-          },
-          {
-            link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
-          },
-        ],
-        iOS: [
-          {
-            link: "/en/Breakout%20Classroom/edu_app_download?platform=iOS",
-            title: "Try the demo app",
-          },
-          {
-            link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
-          },
-        ],
-        Web: [
-          {
-            link: "/en/Breakout%20Classroom/edu_app_download?platform=Web",
-            title: "Try the demo app",
-          },
-          {
-            link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
-          },
-        ],
-      },
-      contact: [
-        {
-          link:
-            "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
-          title: "Developer community",
+      en: {
+        desc:
+          "Divide the students in a large online class into small groups and give each group their own small classroom (or “breakout room”). Here, the students can engage in real-time audio and video discussion while still listening to their teacher. Agora uses the Agora RTC SDK, Agora RTM SDK, Cloud Recording, Edu Cloud Service, and the third-party whiteboard class to implement a Breakout Class scenario.",
+        overview: {
+          Android: [
+            {
+              link:
+                "/en/Breakout%20Classroom/breakout_class_overview_6.0?platform=Android",
+              title: "Introduction",
+            },
+            {
+              link:
+                "/en/Breakout%20Classroom/breakout_class_platform?platform=Android",
+              title: "Platform support",
+            },
+          ],
+          iOS: [
+            {
+              link:
+                "/en/Breakout%20Classroom/breakout_class_overview_6.0?platform=iOS",
+              title: "Introduction",
+            },
+            {
+              link:
+                "/en/Breakout%20Classroom/breakout_class_platform?platform=iOS",
+              title: "Platform support",
+            },
+          ],
+          Web: [
+            {
+              link:
+                "/en/Breakout%20Classroom/breakout_class_overview_6.0?platform=Web",
+              title: "Introduction",
+            },
+            {
+              link:
+                "/en/Breakout%20Classroom/breakout_class_platform?platform=Web",
+              title: "Platform support",
+            },
+          ],
+          RESTful: [
+            {
+              link:
+                "/en/Breakout%20Classroom/breakout_class_overview_6.0?platform=RESTful",
+              title: "Introduction",
+            },
+          ],
         },
-        {
-          link: "https://agora-ticket.agora.io/",
-          title: "Submit a ticket",
+        downloads: {
+          Android: [
+            {
+              link: "/en/Breakout%20Classroom/edu_app_download?platform=Android",
+              title: "Try the demo app",
+            },
+            {
+              link: "https://github.com/AgoraIO-Usecase/eEducation",
+              title: "Sample project",
+            },
+          ],
+          iOS: [
+            {
+              link: "/en/Breakout%20Classroom/edu_app_download?platform=iOS",
+              title: "Try the demo app",
+            },
+            {
+              link: "https://github.com/AgoraIO-Usecase/eEducation",
+              title: "Sample project",
+            },
+          ],
+          Web: [
+            {
+              link: "/en/Breakout%20Classroom/edu_app_download?platform=Web",
+              title: "Try the demo app",
+            },
+            {
+              link: "https://github.com/AgoraIO-Usecase/eEducation",
+              title: "Sample project",
+            },
+          ],
         },
-      ],
+        contact: [
+          {
+            link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
+            title: "Developer community",
+          },
+          {
+            link: "https://agora-ticket.agora.io/",
+            title: "Submit a ticket",
+          },
+        ],
+        quickStart: {
+          Android: {
+            link: "/en/Breakout%20Classroom/run_edu_android?platform=Android",
+            title: "Run the Sample Project",
+            desc:
+              "Get started with the eEducation sample project to try online interactive classes.",
+          },
+          iOS: {
+            link: "/en/Breakout%20Classroom/run_edu_android?platform=iOS",
+            title: "Run the Sample Project",
+            desc:
+              "Get started with the eEducation sample project to try online interactive classes.",
+          },
+          Web: {
+            link: "/en/Breakout%20Classroom/run_edu_android?platform=Web",
+            title: "Run the Sample Project",
+            desc:
+              "Get started with the eEducation sample project to try online interactive classes.",
+          },
+        },
+        api: {
+          Android: {
+            link: "/en/Breakout%20Classroom/api-ref?platform=Android",
+            title: "API Reference",
+            desc: "View the API reference for Breakout Class.",
+          },
+          iOS: {
+            link: "/en/Breakout%20Classroom/api-ref?platform=iOS",
+            title: "API Reference",
+            desc: "View the API reference for Breakout Class.",
+          },
+          Web: {
+            link: "/en/Breakout%20Classroom/api-ref?platform=Web",
+            title: "API Reference",
+            desc: "View the API reference for Breakout Class.",
+          },
+          RESTful: {
+            link: "https://agoradoc.github.io/en/edu-cloud-service/restfulapi/",
+            title: "API Reference",
+            desc: "View the details of the Edu Cloud Service RESTful APIs.",
+          },
+        },
+        articles: {
+          Android: [
+            {
+              link:
+                "/en/Breakout%20Classroom/breakout_class_student_Android_6.0?platform=Android",
+              title: "Build a client for the student",
+              desc: "The basic process of building a client for the student.",
+            },
+          ],
+          iOS: [
+            {
+              link:
+                "/en/Breakout%20Classroom/breakout_class_student_ios_6.0?platform=iOS",
+              title: "Build a client for the student",
+              desc: "The basic process of building a client for the student.",
+            },
+          ],
+          Web: [
+            {
+              link:
+                "/en/Breakout%20Classroom/breakout_class_student_web_6.0?platform=Web",
+              title: "Build a client for the student",
+              desc: "The basic process of building a client for the student.",
+            },
+            {
+              link:
+                "/en/Breakout%20Classroom/breakout_class_teacher_web_6.0?platform=Web",
+              title: "Build a client for the teacher",
+              desc: "The basic process of building a client for the teacher.",
+            },
+            {
+              link:
+                "/en/Breakout%20Classroom/breakout_class_ta_web_6.0?platform=Web",
+              title: "Build a client for the teaching assistant",
+              desc: "The basic process of building a client for the teaching assistant.",
+            },
+          ],
+        },
       quickStart: {
         Android: {
           link: "/en/Breakout%20Classroom/run_edu_android?platform=Android",
@@ -7636,13 +7722,13 @@ const landingPageData = {
       quickStart: {
         Android: {
           link: "/en/Single%20Host/run_agora_live_android?platform=Android",
-          title: "Run the sample project",
+          title: "Run the Sample Project",
           desc:
             "Get started with the Agora Live sample project to try the Single Host scenario.",
         },
         iOS: {
           link: "/en/Single%20Host/run_agora_live_ios?platform=iOS",
-          title: "Run the sample project",
+          title: "Run the Sample Project",
           desc:
             "Get started with the Agora Live sample project to try the Single Host scenario.",
         },
@@ -7845,15 +7931,14 @@ const landingPageData = {
       ],
       quickStart: {
         Android: {
-          link:
-            "/en/Multiple%20Hosts/run_agora_live_android?platform=Android",
-          title: "Run the sample project",
+          link: "/en/Multiple%20Hosts/run_agora_live_android?platform=Android",
+          title: "Run the Sample Project",
           desc:
             "Get started with the Agora Live sample project to try the Multiple Hosts scenario.",
         },
         iOS: {
-          link: "/en/Multiple%20Hosts/run_agora_live_ios?platform=iOS",
-          title: "Run the sample project",
+          link: "/en/Multiple%20Hosts/run_agora_live_android?platform=iOS",
+          title: "Run the Sample Project",
           desc:
             "Get started with the Agora Live sample project to try the Multiple Hosts scenario.",
         },
@@ -8056,13 +8141,13 @@ const landingPageData = {
       quickStart: {
         Android: {
           link: "/en/PK%20Host/run_agora_live_android?platform=Android",
-          title: "Run the sample project",
+          title: "Run the Sample Project",
           desc:
             "Get started with the Agora Live sample project to try the PK Host scenario.",
         },
         iOS: {
-          link: "/en/PK%20Host/run_agora_live_ios?platform=iOS",
-          title: "Run the sample project",
+          link: "/en/PK%20Host/run_agora_live_android?platform=iOS",
+          title: "Run the Sample Project",
           desc:
             "Get started with the Agora Live sample project to try the PK Host scenario.",
         },
@@ -8265,13 +8350,13 @@ const landingPageData = {
       quickStart: {
         Android: {
           link: "/en/Virtual%20Host/run_agora_live_android?platform=Android",
-          title: "Run the sample project",
+          title: "Run the Sample Project",
           desc:
             "Get started with the Agora Live sample project to try the Virtual Host scenario.",
         },
         iOS: {
-          link: "/en/Virtual%20Host/run_agora_live_ios?platform=iOS",
-          title: "Run the sample project",
+          link: "/en/Virtual%20Host/run_agora_live_android?platform=iOS",
+          title: "Run the Sample Project",
           desc:
             "Get started with the Agora Live sample project to try the Virtual Host scenario.",
         },
@@ -8482,13 +8567,14 @@ const landingPageData = {
         Android: {
           link:
             "/en/Live-stream%20Shopping/run_agora_live_android?platform=Android",
-          title: "Run the sample project",
+          title: "Run the Sample Project",
           desc:
             "Get started with the Agora Live sample project to try the Live-stream Shopping scenario.",
         },
         iOS: {
-          link: "/en/Live-stream%20Shopping/run_agora_live_ios?platform=iOS",
-          title: "Run the sample project",
+          link:
+            "/en/Live-stream%20Shopping/run_agora_live_android?platform=iOS",
+          title: "Run the Sample Project",
           desc:
             "Get started with the Agora Live sample project to try the Live-stream Shopping scenario.",
         },
