@@ -7302,6 +7302,7 @@ const landingPageData = {
           },
         ],
       },
+    },
       en: {
         desc:
           "Divide the students in a large online class into small groups and give each group their own small classroom (or “breakout room”). Here, the students can engage in real-time audio and video discussion while still listening to their teacher. Agora uses the Agora RTC SDK, Agora RTM SDK, Cloud Recording, Edu Cloud Service, and the third-party whiteboard class to implement a Breakout Class scenario.",
