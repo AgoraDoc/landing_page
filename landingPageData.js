@@ -164,7 +164,7 @@ const landingPageData = {
         Android: [
           {
             link: "/cn/Voice/downloads?platform=Android",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Audio-Call",
@@ -174,7 +174,7 @@ const landingPageData = {
         iOS: [
           {
             link: "/cn/Voice/downloads?platform=iOS",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Audio-Call",
@@ -184,37 +184,37 @@ const landingPageData = {
         macOS: [
           {
             link: "/cn/Voice/downloads?platform=macOS",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
         ],
         Web: [
           {
             link: "/cn/Voice/downloads?platform=Web",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
         ],
         微信小程序: [
           {
             link: "/cn/Voice/downloads?platform=微信小程序",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
         ],
         Windows: [
           {
             link: "/cn/Voice/downloads?platform=Windows",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
         ],
         Electron: [
           {
             link: "/cn/Voice/downloads?platform=Electron",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
         ],
         Unity: [
           {
             link: "/cn/Voice/downloads?platform=Unity",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Agora-Unity-Quickstart",
@@ -224,19 +224,19 @@ const landingPageData = {
         Flutter: [
           {
             link: "/cn/Voice/downloads?platform=Flutter",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
         ],
         "React Native": [
           {
             link: "/cn/Voice/downloads?platform=React Native",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
         ],
         "Cocos Creator": [
           {
             link: "/cn/Voice/downloads?platform=Cocos%20Creator",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
         ],
       },
@@ -645,7 +645,7 @@ const landingPageData = {
         Android: [
           {
             link: "/en/Voice/downloads?platform=Android",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Audio-Call",
@@ -655,7 +655,7 @@ const landingPageData = {
         iOS: [
           {
             link: "/en/Voice/downloads?platform=iOS",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Audio-Call",
@@ -665,31 +665,31 @@ const landingPageData = {
         macOS: [
           {
             link: "/en/Voice/downloads?platform=macOS",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
         ],
         Web: [
           {
             link: "/en/Voice/downloads?platform=Web",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
         ],
         Windows: [
           {
             link: "/en/Voice/downloads?platform=Windows",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
         ],
         Electron: [
           {
             link: "/en/Voice/downloads?platform=Electron",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
         ],
         Unity: [
           {
             link: "/en/Voice/downloads?platform=Unity",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Agora-Unity-Quickstart",
@@ -699,19 +699,19 @@ const landingPageData = {
         Flutter: [
           {
             link: "/en/Voice/downloads?platform=Flutter",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
         ],
         "React Native": [
           {
             link: "/en/Voice/downloads?platform=React Native",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
         ],
         "Cocos Creator": [
           {
             link: "/en/Voice/downloads?platform=Cocos Creator",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
         ],
       },
@@ -1133,7 +1133,7 @@ const landingPageData = {
         Android: [
           {
             link: "/cn/Video/downloads?platform=Android",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
@@ -1143,7 +1143,7 @@ const landingPageData = {
         iOS: [
           {
             link: "/cn/Video/downloads?platform=iOS",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
@@ -1153,7 +1153,7 @@ const landingPageData = {
         macOS: [
           {
             link: "/cn/Video/downloads?platform=macOS",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
@@ -1163,7 +1163,7 @@ const landingPageData = {
         Web: [
           {
             link: "/cn/Video/downloads?platform=Web",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
@@ -1173,7 +1173,7 @@ const landingPageData = {
         微信小程序: [
           {
             link: "/cn/Video/downloads?platform=微信小程序",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Agora-Miniapp-Tutorial",
@@ -1183,7 +1183,7 @@ const landingPageData = {
         Windows: [
           {
             link: "/cn/Video/downloads?platform=Windows",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
@@ -1193,7 +1193,7 @@ const landingPageData = {
         Electron: [
           {
             link: "/cn/Video/downloads?platform=Electron",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link:
@@ -1204,7 +1204,7 @@ const landingPageData = {
         Unity: [
           {
             link: "/cn/Video/downloads?platform=Unity",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Agora-Unity-Quickstart",
@@ -1214,7 +1214,7 @@ const landingPageData = {
         Flutter: [
           {
             link: "/cn/Video/downloads?platform=Flutter",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link:
@@ -1225,7 +1225,7 @@ const landingPageData = {
         "React Native": [
           {
             link: "/cn/Video/downloads?platform=React Native",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO-Community/Agora-RN-Quickstart",
@@ -1633,7 +1633,7 @@ const landingPageData = {
         Android: [
           {
             link: "/en/Video/downloads?platform=Android",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
@@ -1643,7 +1643,7 @@ const landingPageData = {
         iOS: [
           {
             link: "/en/Video/downloads?platform=iOS",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
@@ -1653,7 +1653,7 @@ const landingPageData = {
         macOS: [
           {
             link: "/en/Video/downloads?platform=macOS",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
@@ -1663,7 +1663,7 @@ const landingPageData = {
         Web: [
           {
             link: "/en/Video/downloads?platform=Web",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
@@ -1673,7 +1673,7 @@ const landingPageData = {
         Windows: [
           {
             link: "/en/Video/downloads?platform=Windows",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
@@ -1683,7 +1683,7 @@ const landingPageData = {
         Electron: [
           {
             link: "/en/Video/downloads?platform=Electron",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link:
@@ -1694,7 +1694,7 @@ const landingPageData = {
         Unity: [
           {
             link: "/en/Video/downloads?platform=Unity",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Agora-Unity-Quickstart",
@@ -1704,7 +1704,7 @@ const landingPageData = {
         Flutter: [
           {
             link: "/en/Video/downloads?platform=Flutter",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link:
@@ -1715,7 +1715,7 @@ const landingPageData = {
         "React Native": [
           {
             link: "/en/Video/downloads?platform=React Native",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO-Community/Agora-RN-Quickstart",
@@ -2130,7 +2130,7 @@ const landingPageData = {
         Android: [
           {
             link: "/cn/Interactive%20Broadcast/downloads?platform=Android",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
@@ -2140,7 +2140,7 @@ const landingPageData = {
         iOS: [
           {
             link: "/cn/Interactive%20Broadcast/downloads?platform=iOS",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
@@ -2150,7 +2150,7 @@ const landingPageData = {
         macOS: [
           {
             link: "/cn/Interactive%20Broadcast/downloads?platform=macOS",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
@@ -2160,7 +2160,7 @@ const landingPageData = {
         Web: [
           {
             link: "/cn/Interactive%20Broadcast/downloads?platform=Web",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
@@ -2170,7 +2170,7 @@ const landingPageData = {
         微信小程序: [
           {
             link: "/cn/Interactive%20Broadcast/downloads?platform=微信小程序",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Agora-Miniapp-Tutorial",
@@ -2180,7 +2180,7 @@ const landingPageData = {
         Windows: [
           {
             link: "/cn/Interactive%20Broadcast/downloads?platform=Windows",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
@@ -2190,7 +2190,7 @@ const landingPageData = {
         Electron: [
           {
             link: "/cn/Interactive%20Broadcast/downloads?platform=Electron",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link:
@@ -2201,7 +2201,7 @@ const landingPageData = {
         Unity: [
           {
             link: "/cn/Interactive%20Broadcast/downloads?platform=Unity",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Agora-Unity-Quickstart",
@@ -2211,7 +2211,7 @@ const landingPageData = {
         Flutter: [
           {
             link: "/cn/Interactive%20Broadcast/downloads?platform=Flutter",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link:
@@ -2222,7 +2222,7 @@ const landingPageData = {
         "React Native": [
           {
             link: "/cn/Interactive%20Broadcast/downloads?platform=React Native",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO-Community/Agora-RN-Quickstart",
@@ -2658,7 +2658,7 @@ const landingPageData = {
         Android: [
           {
             link: "/en/Interactive%20Broadcast/downloads?platform=Android",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
@@ -2668,7 +2668,7 @@ const landingPageData = {
         iOS: [
           {
             link: "/en/Interactive%20Broadcast/downloads?platform=iOS",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
@@ -2678,7 +2678,7 @@ const landingPageData = {
         macOS: [
           {
             link: "/en/Interactive%20Broadcast/downloads?platform=macOS",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
@@ -2688,7 +2688,7 @@ const landingPageData = {
         Web: [
           {
             link: "/en/Interactive%20Broadcast/downloads?platform=Web",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
@@ -2698,7 +2698,7 @@ const landingPageData = {
         Windows: [
           {
             link: "/en/Interactive%20Broadcast/downloads?platform=Windows",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
@@ -2708,7 +2708,7 @@ const landingPageData = {
         Electron: [
           {
             link: "/en/Interactive%20Broadcast/downloads?platform=Electron",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link:
@@ -2719,7 +2719,7 @@ const landingPageData = {
         Unity: [
           {
             link: "/en/Interactive%20Broadcast/downloads?platform=Unity",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Agora-Unity-Quickstart",
@@ -2729,7 +2729,7 @@ const landingPageData = {
         Flutter: [
           {
             link: "/en/Interactive%20Broadcast/downloads?platform=Flutter",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link:
@@ -2740,7 +2740,7 @@ const landingPageData = {
         "React Native": [
           {
             link: "/en/Interactive%20Broadcast/downloads?platform=React Native",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO-Community/Agora-RN-Quickstart",
@@ -3293,7 +3293,7 @@ const landingPageData = {
         Linux: [
           {
             link: "/cn/Recording/downloads?platform=Linux",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Recording",
@@ -3679,7 +3679,7 @@ const landingPageData = {
         Android: [
           {
             link: "/cn/Real-time-Messaging/downloads",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
@@ -3689,7 +3689,7 @@ const landingPageData = {
         iOS: [
           {
             link: "/cn/Real-time-Messaging/downloads",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
@@ -3699,7 +3699,7 @@ const landingPageData = {
         macOS: [
           {
             link: "/cn/Real-time-Messaging/downloads",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
@@ -3709,7 +3709,7 @@ const landingPageData = {
         Web: [
           {
             link: "/cn/Real-time-Messaging/downloads",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
@@ -3719,7 +3719,7 @@ const landingPageData = {
         微信小程序: [
           {
             link: "/cn/Real-time-Messaging/downloads",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
@@ -3729,7 +3729,7 @@ const landingPageData = {
         Windows: [
           {
             link: "/cn/Real-time-Messaging/downloads",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
@@ -3739,7 +3739,7 @@ const landingPageData = {
         Linux: [
           {
             link: "/cn/Real-time-Messaging/downloads",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
@@ -3749,7 +3749,7 @@ const landingPageData = {
         RESTful: [
           {
             link: "/cn/Real-time-Messaging/downloads",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
         ],
       },
@@ -4043,7 +4043,7 @@ const landingPageData = {
         Android: [
           {
             link: "/en/Real-time-Messaging/downloads",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
@@ -4053,7 +4053,7 @@ const landingPageData = {
         iOS: [
           {
             link: "/en/Real-time-Messaging/downloads",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
@@ -4063,7 +4063,7 @@ const landingPageData = {
         macOS: [
           {
             link: "/en/Real-time-Messaging/downloads",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
@@ -4073,7 +4073,7 @@ const landingPageData = {
         Web: [
           {
             link: "/en/Real-time-Messaging/downloads",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
@@ -4083,7 +4083,7 @@ const landingPageData = {
         Windows: [
           {
             link: "/en/Real-time-Messaging/downloads",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
@@ -4093,7 +4093,7 @@ const landingPageData = {
         Linux: [
           {
             link: "/en/Real-time-Messaging/downloads",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
@@ -4103,7 +4103,7 @@ const landingPageData = {
         RESTful: [
           {
             link: "/en/Real-time-Messaging/downloads",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
         ],
       },
@@ -6050,31 +6050,31 @@ const landingPageData = {
         Android: [
           {
             link: "/cn/AI%20Interactive%20Classroom/downloads?platform=Android",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
         ],
         iOS: [
           {
             link: "/cn/AI%20Interactive%20Classroom/downloads?platform=Android",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
         ],
         macOS: [
           {
             link: "/cn/AI%20Interactive%20Classroom/downloads?platform=macOS",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
         ],
         Windows: [
           {
             link: "/cn/AI%20Interactive%20Classroom/downloads?platform=Windows",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
         ],
         Web: [
           {
             link: "/cn/AI%20Interactive%20Classroom/downloads?platform=Web",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
         ],
       },
