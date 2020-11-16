@@ -3747,10 +3747,7 @@ const landingPageData = {
           },
         ],
         RESTful: [
-          {
-            link: "/cn/Real-time-Messaging/downloads",
-            title: "SDK 下载",
-          },
+
         ],
       },
       contact: [
@@ -4105,10 +4102,7 @@ const landingPageData = {
           },
         ],
         RESTful: [
-          {
-            link: "/en/Real-time-Messaging/downloads",
-            title: "SDK",
-          },
+
         ],
       },
       contact: [
