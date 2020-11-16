@@ -962,7 +962,7 @@ const landingPageData = {
             link: "/en/Voice/custom_audio_unity?platform=Unity",
             title: "Custom Audio Source and Renderer",
             desc:
-              "Use custom audio source to capture the audio data and use custom audio renderer to render the audio data.",
+              "Use custom audio source to capture audio data and use custom audio renderer to render audio data.",
           },
         ],
       },
@@ -1233,100 +1233,100 @@ const landingPageData = {
         Android: {
           link: "/cn/Video/start_call_android?platform=Android",
           title: "快速开始",
-          desc: "快速集成 Agora RTC SDK，实现视频通话功能。",
+          desc: "快速集成 Agora 视频 SDK，实现视频通话功能。",
         },
 
         iOS: {
           link: "/cn/Video/start_call_ios?platform=iOS",
           title: "快速开始",
-          desc: "快速集成 Agora RTC SDK，实现视频通话功能。",
+          desc: "快速集成 Agora 视频 SDK，实现视频通话功能。",
         },
 
         macOS: {
           link: "/cn/Video/start_call_mac?platform=macOS",
           title: "快速开始",
-          desc: "快速集成 Agora RTC SDK，实现视频通话功能。",
+          desc: "快速集成 Agora 视频 SDK，实现视频通话功能。",
         },
 
         Web: {
           link: "/cn/Video/start_call_web?platform=Web",
           title: "快速开始",
-          desc: "快速集成 Agora RTC SDK，实现视频通话功能。",
+          desc: "快速集成 Agora 视频 SDK，实现视频通话功能。",
         },
 
         微信小程序: {
           link: "/cn/Video/start_call_wechat?platform=微信小程序",
           title: "快速开始",
-          desc: "快速集成 Agora RTC SDK，实现视频通话功能。",
+          desc: "快速集成 Agora 视频 SDK，实现视频通话功能。",
         },
 
         Windows: {
           link: "/cn/Video/start_call_windows?platform=Windows",
           title: "快速开始",
-          desc: "快速集成 Agora RTC SDK，实现视频通话功能。",
+          desc: "快速集成 Agora 视频 SDK，实现视频通话功能。",
         },
 
         Electron: {
           link: "/cn/Video/start_call_electron?platform=Electron",
           title: "快速开始",
-          desc: "快速集成 Agora RTC SDK，实现视频通话功能。",
+          desc: "快速集成 Agora 视频 SDK，实现视频通话功能。",
         },
 
         Unity: {
           link: "/cn/Video/start_call_unity?platform=Unity",
           title: "快速开始",
-          desc: "快速集成 Agora RTC SDK，实现视频通话功能。",
+          desc: "快速集成 Agora 视频 SDK，实现视频通话功能。",
         },
 
         Flutter: {
           link: "/cn/Video/start_call_flutter?platform=Flutter",
           title: "快速开始",
-          desc: "快速集成 Agora RTC SDK，实现视频通话功能。",
+          desc: "快速集成 Agora 视频 SDK，实现视频通话功能。",
         },
 
         "React Native": {
           link: "/cn/Video/start_call_react_native?platform=React%20Native",
           title: "快速开始",
-          desc: "快速集成 Agora RTC SDK，实现视频通话功能。",
+          desc: "快速集成 Agora 视频 SDK，实现视频通话功能。",
         },
       },
       api: {
         Android: {
           link: "/cn/Video/API%20Reference/java/index.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 视频 SDK 的 API 参考。",
         },
 
         iOS: {
           link:
             "/cn/Video/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 视频 SDK 的 API 参考。",
         },
 
         macOS: {
           link:
             "/cn/Video/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 视频 SDK 的 API 参考。",
         },
 
         Web: {
           link: "/cn/Video/API%20Reference/web/index.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 视频 SDK 的 API 参考。",
         },
 
         微信小程序: {
           link: "/cn/Video/API%20Reference/wechat/index.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 视频 SDK 的 API 参考。",
         },
 
         Windows: {
           link: "/cn/Video/API%20Reference/cpp/index.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 视频 SDK 的 API 参考。",
         },
 
         RESTful: {
@@ -1338,25 +1338,25 @@ const landingPageData = {
         Electron: {
           link: "/cn/Video/API%20Reference/electron/index.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 视频 SDK 的 API 参考。",
         },
 
         Unity: {
           link: "/cn/Video/API%20Reference/unity/index.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 视频 SDK 的 API 参考。",
         },
 
         Flutter: {
           link: "/cn/Video/API%20Reference/flutter/index.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 视频 SDK 的 API 参考。",
         },
 
         "React Native": {
           link: "/cn/Video/API%20Reference/react_native/index.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 视频 SDK 的 API 参考。",
         },
       },
       articles: {
@@ -1722,88 +1722,88 @@ const landingPageData = {
         Android: {
           link: "/en/Video/start_call_android?platform=Android",
           title: "Quick Start",
-          desc: "Implement a simple video call using the Agora RTC SDK.",
+          desc: "Implement a simple video call using the Agora Video SDK.",
         },
 
         iOS: {
           link: "/en/Video/start_call_ios?platform=iOS",
           title: "Quick Start",
-          desc: "Implement a simple video call using the Agora RTC SDK.",
+          desc: "Implement a simple video call using the Agora Video SDK.",
         },
 
         macOS: {
           link: "/en/Video/start_call_mac?platform=macOS",
           title: "Quick Start",
-          desc: "Implement a simple video call using the Agora RTC SDK.",
+          desc: "Implement a simple video call using the Agora Video SDK.",
         },
 
         Web: {
           link: "/en/Video/start_call_web?platform=Web",
           title: "Quick Start",
-          desc: "Implement a simple video call using the Agora RTC SDK.",
+          desc: "Implement a simple video call using the Agora Video SDK.",
         },
 
         Windows: {
           link: "/en/Video/start_call_windows?platform=Windows",
           title: "Quick Start",
-          desc: "Implement a simple video call using the Agora RTC SDK.",
+          desc: "Implement a simple video call using the Agora Video SDK.",
         },
 
         Electron: {
           link: "/en/Video/start_call_electron?platform=Electron",
           title: "Quick Start",
-          desc: "Implement a simple video call using the Agora RTC SDK.",
+          desc: "Implement a simple video call using the Agora Video SDK.",
         },
 
         Unity: {
           link: "/en/Video/start_call_unity?platform=Unity",
           title: "Quick Start",
-          desc: "Implement a simple video call using the Agora RTC SDK.",
+          desc: "Implement a simple video call using the Agora Video SDK.",
         },
 
         Flutter: {
           link: "/en/Video/start_call_flutter?platform=Flutter",
           title: "Quick Start",
-          desc: "Implement a simple video call using the Agora RTC SDK.",
+          desc: "Implement a simple video call using the Agora Video SDK.",
         },
 
         "React Native": {
           link: "/en/Video/start_call_react_native?platform=React%20Native",
           title: "Quick Start",
-          desc: "Implement a simple video call using the Agora RTC SDK.",
+          desc: "Implement a simple video call using the Agora Video SDK.",
         },
       },
       api: {
         Android: {
           link: "/en/Video/API%20Reference/java/index.html",
           title: "API Reference",
-          desc: "View the API reference of the Agora RTC SDK.",
+          desc: "View the API reference of the Agora Video SDK.",
         },
 
         iOS: {
           link:
             "/en/Video/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
           title: "API Reference",
-          desc: "View the API reference of the Agora RTC SDK.",
+          desc: "View the API reference of the Agora Video SDK.",
         },
 
         macOS: {
           link:
             "/en/Video/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
           title: "API Reference",
-          desc: "View the API reference of the Agora RTC SDK.",
+          desc: "View the API reference of the Agora Video SDK.",
         },
 
         Web: {
           link: "/en/Video/API%20Reference/web/index.html",
           title: "API Reference",
-          desc: "View the API reference of the Agora RTC SDK.",
+          desc: "View the API reference of the Agora Video SDK.",
         },
 
         Windows: {
           link: "/en/Video/API%20Reference/cpp/index.html",
           title: "API Reference",
-          desc: "View the API reference of the Agora RTC SDK.",
+          desc: "View the API reference of the Agora Video SDK.",
         },
 
         RESTful: {
@@ -1815,25 +1815,25 @@ const landingPageData = {
         Electron: {
           link: "/en/Video/API%20Reference/electron/index.html",
           title: "API Reference",
-          desc: "View the API reference of the Agora RTC SDK.",
+          desc: "View the API reference of the Agora Video SDK.",
         },
 
         Unity: {
           link: "/en/Video/API%20Reference/unity/index.html",
           title: "API Reference",
-          desc: "View the API reference of the Agora RTC SDK.",
+          desc: "View the API reference of the Agora Video SDK.",
         },
 
         Flutter: {
           link: "/en/Video/API%20Reference/flutter/index.html",
           title: "API Reference",
-          desc: "View the API reference of the Agora RTC SDK.",
+          desc: "View the API reference of the Agora Video SDK.",
         },
 
         "React Native": {
           link: "/en/Video/API%20Reference/react_native/index.html",
           title: "API Reference",
-          desc: "View the API reference of the Agora RTC SDK.",
+          desc: "View the API reference of the Agora Video SDK.",
         },
       },
       articles: {
@@ -2229,106 +2229,106 @@ const landingPageData = {
           link:
             "/cn/Interactive%20Broadcast/start_live_android?platform=Android",
           title: "快速开始",
-          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的音视频互动直播。",
+          desc: "本文介绍如何使用 Agora 视频 SDK 实现基本的音视频互动直播。",
         },
 
         iOS: {
           link: "/cn/Interactive%20Broadcast/start_live_ios?platform=iOS",
           title: "快速开始",
-          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的音视频互动直播。",
+          desc: "本文介绍如何使用 Agora 视频 SDK 实现基本的音视频互动直播。",
         },
 
         macOS: {
           link: "/cn/Interactive%20Broadcast/start_live_mac?platform=macOS",
           title: "快速开始",
-          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的音视频互动直播。",
+          desc: "本文介绍如何使用 Agora 视频 SDK 实现基本的音视频互动直播。",
         },
 
         Web: {
           link: "/cn/Interactive%20Broadcast/start_live_web?platform=Web",
           title: "快速开始",
-          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的音视频互动直播。",
+          desc: "本文介绍如何使用 Agora 视频 SDK 实现基本的音视频互动直播。",
         },
 
         微信小程序: {
           link:
             "/cn/Interactive%20Broadcast/start_live_wechat?platform=微信小程序",
           title: "快速开始",
-          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的音视频互动直播。",
+          desc: "本文介绍如何使用 Agora 视频 SDK 实现基本的音视频互动直播。",
         },
 
         Windows: {
           link:
             "/cn/Interactive%20Broadcast/start_live_windows?platform=Windows",
           title: "快速开始",
-          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的音视频互动直播。",
+          desc: "本文介绍如何使用 Agora 视频 SDK 实现基本的音视频互动直播。",
         },
 
         Electron: {
           link:
             "/cn/Interactive%20Broadcast/start_live_electron?platform=Electron",
           title: "快速开始",
-          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的音视频互动直播。",
+          desc: "本文介绍如何使用 Agora 视频 SDK 实现基本的音视频互动直播。",
         },
 
         Unity: {
           link: "/cn/Interactive%20Broadcast/start_live_unity?platform=Unity",
           title: "快速开始",
-          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的音视频互动直播。",
+          desc: "本文介绍如何使用 Agora 视频 SDK 实现基本的音视频互动直播。",
         },
 
         Flutter: {
           link:
             "/cn/Interactive%20Broadcast/start_live_flutter?platform=Flutter",
           title: "快速开始",
-          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的音视频互动直播。",
+          desc: "本文介绍如何使用 Agora 视频 SDK 实现基本的音视频互动直播。",
         },
 
         "React Native": {
           link:
             "/cn/Interactive%20Broadcast/start_live_react_native?platform=React%20Native",
           title: "快速开始",
-          desc: "本文介绍如何使用 Agora RTC SDK 实现基本的音视频互动直播。",
+          desc: "本文介绍如何使用 Agora 视频 SDK 实现基本的音视频互动直播。",
         },
       },
       api: {
         Android: {
           link: "/cn/Interactive%20Broadcast/API%20Reference/java/index.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 音频/视频 SDK 的 API 参考。",
         },
 
         iOS: {
           link:
             "/cn/Interactive%20Broadcast/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 音频/视频 SDK 的 API 参考。",
         },
 
         macOS: {
           link:
             "/cn/Interactive%20Broadcast/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 音频/视频 SDK 的 API 参考。",
         },
 
         Web: {
           link: "/cn/Interactive%20Broadcast/API%20Reference/web/index.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 音频/视频 SDK 的 API 参考。",
         },
 
         微信小程序: {
           link:
             "/cn/Interactive%20Broadcast/API%20Reference/wechat/index.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 音频/视频 SDK 的 API 参考。",
         },
 
         Windows: {
           link: "/cn/Interactive%20Broadcast/API%20Reference/cpp/index.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 音频/视频 SDK 的 API 参考。",
         },
 
         RESTful: {
@@ -2341,28 +2341,28 @@ const landingPageData = {
           link:
             "/cn/Interactive%20Broadcast/API%20Reference/electron/index.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 音频/视频 SDK 的 API 参考。",
         },
 
         Unity: {
           link:
             "/cn/Interactive%20Broadcast/API%20Reference/unity/index.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 音频/视频 SDK 的 API 参考。",
         },
 
         Flutter: {
           link:
             "/cn/Interactive%20Broadcast/API%20Reference/flutter/index.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 音频/视频 SDK 的 API 参考。",
         },
 
         "React Native": {
           link:
             "/cn/Interactive%20Broadcast/API%20Reference/react_native/index.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 音频/视频 SDK 的 API 参考。",
         },
       },
       articles: {
@@ -2756,92 +2756,92 @@ const landingPageData = {
           link:
             "/en/Interactive%20Broadcast/start_live_android?platform=Android",
           title: "Quick Start",
-          desc: "Implement a simple video call using the Agora RTC SDK.",
+          desc: "Implement live video streaming using the Agora Video SDK.",
         },
 
         iOS: {
           link: "/en/Interactive%20Broadcast/start_live_ios?platform=iOS",
           title: "Quick Start",
-          desc: "Implement a simple video call using the Agora RTC SDK.",
+          desc: "Implement live video streaming using the Agora Video SDK.",
         },
 
         macOS: {
           link: "/en/Interactive%20Broadcast/start_live_mac?platform=macOS",
           title: "Quick Start",
-          desc: "Implement a simple video call using the Agora RTC SDK.",
+          desc: "Implement live video streaming using the Agora Video SDK.",
         },
 
         Web: {
           link: "/en/Interactive%20Broadcast/start_live_web?platform=Web",
           title: "Quick Start",
-          desc: "Implement a simple video call using the Agora RTC SDK.",
+          desc: "Implement live video streaming using the Agora Video SDK.",
         },
 
         Windows: {
           link:
             "/en/Interactive%20Broadcast/start_live_windows?platform=Windows",
           title: "Quick Start",
-          desc: "Implement a simple video call using the Agora RTC SDK.",
+          desc: "Implement live video streaming using the Agora Video SDK.",
         },
 
         Electron: {
           link:
             "/en/Interactive%20Broadcast/start_live_electron?platform=Electron",
           title: "Quick Start",
-          desc: "Implement a simple video call using the Agora RTC SDK.",
+          desc: "Implement live video streaming using the Agora Video SDK.",
         },
 
         Unity: {
           link: "/en/Interactive%20Broadcast/start_live_unity?platform=Unity",
           title: "Quick Start",
-          desc: "Implement a simple video call using the Agora RTC SDK.",
+          desc: "Implement live video streaming using the Agora Video SDK.",
         },
 
         Flutter: {
           link:
             "/en/Interactive%20Broadcast/start_live_flutter?platform=Flutter",
           title: "Quick Start",
-          desc: "Implement a simple video call using the Agora RTC SDK.",
+          desc: "Implement live video streaming using the Agora Video SDK.",
         },
 
         "React Native": {
           link:
             "/en/Interactive%20Broadcast/start_live_react_native?platform=React%20Native",
           title: "Quick Start",
-          desc: "Implement a simple video call using the Agora RTC SDK.",
+          desc: "Implement live video streaming using the Agora Video SDK.",
         },
       },
       api: {
         Android: {
           link: "/en/Interactive%20Broadcast/API%20Reference/java/index.html",
           title: "API Reference",
-          desc: "View the API reference of the Agora RTC SDK.",
+          desc: "View the API reference of the Agora Voice/Video SDK.",
         },
 
         iOS: {
           link:
             "/en/Interactive%20Broadcast/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
           title: "API Reference",
-          desc: "View the API reference of the Agora RTC SDK.",
+          desc: "View the API reference of the Agora Voice/Video SDK.",
         },
 
         macOS: {
           link:
             "/en/Interactive%20Broadcast/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
           title: "API Reference",
-          desc: "View the API reference of the Agora RTC SDK.",
+          desc: "View the API reference of the Agora Voice/Video SDK.",
         },
 
         Web: {
           link: "/en/Interactive%20Broadcast/API%20Reference/web/index.html",
           title: "API Reference",
-          desc: "View the API reference of the Agora RTC SDK.",
+          desc: "View the API reference of the Agora Voice/Video SDK.",
         },
 
         Windows: {
           link: "/en/Interactive%20Broadcast/API%20Reference/cpp/index.html",
           title: "API Reference",
-          desc: "View the API reference of the Agora RTC SDK.",
+          desc: "View the API reference of the Agora Voice/Video SDK.",
         },
 
         RESTful: {
@@ -2854,28 +2854,28 @@ const landingPageData = {
           link:
             "/en/Interactive%20Broadcast/API%20Reference/electron/index.html",
           title: "API Reference",
-          desc: "View the API reference of the Agora RTC SDK.",
+          desc: "View the API reference of the Agora Voice/Video SDK.",
         },
 
         Unity: {
           link:
             "/en/Interactive%20Broadcast/API%20Reference/unity/index.html",
           title: "API Reference",
-          desc: "View the API reference of the Agora RTC SDK.",
+          desc: "View the API reference of the Agora Voice/Video SDK.",
         },
 
         Flutter: {
           link:
             "/en/Interactive%20Broadcast/API%20Reference/flutter/index.html",
           title: "API Reference",
-          desc: "View the API reference of the Agora RTC SDK.",
+          desc: "View the API reference of the Agora Voice/Video SDK.",
         },
 
         "React Native": {
           link:
             "/en/Interactive%20Broadcast/API%20Reference/react_native/index.html",
           title: "API Reference",
-          desc: "View the API reference of the Agora RTC SDK.",
+          desc: "View the API reference of the Agora Voice/Video SDK.",
         },
       },
       articles: {
