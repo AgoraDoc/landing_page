@@ -2,7 +2,7 @@ const landingPageData = {
   Voice: {
     cn: {
       desc:
-        "集成 Agora 音频 SDK，实现高音质语音通话。通过美声、音效、混音等功能，你可以轻松开发语聊房、线上 KTV、语音会议等应用。搭配服务端 RESTful API，你还可以实现踢人、查询用户列表等功能。",
+        "集成 Agora 音频 SDK，实现高音质语音通话。通过美声、音效、混音等功能，你可以轻松实现语聊房、线上 KTV、语音会议等场景。搭配服务端 RESTful API，你还可以实现踢人、查询用户列表等功能。",
       overview: {
         Android: [
           {
@@ -492,7 +492,7 @@ const landingPageData = {
     },
     en: {
       desc:
-        "Integrate the Agora Voice SDK to implement a high-quality voice call. Using functions such as voice beautifier, audio effects, and audio mixing, you can easily develop applications such as online chatrooms, online KTV, and audio conferences. With the Server RESTful API, you can also implement functions such as banning users and getting user lists.",
+        "Integrate the Agora Voice SDK to implement a high-quality voice call. Using functions such as voice beautifier, audio effects, and audio mixing, you can easily implement use cases such as online chatrooms, online KTV, and audio conferences. With the Server RESTful API, you can also implement functions such as banning users and getting user lists.",
       overview: {
         Android: [
           {
