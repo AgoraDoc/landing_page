@@ -140,7 +140,8 @@ const landingPageData = {
             title: "计费说明",
           },
           {
-            link: "/cn/Voice/release_react_native_video?platform=React Native",
+            link:
+              "/cn/Voice/release_react_native_video?platform=React Native",
             title: "发版说明",
           },
         ],
@@ -164,73 +165,73 @@ const landingPageData = {
         Android: [
           {
             link: "/cn/Voice/downloads?platform=Android",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Audio-Call",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         iOS: [
           {
             link: "/cn/Voice/downloads?platform=iOS",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Audio-Call",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         macOS: [
           {
             link: "/cn/Voice/downloads?platform=macOS",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
         ],
         Web: [
           {
             link: "/cn/Voice/downloads?platform=Web",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
         ],
         微信小程序: [
           {
             link: "/cn/Voice/downloads?platform=微信小程序",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
         ],
         Windows: [
           {
             link: "/cn/Voice/downloads?platform=Windows",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
         ],
         Electron: [
           {
             link: "/cn/Voice/downloads?platform=Electron",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
         ],
         Unity: [
           {
             link: "/cn/Voice/downloads?platform=Unity",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Agora-Unity-Quickstart",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         Flutter: [
           {
             link: "/cn/Voice/downloads?platform=Flutter",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
         ],
         "React Native": [
           {
             link: "/cn/Voice/downloads?platform=React Native",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
         ],
       },
@@ -291,7 +292,8 @@ const landingPageData = {
           desc: "快速集成 Agora 音频 SDK，实现语音通话功能。",
         },
         "React Native": {
-          link: "/cn/Voice/start_call_audio_react_native?platform=React Native",
+          link:
+            "/cn/Voice/start_call_audio_react_native?platform=React Native",
           title: "快速开始",
           desc: "快速集成 Agora 音频 SDK，实现语音通话功能。",
         },
@@ -449,8 +451,7 @@ const landingPageData = {
           {
             link: "/cn/Voice/error_rtc?platform=微信小程序",
             title: "错误码和警告码",
-            desc:
-              "在调用 Agora API 过程中 SDK 可能会返回的错误码和警告码。",
+            desc: "在调用 Agora API 过程中 SDK 可能会返回的错误码和警告码。",
           },
         ],
         Windows: [
@@ -615,7 +616,8 @@ const landingPageData = {
             title: "Billing",
           },
           {
-            link: "/en/Voice/release_react_native_video?platform=React Native",
+            link:
+              "/en/Voice/release_react_native_video?platform=React Native",
             title: "Release Notes",
           },
         ],
@@ -639,73 +641,74 @@ const landingPageData = {
         Android: [
           {
             link: "/en/Voice/downloads?platform=Android",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Audio-Call",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
           {
             link: "/en/Voice/downloads?platform=iOS",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Audio-Call",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         macOS: [
           {
             link: "/en/Voice/downloads?platform=macOS",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
         ],
         Web: [
           {
             link: "/en/Voice/downloads?platform=Web",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
         ],
         Windows: [
           {
             link: "/en/Voice/downloads?platform=Windows",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
         ],
         Electron: [
           {
             link: "/en/Voice/downloads?platform=Electron",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
         ],
         Unity: [
           {
             link: "/en/Voice/downloads?platform=Unity",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Agora-Unity-Quickstart",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Flutter: [
           {
             link: "/en/Voice/downloads?platform=Flutter",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
         ],
         "React Native": [
           {
             link: "/en/Voice/downloads?platform=React Native",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
         ],
       },
       contact: [
         {
-          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
+          link:
+            "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer Community",
         },
         {
@@ -763,7 +766,8 @@ const landingPageData = {
             "Implement a simple voice call using the Agora Voice SDK.",
         },
         "React Native": {
-          link: "/en/Voice/start_call_audio_react_native?platform=React Native",
+          link:
+            "/en/Voice/start_call_audio_react_native?platform=React Native",
           title: "Quick Start",
           desc:
             "Implement a simple voice call using the Agora Voice SDK.",
@@ -812,8 +816,7 @@ const landingPageData = {
         RESTful: {
           link: "/en/rtc/restfulapi/",
           title: "API Reference",
-          desc:
-            "View the details of the Server RESTful APIs.",
+          desc: "View the details of the Server RESTful APIs.",
         },
         Electron: {
           link: "/en/Voice/API%20Reference/electron/index.html",
@@ -863,8 +866,7 @@ const landingPageData = {
           {
             link: "/en/Voice/voice_changer_android?platform=Android",
             title: "Set the Voice Beautifier and Audio Effects",
-            desc:
-              "Beautify voice or add various audio effects.",
+            desc: "Beautify voice or add various audio effects.",
           },
         ],
         iOS: [
@@ -883,8 +885,7 @@ const landingPageData = {
           {
             link: "/en/Voice/voice_changer_apple?platform=iOS",
             title: "Set the Voice Beautifier and Audio Effects",
-            desc:
-              "Beautify voice or add various audio effects.",
+            desc: "Beautify voice or add various audio effects.",
           },
         ],
         macOS: [
@@ -903,8 +904,7 @@ const landingPageData = {
           {
             link: "/en/Voice/voice_changer_apple?platform=macOS",
             title: "Set the Voice Beautifier and Audio Effects",
-            desc:
-              "Beautify voice or add various audio effects.",
+            desc: "Beautify voice or add various audio effects.",
           },
         ],
         Web: [
@@ -923,8 +923,7 @@ const landingPageData = {
           {
             link: "/en/Voice/voice_changer_web?platform=Web",
             title: "Set the Voice Beautifier and Audio Effects",
-            desc:
-              "Beautify voice or add various audio effects.",
+            desc: "Beautify voice or add various audio effects.",
           },
         ],
         Windows: [
@@ -943,8 +942,7 @@ const landingPageData = {
           {
             link: "/en/Voice/voice_changer_windows?platform=Windows",
             title: "Set the Voice Beautifier and Audio Effects",
-            desc:
-              "Beautify voice or add various audio effects.",
+            desc: "Beautify voice or add various audio effects.",
           },
         ],
         Unity: [
@@ -1121,103 +1119,103 @@ const landingPageData = {
         Android: [
           {
             link: "/cn/Video/downloads?platform=Android",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         iOS: [
           {
             link: "/cn/Video/downloads?platform=iOS",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         macOS: [
           {
             link: "/cn/Video/downloads?platform=macOS",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         Web: [
           {
             link: "/cn/Video/downloads?platform=Web",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         微信小程序: [
           {
             link: "/cn/Video/downloads?platform=微信小程序",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Agora-Miniapp-Tutorial",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         Windows: [
           {
             link: "/cn/Video/downloads?platform=Windows",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         Electron: [
           {
             link: "/cn/Video/downloads?platform=Electron",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link:
               "https://github.com/AgoraIO-Community/Agora-Electron-Quickstart",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         Unity: [
           {
             link: "/cn/Video/downloads?platform=Unity",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Agora-Unity-Quickstart",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         Flutter: [
           {
             link: "/cn/Video/downloads?platform=Flutter",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link:
               "https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         "React Native": [
           {
             link: "/cn/Video/downloads?platform=React Native",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO-Community/Agora-RN-Quickstart",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
       },
@@ -1444,8 +1442,7 @@ const landingPageData = {
           {
             link: "/cn/Video/error_rtc?platform=All%20Platforms#微信小程序",
             title: "错误码和警告码",
-            desc:
-              "在调用 Agora API 过程中 SDK 可能会返回的错误码和警告码。",
+            desc: "在调用 Agora API 过程中 SDK 可能会返回的错误码和警告码。",
           },
         ],
         Windows: [
@@ -1479,8 +1476,7 @@ const landingPageData = {
           {
             link: "/cn/Video/custom_video_unity?platform=Unity",
             title: "自定义视频采集和渲染",
-            desc:
-              "自定义视频采集，自定义视频渲染。",
+            desc: "自定义视频采集，自定义视频渲染。",
           },
         ],
       },
@@ -1621,99 +1617,100 @@ const landingPageData = {
         Android: [
           {
             link: "/en/Video/downloads?platform=Android",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
           {
             link: "/en/Video/downloads?platform=iOS",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         macOS: [
           {
             link: "/en/Video/downloads?platform=macOS",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Web: [
           {
             link: "/en/Video/downloads?platform=Web",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Windows: [
           {
             link: "/en/Video/downloads?platform=Windows",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Electron: [
           {
             link: "/en/Video/downloads?platform=Electron",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link:
               "https://github.com/AgoraIO-Community/Agora-Electron-Quickstart",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Unity: [
           {
             link: "/en/Video/downloads?platform=Unity",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Agora-Unity-Quickstart",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Flutter: [
           {
             link: "/en/Video/downloads?platform=Flutter",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link:
               "https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         "React Native": [
           {
             link: "/en/Video/downloads?platform=React Native",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO-Community/Agora-RN-Quickstart",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
       },
       contact: [
         {
-          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
+          link:
+            "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer Community",
         },
         {
@@ -1855,8 +1852,7 @@ const landingPageData = {
           {
             link: "/en/Video/screensharing_android?platform=Android",
             title: "Share the Screen",
-            desc:
-              "Share the screen when interacting with audio and video.",
+            desc: "Share the screen when interacting with audio and video.",
           },
         ],
         iOS: [
@@ -1874,8 +1870,7 @@ const landingPageData = {
           {
             link: "/en/Video/screensharing_ios?platform=iOS",
             title: "Share the Screen",
-            desc:
-              "Share the screen when interacting with audio and video.",
+            desc: "Share the screen when interacting with audio and video.",
           },
         ],
         macOS: [
@@ -1893,8 +1888,7 @@ const landingPageData = {
           {
             link: "/en/Video/screensharing_mac?platform=macOS",
             title: "Share the Screen",
-            desc:
-              "Share the screen when interacting with audio and video.",
+            desc: "Share the screen when interacting with audio and video.",
           },
         ],
         Web: [
@@ -1912,8 +1906,7 @@ const landingPageData = {
           {
             link: "/en/Video/screensharing_web?platform=Web",
             title: "Share the Screen",
-            desc:
-              "Share the screen when interacting with audio and video.",
+            desc: "Share the screen when interacting with audio and video.",
           },
         ],
         Windows: [
@@ -1931,8 +1924,7 @@ const landingPageData = {
           {
             link: "/en/Video/screensharing_windows?platform=Windows",
             title: "Share the Screen",
-            desc:
-              "Share the screen when interacting with audio and video.",
+            desc: "Share the screen when interacting with audio and video.",
           },
         ],
         Unity: [
@@ -1950,14 +1942,13 @@ const landingPageData = {
           {
             link: "/en/Video/custom_video_unity?platform=Unity",
             title: "Custom Video Source and Renderer",
-            desc:
-              "Use custom audio source and custom audio renderer.",
+            desc: "Use custom audio source and custom audio renderer.",
           },
         ],
       },
     },
   },
-  "Interactive Streaming": {
+  "Interactive Broadcast": {
     cn: {
       desc:
         "集成 Agora 视频 SDK，实现高清流畅的音视频互动直播。搭配服务端 RESTful API，你还可以实现踢人、查询用户列表等功能。",
@@ -1987,7 +1978,8 @@ const landingPageData = {
             title: "计费说明",
           },
           {
-            link: "/cn/Interactive%20Broadcast/release_ios_video?platform=iOS",
+            link:
+              "/cn/Interactive%20Broadcast/release_ios_video?platform=iOS",
             title: "发版说明",
           },
         ],
@@ -2016,7 +2008,8 @@ const landingPageData = {
             title: "计费说明",
           },
           {
-            link: "/cn/Interactive%20Broadcast/release_web_video?platform=Web",
+            link:
+              "/cn/Interactive%20Broadcast/release_web_video?platform=Web",
             title: "发版说明",
           },
         ],
@@ -2027,7 +2020,8 @@ const landingPageData = {
             title: "产品概述",
           },
           {
-            link: "/cn/Interactive%20Broadcast/billing_rtc?platform=微信小程序",
+            link:
+              "/cn/Interactive%20Broadcast/billing_rtc?platform=微信小程序",
             title: "计费说明",
           },
           {
@@ -2053,7 +2047,8 @@ const landingPageData = {
         ],
         Electron: [
           {
-            link: "/cn/Interactive%20Broadcast/product_live?platform=Electron",
+            link:
+              "/cn/Interactive%20Broadcast/product_live?platform=Electron",
             title: "发版说明",
           },
           {
@@ -2118,103 +2113,104 @@ const landingPageData = {
         Android: [
           {
             link: "/cn/Interactive%20Broadcast/downloads?platform=Android",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         iOS: [
           {
             link: "/cn/Interactive%20Broadcast/downloads?platform=iOS",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         macOS: [
           {
             link: "/cn/Interactive%20Broadcast/downloads?platform=macOS",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         Web: [
           {
             link: "/cn/Interactive%20Broadcast/downloads?platform=Web",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         微信小程序: [
           {
             link: "/cn/Interactive%20Broadcast/downloads?platform=微信小程序",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Agora-Miniapp-Tutorial",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         Windows: [
           {
             link: "/cn/Interactive%20Broadcast/downloads?platform=Windows",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         Electron: [
           {
             link: "/cn/Interactive%20Broadcast/downloads?platform=Electron",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link:
               "https://github.com/AgoraIO-Community/Agora-Electron-Quickstart",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         Unity: [
           {
             link: "/cn/Interactive%20Broadcast/downloads?platform=Unity",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Agora-Unity-Quickstart",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         Flutter: [
           {
             link: "/cn/Interactive%20Broadcast/downloads?platform=Flutter",
-            title: "SDK",
+            title: "SDK 以及演示 App",
           },
           {
             link:
               "https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         "React Native": [
           {
-            link: "/cn/Interactive%20Broadcast/downloads?platform=React Native",
-            title: "SDK",
+            link:
+              "/cn/Interactive%20Broadcast/downloads?platform=React Native",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO-Community/Agora-RN-Quickstart",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
       },
@@ -2323,7 +2319,8 @@ const landingPageData = {
         },
 
         微信小程序: {
-          link: "/cn/Interactive%20Broadcast/API%20Reference/wechat/index.html",
+          link:
+            "/cn/Interactive%20Broadcast/API%20Reference/wechat/index.html",
           title: "API 文档",
           desc: "查看 Agora RTC SDK 的 API 参考。",
         },
@@ -2348,7 +2345,8 @@ const landingPageData = {
         },
 
         Unity: {
-          link: "/cn/Interactive%20Broadcast/API%20Reference/unity/index.html",
+          link:
+            "/cn/Interactive%20Broadcast/API%20Reference/unity/index.html",
           title: "API 文档",
           desc: "查看 Agora RTC SDK 的 API 参考。",
         },
@@ -2400,7 +2398,8 @@ const landingPageData = {
             desc: "设置用户视频的编码属性。",
           },
           {
-            link: "/cn/Interactive%20Broadcast/screensharing_ios?platform=iOS",
+            link:
+              "/cn/Interactive%20Broadcast/screensharing_ios?platform=iOS",
             title: "屏幕共享",
             desc: "在音视频互动时屏幕共享。",
           },
@@ -2431,12 +2430,14 @@ const landingPageData = {
             desc: "使用 Agora 提供的代码在服务端生成 Token。",
           },
           {
-            link: "/cn/Interactive%20Broadcast/video_profile_web?platform=Web",
+            link:
+              "/cn/Interactive%20Broadcast/video_profile_web?platform=Web",
             title: "设置视频属性",
             desc: "设置用户视频的编码属性。",
           },
           {
-            link: "/cn/Interactive%20Broadcast/screensharing_web?platform=Web",
+            link:
+              "/cn/Interactive%20Broadcast/screensharing_web?platform=Web",
             title: "屏幕共享",
             desc: "在音视频互动时屏幕共享。",
           },
@@ -2457,8 +2458,7 @@ const landingPageData = {
             link:
               "/cn/Interactive%20Broadcast/error_rtc?platform=All%20Platforms#微信小程序",
             title: "错误码和警告码",
-            desc:
-              "在调用 Agora API 过程中 SDK 可能会返回的错误码和警告码。",
+            desc: "在调用 Agora API 过程中 SDK 可能会返回的错误码和警告码。",
           },
         ],
         Windows: [
@@ -2531,7 +2531,8 @@ const landingPageData = {
             title: "Billing",
           },
           {
-            link: "/en/Interactive%20Broadcast/release_ios_video?platform=iOS",
+            link:
+              "/en/Interactive%20Broadcast/release_ios_video?platform=iOS",
             title: "Release Notes",
           },
         ],
@@ -2560,7 +2561,8 @@ const landingPageData = {
             title: "Billing",
           },
           {
-            link: "/en/Interactive%20Broadcast/release_web_video?platform=Web",
+            link:
+              "/en/Interactive%20Broadcast/release_web_video?platform=Web",
             title: "Release Notes",
           },
         ],
@@ -2581,7 +2583,8 @@ const landingPageData = {
         ],
         Electron: [
           {
-            link: "/en/Interactive%20Broadcast/product_live?platform=Electron",
+            link:
+              "/en/Interactive%20Broadcast/product_live?platform=Electron",
             title: "Product Overview",
           },
           {
@@ -2646,99 +2649,101 @@ const landingPageData = {
         Android: [
           {
             link: "/en/Interactive%20Broadcast/downloads?platform=Android",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
           {
             link: "/en/Interactive%20Broadcast/downloads?platform=iOS",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         macOS: [
           {
             link: "/en/Interactive%20Broadcast/downloads?platform=macOS",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Web: [
           {
             link: "/en/Interactive%20Broadcast/downloads?platform=Web",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Windows: [
           {
             link: "/en/Interactive%20Broadcast/downloads?platform=Windows",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Electron: [
           {
             link: "/en/Interactive%20Broadcast/downloads?platform=Electron",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link:
               "https://github.com/AgoraIO-Community/Agora-Electron-Quickstart",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Unity: [
           {
             link: "/en/Interactive%20Broadcast/downloads?platform=Unity",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/Agora-Unity-Quickstart",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Flutter: [
           {
             link: "/en/Interactive%20Broadcast/downloads?platform=Flutter",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link:
               "https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         "React Native": [
           {
-            link: "/en/Interactive%20Broadcast/downloads?platform=React Native",
-            title: "SDK",
+            link:
+              "/en/Interactive%20Broadcast/downloads?platform=React Native",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO-Community/Agora-RN-Quickstart",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
       },
       contact: [
         {
-          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
+          link:
+            "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer Community",
         },
         {
@@ -2853,7 +2858,8 @@ const landingPageData = {
         },
 
         Unity: {
-          link: "/en/Interactive%20Broadcast/API%20Reference/unity/index.html",
+          link:
+            "/en/Interactive%20Broadcast/API%20Reference/unity/index.html",
           title: "API Reference",
           desc: "View the API reference of the Agora RTC SDK.",
         },
@@ -2890,8 +2896,7 @@ const landingPageData = {
             link:
               "/en/Interactive%20Broadcast/screensharing_android?platform=Android",
             title: "Share the Screen",
-            desc:
-              "Share the screen when interacting with audio and video.",
+            desc: "Share the screen when interacting with audio and video.",
           },
         ],
         iOS: [
@@ -2908,10 +2913,10 @@ const landingPageData = {
             desc: "Set encoding profiles of user video.",
           },
           {
-            link: "/en/Interactive%20Broadcast/screensharing_ios?platform=iOS",
+            link:
+              "/en/Interactive%20Broadcast/screensharing_ios?platform=iOS",
             title: "Share the Screen",
-            desc:
-              "Share the screen when interacting with audio and video.",
+            desc: "Share the screen when interacting with audio and video.",
           },
         ],
         macOS: [
@@ -2931,8 +2936,7 @@ const landingPageData = {
             link:
               "/en/Interactive%20Broadcast/screensharing_mac?platform=macOS",
             title: "Share the Screen",
-            desc:
-              "Share the screen when interacting with audio and video.",
+            desc: "Share the screen when interacting with audio and video.",
           },
         ],
         Web: [
@@ -2943,15 +2947,16 @@ const landingPageData = {
               "Generate a token on your server using the code provided by Agora.",
           },
           {
-            link: "/en/Interactive%20Broadcast/video_profile_web?platform=Web",
+            link:
+              "/en/Interactive%20Broadcast/video_profile_web?platform=Web",
             title: "Set the Video Profile",
             desc: "Set encoding profiles of user video.",
           },
           {
-            link: "/en/Interactive%20Broadcast/screensharing_web?platform=Web",
+            link:
+              "/en/Interactive%20Broadcast/screensharing_web?platform=Web",
             title: "Share the Screen",
-            desc:
-              "Share the screen when interacting with audio and video.",
+            desc: "Share the screen when interacting with audio and video.",
           },
         ],
         Windows: [
@@ -2971,8 +2976,7 @@ const landingPageData = {
             link:
               "/en/Interactive%20Broadcast/screensharing_windows?platform=Windows",
             title: "Share the Screen",
-            desc:
-              "Share the screen when interacting with audio and video.",
+            desc: "Share the screen when interacting with audio and video.",
           },
         ],
         Unity: [
@@ -2992,106 +2996,7 @@ const landingPageData = {
             link:
               "/en/Interactive%20Broadcast/custom_video_unity?platform=Unity",
             title: "Custom Video Source and Renderer",
-            desc:
-              "Use custom audio source and custom audio renderer.",
-          },
-        ],
-      },
-    },
-  },
-  极速直播: {
-    cn: {
-      desc: "",
-      overview: {
-        Android: [
-          {
-            link: "",
-            title: "",
-          },
-        ],
-      },
-      downloads: {
-        Android: [
-          {
-            link: "",
-            title: "",
-          },
-        ],
-      },
-      contact: [
-        {
-          link: "",
-          title: "",
-        },
-      ],
-      quickStart: {
-        Android: {
-          link: "",
-          title: "",
-          desc: "",
-        },
-      },
-      api: {
-        Android: {
-          link: "",
-          title: "",
-          desc: "",
-        },
-      },
-      articles: {
-        Android: [
-          {
-            link: "",
-            title: "",
-            desc: "",
-          },
-        ],
-      },
-    },
-    en: {
-      desc: "",
-      overview: {
-        Android: [
-          {
-            link: "",
-            title: "",
-          },
-        ],
-      },
-      downloads: {
-        Android: [
-          {
-            link: "",
-            title: "",
-          },
-        ],
-      },
-      contact: [
-        {
-          link: "",
-          title: "",
-        },
-      ],
-      quickStart: {
-        Android: {
-          link: "",
-          title: "",
-          desc: "",
-        },
-      },
-      api: {
-        Android: {
-          link: "",
-          title: "",
-          desc: "",
-        },
-      },
-      articles: {
-        Android: [
-          {
-            link: "",
-            title: "",
-            desc: "",
+            desc: "Use custom audio source and custom audio renderer.",
           },
         ],
       },
@@ -3156,7 +3061,7 @@ const landingPageData = {
       articles: {
         RESTful: [
           {
-            link: "/cn/Interactive%20Broadcast/token_server",
+            link: "/cn/cloud-recording/token_server",
             title: "生成 Token",
             desc: "使用 Agora 提供的代码在服务端生成 Token。",
           },
@@ -3208,7 +3113,8 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
+          link:
+            "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer Community",
         },
         {
@@ -3226,7 +3132,7 @@ const landingPageData = {
       },
       api: {
         RESTful: {
-          link: "/cn/cloud-recording/restfulapi",
+          link: "/en/cloud-recording/restfulapi",
           title: "API Reference",
           desc: "View the details of the Cloud Recording RESTful APIs.",
         },
@@ -3234,7 +3140,7 @@ const landingPageData = {
       articles: {
         RESTful: [
           {
-            link: "/en/Interactive%20Broadcast/token_server",
+            link: "/en/cloud-recording/token_server",
             title: "Generate a Token",
             desc:
               "Generate a token on your server using the code provided by Agora.",
@@ -3281,11 +3187,11 @@ const landingPageData = {
         Linux: [
           {
             link: "/cn/Recording/downloads?platform=Linux",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/Basic-Recording",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
       },
@@ -3360,13 +3266,14 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/Basic-Recording",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
       },
       contact: [
         {
-          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
+          link:
+            "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer Community",
         },
         {
@@ -3400,14 +3307,13 @@ const landingPageData = {
           {
             link: "/en/Recording/recording_individual_mode?platform=Linux",
             title: "Individual Recording",
-            desc:
-              "Generate one audio and/or video file for each UID.",
+            desc: "Generate one audio and/or video file for each UID.",
           },
           {
             link: "/en/Recording/recording_composite_mode?platform=Linux",
             title: "Composite Recording",
             desc:
-              "Generate a single mixed audio and video file for all UIDs in a channel, or mixes the audio of all UIDs into an audio file and the video of all UIDs into a video file.",
+              "Generate a single file for all UIDs in a channel, or mixes the audio of all UIDs into an audio file and the video of all UIDs into a video file.",
           },
         ],
       },
@@ -3787,77 +3693,71 @@ const landingPageData = {
         Android: [
           {
             link: "/cn/Real-time-Messaging/downloads",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         iOS: [
           {
             link: "/cn/Real-time-Messaging/downloads",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         macOS: [
           {
             link: "/cn/Real-time-Messaging/downloads",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         Web: [
           {
             link: "/cn/Real-time-Messaging/downloads",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         微信小程序: [
           {
             link: "/cn/Real-time-Messaging/downloads",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         Windows: [
           {
             link: "/cn/Real-time-Messaging/downloads",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "示例代码",
+            title: "GitHub 示例项目",
           },
         ],
         Linux: [
           {
             link: "/cn/Real-time-Messaging/downloads",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "示例代码",
-          },
-        ],
-        RESTful: [
-          {
-            link: "/cn/Real-time-Messaging/downloads",
-            title: "SDK 下载",
+            title: "GitHub 示例项目",
           },
         ],
       },
@@ -3904,7 +3804,8 @@ const landingPageData = {
           desc: "该文提供 RTM API 的快速开始信息。",
         },
         微信小程序: {
-          link: "/cn/Real-time-Messaging/messaging_wechat?platform=微信小程序",
+          link:
+            "/cn/Real-time-Messaging/messaging_wechat?platform=微信小程序",
           title: "快速开始",
           desc: "该文提供 RTM API 的快速开始信息。",
         },
@@ -3945,7 +3846,8 @@ const landingPageData = {
         },
 
         微信小程序: {
-          link: "/cn/Real-time-Messaging/API%20Reference/RTM_wechat/index.html",
+          link:
+            "/cn/Real-time-Messaging/API%20Reference/RTM_wechat/index.html",
           title: "Agora RTM 微信小程序 SDK API 参考",
           desc: "该文提供 RTM SDK 的 API 参考信息。",
         },
@@ -3958,7 +3860,8 @@ const landingPageData = {
       articles: {
         Android: [
           {
-            link: "/cn/Real-time-Messaging/rtm_token?platform=All%20Platforms",
+            link:
+              "/cn/Real-time-Messaging/rtm_token?platform=All%20Platforms",
             title: "校验用户权限",
             desc: "本文展示如何使用 Agora 提供的代码在服务端生成 RTM Token。",
           },
@@ -3977,7 +3880,8 @@ const landingPageData = {
         ],
         iOS: [
           {
-            link: "/cn/Real-time-Messaging/rtm_token?platform=All%20Platforms",
+            link:
+              "/cn/Real-time-Messaging/rtm_token?platform=All%20Platforms",
             title: "校验用户权限",
             desc: "本文展示如何使用 Agora 提供的代码在服务端生成 RTM Token。",
           },
@@ -3994,7 +3898,8 @@ const landingPageData = {
         ],
         macOS: [
           {
-            link: "/cn/Real-time-Messaging/rtm_token?platform=All%20Platforms",
+            link:
+              "/cn/Real-time-Messaging/rtm_token?platform=All%20Platforms",
             title: "校验用户权限",
             desc: "本文展示如何使用 Agora 提供的代码在服务端生成 RTM Token。",
           },
@@ -4011,7 +3916,8 @@ const landingPageData = {
         ],
         Windows: [
           {
-            link: "/cn/Real-time-Messaging/rtm_token?platform=All%20Platforms",
+            link:
+              "/cn/Real-time-Messaging/rtm_token?platform=All%20Platforms",
             title: "校验用户权限",
             desc: "本文展示如何使用 Agora 提供的代码在服务端生成 RTM Token。",
           },
@@ -4028,7 +3934,8 @@ const landingPageData = {
         ],
         Web: [
           {
-            link: "/cn/Real-time-Messaging/rtm_token?platform=All%20Platforms",
+            link:
+              "/cn/Real-time-Messaging/rtm_token?platform=All%20Platforms",
             title: "校验用户权限",
             desc: "本文展示如何使用 Agora 提供的代码在服务端生成 RTM Token。",
           },
@@ -4045,7 +3952,8 @@ const landingPageData = {
         ],
         Linux: [
           {
-            link: "/cn/Real-time-Messaging/rtm_token?platform=All%20Platforms",
+            link:
+              "/cn/Real-time-Messaging/rtm_token?platform=All%20Platforms",
             title: "校验用户权限",
             desc: "本文展示如何使用 Agora 提供的代码在服务端生成 RTM Token。",
           },
@@ -4132,15 +4040,15 @@ const landingPageData = {
         ],
         Linux: [
           {
-            link: "/cn/Real-time-Messaging/release_java_rtm?platform=Linux",
+            link: "/en/Real-time-Messaging/release_java_rtm?platform=Linux",
             title: "Product Overview",
           },
           {
-            link: "/cn/Real-time-Messaging/release_cpp_rtm?platform=Linux",
+            link: "/en/Real-time-Messaging/release_cpp_rtm?platform=Linux",
             title: "Release Notes (Linux C++)",
           },
           {
-            link: "/cn/Real-time-Messaging/release_java_rtm?platform=Linux",
+            link: "/en/Real-time-Messaging/release_java_rtm?platform=Linux",
             title: "Release Notes (Linux Java)",
           },
         ],
@@ -4155,73 +4063,68 @@ const landingPageData = {
         Android: [
           {
             link: "/en/Real-time-Messaging/downloads",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "Code samples",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
           {
             link: "/en/Real-time-Messaging/downloads",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "Code samples",
+            title: "GitHub sample project",
           },
         ],
         macOS: [
           {
             link: "/en/Real-time-Messaging/downloads",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "Code samples",
+            title: "GitHub sample project",
           },
         ],
         Web: [
           {
             link: "/en/Real-time-Messaging/downloads",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "Code samples",
+            title: "GitHub sample project",
           },
         ],
         Windows: [
           {
             link: "/en/Real-time-Messaging/downloads",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "Code samples",
+            title: "GitHub sample project",
           },
         ],
         Linux: [
           {
             link: "/en/Real-time-Messaging/downloads",
-            title: "SDK",
+            title: "SDK and demo apps",
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "Code samples",
-          },
-        ],
-        RESTful: [
-          {
-            link: "/en/Real-time-Messaging/downloads",
-            title: "SDK",
+            title: "GitHub sample project",
           },
         ],
       },
       contact: [
         {
-          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
+          link:
+            "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer Community",
         },
         {
@@ -4233,68 +4136,80 @@ const landingPageData = {
         Android: {
           link: "/en/Real-time-Messaging/messaging_android?platform=Android",
           title: "Quick Start",
-          desc: "This article contains quickstart information for the RTM SDK.",
+          desc:
+            "This article contains quickstart information for the RTM SDK.",
         },
         iOS: {
           link: "/en/Real-time-Messaging/messaging_ios?platform=iOS",
           title: "Quickstart Guide",
-          desc: "This article contains quickstart information for the RTM SDK.",
+          desc:
+            "This article contains quickstart information for the RTM SDK.",
         },
         macOS: {
           link: "/en/Real-time-Messaging/messaging_mac?platform=macOS",
           title: "Quickstart Guide",
-          desc: "This article contains quickstart information for the RTM SDK.",
+          desc:
+            "This article contains quickstart information for the RTM SDK.",
         },
         Web: {
           link: "/en/Real-time-Messaging/messaging_web?platform=Web",
           title: "Quickstart Guide",
-          desc: "This article contains quickstart information for the RTM SDK.",
+          desc:
+            "This article contains quickstart information for the RTM SDK.",
         },
         Windows: {
           link:
             "/en/Real-time-Messaging/messaging_cpp_windows?platform=Windows",
           title: "Quickstart Guide",
-          desc: "This article contains quickstart information for the RTM SDK.",
+          desc:
+            "This article contains quickstart information for the RTM SDK.",
         },
         Linux: {
           link: "/en/Real-time-Messaging/messaging_java?platform=Linux",
           title: "Quickstart Guide",
-          desc: "This article contains quickstart information for the RTM SDK.",
+          desc:
+            "This article contains quickstart information for the RTM SDK.",
         },
       },
       api: {
         Android: {
           link: "/en/Real-time-Messaging/API%20Reference/RTM_java/index.html",
           title: "API Reference",
-          desc: "This article contains detailed API reference for the RTM SDK.",
+          desc:
+            "This article contains detailed API reference for the RTM SDK.",
         },
         iOS: {
           link:
             "/en/Real-time-Messaging/API%20Reference/RTM_oc/docs/API-Overview.html",
           title: "API Reference",
-          desc: "This article contains detailed API reference for the RTM SDK.",
+          desc:
+            "This article contains detailed API reference for the RTM SDK.",
         },
         macOS: {
           link:
             "/en/Real-time-Messaging/API%20Reference/RTM_oc/docs/API-Overview.html",
           title: "API Reference",
-          desc: "This article contains detailed API reference for the RTM SDK.",
+          desc:
+            "This article contains detailed API reference for the RTM SDK.",
         },
         Web: {
           link: "/en/Real-time-Messaging/API%20Reference/RTM_web/index.html",
           title: "API Reference",
-          desc: "This article contains detailed API reference for the RTM SDK.",
+          desc:
+            "This article contains detailed API reference for the RTM SDK.",
         },
         Windows: {
           link: "/en/Real-time-Messaging/API%20Reference/RTM_cpp/index.html",
           title: "API Reference",
-          desc: "This article contains detailed API reference for the RTM SDK.",
+          desc:
+            "This article contains detailed API reference for the RTM SDK.",
         },
         Linux: {
           link:
             "/en/Real-time-Messaging/API%20Reference/RTM_java_linux/index.html",
           title: "API Reference",
-          desc: "This article contains detailed API reference for the RTM SDK.",
+          desc:
+            "This article contains detailed API reference for the RTM SDK.",
         },
 
         RESTful: {
@@ -4307,7 +4222,8 @@ const landingPageData = {
       articles: {
         Android: [
           {
-            link: "/en/Real-time-Messaging/rtm_token?platform=All%20Platforms",
+            link:
+              "/en/Real-time-Messaging/rtm_token?platform=All%20Platforms",
             title: "Generate an RTM Token",
             desc:
               "This article introduces how to generate an RTM token on your server using the code provided by Agora.",
@@ -4328,7 +4244,8 @@ const landingPageData = {
         ],
         iOS: [
           {
-            link: "/en/Real-time-Messaging/rtm_token?platform=All%20Platforms",
+            link:
+              "/en/Real-time-Messaging/rtm_token?platform=All%20Platforms",
             title: "Generate an RTM Token",
             desc:
               "This article introduces how to generate an RTM token on your server using the code provided by Agora.",
@@ -4340,14 +4257,15 @@ const landingPageData = {
               "This article introduces how to manage the connection status with the RTM SDK.",
           },
           {
-            link: "/cn/Real-time-Messaging/limitations_oc?platform=iOS",
+            link: "/en/Real-time-Messaging/limitations_oc?platform=iOS",
             title: "Limitations",
             desc: "This article introduces the limitations of the RTM SDK.",
           },
         ],
         macOS: [
           {
-            link: "/en/Real-time-Messaging/rtm_token?platform=All%20Platforms",
+            link:
+              "/en/Real-time-Messaging/rtm_token?platform=All%20Platforms",
             title: "Generate an RTM Token",
             desc:
               "This article introduces how to generate an RTM token on your server using the code provided by Agora.",
@@ -4366,7 +4284,8 @@ const landingPageData = {
         ],
         Windows: [
           {
-            link: "/en/Real-time-Messaging/rtm_token?platform=All%20Platforms",
+            link:
+              "/en/Real-time-Messaging/rtm_token?platform=All%20Platforms",
             title: "Generate an RTM Token",
             desc:
               "This article introduces how to generate an RTM token on your server using the code provided by Agora.",
@@ -4385,7 +4304,8 @@ const landingPageData = {
         ],
         Web: [
           {
-            link: "/en/Real-time-Messaging/rtm_token?platform=All%20Platforms",
+            link:
+              "/en/Real-time-Messaging/rtm_token?platform=All%20Platforms",
             title: "Generate an RTM Token",
             desc:
               "This article introduces how to generate an RTM token on your server using the code provided by Agora.",
@@ -4404,8 +4324,9 @@ const landingPageData = {
         ],
         Linux: [
           {
-            link: "/en/Real-time-Messaging/rtm_token?platform=All%20Platforms",
-            title: "Set up authentication",
+            link:
+              "/en/Real-time-Messaging/rtm_token?platform=All%20Platforms",
+            title: "Set up Authentication",
             desc:
               "This article introduces how to generate an RTM token on your server using the code provided by Agora.",
           },
@@ -4726,7 +4647,8 @@ const landingPageData = {
             desc: "实时监控和分析大频道的通话质量。",
           },
           {
-            link: "/cn/Agora%20Analytics/aa_realtime_alarm?platform=微信小程序",
+            link:
+              "/cn/Agora%20Analytics/aa_realtime_alarm?platform=微信小程序",
             title: "实时预警",
             desc: "实时监控通话体验质量并获取体验异常信息。",
           },
@@ -4840,7 +4762,8 @@ const landingPageData = {
             desc: "实时查看当前项目的在线规模、质量水平和异常情况等。",
           },
           {
-            link: "/cn/Agora%20Analytics/aa_big_channel?platform=React Native",
+            link:
+              "/cn/Agora%20Analytics/aa_big_channel?platform=React Native",
             title: "大频道",
             desc: "实时监控和分析大频道的通话质量。",
           },
@@ -4853,7 +4776,8 @@ const landingPageData = {
         ],
         "Cocos Creator": [
           {
-            link: "/cn/Agora%20Analytics/aa_live_data?platform=Cocos%20Creator",
+            link:
+              "/cn/Agora%20Analytics/aa_live_data?platform=Cocos%20Creator",
             title: "实时数据",
             desc: "实时查看当前项目的在线规模、质量水平和异常情况等。",
           },
@@ -4999,7 +4923,8 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
+          link:
+            "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer Community",
         },
         {
@@ -5081,8 +5006,7 @@ const landingPageData = {
           {
             link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=Android",
             title: "Real-time Alarm",
-            desc:
-              "Monitor call quality and user's communication experience.",
+            desc: "Monitor call quality and user's communication experience.",
           },
         ],
         iOS: [
@@ -5101,8 +5025,7 @@ const landingPageData = {
           {
             link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=iOS",
             title: "Real-time Alarm",
-            desc:
-              "Monitor call quality and user's communication experience.",
+            desc: "Monitor call quality and user's communication experience.",
           },
         ],
         macOS: [
@@ -5121,8 +5044,7 @@ const landingPageData = {
           {
             link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=macOS",
             title: "Real-time Alarm",
-            desc:
-              "Monitor call quality and user's communication experience.",
+            desc: "Monitor call quality and user's communication experience.",
           },
         ],
         Web: [
@@ -5141,8 +5063,7 @@ const landingPageData = {
           {
             link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=Web",
             title: "Real-time Alarm",
-            desc:
-              "Monitor call quality and user's communication experience.",
+            desc: "Monitor call quality and user's communication experience.",
           },
         ],
         Windows: [
@@ -5161,8 +5082,7 @@ const landingPageData = {
           {
             link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=Windows",
             title: "Real-time Alarm",
-            desc:
-              "Monitor call quality and user's communication experience.",
+            desc: "Monitor call quality and user's communication experience.",
           },
         ],
         Linux: [
@@ -5181,8 +5101,7 @@ const landingPageData = {
           {
             link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=Linux",
             title: "Real-time Alarm",
-            desc:
-              "Monitor call quality and user's communication experience.",
+            desc: "Monitor call quality and user's communication experience.",
           },
         ],
         RESTful: [
@@ -5201,8 +5120,7 @@ const landingPageData = {
           {
             link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=RESTful",
             title: "Real-time Alarm",
-            desc:
-              "Monitor call quality and user's communication experience.",
+            desc: "Monitor call quality and user's communication experience.",
           },
         ],
         Electron: [
@@ -5221,8 +5139,7 @@ const landingPageData = {
           {
             link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=Electron",
             title: "Real-time Alarm",
-            desc:
-              "Monitor call quality and user's communication experience.",
+            desc: "Monitor call quality and user's communication experience.",
           },
         ],
         Unity: [
@@ -5241,8 +5158,7 @@ const landingPageData = {
           {
             link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=Unity",
             title: "Real-time Alarm",
-            desc:
-              "Monitor call quality and user's communication experience.",
+            desc: "Monitor call quality and user's communication experience.",
           },
         ],
         Flutter: [
@@ -5261,8 +5177,7 @@ const landingPageData = {
           {
             link: "/en/Agora%20Analytics/aa_realtime_alarm?platform=Flutter",
             title: "Real-time Alarm",
-            desc:
-              "Monitor call quality and user's communication experience.",
+            desc: "Monitor call quality and user's communication experience.",
           },
         ],
         "React Native": [
@@ -5273,7 +5188,8 @@ const landingPageData = {
               "View the real-time scale, quality, and any abnormalities of your project.",
           },
           {
-            link: "/en/Agora%20Analytics/aa_big_channel?platform=React Native",
+            link:
+              "/en/Agora%20Analytics/aa_big_channel?platform=React Native",
             title: "Big Channel",
             desc:
               "Monitor and analyze quality issues of Big Channels in real time.",
@@ -5282,13 +5198,13 @@ const landingPageData = {
             link:
               "/en/Agora%20Analytics/aa_realtime_alarm?platform=React Native",
             title: "Real-time Alarm",
-            desc:
-              "Monitor call quality and user's communication experience.",
+            desc: "Monitor call quality and user's communication experience.",
           },
         ],
         "Cocos Creator": [
           {
-            link: "/en/Agora%20Analytics/aa_live_data?platform=Cocos%20Creator",
+            link:
+              "/en/Agora%20Analytics/aa_live_data?platform=Cocos%20Creator",
             title: "Realtime",
             desc:
               "View the real-time scale, quality, and any abnormalities of your project.",
@@ -5304,8 +5220,7 @@ const landingPageData = {
             link:
               "/en/Agora%20Analytics/aa_realtime_alarm?platform=Cocos%20Creator",
             title: "Real-time Alarm",
-            desc:
-              "Monitor call quality and user's communication experience.",
+            desc: "Monitor call quality and user's communication experience.",
           },
         ],
       },
@@ -5321,11 +5236,6 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
             desc: "了解 Agora 产品相关的重要概念。",
-          },
-          {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -5347,11 +5257,6 @@ const landingPageData = {
             desc: "了解 Agora 产品相关的重要概念。",
           },
           {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
-          },
-          {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
@@ -5371,11 +5276,6 @@ const landingPageData = {
             desc: "了解 Agora 产品相关的重要概念。",
           },
           {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
-          },
-          {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
@@ -5393,11 +5293,6 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
             desc: "了解 Agora 产品相关的重要概念。",
-          },
-          {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -5419,11 +5314,6 @@ const landingPageData = {
             desc: "了解 Agora 产品相关的重要概念。",
           },
           {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
-          },
-          {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
@@ -5441,11 +5331,6 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
             desc: "了解 Agora 产品相关的重要概念。",
-          },
-          {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -5467,11 +5352,6 @@ const landingPageData = {
             desc: "了解 Agora 产品相关的重要概念。",
           },
           {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
-          },
-          {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
@@ -5489,11 +5369,6 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
             desc: "了解 Agora 产品相关的重要概念。",
-          },
-          {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -5515,11 +5390,6 @@ const landingPageData = {
             desc: "了解 Agora 产品相关的重要概念。",
           },
           {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
-          },
-          {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
@@ -5537,11 +5407,6 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
             desc: "了解 Agora 产品相关的重要概念。",
-          },
-          {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -5563,11 +5428,6 @@ const landingPageData = {
             desc: "了解 Agora 产品相关的重要概念。",
           },
           {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
-          },
-          {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
@@ -5587,11 +5447,6 @@ const landingPageData = {
             desc: "了解 Agora 产品相关的重要概念。",
           },
           {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
-          },
-          {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
@@ -5609,11 +5464,6 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
             desc: "了解 Agora 产品相关的重要概念。",
-          },
-          {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -5641,12 +5491,6 @@ const landingPageData = {
             desc: "Learn about key concepts related to Agora products.",
           },
           {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
-          },
-          {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
             desc:
@@ -5664,12 +5508,6 @@ const landingPageData = {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
             desc: "Learn about key concepts related to Agora products.",
-          },
-          {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
@@ -5691,12 +5529,6 @@ const landingPageData = {
             desc: "Learn about key concepts related to Agora products.",
           },
           {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
-          },
-          {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
             desc:
@@ -5714,12 +5546,6 @@ const landingPageData = {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
             desc: "Learn about key concepts related to Agora products.",
-          },
-          {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
@@ -5741,12 +5567,6 @@ const landingPageData = {
             desc: "Learn about key concepts related to Agora products.",
           },
           {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
-          },
-          {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
             desc:
@@ -5764,12 +5584,6 @@ const landingPageData = {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
             desc: "Learn about key concepts related to Agora products.",
-          },
-          {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
@@ -5791,12 +5605,6 @@ const landingPageData = {
             desc: "Learn about key concepts related to Agora products.",
           },
           {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
-          },
-          {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
             desc:
@@ -5814,12 +5622,6 @@ const landingPageData = {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
             desc: "Learn about key concepts related to Agora products.",
-          },
-          {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
@@ -5841,12 +5643,6 @@ const landingPageData = {
             desc: "Learn about key concepts related to Agora products.",
           },
           {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
-          },
-          {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
             desc:
@@ -5864,12 +5660,6 @@ const landingPageData = {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
             desc: "Learn about key concepts related to Agora products.",
-          },
-          {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
@@ -5891,12 +5681,6 @@ const landingPageData = {
             desc: "Learn about key concepts related to Agora products.",
           },
           {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
-          },
-          {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
             desc:
@@ -5916,12 +5700,6 @@ const landingPageData = {
             desc: "Learn about key concepts related to Agora products.",
           },
           {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
-          },
-          {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
             desc:
@@ -5939,12 +5717,6 @@ const landingPageData = {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
             desc: "Learn about key concepts related to Agora products.",
-          },
-          {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
@@ -6100,7 +5872,8 @@ const landingPageData = {
         ],
         iOS: [
           {
-            link: "/cn/Volcengine%20AI%20Vision/product_libeffect?platform=iOS",
+            link:
+              "/cn/Volcengine%20AI%20Vision/product_libeffect?platform=iOS",
             title: "产品简介",
           },
         ],
@@ -6131,15 +5904,13 @@ const landingPageData = {
         ],
         iOS: [
           {
-            link:
-              "/cn/AI%20Interactive%20Classroom/ai_class?platform=iOS",
+            link: "/cn/AI%20Interactive%20Classroom/ai_class?platform=iOS",
             title: "场景介绍",
           },
         ],
         macOS: [
           {
-            link:
-              "/cn/AI%20Interactive%20Classroom/ai_class?platform=macOS",
+            link: "/cn/AI%20Interactive%20Classroom/ai_class?platform=macOS",
             title: "场景介绍",
           },
         ],
@@ -6152,15 +5923,13 @@ const landingPageData = {
         ],
         Web: [
           {
-            link:
-              "/cn/AI%20Interactive%20Classroom/ai_class?platform=Web",
+            link: "/cn/AI%20Interactive%20Classroom/ai_class?platform=Web",
             title: "场景介绍",
           },
         ],
         Linux: [
           {
-            link:
-              "/cn/AI%20Interactive%20Classroom/ai_class?platform=Linux",
+            link: "/cn/AI%20Interactive%20Classroom/ai_class?platform=Linux",
             title: "场景介绍",
           },
         ],
@@ -6168,32 +5937,35 @@ const landingPageData = {
       downloads: {
         Android: [
           {
-            link: "/cn/AI%20Interactive%20Classroom/downloads?platform=Android",
-            title: "SDK 下载",
+            link:
+              "/cn/AI%20Interactive%20Classroom/downloads?platform=Android",
+            title: "SDK 以及演示 App",
           },
         ],
         iOS: [
           {
-            link: "/cn/AI%20Interactive%20Classroom/downloads?platform=Android",
-            title: "SDK 下载",
+            link:
+              "/cn/AI%20Interactive%20Classroom/downloads?platform=Android",
+            title: "SDK 以及演示 App",
           },
         ],
         macOS: [
           {
             link: "/cn/AI%20Interactive%20Classroom/downloads?platform=macOS",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
         ],
         Windows: [
           {
-            link: "/cn/AI%20Interactive%20Classroom/downloads?platform=Windows",
-            title: "SDK 下载",
+            link:
+              "/cn/AI%20Interactive%20Classroom/downloads?platform=Windows",
+            title: "SDK 以及演示 App",
           },
         ],
         Web: [
           {
             link: "/cn/AI%20Interactive%20Classroom/downloads?platform=Web",
-            title: "SDK 下载",
+            title: "SDK 以及演示 App",
           },
         ],
         Linux: [
@@ -6240,7 +6012,8 @@ const landingPageData = {
           desc: "查看 AI 互动课堂的 API 文档。",
         },
         Linux: {
-          link: "/cn/AI%20Interactive%20Classroom/API%20Reference/server_cpp/index.html",
+          link:
+            "/cn/AI%20Interactive%20Classroom/API%20Reference/server_cpp/index.html",
           title: "API 文档",
           desc: "查看 Agora Media Streaming Server SDK 的 API 文档。",
         },
@@ -6259,15 +6032,13 @@ const landingPageData = {
         ],
         iOS: [
           {
-            link:
-              "/en/AI%20Interactive%20Classroom/ai_class?platform=iOS",
+            link: "/en/AI%20Interactive%20Classroom/ai_class?platform=iOS",
             title: "Overview",
           },
         ],
         macOS: [
           {
-            link:
-              "/en/AI%20Interactive%20Classroom/ai_class?platform=macOS",
+            link: "/en/AI%20Interactive%20Classroom/ai_class?platform=macOS",
             title: "Overview",
           },
         ],
@@ -6280,15 +6051,13 @@ const landingPageData = {
         ],
         Web: [
           {
-            link:
-              "/en/AI%20Interactive%20Classroom/ai_class?platform=Web",
+            link: "/en/AI%20Interactive%20Classroom/ai_class?platform=Web",
             title: "Overview",
           },
         ],
         Linux: [
           {
-            link:
-              "/en/AI%20Interactive%20Classroom/ai_class?platform=Linux",
+            link: "/en/AI%20Interactive%20Classroom/ai_class?platform=Linux",
             title: "Overview",
           },
         ],
@@ -6296,13 +6065,15 @@ const landingPageData = {
       downloads: {
         Android: [
           {
-            link: "/en/AI%20Interactive%20Classroom/downloads?platform=Android",
+            link:
+              "/en/AI%20Interactive%20Classroom/downloads?platform=Android",
             title: "SDK Downloads",
           },
         ],
         iOS: [
           {
-            link: "/en/AI%20Interactive%20Classroom/downloads?platform=Android",
+            link:
+              "/en/AI%20Interactive%20Classroom/downloads?platform=Android",
             title: "SDK Downloads",
           },
         ],
@@ -6314,7 +6085,8 @@ const landingPageData = {
         ],
         Windows: [
           {
-            link: "/en/AI%20Interactive%20Classroom/downloads?platform=Windows",
+            link:
+              "/en/AI%20Interactive%20Classroom/downloads?platform=Windows",
             title: "SDK Downloads",
           },
         ],
@@ -6333,7 +6105,8 @@ const landingPageData = {
       },
       contact: [
         {
-          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
+          link:
+            "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer community",
         },
         {
@@ -6368,9 +6141,11 @@ const landingPageData = {
           desc: "View the API reference for AI Interactive Classroom.",
         },
         Linux: {
-          link: "/en/AI%20Interactive%20Classroom/API%20Reference/server_cpp/index.html",
+          link:
+            "/en/AI%20Interactive%20Classroom/API%20Reference/server_cpp/index.html",
           title: "API Reference",
-          desc: "View the API reference of the Agora Media Streaming Server SDK.",
+          desc:
+            "View the API reference of the Agora Media Streaming Server SDK.",
         },
       },
     },
@@ -6387,8 +6162,7 @@ const landingPageData = {
             title: "场景介绍",
           },
           {
-            link:
-              "/cn/One-to-one%20Classroom/edu_platform?platform=Android",
+            link: "/cn/One-to-one%20Classroom/edu_platform?platform=Android",
             title: "平台说明",
           },
         ],
@@ -6399,8 +6173,7 @@ const landingPageData = {
             title: "场景介绍",
           },
           {
-            link:
-              "/cn/One-to-one%20Classroom/edu_platform?platform=iOS",
+            link: "/cn/One-to-one%20Classroom/edu_platform?platform=iOS",
             title: "平台说明",
           },
         ],
@@ -6411,8 +6184,7 @@ const landingPageData = {
             title: "场景介绍",
           },
           {
-            link:
-              "/cn/One-to-one%20Classroom/edu_platform?platform=Web",
+            link: "/cn/One-to-one%20Classroom/edu_platform?platform=Web",
             title: "平台说明",
           },
         ],
@@ -6427,12 +6199,13 @@ const landingPageData = {
       downloads: {
         Android: [
           {
-            link: "/cn/One-to-one%20Classroom/edu_app_download?platform=Android",
+            link:
+              "/cn/One-to-one%20Classroom/edu_app_download?platform=Android",
             title: "App 体验",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
         iOS: [
@@ -6442,7 +6215,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
         Web: [
@@ -6452,7 +6225,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
       },
@@ -6474,13 +6247,13 @@ const landingPageData = {
             "快速跑通 Agora 提供的 eEducation 开源示例项目，体验在线互动教学。",
         },
         iOS: {
-          link: "/cn/One-to-one%20Classroom/run_edu_android?platform=iOS",
+          link: "/cn/One-to-one%20Classroom/run_edu_ios?platform=iOS",
           title: "快速跑通示例项目",
           desc:
             "快速跑通 Agora 提供的 eEducation 开源示例项目，体验在线互动教学。",
         },
         Web: {
-          link: "/cn/One-to-one%20Classroom/run_edu_android?platform=Web",
+          link: "/cn/One-to-one%20Classroom/run_edu_web?platform=Web",
           title: "快速跑通示例项目",
           desc:
             "快速跑通 Agora 提供的 eEducation 开源示例项目，体验在线互动教学。",
@@ -6552,8 +6325,7 @@ const landingPageData = {
             title: "Introduction",
           },
           {
-            link:
-              "/en/One-to-one%20Classroom/edu_platform?platform=Android",
+            link: "/en/One-to-one%20Classroom/edu_platform?platform=Android",
             title: "Platform Support",
           },
         ],
@@ -6564,8 +6336,7 @@ const landingPageData = {
             title: "Introduction",
           },
           {
-            link:
-              "/en/One-to-one%20Classroom/edu_platform?platform=iOS",
+            link: "/en/One-to-one%20Classroom/edu_platform?platform=iOS",
             title: "Platform Support",
           },
         ],
@@ -6576,8 +6347,7 @@ const landingPageData = {
             title: "Introduction",
           },
           {
-            link:
-              "/en/One-to-one%20Classroom/edu_platform?platform=Web",
+            link: "/en/One-to-one%20Classroom/edu_platform?platform=Web",
             title: "Platform Support",
           },
         ],
@@ -6597,7 +6367,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
@@ -6607,7 +6377,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
         Web: [
@@ -6617,13 +6387,14 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
       },
       contact: [
         {
-          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
+          link:
+            "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer community",
         },
         {
@@ -6639,13 +6410,13 @@ const landingPageData = {
             "Get started with the eEducation sample project to try online interactive classes.",
         },
         iOS: {
-          link: "/en/One-to-one%20Classroom/run_edu_android?platform=iOS",
+          link: "/en/One-to-one%20Classroom/run_edu_ios?platform=iOS",
           title: "Run the sample project",
           desc:
-            "Get started with the eEducation sample project to try online interactive classes.。",
+            "Get started with the eEducation sample project to try online interactive classes.",
         },
         Web: {
-          link: "/en/One-to-one%20Classroom/run_edu_android?platform=Web",
+          link: "/en/One-to-one%20Classroom/run_edu_web?platform=Web",
           title: "Run the sample project",
           desc:
             "Get started with the eEducation sample project to try online interactive classes.",
@@ -6679,8 +6450,7 @@ const landingPageData = {
             link:
               "/en/One-to-one%20Classroom/1_to_1_class_student_Android_6.0?platform=Android",
             title: "Build a client for the student",
-            desc:
-              "The basic process of building a client for the student.",
+            desc: "The basic process of building a client for the student.",
           },
         ],
         iOS: [
@@ -6688,8 +6458,7 @@ const landingPageData = {
             link:
               "/en/One-to-one%20Classroom/1_to_1_class_student_ios_6.0?platform=iOS",
             title: "Build a client for the student",
-            desc:
-              "The basic process of building a client for the student.",
+            desc: "The basic process of building a client for the student.",
           },
         ],
         Web: [
@@ -6697,15 +6466,13 @@ const landingPageData = {
             link:
               "/en/One-to-one%20Classroom/1_to_1_class_student_web_6.0?platform=Web",
             title: "Build a client for the student",
-            desc:
-              "The basic process of building a client for the student.",
+            desc: "The basic process of building a client for the student.",
           },
           {
             link:
               "/en/One-to-one%20Classroom/1_to_1_class_teacher_web_6.0?platform=Web",
             title: "Build a client for the teacher",
-            desc:
-              "The basic process of building a client for the teacher.",
+            desc: "The basic process of building a client for the teacher.",
           },
         ],
       },
@@ -6723,8 +6490,7 @@ const landingPageData = {
             title: "场景介绍",
           },
           {
-            link:
-              "/cn/Small%20Classroom/edu_platform?platform=Android",
+            link: "/cn/Small%20Classroom/edu_platform?platform=Android",
             title: "平台说明",
           },
         ],
@@ -6735,8 +6501,7 @@ const landingPageData = {
             title: "场景介绍",
           },
           {
-            link:
-              "/cn/Small%20Classroom/edu_platform?platform=iOS",
+            link: "/cn/Small%20Classroom/edu_platform?platform=iOS",
             title: "平台说明",
           },
         ],
@@ -6747,8 +6512,7 @@ const landingPageData = {
             title: "场景介绍",
           },
           {
-            link:
-              "/cn/Small%20Classroom/edu_platform?platform=Web",
+            link: "/cn/Small%20Classroom/edu_platform?platform=Web",
             title: "平台说明",
           },
         ],
@@ -6768,7 +6532,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
         iOS: [
@@ -6778,7 +6542,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
         Web: [
@@ -6788,7 +6552,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
       },
@@ -6810,13 +6574,13 @@ const landingPageData = {
             "快速跑通 Agora 提供的 eEducation 开源示例项目，体验在线互动教学。",
         },
         iOS: {
-          link: "/cn/Small%20Classroom/run_edu_android?platform=iOS",
+          link: "/cn/Small%20Classroom/run_edu_ios?platform=iOS",
           title: "快速跑通示例项目",
           desc:
             "快速跑通 Agora 提供的 eEducation 开源示例项目，体验在线互动教学。",
         },
         Web: {
-          link: "/cn/Small%20Classroom/run_edu_android?platform=Web",
+          link: "/cn/Small%20Classroom/run_edu_web?platform=Web",
           title: "快速跑通示例项目",
           desc:
             "快速跑通 Agora 提供的 eEducation 开源示例项目，体验在线互动教学。",
@@ -6888,8 +6652,7 @@ const landingPageData = {
             title: "Introduction",
           },
           {
-            link:
-              "/en/One-to-one%20Classroom/edu_platform?platform=Android",
+            link: "/en/One-to-one%20Classroom/edu_platform?platform=Android",
             title: "Platform Support",
           },
         ],
@@ -6900,8 +6663,7 @@ const landingPageData = {
             title: "Introduction",
           },
           {
-            link:
-              "/en/One-to-one%20Classroom/edu_platform?platform=iOS",
+            link: "/en/One-to-one%20Classroom/edu_platform?platform=iOS",
             title: "Platform Support",
           },
         ],
@@ -6912,8 +6674,7 @@ const landingPageData = {
             title: "Introduction",
           },
           {
-            link:
-              "/en/One-to-one%20Classroom/edu_platform?platform=Web",
+            link: "/en/One-to-one%20Classroom/edu_platform?platform=Web",
             title: "Platform Support",
           },
         ],
@@ -6933,7 +6694,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
@@ -6943,7 +6704,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
         Web: [
@@ -6953,13 +6714,14 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
       },
       contact: [
         {
-          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
+          link:
+            "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer community",
         },
         {
@@ -6975,13 +6737,13 @@ const landingPageData = {
             "Get started with the eEducation sample project to try online interactive classes. ",
         },
         iOS: {
-          link: "/en/Small%20Classroom/run_edu_android?platform=iOS",
+          link: "/en/Small%20Classroom/run_edu_ios?platform=iOS",
           title: "Run the sample project",
           desc:
             "Get started with the eEducation sample project to try online interactive classes.。",
         },
         Web: {
-          link: "/en/Small%20Classroom/run_edu_android?platform=Web",
+          link: "/en/Small%20Classroom/run_edu_web?platform=Web",
           title: "Run the sample project",
           desc:
             "Get started with the eEducation sample project to try online interactive classes.",
@@ -7015,8 +6777,7 @@ const landingPageData = {
             link:
               "/en/Small%20Classroom/small_classroom_student_Android_6.0?platform=Android",
             title: "Build a client for the student",
-            desc:
-              "The basic process of building a client for the student.",
+            desc: "The basic process of building a client for the student.",
           },
         ],
         iOS: [
@@ -7024,8 +6785,7 @@ const landingPageData = {
             link:
               "/en/Small%20Classroom/small_classroom_student_ios_6.0?platform=iOS",
             title: "Build a client for the student",
-            desc:
-              "The basic process of building a client for the student.",
+            desc: "The basic process of building a client for the student.",
           },
         ],
         Web: [
@@ -7033,15 +6793,13 @@ const landingPageData = {
             link:
               "/en/Small%20Classroom/small_classroom_student_web_6.0?platform=Web",
             title: "Build a client for the student",
-            desc:
-              "The basic process of building a client for the student.",
+            desc: "The basic process of building a client for the student.",
           },
           {
             link:
               "/en/Small%20Classroom/small_classroom_teacher_web_6.0?platform=Web",
             title: "Build a client for the teacher",
-            desc:
-              "The basic process of building a client for the teacher.",
+            desc: "The basic process of building a client for the teacher.",
           },
         ],
       },
@@ -7059,32 +6817,27 @@ const landingPageData = {
             title: "场景介绍",
           },
           {
-            link:
-              "/cn/Lecture%20Hall/edu_platform?platform=Android",
+            link: "/cn/Lecture%20Hall/edu_platform?platform=Android",
             title: "平台说明",
           },
         ],
         iOS: [
           {
-            link:
-              "/cn/Lecture%20Hall/big_class_overview_6.0?platform=iOS",
+            link: "/cn/Lecture%20Hall/big_class_overview_6.0?platform=iOS",
             title: "场景介绍",
           },
           {
-            link:
-              "/cn/Lecture%20Hall/edu_platform?platform=iOS",
+            link: "/cn/Lecture%20Hall/edu_platform?platform=iOS",
             title: "平台说明",
           },
         ],
         Web: [
           {
-            link:
-              "/cn/Lecture%20Hall/big_class_overview_6.0?platform=Web",
+            link: "/cn/Lecture%20Hall/big_class_overview_6.0?platform=Web",
             title: "场景介绍",
           },
           {
-            link:
-              "/cn/Lecture%20Hall/edu_platform?platform=Web",
+            link: "/cn/Lecture%20Hall/edu_platform?platform=Web",
             title: "平台说明",
           },
         ],
@@ -7104,7 +6857,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
         iOS: [
@@ -7114,7 +6867,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
         Web: [
@@ -7124,7 +6877,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
       },
@@ -7146,13 +6899,13 @@ const landingPageData = {
             "快速跑通 Agora 提供的 eEducation 开源示例项目，体验在线互动教学。",
         },
         iOS: {
-          link: "/cn/Lecture%20Hall/run_edu_android?platform=iOS",
+          link: "/cn/Lecture%20Hall/run_edu_ios?platform=iOS",
           title: "快速跑通示例项目",
           desc:
             "快速跑通 Agora 提供的 eEducation 开源示例项目，体验在线互动教学。",
         },
         Web: {
-          link: "/cn/Lecture%20Hall/run_edu_android?platform=Web",
+          link: "/cn/Lecture%20Hall/run_edu_web?platform=Web",
           title: "快速跑通示例项目",
           desc:
             "快速跑通 Agora 提供的 eEducation 开源示例项目，体验在线互动教学。",
@@ -7221,32 +6974,27 @@ const landingPageData = {
             title: "Introduction",
           },
           {
-            link:
-              "/en/Lecture%20Hall/edu_platform?platform=Android",
+            link: "/en/Lecture%20Hall/edu_platform?platform=Android",
             title: "Platform Support",
           },
         ],
         iOS: [
           {
-            link:
-              "/en/Lecture%20Hall/big_class_overview_6.0?platform=iOS",
+            link: "/en/Lecture%20Hall/big_class_overview_6.0?platform=iOS",
             title: "Introduction",
           },
           {
-            link:
-              "/en/Lecture%20Hall/edu_platform?platform=iOS",
+            link: "/en/Lecture%20Hall/edu_platform?platform=iOS",
             title: "Platform Support",
           },
         ],
         Web: [
           {
-            link:
-              "/en/Lecture%20Hall/big_class_overview_6.0?platform=iOS",
+            link: "/en/Lecture%20Hall/big_class_overview_6.0?platform=iOS",
             title: "Introduction",
           },
           {
-            link:
-              "/en/Lecture%20Hall/edu_platform?platform=iOS",
+            link: "/en/Lecture%20Hall/edu_platform?platform=iOS",
             title: "Platform Support",
           },
         ],
@@ -7266,7 +7014,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
@@ -7276,7 +7024,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
         Web: [
@@ -7286,13 +7034,14 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
       },
       contact: [
         {
-          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
+          link:
+            "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer community",
         },
         {
@@ -7308,13 +7057,13 @@ const landingPageData = {
             "Get started with the eEducation sample project to try online interactive classes. ",
         },
         iOS: {
-          link: "/en/Lecture%20Hall/run_edu_android?platform=iOS",
+          link: "/en/Lecture%20Hall/run_edu_ios?platform=iOS",
           title: "Run the sample project",
           desc:
             "Get started with the eEducation sample project to try online interactive classes.。",
         },
         Web: {
-          link: "/en/Lecture%20Hall/run_edu_android?platform=Web",
+          link: "/en/Lecture%20Hall/run_edu_web?platform=Web",
           title: "Run the sample project",
           desc:
             "Get started with the eEducation sample project to try online interactive classes.",
@@ -7348,30 +7097,26 @@ const landingPageData = {
             link:
               "/en/Lecture%20Hall/big_class_student_Android_6.0?platform=Android",
             title: "Build a client for the student",
-            desc:
-              "The basic process of building a client for the student.",
+            desc: "The basic process of building a client for the student.",
           },
         ],
         iOS: [
           {
             link: "/en/Lecture%20Hall/big_class_student_ios_6.0?platform=iOS",
             title: "Build a client for the student",
-            desc:
-              "The basic process of building a client for the student.",
+            desc: "The basic process of building a client for the student.",
           },
         ],
         Web: [
           {
             link: "/en/Lecture%20Hall/big_class_student_web_6.0?platform=Web",
             title: "Build a client for the student",
-            desc:
-              "The basic process of building a client for the student.",
+            desc: "The basic process of building a client for the student.",
           },
           {
             link: "/en/Lecture%20Hall/big_class_teacher_web_6.0?platform=Web",
             title: "Build a client for the teacher",
-            desc:
-              "The basic process of building a client for the teacher.",
+            desc: "The basic process of building a client for the teacher.",
           },
         ],
       },
@@ -7429,12 +7174,13 @@ const landingPageData = {
       downloads: {
         Android: [
           {
-            link: "/cn/Breakout%20Classroom/edu_app_download?platform=Android",
+            link:
+              "/cn/Breakout%20Classroom/edu_app_download?platform=Android",
             title: "App 体验",
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
         iOS: [
@@ -7444,7 +7190,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
         Web: [
@@ -7454,7 +7200,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
       },
@@ -7476,13 +7222,13 @@ const landingPageData = {
             "快速跑通 Agora 提供的 eEducation 开源示例项目，体验在线互动教学。",
         },
         iOS: {
-          link: "/cn/Breakout%20Classroom/run_edu_android?platform=iOS",
+          link: "/cn/Breakout%20Classroom/run_edu_ios?platform=iOS",
           title: "快速跑通示例项目",
           desc:
             "快速跑通 Agora 提供的 eEducation 开源示例项目，体验在线互动教学。",
         },
         Web: {
-          link: "/cn/Breakout%20Classroom/run_edu_android?platform=Web",
+          link: "/cn/Breakout%20Classroom/run_edu_web?platform=Web",
           title: "快速跑通示例项目",
           desc:
             "快速跑通 Agora 提供的 eEducation 开源示例项目，体验在线互动教学。",
@@ -7548,176 +7294,180 @@ const landingPageData = {
           },
         ],
       },
-      en: {
-        desc:
-          "Divide the students in an online big class into several small groups, in which they can engage in real-time discussions while listening to the teacher. Agora uses the Agora RTC SDK, Agora RTM SDK, Cloud Recording, Edu Cloud Service, and the third-party whiteboard class to implement a Breakout Class scenario.",
-        overview: {
-          Android: [
-            {
-              link:
-                "/en/Breakout%20Classroom/breakout_class_overview_6.0?platform=Android",
-              title: "Introduction",
-            },
-            {
-              link:
-                "/en/Breakout%20Classroom/breakout_class_platform?platform=Android",
-              title: "Platform Support",
-            },
-          ],
-          iOS: [
-            {
-              link:
-                "/en/Breakout%20Classroom/breakout_class_overview_6.0?platform=iOS",
-              title: "Introduction",
-            },
-            {
-              link:
-                "/en/Breakout%20Classroom/breakout_class_platform?platform=iOS",
-              title: "Platform Support",
-            },
-          ],
-          Web: [
-            {
-              link:
-                "/en/Breakout%20Classroom/breakout_class_overview_6.0?platform=Web",
-              title: "Introduction",
-            },
-            {
-              link:
-                "/en/Breakout%20Classroom/breakout_class_platform?platform=Web",
-              title: "Platform Support",
-            },
-          ],
-          RESTful: [
-            {
-              link:
-                "/en/Breakout%20Classroom/breakout_class_overview_6.0?platform=RESTful",
-              title: "Introduction",
-            },
-          ],
-        },
-        downloads: {
-          Android: [
-            {
-              link: "/en/Breakout%20Classroom/edu_app_download?platform=Android",
-              title: "Try the demo app",
-            },
-            {
-              link: "https://github.com/AgoraIO-Usecase/eEducation",
-              title: "Sample project",
-            },
-          ],
-          iOS: [
-            {
-              link: "/en/Breakout%20Classroom/edu_app_download?platform=iOS",
-              title: "Try the demo app",
-            },
-            {
-              link: "https://github.com/AgoraIO-Usecase/eEducation",
-              title: "Sample project",
-            },
-          ],
-          Web: [
-            {
-              link: "/en/Breakout%20Classroom/edu_app_download?platform=Web",
-              title: "Try the demo app",
-            },
-            {
-              link: "https://github.com/AgoraIO-Usecase/eEducation",
-              title: "Sample project",
-            },
-          ],
-        },
-        contact: [
+    },
+    en: {
+      desc:
+        "Divide the students in an online big class into several small groups, in which they can engage in real-time discussions while listening to the teacher. Agora uses the Agora RTC SDK, Agora RTM SDK, Cloud Recording, Edu Cloud Service, and the third-party whiteboard class to implement a Breakout Class scenario.",
+      overview: {
+        Android: [
           {
-            link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
-            title: "Developer community",
+            link:
+              "/en/Breakout%20Classroom/breakout_class_overview_6.0?platform=Android",
+            title: "Introduction",
           },
           {
-            link: "https://agora-ticket.agora.io/",
-            title: "Submit a ticket",
+            link:
+              "/en/Breakout%20Classroom/breakout_class_platform?platform=Android",
+            title: "Platform Support",
           },
         ],
-        quickStart: {
-          Android: {
-            link: "/en/Breakout%20Classroom/run_edu_android?platform=Android",
-            title: "Run the sample project",
-            desc:
-              "Get started with the eEducation sample project to try online interactive classes.",
+        iOS: [
+          {
+            link:
+              "/en/Breakout%20Classroom/breakout_class_overview_6.0?platform=iOS",
+            title: "Introduction",
           },
-          iOS: {
-            link: "/en/Breakout%20Classroom/run_edu_android?platform=iOS",
-            title: "Run the sample project",
-            desc:
-              "Get started with the eEducation sample project to try online interactive classes.",
+          {
+            link:
+              "/en/Breakout%20Classroom/breakout_class_platform?platform=iOS",
+            title: "Platform Support",
           },
-          Web: {
-            link: "/en/Breakout%20Classroom/run_edu_android?platform=Web",
-            title: "Run the sample project",
-            desc:
-              "Get started with the eEducation sample project to try online interactive classes.",
+        ],
+        Web: [
+          {
+            link:
+              "/en/Breakout%20Classroom/breakout_class_overview_6.0?platform=Web",
+            title: "Introduction",
           },
+          {
+            link:
+              "/en/Breakout%20Classroom/breakout_class_platform?platform=Web",
+            title: "Platform Support",
+          },
+        ],
+        RESTful: [
+          {
+            link:
+              "/en/Breakout%20Classroom/breakout_class_overview_6.0?platform=RESTful",
+            title: "Introduction",
+          },
+        ],
+      },
+      downloads: {
+        Android: [
+          {
+            link:
+              "/en/Breakout%20Classroom/edu_app_download?platform=Android",
+            title: "Try the demo app",
+          },
+          {
+            link: "https://github.com/AgoraIO-Usecase/eEducation",
+            title: "Sample project",
+          },
+        ],
+        iOS: [
+          {
+            link: "/en/Breakout%20Classroom/edu_app_download?platform=iOS",
+            title: "Try the demo app",
+          },
+          {
+            link: "https://github.com/AgoraIO-Usecase/eEducation",
+            title: "Sample project",
+          },
+        ],
+        Web: [
+          {
+            link: "/en/Breakout%20Classroom/edu_app_download?platform=Web",
+            title: "Try the demo app",
+          },
+          {
+            link: "https://github.com/AgoraIO-Usecase/eEducation",
+            title: "Sample project",
+          },
+        ],
+      },
+      contact: [
+        {
+          link:
+            "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
+          title: "Developer community",
         },
-        api: {
-          Android: {
-            link: "/en/Breakout%20Classroom/api-ref?platform=Android",
-            title: "API Reference",
-            desc: "View the API reference for Breakout Class.",
-          },
-          iOS: {
-            link: "/en/Breakout%20Classroom/api-ref?platform=iOS",
-            title: "API Reference",
-            desc: "View the API reference for Breakout Class.",
-          },
-          Web: {
-            link: "/en/Breakout%20Classroom/api-ref?platform=Web",
-            title: "API Reference",
-            desc: "View the API reference for Breakout Class.",
-          },
-          RESTful: {
-            link: "https://agoradoc.github.io/en/edu-cloud-service/restfulapi/",
-            title: "API Reference",
-            desc: "View the details of the Edu Cloud Service RESTful APIs.",
-          },
+        {
+          link: "https://agora-ticket.agora.io/",
+          title: "Submit a ticket",
         },
-        articles: {
-          Android: [
-            {
-              link:
-                "/en/Breakout%20Classroom/breakout_class_student_Android_6.0?platform=Android",
-              title: "Build a client for the student",
-              desc: "The basic process of building a client for the student.",
-            },
-          ],
-          iOS: [
-            {
-              link:
-                "/en/Breakout%20Classroom/breakout_class_student_ios_6.0?platform=iOS",
-              title: "Build a client for the student",
-              desc: "The basic process of building a client for the student.",
-            },
-          ],
-          Web: [
-            {
-              link:
-                "/en/Breakout%20Classroom/breakout_class_student_web_6.0?platform=Web",
-              title: "Build a client for the student",
-              desc: "The basic process of building a client for the student.",
-            },
-            {
-              link:
-                "/en/Breakout%20Classroom/breakout_class_teacher_web_6.0?platform=Web",
-              title: "Build a client for the teacher",
-              desc: "The basic process of building a client for the teacher.",
-            },
-            {
-              link:
-                "/en/Breakout%20Classroom/breakout_class_ta_web_6.0?platform=Web",
-              title: "Build a client for the teaching assistant",
-              desc: "The basic process of building a client for the teaching assistant.",
-            },
-          ],
+      ],
+      quickStart: {
+        Android: {
+          link: "/en/Breakout%20Classroom/run_edu_android?platform=Android",
+          title: "Run the sample project",
+          desc:
+            "Get started with the eEducation sample project to try online interactive classes.",
         },
+        iOS: {
+          link: "/en/Breakout%20Classroom/run_edu_ios?platform=iOS",
+          title: "Run the sample project",
+          desc:
+            "Get started with the eEducation sample project to try online interactive classes.",
+        },
+        Web: {
+          link: "/en/Breakout%20Classroom/run_edu_web?platform=Web",
+          title: "Run the sample project",
+          desc:
+            "Get started with the eEducation sample project to try online interactive classes.",
+        },
+      },
+      api: {
+        Android: {
+          link: "/en/Breakout%20Classroom/api-ref?platform=Android",
+          title: "API Reference",
+          desc: "View the API reference for Breakout Class.",
+        },
+        iOS: {
+          link: "/en/Breakout%20Classroom/api-ref?platform=iOS",
+          title: "API Reference",
+          desc: "View the API reference for Breakout Class.",
+        },
+        Web: {
+          link: "/en/Breakout%20Classroom/api-ref?platform=Web",
+          title: "API Reference",
+          desc: "View the API reference for Breakout Class.",
+        },
+        RESTful: {
+          link: "https://agoradoc.github.io/en/edu-cloud-service/restfulapi/",
+          title: "API Reference",
+          desc: "View the details of the Edu Cloud Service RESTful APIs.",
+        },
+      },
+      articles: {
+        Android: [
+          {
+            link:
+              "/en/Breakout%20Classroom/breakout_class_student_Android_6.0?platform=Android",
+            title: "Build a client for the student",
+            desc: "The basic process of building a client for the student.",
+          },
+        ],
+        iOS: [
+          {
+            link:
+              "/en/Breakout%20Classroom/breakout_class_student_ios_6.0?platform=iOS",
+            title: "Build a client for the student",
+            desc: "The basic process of building a client for the student.",
+          },
+        ],
+        Web: [
+          {
+            link:
+              "/en/Breakout%20Classroom/breakout_class_student_web_6.0?platform=Web",
+            title: "Build a client for the student",
+            desc: "The basic process of building a client for the student.",
+          },
+          {
+            link:
+              "/en/Breakout%20Classroom/breakout_class_teacher_web_6.0?platform=Web",
+            title: "Build a client for the teacher",
+            desc: "The basic process of building a client for the teacher.",
+          },
+          {
+            link:
+              "/en/Breakout%20Classroom/breakout_class_ta_web_6.0?platform=Web",
+            title: "Build a client for the teaching assistant",
+            desc:
+              "The basic process of building a client for the teaching assistant.",
+          },
+        ],
+      },
     },
   },
   "Single Host": {
@@ -7731,7 +7481,8 @@ const landingPageData = {
             title: "场景介绍",
           },
           {
-            link: "/cn/Single%20Host/single_host_app_download?platform=All%20Platforms",
+            link:
+              "/cn/Single%20Host/single_host_app_download?platform=All%20Platforms",
             title: "App 体验",
           },
         ],
@@ -7741,7 +7492,8 @@ const landingPageData = {
             title: "场景介绍",
           },
           {
-            link: "/cn/Single%20Host/single_host_app_download?platform=All%20Platforms",
+            link:
+              "/cn/Single%20Host/single_host_app_download?platform=All%20Platforms",
             title: "App 体验",
           },
         ],
@@ -7754,7 +7506,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
         iOS: [
@@ -7764,7 +7516,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
       },
@@ -7831,7 +7583,8 @@ const landingPageData = {
             title: "Introduction",
           },
           {
-            link: "en/Single%20Host/single_host_app_download?platform=All%20Platforms",
+            link:
+              "/en/Single%20Host/single_host_app_download?platform=All%20Platforms",
             title: "Try the demo app",
           },
         ],
@@ -7841,7 +7594,8 @@ const landingPageData = {
             title: "Introduction",
           },
           {
-            link: "en/Single%20Host/single_host_app_download?platform=All%20Platforms",
+            link:
+              "/en/Single%20Host/single_host_app_download?platform=All%20Platforms",
             title: "Try the demo app",
           },
         ],
@@ -7854,7 +7608,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
@@ -7864,13 +7618,14 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
       },
       contact: [
         {
-          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
+          link:
+            "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer Community",
         },
         {
@@ -7935,7 +7690,8 @@ const landingPageData = {
             title: "场景介绍",
           },
           {
-            link: "cn/Multiple%20Hosts/co_host_app_download?platform=All%20Platforms",
+            link:
+              "/cn/Multiple%20Hosts/co_host_app_download?platform=All%20Platforms",
             title: "App 体验",
           },
         ],
@@ -7945,7 +7701,8 @@ const landingPageData = {
             title: "场景介绍",
           },
           {
-            link: "cn/Multiple%20Hosts/co_host_app_download?platform=All%20Platforms",
+            link:
+              "/cn/Multiple%20Hosts/co_host_app_download?platform=All%20Platforms",
             title: "App 体验",
           },
         ],
@@ -7958,7 +7715,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
         iOS: [
@@ -7968,7 +7725,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
       },
@@ -7984,12 +7741,13 @@ const landingPageData = {
       ],
       quickStart: {
         Android: {
-          link: "/cn/Multiple%20Hosts/run_agora_live_android?platform=Android",
+          link:
+            "/cn/Multiple%20Hosts/run_agora_live_android?platform=Android",
           title: "快速跑通示例项目",
           desc: "快速跑通 Agora Live 开源示例项目，体验多人连麦直播场景。",
         },
         iOS: {
-          link: "/cn/Multiple%20Hosts/run__agora_live_ios?platform=iOS",
+          link: "/cn/Multiple%20Hosts/run_agora_live_ios?platform=iOS",
           title: "快速跑通示例项目",
           desc: "快速跑通 Agora Live 开源示例项目，体验多人连麦直播场景。",
         },
@@ -8017,7 +7775,7 @@ const landingPageData = {
         ],
         iOS: [
           {
-            link: "/cn/Multiple%20Hosts/co_host__ios?platform=iOS",
+            link: "/cn/Multiple%20Hosts/co_host_ios?platform=iOS",
             title: "客户端实现",
             desc:
               "使用 Agora RTC SDK、Agora RTM SDK、第三方美颜 SDK 等产品实现客户端相关功能的基本流程。",
@@ -8035,7 +7793,8 @@ const landingPageData = {
             title: "Introduction",
           },
           {
-            link: "/en/Multiple%20Hosts/co_host_app_download?platform=All%20Platforms",
+            link:
+              "/en/Multiple%20Hosts/co_host_app_download?platform=All%20Platforms",
             title: "Try the demo app",
           },
         ],
@@ -8045,7 +7804,8 @@ const landingPageData = {
             title: "Introduction",
           },
           {
-            link: "/en/Multiple%20Hosts/co_host_app_download?platform=All%20Platforms",
+            link:
+              "/en/Multiple%20Hosts/co_host_app_download?platform=All%20Platforms",
             title: "Try the demo app",
           },
         ],
@@ -8058,7 +7818,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
@@ -8068,13 +7828,14 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
       },
       contact: [
         {
-          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
+          link:
+            "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer Community",
         },
         {
@@ -8084,13 +7845,14 @@ const landingPageData = {
       ],
       quickStart: {
         Android: {
-          link: "/en/Multiple%20Hosts/run_agora_live_android?platform=Android",
+          link:
+            "/en/Multiple%20Hosts/run_agora_live_android?platform=Android",
           title: "Run the sample project",
           desc:
             "Get started with the Agora Live sample project to try the Multiple Hosts scenario.",
         },
         iOS: {
-          link: "/en/Multiple%20Hosts/run_agora_live_android?platform=iOS",
+          link: "/en/Multiple%20Hosts/run_agora_live_ios?platform=iOS",
           title: "Run the sample project",
           desc:
             "Get started with the Agora Live sample project to try the Multiple Hosts scenario.",
@@ -8139,7 +7901,8 @@ const landingPageData = {
             title: "场景介绍",
           },
           {
-            link: "/cn/PK%20Host/pk_host_app_download?platform=All%20Platforms",
+            link:
+              "/cn/PK%20Host/pk_host_app_download?platform=All%20Platforms",
             title: "App 体验",
           },
         ],
@@ -8149,7 +7912,8 @@ const landingPageData = {
             title: "场景介绍",
           },
           {
-            link: "/cn/PK%20Host/pk_host_app_download?platform=All%20Platforms",
+            link:
+              "/cn/PK%20Host/pk_host_app_download?platform=All%20Platforms",
             title: "App 体验",
           },
         ],
@@ -8162,7 +7926,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
         iOS: [
@@ -8172,7 +7936,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
       },
@@ -8193,7 +7957,7 @@ const landingPageData = {
           desc: "快速跑通 Agora Live 开源示例项目，体验视频 PK 连麦场景。",
         },
         iOS: {
-          link: "/cn/PK%20Host/run_agora_live_android?platform=iOS",
+          link: "/cn/PK%20Host/run_agora_live_ios?platform=iOS",
           title: "快速跑通示例项目",
           desc: "快速跑通 Agora Live 开源示例项目，体验视频 PK 连麦场景。",
         },
@@ -8239,7 +8003,8 @@ const landingPageData = {
             title: "Introduction",
           },
           {
-            link: "/en/PK%20Host/pk_host_app_download?platform=All%20Platforms",
+            link:
+              "/en/PK%20Host/pk_host_app_download?platform=All%20Platforms",
             title: "Try the demo app",
           },
         ],
@@ -8249,7 +8014,8 @@ const landingPageData = {
             title: "Introduction",
           },
           {
-            link: "/en/PK%20Host/pk_host_app_download?platform=All%20Platforms",
+            link:
+              "/en/PK%20Host/pk_host_app_download?platform=All%20Platforms",
             title: "Try the demo app",
           },
         ],
@@ -8262,7 +8028,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
@@ -8272,13 +8038,14 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
       },
       contact: [
         {
-          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
+          link:
+            "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer Community",
         },
         {
@@ -8294,7 +8061,7 @@ const landingPageData = {
             "Get started with the Agora Live sample project to try the PK Host scenario.",
         },
         iOS: {
-          link: "/en/PK%20Host/run_agora_live_android?platform=iOS",
+          link: "/en/PK%20Host/run_agora_live_ios?platform=iOS",
           title: "Run the sample project",
           desc:
             "Get started with the Agora Live sample project to try the PK Host scenario.",
@@ -8343,7 +8110,8 @@ const landingPageData = {
             title: "场景介绍",
           },
           {
-            link: "/cn/Virtual%20Host/virtual_host_app_download?platform=All%20Platforms",
+            link:
+              "/cn/Virtual%20Host/virtual_host_app_download?platform=All%20Platforms",
             title: "App 体验",
           },
         ],
@@ -8353,7 +8121,8 @@ const landingPageData = {
             title: "场景介绍",
           },
           {
-            link: "/cn/Virtual%20Host/virtual_host_app_download?platform=All%20Platforms",
+            link:
+              "/cn/Virtual%20Host/virtual_host_app_download?platform=All%20Platforms",
             title: "App 体验",
           },
         ],
@@ -8366,7 +8135,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
         iOS: [
@@ -8376,7 +8145,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
       },
@@ -8397,7 +8166,7 @@ const landingPageData = {
           desc: "快速跑通 Agora Live 开源示例项目，体验虚拟主播场景。",
         },
         iOS: {
-          link: "/cn/Virtual%20Host/run_agora_live_android?platform=iOS",
+          link: "/cn/Virtual%20Host/run_agora_live_ios?platform=iOS",
           title: "快速跑通示例项目",
           desc: "快速跑通 Agora Live 开源示例项目，体验虚拟主播场景。",
         },
@@ -8443,7 +8212,8 @@ const landingPageData = {
             title: "Introduction",
           },
           {
-            link: "/en/Virtual%20Host/virtual_host_app_download?platform=All%20Platforms",
+            link:
+              "/en/Virtual%20Host/virtual_host_app_download?platform=All%20Platforms",
             title: "Try the demo app",
           },
         ],
@@ -8453,7 +8223,8 @@ const landingPageData = {
             title: "Introduction",
           },
           {
-            link: "/en/Virtual%20Host/virtual_host_app_download?platform=All%20Platforms",
+            link:
+              "/en/Virtual%20Host/virtual_host_app_download?platform=All%20Platforms",
             title: "Try the demo app",
           },
         ],
@@ -8466,7 +8237,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
@@ -8476,13 +8247,14 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
       },
       contact: [
         {
-          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
+          link:
+            "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer Community",
         },
         {
@@ -8498,7 +8270,7 @@ const landingPageData = {
             "Get started with the Agora Live sample project to try the Virtual Host scenario.",
         },
         iOS: {
-          link: "/en/Virtual%20Host/run_agora_live_android?platform=iOS",
+          link: "/en/Virtual%20Host/run_agora_live_ios?platform=iOS",
           title: "Run the sample project",
           desc:
             "Get started with the Agora Live sample project to try the Virtual Host scenario.",
@@ -8548,7 +8320,8 @@ const landingPageData = {
             title: "场景介绍",
           },
           {
-            link: "/cn/Live-stream%20Shopping/live_stream_shopping_app_download?platform=All%20Platforms",
+            link:
+              "/cn/Live-stream%20Shopping/live_stream_shopping_app_download?platform=All%20Platforms",
             title: "App 体验",
           },
         ],
@@ -8559,7 +8332,8 @@ const landingPageData = {
             title: "场景介绍",
           },
           {
-            link: "/cn/Live-stream%20Shopping/live_stream_shopping_app_download?platform=All%20Platforms",
+            link:
+              "/cn/Live-stream%20Shopping/live_stream_shopping_app_download?platform=All%20Platforms",
             title: "App 体验",
           },
         ],
@@ -8572,7 +8346,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
         iOS: [
@@ -8582,7 +8356,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "示例项目",
+            title: "GitHub 示例项目",
           },
         ],
       },
@@ -8604,8 +8378,7 @@ const landingPageData = {
           desc: "快速跑通 Agora Live 开源示例项目，体验电商直播场景。",
         },
         iOS: {
-          link:
-            "/cn/Live-stream%20Shopping/run_agora_live_android?platform=iOS",
+          link: "/cn/Live-stream%20Shopping/run_agora_live_ios?platform=iOS",
           title: "快速跑通示例项目",
           desc: "快速跑通 Agora Live 开源示例项目，体验电商直播场景。",
         },
@@ -8654,7 +8427,8 @@ const landingPageData = {
             title: "Introduction",
           },
           {
-            link: "/en/Live-stream%20Shopping/live_stream_shopping_app_download?platform=All%20Platforms",
+            link:
+              "/en/Live-stream%20Shopping/live_stream_shopping_app_download?platform=All%20Platforms",
             title: "Try the demo app",
           },
         ],
@@ -8665,7 +8439,8 @@ const landingPageData = {
             title: "Introduction",
           },
           {
-            link: "/en/Live-stream%20Shopping/live_stream_shopping_app_download?platform=All%20Platforms",
+            link:
+              "/en/Live-stream%20Shopping/live_stream_shopping_app_download?platform=All%20Platforms",
             title: "Try the demo app",
           },
         ],
@@ -8678,7 +8453,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
@@ -8688,13 +8463,14 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
       },
       contact: [
         {
-          link: "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
+          link:
+            "https://join.slack.com/t/agoraiodev/shared_invite/zt-e7ln476c-pfWWYMs40Y7GMPz2i26pwA",
           title: "Developer Community",
         },
         {
@@ -8711,8 +8487,7 @@ const landingPageData = {
             "Get started with the Agora Live sample project to try the Live-stream Shopping scenario.",
         },
         iOS: {
-          link:
-            "/en/Live-stream%20Shopping/run_agora_live_android?platform=iOS",
+          link: "/en/Live-stream%20Shopping/run_agora_live_ios?platform=iOS",
           title: "Run the sample project",
           desc:
             "Get started with the Agora Live sample project to try the Live-stream Shopping scenario.",
@@ -8722,12 +8497,14 @@ const landingPageData = {
         Android: {
           link: "/en/Live-stream%20Shopping/api-ref?platform=Android",
           title: "API Reference",
-          desc: "View the API reference for the Live-stream Shopping scenario.",
+          desc:
+            "View the API reference for the Live-stream Shopping scenario.",
         },
         iOS: {
           link: "/en/Live-stream%20Shopping/api-ref?platform=iOS",
           title: "API Reference",
-          desc: "View the API reference for the Live-stream Shopping scenario.",
+          desc:
+            "View the API reference for the Live-stream Shopping scenario.",
         },
       },
       articles: {
