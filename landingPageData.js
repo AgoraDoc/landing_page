@@ -5211,11 +5211,6 @@ const landingPageData = {
             desc: "了解 Agora 产品相关的重要概念。",
           },
           {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
-          },
-          {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
@@ -5233,11 +5228,6 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
             desc: "了解 Agora 产品相关的重要概念。",
-          },
-          {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -5259,11 +5249,6 @@ const landingPageData = {
             desc: "了解 Agora 产品相关的重要概念。",
           },
           {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
-          },
-          {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
@@ -5281,11 +5266,6 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
             desc: "了解 Agora 产品相关的重要概念。",
-          },
-          {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -5307,11 +5287,6 @@ const landingPageData = {
             desc: "了解 Agora 产品相关的重要概念。",
           },
           {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
-          },
-          {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
@@ -5329,11 +5304,6 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
             desc: "了解 Agora 产品相关的重要概念。",
-          },
-          {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -5355,11 +5325,6 @@ const landingPageData = {
             desc: "了解 Agora 产品相关的重要概念。",
           },
           {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
-          },
-          {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
@@ -5377,11 +5342,6 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
             desc: "了解 Agora 产品相关的重要概念。",
-          },
-          {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -5403,11 +5363,6 @@ const landingPageData = {
             desc: "了解 Agora 产品相关的重要概念。",
           },
           {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
-          },
-          {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
@@ -5425,11 +5380,6 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
             desc: "了解 Agora 产品相关的重要概念。",
-          },
-          {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -5451,11 +5401,6 @@ const landingPageData = {
             desc: "了解 Agora 产品相关的重要概念。",
           },
           {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
-          },
-          {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
@@ -5475,11 +5420,6 @@ const landingPageData = {
             desc: "了解 Agora 产品相关的重要概念。",
           },
           {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
-          },
-          {
             link: "/cn/Agora%20Platform/firewall",
             title: "应用企业防火墙限制",
             desc:
@@ -5497,11 +5437,6 @@ const landingPageData = {
             link: "/cn/Agora%20Platform/terms",
             title: "术语库",
             desc: "了解 Agora 产品相关的重要概念。",
-          },
-          {
-            link: "/cn/Agora%20Platform/token",
-            title: "校验用户权限",
-            desc: "对使用 Agora 服务的用户鉴权，保证通信安全。",
           },
           {
             link: "/cn/Agora%20Platform/firewall",
@@ -5529,12 +5464,6 @@ const landingPageData = {
             desc: "Learn about key concepts related to Agora products.",
           },
           {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
-          },
-          {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
             desc:
@@ -5552,12 +5481,6 @@ const landingPageData = {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
             desc: "Learn about key concepts related to Agora products.",
-          },
-          {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
@@ -5579,12 +5502,6 @@ const landingPageData = {
             desc: "Learn about key concepts related to Agora products.",
           },
           {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
-          },
-          {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
             desc:
@@ -5602,12 +5519,6 @@ const landingPageData = {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
             desc: "Learn about key concepts related to Agora products.",
-          },
-          {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
@@ -5629,12 +5540,6 @@ const landingPageData = {
             desc: "Learn about key concepts related to Agora products.",
           },
           {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
-          },
-          {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
             desc:
@@ -5652,12 +5557,6 @@ const landingPageData = {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
             desc: "Learn about key concepts related to Agora products.",
-          },
-          {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
@@ -5679,12 +5578,6 @@ const landingPageData = {
             desc: "Learn about key concepts related to Agora products.",
           },
           {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
-          },
-          {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
             desc:
@@ -5702,12 +5595,6 @@ const landingPageData = {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
             desc: "Learn about key concepts related to Agora products.",
-          },
-          {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
@@ -5729,12 +5616,6 @@ const landingPageData = {
             desc: "Learn about key concepts related to Agora products.",
           },
           {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
-          },
-          {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
             desc:
@@ -5752,12 +5633,6 @@ const landingPageData = {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
             desc: "Learn about key concepts related to Agora products.",
-          },
-          {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
@@ -5779,12 +5654,6 @@ const landingPageData = {
             desc: "Learn about key concepts related to Agora products.",
           },
           {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
-          },
-          {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
             desc:
@@ -5804,12 +5673,6 @@ const landingPageData = {
             desc: "Learn about key concepts related to Agora products.",
           },
           {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
-          },
-          {
             link: "/en/Agora%20Platform/firewall",
             title: "Firewall Requirements",
             desc:
@@ -5827,12 +5690,6 @@ const landingPageData = {
             link: "/en/Agora%20Platform/terms",
             title: "Glossary",
             desc: "Learn about key concepts related to Agora products.",
-          },
-          {
-            link: "/en/Agora%20Platform/token",
-            title: "Set up Authentication",
-            desc:
-              "Authenticate users when they access Agora's services for improved security.",
           },
           {
             link: "/en/Agora%20Platform/firewall",
