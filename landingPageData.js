@@ -233,12 +233,6 @@ const landingPageData = {
             title: "SDK",
           },
         ],
-        "Cocos Creator": [
-          {
-            link: "/cn/Voice/downloads?platform=Cocos%20Creator",
-            title: "SDK",
-          },
-        ],
       },
       contact: [
         {
@@ -254,92 +248,92 @@ const landingPageData = {
         Android: {
           link: "/cn/Voice/start_call_audio_android?platform=Android",
           title: "快速开始",
-          desc: "快速集成 Agora RTC SDK，实现语音通话功能。",
+          desc: "快速集成 Agora 音频 SDK，实现语音通话功能。",
         },
         iOS: {
           link: "/cn/Voice/start_call_audio_ios?platform=iOS",
           title: "快速开始",
-          desc: "快速集成 Agora RTC SDK，实现语音通话功能。",
+          desc: "快速集成 Agora 音频 SDK，实现语音通话功能。",
         },
         macOS: {
           link: "/cn/Voice/start_call_audio_mac?platform=macOS",
           title: "快速开始",
-          desc: "快速集成 Agora RTC SDK，实现语音通话功能。",
+          desc: "快速集成 Agora 音频 SDK，实现语音通话功能。",
         },
         Web: {
           link: "/cn/Voice/start_call_audio_web?platform=Web",
           title: "快速开始",
-          desc: "快速集成 Agora RTC SDK，实现语音通话功能。",
+          desc: "快速集成 Agora 音频 SDK，实现语音通话功能。",
         },
         微信小程序: {
           link: "/cn/Voice/start_call_audio_wechat?platform=微信小程序",
           title: "快速开始",
-          desc: "快速集成 Agora RTC SDK，实现语音通话功能。",
+          desc: "快速集成 Agora 音频 SDK，实现语音通话功能。",
         },
         Windows: {
           link: "/cn/Voice/start_call_audio_windows?platform=Windows",
           title: "快速开始",
-          desc: "快速集成 Agora RTC SDK，实现语音通话功能。",
+          desc: "快速集成 Agora 音频 SDK，实现语音通话功能。",
         },
         Electron: {
           link: "/cn/Voice/start_call_audio_electron?platform=Electron",
           title: "快速开始",
-          desc: "快速集成 Agora RTC SDK，实现语音通话功能。",
+          desc: "快速集成 Agora 音频 SDK，实现语音通话功能。",
         },
         Unity: {
           link: "/cn/Voice/start_call_audio_unity?platform=Unity",
           title: "快速开始",
-          desc: "快速集成 Agora RTC SDK，实现语音通话功能。",
+          desc: "快速集成 Agora 音频 SDK，实现语音通话功能。",
         },
         Flutter: {
           link: "/cn/Voice/start_call_audio_flutter?platform=Flutter",
           title: "快速开始",
-          desc: "快速集成 Agora RTC SDK，实现语音通话功能。",
+          desc: "快速集成 Agora 音频 SDK，实现语音通话功能。",
         },
         "React Native": {
           link: "/cn/Voice/start_call_audio_react_native?platform=React Native",
           title: "快速开始",
-          desc: "快速集成 Agora RTC SDK，实现语音通话功能。",
+          desc: "快速集成 Agora 音频 SDK，实现语音通话功能。",
         },
         "Cocos Creator": {
           link:
             "/cn/Voice/start_call_audio_cocos_creator?platform=Cocos%20Creator",
           title: "快速开始",
-          desc: "快速集成 Agora RTC SDK，实现语音通话功能。",
+          desc: "快速集成 Agora 音频 SDK，实现语音通话功能。",
         },
       },
       api: {
         Android: {
           link: "/cn/Voice/API%20Reference/java/index.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 音频 SDK 的 API 参考。",
         },
         iOS: {
           link:
             "/cn/Voice/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 音频 SDK 的 API 参考。",
         },
         macOS: {
           link:
             "/cn/Voice/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 音频 SDK 的 API 参考。",
         },
         Web: {
           link: "/cn/Voice/API%20Reference/web/index.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 音频 SDK 的 API 参考。",
         },
         微信小程序: {
           link: "/cn/Voice/API%20Reference/wechat/index.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 音频 SDK 的 API 参考。",
         },
         Windows: {
           link: "/cn/Voice/API%20Reference/cpp/index.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 音频 SDK 的 API 参考。",
         },
         RESTful: {
           link: "/cn/rtc/restfulapi/",
@@ -349,27 +343,27 @@ const landingPageData = {
         Electron: {
           link: "/cn/Voice/API%20Reference/electron/index.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 音频 SDK 的 API 参考。",
         },
         Unity: {
           link: "/cn/Voice/API%20Reference/unity/index.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 音频 SDK 的 API 参考。",
         },
         Flutter: {
           link: "/cn/Voice/API%20Reference/flutter/index.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 音频 SDK 的 API 参考。",
         },
         "React Native": {
           link: "/cn/Voice/API%20Reference/react_native/index.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 音频 SDK 的 API 参考。",
         },
         "Cocos Creator": {
           link: "/cn/Voice/API%20Reference/cocos_creator_voice/index.html",
           title: "API 文档",
-          desc: "查看 Agora RTC SDK 的 API 参考。",
+          desc: "查看 Agora 音频 SDK 的 API 参考。",
         },
       },
       articles: {
@@ -708,12 +702,6 @@ const landingPageData = {
             title: "SDK",
           },
         ],
-        "Cocos Creator": [
-          {
-            link: "/en/Voice/downloads?platform=Cocos Creator",
-            title: "SDK",
-          },
-        ],
       },
       contact: [
         {
@@ -730,62 +718,62 @@ const landingPageData = {
           link: "/en/Voice/start_call_audio_android?platform=Android",
           title: "Quick Start",
           desc:
-            "Implement a simple voice call using the Agora RTC SDK.",
+            "Implement a simple voice call using the Agora Voice SDK.",
         },
         iOS: {
           link: "/en/Voice/start_call_audio_ios?platform=iOS",
           title: "Quick Start",
           desc:
-            "Implement a simple voice call using the Agora RTC SDK.",
+            "Implement a simple voice call using the Agora Voice SDK.",
         },
         macOS: {
           link: "/en/Voice/start_call_audio_mac?platform=macOS",
           title: "Quick Start",
           desc:
-            "Implement a simple voice call using the Agora RTC SDK.",
+            "Implement a simple voice call using the Agora Voice SDK.",
         },
         Web: {
           link: "/en/Voice/start_call_audio_web?platform=Web",
           title: "Quick Start",
           desc:
-            "Implement a simple voice call using the Agora RTC SDK.",
+            "Implement a simple voice call using the Agora Voice SDK.",
         },
         Windows: {
           link: "/en/Voice/start_call_audio_windows?platform=Windows",
           title: "Quick Start",
           desc:
-            "Implement a simple voice call using the Agora RTC SDK.",
+            "Implement a simple voice call using the Agora Voice SDK.",
         },
         Electron: {
           link: "/en/Voice/start_call_audio_electron?platform=Electron",
           title: "Quick Start",
           desc:
-            "Implement a simple voice call using the Agora RTC SDK.",
+            "Implement a simple voice call using the Agora Voice SDK.",
         },
         Unity: {
           link: "/en/Voice/start_call_audio_unity?platform=Unity",
           title: "Quick Start",
           desc:
-            "Implement a simple voice call using the Agora RTC SDK.",
+            "Implement a simple voice call using the Agora Voice SDK.",
         },
         Flutter: {
           link: "/en/Voice/start_call_audio_flutter?platform=Flutter",
           title: "Quick Start",
           desc:
-            "Implement a simple voice call using the Agora RTC SDK.",
+            "Implement a simple voice call using the Agora Voice SDK.",
         },
         "React Native": {
           link: "/en/Voice/start_call_audio_react_native?platform=React Native",
           title: "Quick Start",
           desc:
-            "Implement a simple voice call using the Agora RTC SDK.",
+            "Implement a simple voice call using the Agora Voice SDK.",
         },
         "Cocos Creator": {
           link:
             "/en/Voice/start_call_audio_cocos_creator?platform=Cocos%20Creator",
           title: "Quick Start",
           desc:
-            "Implement a simple voice call using the Agora RTC SDK.",
+            "Implement a simple voice call using the Agora Voice SDK.",
         },
       },
       api: {
@@ -793,33 +781,33 @@ const landingPageData = {
           link: "/en/Voice/API%20Reference/java/index.html",
           title: "API Reference",
           desc:
-            "View the API reference of the Agora RTC SDK.",
+            "View the API reference of the Agora Voice SDK.",
         },
         iOS: {
           link:
             "/en/Voice/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
           title: "API Reference",
           desc:
-            "View the API reference of the Agora RTC SDK.",
+            "View the API reference of the Agora Voice SDK.",
         },
         macOS: {
           link:
             "/en/Voice/API%20Reference/oc/docs/headers/Agora-Objective-C-API-Overview.html",
           title: "API Reference",
           desc:
-            "View the API reference of the Agora RTC SDK.",
+            "View the API reference of the Agora Voice SDK.",
         },
         Web: {
           link: "en/Voice/API%20Reference/web/index.html",
           title: "API Reference",
           desc:
-            "View the API reference of the Agora RTC SDK.",
+            "View the API reference of the Agora Voice SDK.",
         },
         Windows: {
           link: "en/Voice/API%20Reference/cpp/index.html",
           title: "API Reference",
           desc:
-            "View the API reference of the Agora RTC SDK.",
+            "View the API reference of the Agora Voice SDK.",
         },
         RESTful: {
           link: "/en/rtc/restfulapi/",
@@ -831,31 +819,31 @@ const landingPageData = {
           link: "/en/Voice/API%20Reference/electron/index.html",
           title: "API Reference",
           desc:
-            "View the API reference of the Agora RTC SDK.",
+            "View the API reference of the Agora Voice SDK.",
         },
         Unity: {
-          link: "/en/Voice/API%20Reference/electron/index.html",
+          link: "/en/Voice/API%20Reference/unity/index.html",
           title: "API Reference",
           desc:
-            "View the API reference of the Agora RTC SDK.",
+            "View the API reference of the Agora Voice SDK.",
         },
         Flutter: {
           link: "/en/Voice/API%20Reference/flutter/index.html",
           title: "API Reference",
           desc:
-            "View the API reference of the Agora RTC SDK.",
+            "View the API reference of the Agora Voice SDK.",
         },
         "React Native": {
           link: "/en/Voice/API%20Reference/react_native/index.html",
           title: "API Reference",
           desc:
-            "View the API reference of the Agora RTC SDK.",
+            "View the API reference of the Agora Voice SDK.",
         },
         "Cocos Creator": {
           link: "/en/Voice/API%20Reference/cocos_creator_voice/index.html",
           title: "API Reference",
           desc:
-            "View the API reference of the Agora RTC SDK.",
+            "View the API reference of the Agora Voice SDK.",
         },
       },
       articles: {
