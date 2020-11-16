@@ -3168,7 +3168,7 @@ const landingPageData = {
       articles: {
         RESTful: [
           {
-            link: "/cn/Interactive%20Broadcast/token_server",
+            link: "/cn/cloud-recording/token_server",
             title: "生成 Token",
             desc: "使用 Agora 提供的代码在服务端生成 Token。",
           },
@@ -3238,7 +3238,7 @@ const landingPageData = {
       },
       api: {
         RESTful: {
-          link: "/cn/cloud-recording/restfulapi",
+          link: "/en/cloud-recording/restfulapi",
           title: "API Reference",
           desc: "View the details of the Cloud Recording RESTful APIs.",
         },
@@ -3246,7 +3246,7 @@ const landingPageData = {
       articles: {
         RESTful: [
           {
-            link: "/en/Interactive%20Broadcast/token_server",
+            link: "/en/cloud-recording/token_server",
             title: "Generate a Token",
             desc:
               "Generate a token on your server using the code provided by Agora.",
@@ -3419,7 +3419,7 @@ const landingPageData = {
             link: "/en/Recording/recording_composite_mode?platform=Linux",
             title: "Composite Recording",
             desc:
-              "Generate a single mixed audio and video file for all UIDs in a channel, or mixes the audio of all UIDs into an audio file and the video of all UIDs into a video file.",
+              "Generate a single file for all UIDs in a channel, or mixes the audio of all UIDs into an audio file and the video of all UIDs into a video file.",
           },
         ],
       },
