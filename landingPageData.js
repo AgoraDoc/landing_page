@@ -649,7 +649,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/Basic-Audio-Call",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
@@ -659,7 +659,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/Basic-Audio-Call",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         macOS: [
@@ -693,7 +693,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/Agora-Unity-Quickstart",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Flutter: [
@@ -1637,7 +1637,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
@@ -1647,7 +1647,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         macOS: [
@@ -1657,7 +1657,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Web: [
@@ -1667,7 +1667,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Windows: [
@@ -1677,7 +1677,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Call",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Electron: [
@@ -1688,7 +1688,7 @@ const landingPageData = {
           {
             link:
               "https://github.com/AgoraIO-Community/Agora-Electron-Quickstart",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Unity: [
@@ -1698,7 +1698,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/Agora-Unity-Quickstart",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Flutter: [
@@ -1709,7 +1709,7 @@ const landingPageData = {
           {
             link:
               "https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         "React Native": [
@@ -1719,7 +1719,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Community/Agora-RN-Quickstart",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
       },
@@ -2662,7 +2662,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
@@ -2672,7 +2672,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         macOS: [
@@ -2682,7 +2682,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Web: [
@@ -2692,7 +2692,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Windows: [
@@ -2702,7 +2702,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/Basic-Video-Broadcasting",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Electron: [
@@ -2713,7 +2713,7 @@ const landingPageData = {
           {
             link:
               "https://github.com/AgoraIO-Community/Agora-Electron-Quickstart",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Unity: [
@@ -2723,7 +2723,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/Agora-Unity-Quickstart",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         Flutter: [
@@ -2734,7 +2734,7 @@ const landingPageData = {
           {
             link:
               "https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
         "React Native": [
@@ -2744,7 +2744,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Community/Agora-RN-Quickstart",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
       },
@@ -3372,7 +3372,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/Basic-Recording",
-            title: "Code Samples",
+            title: "GitHub sample project",
           },
         ],
       },
@@ -4047,7 +4047,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "Code samples",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
@@ -4057,7 +4057,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "Code samples",
+            title: "GitHub sample project",
           },
         ],
         macOS: [
@@ -4067,7 +4067,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "Code samples",
+            title: "GitHub sample project",
           },
         ],
         Web: [
@@ -4077,7 +4077,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "Code samples",
+            title: "GitHub sample project",
           },
         ],
         Windows: [
@@ -4087,7 +4087,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "Code samples",
+            title: "GitHub sample project",
           },
         ],
         Linux: [
@@ -4097,7 +4097,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO/RTM",
-            title: "Code samples",
+            title: "GitHub sample project",
           },
         ],
         RESTful: [
@@ -6405,7 +6405,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
@@ -6415,7 +6415,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
         Web: [
@@ -6425,7 +6425,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
       },
@@ -6697,7 +6697,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
@@ -6707,7 +6707,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
         Web: [
@@ -6717,7 +6717,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
       },
@@ -6986,7 +6986,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
@@ -6996,7 +6996,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
         Web: [
@@ -7006,7 +7006,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/eEducation",
-            title: "Sample project",
+            title: "GitHub sample project",
           },
         ],
       },
@@ -7366,7 +7366,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample Project",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
@@ -7376,7 +7376,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample Project",
+            title: "GitHub sample project",
           },
         ],
       },
@@ -7554,7 +7554,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample Project",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
@@ -7564,7 +7564,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample Project",
+            title: "GitHub sample project",
           },
         ],
       },
@@ -7742,7 +7742,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample Project",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
@@ -7752,7 +7752,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample Project",
+            title: "GitHub sample project",
           },
         ],
       },
@@ -7930,7 +7930,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample Project",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
@@ -7940,7 +7940,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample Project",
+            title: "GitHub sample project",
           },
         ],
       },
@@ -8126,7 +8126,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample Project",
+            title: "GitHub sample project",
           },
         ],
         iOS: [
@@ -8136,7 +8136,7 @@ const landingPageData = {
           },
           {
             link: "https://github.com/AgoraIO-Usecase/AgoraLive",
-            title: "Sample Project",
+            title: "GitHub sample project",
           },
         ],
       },
