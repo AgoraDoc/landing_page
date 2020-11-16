@@ -962,7 +962,7 @@ const landingPageData = {
             link: "/en/Voice/custom_audio_unity?platform=Unity",
             title: "Custom Audio Source and Renderer",
             desc:
-              "Use custom audio source to capture the audio data and use custom audio renderer to render the audio data.",
+              "Use custom audio source to capture audio data and use custom audio renderer to render audio data.",
           },
         ],
       },
